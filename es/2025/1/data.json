@@ -1,0 +1,7 @@
+{
+  "president": {
+    "name": "Sample President",
+    "salary": 123456
+  },
+  "congress": [{ "name": "Member A", "salary": 78900 }]
+}
