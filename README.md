@@ -58,11 +58,26 @@ We welcome your help! To contribute:
 {
   "president": {
     "name": "Name",
-    "salary": 123456
+    "salary": {
+      "gross": 1234,
+      "net": 1000
+    }
   },
   "congress": [
-    { "name": "Member 1", "salary": 98765 },
-    { "name": "Member 2", "salary": 87654 }
+    {
+      "name": "Member 1",
+      "salary": {
+        "gross": 1234,
+        "net": 1000
+      }
+    },
+    {
+      "name": "Member 2",
+      "salary": {
+        "gross": 1234,
+        "net": 1000
+      }
+    }
   ]
 }
 ```

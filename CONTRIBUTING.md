@@ -30,13 +30,36 @@ Each `data.json` should follow this structure:
 {
   "president": {
     "name": "Full Name",
-    "salary": 123456
+    "salary": {
+      "gross": 1234,
+      "net": 1000
+    }
   },
   "congress": [
-    { "name": "Member 1", "salary": 98765 },
-    { "name": "Member 2", "salary": 87654 }
+    {
+      "name": "Member 1",
+      "salary": {
+        "gross": 1234,
+        "net": 1000
+      }
+    },
+    {
+      "name": "Member 2",
+      "salary": {
+        "gross": 1234,
+        "net": 1000
+      }
+    }
   ],
-  "senators": [{ "name": "Senator 1", "salary": 112233 }]
+  "senators": [
+    {
+      "name": "Senator 1",
+      "salary": {
+        "gross": 1234,
+        "net": 1000
+      }
+    }
+  ]
 }
 ```
 

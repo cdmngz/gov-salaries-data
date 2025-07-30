@@ -1,7 +1,18 @@
 {
   "president": {
     "name": "Sample President",
-    "salary": 123456
+    "salary": {
+      "gross": 1234,
+      "net": 1000
+    }
   },
-  "congress": [{ "name": "Member A", "salary": 78900 }]
+  "congress": [
+    {
+      "name": "Member A",
+      "salary": {
+        "gross": 1234,
+        "net": 1000
+      }
+    }
+  ]
 }
