@@ -6,6 +6,22 @@ This project provides structured JSON files listing salaries by country, year, a
 
 ---
 
+## 🔗 Public API (GitHub Pages)
+
+All JSON data is publicly available at:
+
+**https://cdmngz.github.io/gov-salaries-data/**
+
+Example URLs:
+
+- https://cdmngz.github.io/gov-salaries-data/es/2025/1/data.json
+- https://cdmngz.github.io/gov-salaries-data/es/index.json
+- https://cdmngz.github.io/gov-salaries-data/index.json
+
+You can use these URLs directly in your frontend, scripts, or external tools.
+
+---
+
 ## 📂 Data Structure
 
 Each data file lives under the following path format:
