@@ -1,4 +1,10 @@
 {
+  "baseCurrency": "EUR",
+  "rates": {
+    "USD": 1.08,
+    "ARS": 1493.04,
+    "BTC": 0.000015
+  },
   "president": {
     "name": "Sample President",
     "salary": {
