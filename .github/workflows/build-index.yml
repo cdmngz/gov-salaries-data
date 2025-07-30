@@ -18,8 +18,7 @@ jobs:
           node-version: "18"
 
       - name: Run index generation script
-        run: |
-          node scripts/generate-indexes.js
+        run: node scripts/generate-indexes.js
 
       - name: Commit and push changes
         env:
