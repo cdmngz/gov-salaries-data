@@ -32,7 +32,10 @@ function generateIndexes() {
         .filter((sem) => dataFileExists(path.join(yearPath, sem, "data.json")));
 
       semesters.forEach((semester) => {
-        periods.push({ year, semester });
+        periods.push({
+          year: Number(year),
+          semester: Number(semester),
+        });
       });
     });
 
