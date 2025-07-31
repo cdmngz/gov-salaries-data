@@ -1,49 +1,266 @@
 {
-  "baseCurrency": "USD",
+  "baseCurrency": "EUR",
   "Royalty": [
     {
-      "name": "Arthur Pendragon",
+      "name": "Felipe VI",
       "gender": "M",
-      "party": "Royal",
+      "party": "Monarquía",
       "salary": {
-        "gross": 250000,
-        "net": 200000,
-        "bonus": { "coronation": 50000 }
+        "gross": 277361,
+        "net": 175000
+      }
+    },
+    {
+      "name": "Letizia Ortiz",
+      "gender": "F",
+      "party": "Monarquía",
+      "salary": {
+        "gross": 152539,
+        "net": 97000
       }
     }
   ],
   "president": [
     {
-      "name": "Alice Johnson",
-      "gender": "F",
-      "party": "Unity",
+      "name": "Pedro Sánchez",
+      "gender": "M",
+      "party": "PSOE",
       "salary": {
-        "gross": 180000,
-        "net": 140000
+        "gross": 103902,
+        "net": 62000
       }
     }
   ],
   "vicePresident": [
     {
-      "name": "Victor Ramos",
-      "gender": "M",
-      "party": "Unity",
+      "name": "María Jesús Montero",
+      "gender": "F",
+      "party": "PSOE",
       "salary": {
-        "gross": 160000,
-        "net": 125000
+        "gross": 77992,
+        "net": 49000
       }
     }
   ],
   "ministers": [
     {
-      "name": "Ariel Smith",
-      "gender": "X",
+      "name": "María Jesús Montero Cuadrado",
+      "gender": "F",
       "role": "Minister of Finance",
-      "party": "Green",
+      "party": "PSOE",
       "salary": {
-        "gross": 150000,
-        "net": 120000,
-        "bonus": { "performance": 10000 }
+        "gross": 84601,
+        "net": 46530
+      }
+    },
+    {
+      "name": "Yolanda Díaz Pérez",
+      "gender": "F",
+      "role": "Minister of Labour and Social Economy",
+      "party": "Sumar",
+      "salary": {
+        "gross": 84601,
+        "net": 46530
+      }
+    },
+    {
+      "name": "Sara Aagesen Muñoz",
+      "gender": "F",
+      "role": "Minister for the Ecological Transition and the Demographic Challenge",
+      "party": "Independent",
+      "salary": {
+        "gross": 84601,
+        "net": 46530
+      }
+    },
+    {
+      "name": "José Manuel Albares Bueno",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs, European Union and Cooperation",
+      "party": "PSOE",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Félix Bolaños García",
+      "gender": "M",
+      "role": "Minister of the Presidency, Justice and Relations with the Cortes",
+      "party": "PSOE",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Margarita Robles Fernández",
+      "gender": "F",
+      "role": "Minister of Defence",
+      "party": "PSOE",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Fernando Grande-Marlaska Gómez",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "PSOE",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Óscar Puente Santiago",
+      "gender": "M",
+      "role": "Minister of Transport and Sustainable Mobility",
+      "party": "PSOE",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Pilar Alegría Continente",
+      "gender": "F",
+      "role": "Minister of Education, Vocational Training and Sports",
+      "party": "PSOE",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Jordi Hereu Boher",
+      "gender": "M",
+      "role": "Minister of Industry and Tourism",
+      "party": "PSOE (PSC)",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Luis Planas Puchades",
+      "gender": "M",
+      "role": "Minister of Agriculture, Fisheries and Food",
+      "party": "PSOE",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Ángel Víctor Torres Pérez",
+      "gender": "M",
+      "role": "Minister of Territorial Policy and Democratic Memory",
+      "party": "PSOE",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Isabel Rodríguez García",
+      "gender": "F",
+      "role": "Minister of Housing and Urban Agenda",
+      "party": "PSOE",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Ernest Urtasun Domènech",
+      "gender": "M",
+      "role": "Minister of Culture",
+      "party": "Sumar",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Carlos Cuerpo Caballero",
+      "gender": "M",
+      "role": "Minister of Economy, Trade and Enterprise",
+      "party": "PSOE",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Mónica García Gómez",
+      "gender": "F",
+      "role": "Minister of Health",
+      "party": "Sumar",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Pablo Bustinduy Amador",
+      "gender": "M",
+      "role": "Minister of Social Rights, Consumer Affairs and 2030 Agenda",
+      "party": "Sumar",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Diana Morant Ripoll",
+      "gender": "F",
+      "role": "Minister of Science, Innovation and Universities",
+      "party": "PSOE",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Ana Redondo García",
+      "gender": "F",
+      "role": "Minister of Equality",
+      "party": "PSOE",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Elma Saiz Delgado",
+      "gender": "F",
+      "role": "Minister of Inclusion, Social Security and Migration",
+      "party": "PSOE",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Óscar López Águeda",
+      "gender": "M",
+      "role": "Minister for the Digital Transformation and of the Civil Service",
+      "party": "PSOE",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
+      }
+    },
+    {
+      "name": "Sira Rego",
+      "gender": "F",
+      "role": "Minister of Youth and Children",
+      "party": "Sumar",
+      "salary": {
+        "gross": 79415,
+        "net": 43678
       }
     }
   ],
@@ -72,20 +289,34 @@
   ],
   "officials": [
     {
-      "name": "Eve Thompson",
-      "gender": "F",
-      "role": "Chief of Staff",
-      "party": "Independent",
+      "name": "Patxi López",
+      "gender": "M",
+      "role": "Spokesperson of the Socialist Parliamentary Group in the Congress of Deputies",
+      "party": "PSOE",
       "salary": {
-        "gross": 125000,
-        "net": 100000
+        "gross": 74413,
+        "net": 50000
       }
     }
   ],
   "parties": {
-    "Unity": { "name": "Unity Party", "color": "#3366cc" },
-    "Green": { "name": "Green Alliance", "color": "#00cc66" },
-    "Royal": { "name": "Royalists", "color": "#ccaa00" },
-    "Independent": { "name": "Independent", "color": "#999999" }
+    "PSOE": {
+      "name": "Partido Socialista Obrero Español",
+      "en": "Spanish Socialist Workers' Party",
+      "range": 2,
+      "color": "#EE1C27"
+    },
+    "SUMAR": {
+      "name": "Sumar",
+      "en": "Unite",
+      "range": 2,
+      "color": "#EF4B91"
+    },
+    "Independent": {
+      "name": "Independiente",
+      "en": "Independent",
+      "range": 3,
+      "color": "#AAA"
+    }
   }
 }
