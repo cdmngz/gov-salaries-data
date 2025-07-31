@@ -12,29 +12,39 @@ All JSON data is publicly available at:
 
 **https://cdmngz.github.io/gov-salaries-data/**
 
-Example URLs:
+### Example URLs:
 
-- https://cdmngz.github.io/gov-salaries-data/es/2025/1/data.json
-- https://cdmngz.github.io/gov-salaries-data/es/index.json
-- https://cdmngz.github.io/gov-salaries-data/index.json
-
-You can use these URLs directly in your frontend, scripts, or external tools.
+- [`/es/2025/2/data.json`](https://cdmngz.github.io/gov-salaries-data/es/2025/2/data.json) – officials, parties, base currency, etc.
+- [`/es/2025/2/rates.json`](https://cdmngz.github.io/gov-salaries-data/es/2025/2/rates.json) – exchange rates for currency conversion
+- [`/es/index.json`](https://cdmngz.github.io/gov-salaries-data/es/index.json) – available semesters per country
+- [`/index.json`](https://cdmngz.github.io/gov-salaries-data/index.json) – all available countries
 
 ---
 
 ## 📂 Data Structure
 
-Each data file lives under the following path format:
+Each dataset is organized by:
 
-`/<country>/<year>/<semester>/data.json`
+`/<country>/<year>/<semester>/{data.json,rates.json}`
 
-**Example:**
+### Example:
 
-`/es/2025/1/data.json`
+`/es/2025/1/data.json
+/es/2025/1/rates.json`
 
-You can access the raw data via GitHub Pages:
+- `data.json` contains official records, metadata, and the `baseCurrency` field.
+- `rates.json` contains conversion rates **relative to that baseCurrency**, including both fiat and selected cryptocurrencies.
 
-https://cdmngz.github.io/gov-salaries-data/ar/2025/1/data.json
+---
+
+## 💱 Currency & Rates
+
+- Every `data.json` includes a `baseCurrency` (e.g. `"USD"`)
+- Each `rates.json` provides conversion rates for:
+  - Major world currencies (EUR, GBP, JPY, etc.)
+  - Cryptocurrencies (BTC, ETH)
+- Currencies are expressed as:  
+  `1 baseCurrency = X targetCurrency`
 
 ---
 
@@ -50,41 +60,20 @@ https://cdmngz.github.io/gov-salaries-data/ar/2025/1/data.json
 
 We welcome your help! To contribute:
 
-1. Fork the repo
-2. Add or update `data.json` in the correct folder
-3. Make sure it's valid JSON with this format:
+1. **Fork the repo**
+2. **Add or update a `data.json` file** in the correct folder (`/<country>/<year>/<semester>/data.json`)
+3. **Follow the expected JSON format** — see the template below
+4. **Submit a Pull Request**
 
-```json
-{
-  "president": {
-    "name": "Name",
-    "salary": {
-      "gross": 1234,
-      "net": 1000
-    }
-  },
-  "congress": [
-    {
-      "name": "Member 1",
-      "salary": {
-        "gross": 1234,
-        "net": 1000
-      }
-    },
-    {
-      "name": "Member 2",
-      "salary": {
-        "gross": 1234,
-        "net": 1000
-      }
-    }
-  ]
-}
-```
+✅ `index.json` files (used to track available periods) are auto-generated on each push.
 
-4. Submit a Pull Request
+---
 
-✅ The index.json files (used to track available periods) are auto-generated on each push.
+## 🧾 Data Template
+
+Please make sure your `data.json` file follows the structure shown in:
+
+➡️ [`templates/data-template.json`](templates/data-template.json)
 
 ## 📜 License
 

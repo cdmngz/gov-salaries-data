@@ -26,46 +26,13 @@ All data is organized by **country**, **year**, and **semester**:
 
 Each `data.json` should follow this structure:
 
-```json
-{
-  "president": {
-    "name": "Full Name",
-    "salary": {
-      "gross": 1234,
-      "net": 1000
-    }
-  },
-  "congress": [
-    {
-      "name": "Member 1",
-      "salary": {
-        "gross": 1234,
-        "net": 1000
-      }
-    },
-    {
-      "name": "Member 2",
-      "salary": {
-        "gross": 1234,
-        "net": 1000
-      }
-    }
-  ],
-  "senators": [
-    {
-      "name": "Senator 1",
-      "salary": {
-        "gross": 1234,
-        "net": 1000
-      }
-    }
-  ]
-}
-```
-
 - Use numeric values without currency symbols
-- Salaries should represent **monthly gross salary** (unless noted otherwise)
-- Names can be anonymized if necessary
+- Salaries should represent **anual gross** and **anual net** amounts
+
+You can view the expected format here:  
+➡️ [`templates/data-template.json`](templates/data-template.json)
+
+This template serves as the reference for how your `data.json` files should be structured. Please validate your JSON against this format before submitting a pull request.
 
 ---
 

@@ -1,0 +1,91 @@
+{
+  "baseCurrency": "USD",
+  "Royalty": [
+    {
+      "name": "Arthur Pendragon",
+      "gender": "M",
+      "party": "Royal",
+      "salary": {
+        "gross": 250000,
+        "net": 200000,
+        "bonus": { "coronation": 50000 }
+      }
+    }
+  ],
+  "president": [
+    {
+      "name": "Alice Johnson",
+      "gender": "F",
+      "party": "Unity",
+      "salary": {
+        "gross": 180000,
+        "net": 140000
+      }
+    }
+  ],
+  "vicePresident": [
+    {
+      "name": "Victor Ramos",
+      "gender": "M",
+      "party": "Unity",
+      "salary": {
+        "gross": 160000,
+        "net": 125000
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ariel Smith",
+      "gender": "X",
+      "role": "Minister of Finance",
+      "party": "Green",
+      "salary": {
+        "gross": 150000,
+        "net": 120000,
+        "bonus": { "performance": 10000 }
+      }
+    }
+  ],
+  "congress": [
+    {
+      "name": "James O'Neil",
+      "gender": "M",
+      "party": "Unity",
+      "salary": {
+        "gross": 120000,
+        "net": 95000
+      }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Maria Gonzalez",
+      "gender": "F",
+      "party": "Green",
+      "salary": {
+        "gross": 130000,
+        "net": 100000
+      },
+      "district": "Northwest Region"
+    }
+  ],
+  "officials": [
+    {
+      "name": "Eve Thompson",
+      "gender": "F",
+      "role": "Chief of Staff",
+      "party": "Independent",
+      "salary": {
+        "gross": 125000,
+        "net": 100000
+      }
+    }
+  ],
+  "parties": {
+    "Unity": { "name": "Unity Party", "color": "#3366cc" },
+    "Green": { "name": "Green Alliance", "color": "#00cc66" },
+    "Royal": { "name": "Royalists", "color": "#ccaa00" },
+    "Independent": { "name": "Independent", "color": "#999999" }
+  }
+}

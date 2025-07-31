@@ -1,0 +1,76 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Gov Salaries Data",
+  "required": [
+    "baseCurrency",
+    "president",
+    "vicePresident",
+    "ministers",
+    "congress",
+    "senate",
+    "royalty",
+    "officials",
+    "parties"
+  ],
+  "properties": {
+    "baseCurrency": {
+      "type": "string",
+      "description": "The currency in which salaries are expressed, e.g. USD"
+    },
+    "president": { "$ref": "#/$defs/officialList" },
+    "vicePresident": { "$ref": "#/$defs/officialList" },
+    "ministers": { "$ref": "#/$defs/officialList" },
+    "congress": { "$ref": "#/$defs/officialList" },
+    "senate": { "$ref": "#/$defs/officialList" },
+    "royalty": { "$ref": "#/$defs/officialList" },
+    "officials": { "$ref": "#/$defs/officialList" },
+    "parties": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["name", "color"],
+        "properties": {
+          "name": { "type": "string" },
+          "color": { "type": "string" }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "officialList": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "gender", "salary"],
+        "properties": {
+          "name": { "type": "string" },
+          "gender": {
+            "type": "string",
+            "enum": ["F", "M", "X"]
+          },
+          "role": {
+            "type": "string",
+            "description": "Only for ministers and officials"
+          },
+          "party": { "type": "string" },
+          "district": {
+            "type": "string",
+            "description": "Only for senators"
+          },
+          "salary": {
+            "type": "object",
+            "required": ["gross", "net"],
+            "properties": {
+              "gross": { "type": "number" },
+              "net": { "type": "number" },
+              "bonus": {
+                "type": "object",
+                "additionalProperties": { "type": "number" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
