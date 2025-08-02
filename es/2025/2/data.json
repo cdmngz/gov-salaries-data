@@ -4,7 +4,6 @@
     {
       "name": "Felipe VI",
       "gender": "M",
-      "party": "Monarquía",
       "salary": {
         "gross": 277361,
         "net": 175000
@@ -13,7 +12,6 @@
     {
       "name": "Letizia Ortiz",
       "gender": "F",
-      "party": "Monarquía",
       "salary": {
         "gross": 152539,
         "net": 97000
