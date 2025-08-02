@@ -31,7 +31,8 @@
       "salary": {
         "gross": 31393,
         "net": 20405
-      }
+      },
+      "budget": 2200000000
     },
     {
       "name": "Sandra Petovello",
@@ -41,7 +42,8 @@
       "salary": {
         "gross": 31393,
         "net": 20405
-      }
+      },
+      "budget": 50920000000
     },
     {
       "name": "Patricia Bullrich",
@@ -51,7 +53,8 @@
       "salary": {
         "gross": 31393,
         "net": 20405
-      }
+      },
+      "budget": 4280000000
     },
     {
       "name": "Mario Russo",
@@ -61,7 +64,8 @@
       "salary": {
         "gross": 31393,
         "net": 20405
-      }
+      },
+      "budget": 5420000000
     },
     {
       "name": "Mariano Cúneo Libarona",
@@ -71,17 +75,19 @@
       "salary": {
         "gross": 31393,
         "net": 20405
-      }
+      },
+      "budget": 1460000000
     },
     {
       "name": "Luis Petri",
       "gender": "M",
-      "role": "Minister of Defense",
+      "role": "Minister of Defence",
       "party": "UCR",
       "salary": {
         "gross": 31393,
         "net": 20405
-      }
+      },
+      "budget": 3360000000
     },
     {
       "name": "Gerardo Werthein",
@@ -91,7 +97,8 @@
       "salary": {
         "gross": 31393,
         "net": 20405
-      }
+      },
+      "budget": 421000000
     }
   ],
   "congress": [
