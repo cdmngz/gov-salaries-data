@@ -1,6 +1,6 @@
 {
   "baseCurrency": "EUR",
-  "Royalty": [
+  "royalty": [
     {
       "name": "Felipe VI",
       "gender": "M",
