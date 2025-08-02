@@ -26,19 +26,27 @@
       "gender": "M",
       "party": "PSOE",
       "salary": {
-        "gross": 103902,
-        "net": 62000
+        "gross": 106598,
+        "net": 62000,
+        "detail": {
+          "Presidente del Gobierno": 92706,
+          "Diputado por Madrid": 13892
+        }
       }
     }
   ],
   "vicePresident": [
     {
-      "name": "María Jesús Montero",
+      "name": "María Jesús Montero Cuadrado",
       "gender": "F",
       "party": "PSOE",
       "salary": {
-        "gross": 77992,
-        "net": 49000
+        "gross": 112000,
+        "net": 70000,
+        "detail": {
+          "Diputada por Sevilla": 28200,
+          "Vicepresidente 1º y Ministra": 84600
+        }
       }
     }
   ],
@@ -49,9 +57,14 @@
       "role": "Minister of Finance",
       "party": "PSOE",
       "salary": {
-        "gross": 84601,
-        "net": 46530
-      }
+        "gross": 112800,
+        "net": 70000,
+        "detail": {
+          "Diputada por Sevilla": 28200,
+          "Vicepresidente 1º y Ministra": 84600
+        }
+      },
+      "budget": 19342000000
     },
     {
       "name": "Yolanda Díaz Pérez",
@@ -59,9 +72,14 @@
       "role": "Minister of Labour and Social Economy",
       "party": "Sumar",
       "salary": {
-        "gross": 84601,
-        "net": 46530
-      }
+        "gross": 112000,
+        "net": 70000,
+        "detail": {
+          "Diputada por Pontevedra": 24900,
+          "Vicepresidente 2º y Ministra": 87100
+        }
+      },
+      "budget": 28791000000
     },
     {
       "name": "Sara Aagesen Muñoz",
@@ -69,9 +87,13 @@
       "role": "Minister for the Ecological Transition and the Demographic Challenge",
       "party": "Independent",
       "salary": {
-        "gross": 84601,
-        "net": 46530
-      }
+        "gross": 87135,
+        "net": 46000,
+        "detail": {
+          "Vicepresidente 3º y Ministra": 87135
+        }
+      },
+      "budget": 8862000000
     },
     {
       "name": "José Manuel Albares Bueno",
@@ -79,9 +101,14 @@
       "role": "Minister of Foreign Affairs, European Union and Cooperation",
       "party": "PSOE",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 92903,
+        "net": 50000,
+        "detail": {
+          "Diputado por Madrid": 13488,
+          "Ministro": 79415
+        }
+      },
+      "budget": 2192900000
     },
     {
       "name": "Félix Bolaños García",
@@ -89,19 +116,29 @@
       "role": "Minister of the Presidency, Justice and Relations with the Cortes",
       "party": "PSOE",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 95686,
+        "net": 50000,
+        "detail": {
+          "Diputado por Madrid": 13892,
+          "Ministro": 81794
+        }
+      },
+      "budget": 2735970000
     },
     {
       "name": "Margarita Robles Fernández",
       "gender": "F",
       "role": "Minister of Defence",
-      "party": "PSOE",
+      "party": "Independent",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 92915,
+        "net": 50000,
+        "detail": {
+          "Diputada por Madrid": 13488,
+          "Ministra": 79427
+        }
+      },
+      "budget": 19459000000
     },
     {
       "name": "Fernando Grande-Marlaska Gómez",
@@ -109,9 +146,10 @@
       "role": "Minister of the Interior",
       "party": "PSOE",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 81793,
+        "net": 50000
+      },
+      "budget": 11358000000
     },
     {
       "name": "Óscar Puente Santiago",
@@ -119,9 +157,10 @@
       "role": "Minister of Transport and Sustainable Mobility",
       "party": "PSOE",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 81794,
+        "net": 52000
+      },
+      "budget": 11456000000
     },
     {
       "name": "Pilar Alegría Continente",
@@ -129,19 +168,21 @@
       "role": "Minister of Education, Vocational Training and Sports",
       "party": "PSOE",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 81794,
+        "net": 50000
+      },
+      "budget": 6775000000
     },
     {
       "name": "Jordi Hereu Boher",
       "gender": "M",
       "role": "Minister of Industry and Tourism",
-      "party": "PSOE (PSC)",
+      "party": "PSOE",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 81794,
+        "net": 52000
+      },
+      "budget": 8506000000
     },
     {
       "name": "Luis Planas Puchades",
@@ -149,9 +190,10 @@
       "role": "Minister of Agriculture, Fisheries and Food",
       "party": "PSOE",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 81794,
+        "net": 50000
+      },
+      "budget": 8412000000
     },
     {
       "name": "Ángel Víctor Torres Pérez",
@@ -159,9 +201,10 @@
       "role": "Minister of Territorial Policy and Democratic Memory",
       "party": "PSOE",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 81794,
+        "net": 50000
+      },
+      "budget": 589600000
     },
     {
       "name": "Isabel Rodríguez García",
@@ -169,8 +212,12 @@
       "role": "Minister of Housing and Urban Agenda",
       "party": "PSOE",
       "salary": {
-        "gross": 79415,
-        "net": 43678
+        "gross": 81794,
+        "net": 50000
+      },
+      "budget": 3481000000,
+      "detail": {
+        "Diputada por Ciudad Real (hasta dic 2023)": 28257
       }
     },
     {
@@ -179,19 +226,21 @@
       "role": "Minister of Culture",
       "party": "Sumar",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 81794,
+        "net": 50000
+      },
+      "budget": 7000000000
     },
     {
       "name": "Carlos Cuerpo Caballero",
       "gender": "M",
       "role": "Minister of Economy, Trade and Enterprise",
-      "party": "PSOE",
+      "party": "Independent",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 81794,
+        "net": 50000
+      },
+      "budget": 6178000000
     },
     {
       "name": "Mónica García Gómez",
@@ -201,7 +250,8 @@
       "salary": {
         "gross": 79415,
         "net": 43678
-      }
+      },
+      "budget": 2746000000
     },
     {
       "name": "Pablo Bustinduy Amador",
@@ -209,9 +259,10 @@
       "role": "Minister of Social Rights, Consumer Affairs and 2030 Agenda",
       "party": "Sumar",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 81794,
+        "net": 50000
+      },
+      "budget": 8517900000
     },
     {
       "name": "Diana Morant Ripoll",
@@ -219,9 +270,10 @@
       "role": "Minister of Science, Innovation and Universities",
       "party": "PSOE",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 81794,
+        "net": 50000
+      },
+      "budget": 8197000000
     },
     {
       "name": "Ana Redondo García",
@@ -229,9 +281,10 @@
       "role": "Minister of Equality",
       "party": "PSOE",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 81794,
+        "net": 50000
+      },
+      "budget": 511500000
     },
     {
       "name": "Elma Saiz Delgado",
@@ -239,9 +292,10 @@
       "role": "Minister of Inclusion, Social Security and Migration",
       "party": "PSOE",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 81794,
+        "net": 50000
+      },
+      "budget": 887000000
     },
     {
       "name": "Óscar López Águeda",
@@ -249,9 +303,10 @@
       "role": "Minister for the Digital Transformation and of the Civil Service",
       "party": "PSOE",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 81794,
+        "net": 50000
+      },
+      "budget": 7500000000
     },
     {
       "name": "Sira Rego",
@@ -259,9 +314,10 @@
       "role": "Minister of Youth and Children",
       "party": "Sumar",
       "salary": {
-        "gross": 79415,
-        "net": 43678
-      }
+        "gross": 81794,
+        "net": 50000
+      },
+      "budget": 203110000
     }
   ],
   "congress": [
@@ -316,7 +372,7 @@
       "name": "Independiente",
       "en": "Independent",
       "range": 3,
-      "color": "#AAA"
+      "color": "#AAAAAA"
     }
   }
 }
