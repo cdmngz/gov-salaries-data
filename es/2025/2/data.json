@@ -70,7 +70,7 @@
       "name": "Yolanda Díaz Pérez",
       "gender": "F",
       "role": "Minister of Labour and Social Economy",
-      "party": "SUMAR",
+      "party": "SMR",
       "salary": {
         "gross": 112000,
         "net": 70000,
@@ -224,7 +224,7 @@
       "name": "Ernest Urtasun Domènech",
       "gender": "M",
       "role": "Minister of Culture",
-      "party": "Sumar",
+      "party": "SMR",
       "salary": {
         "gross": 81794,
         "net": 50000
@@ -246,7 +246,7 @@
       "name": "Mónica García Gómez",
       "gender": "F",
       "role": "Minister of Health",
-      "party": "Sumar",
+      "party": "SMR",
       "salary": {
         "gross": 79415,
         "net": 43678
@@ -257,7 +257,7 @@
       "name": "Pablo Bustinduy Amador",
       "gender": "M",
       "role": "Minister of Social Rights, Consumer Affairs and 2030 Agenda",
-      "party": "Sumar",
+      "party": "SMR",
       "salary": {
         "gross": 81794,
         "net": 50000
@@ -312,7 +312,7 @@
       "name": "Sira Rego",
       "gender": "F",
       "role": "Minister of Youth and Children",
-      "party": "Sumar",
+      "party": "SMR",
       "salary": {
         "gross": 81794,
         "net": 50000
@@ -350,29 +350,29 @@
       "role": "Spokesperson of the Socialist Parliamentary Group in the Congress of Deputies",
       "party": "PSOE",
       "salary": {
-        "gross": 74413,
-        "net": 50000
+        "gross": 113469,
+        "net": 60000
       }
     }
   ],
   "parties": {
     "PSOE": {
       "name": "Partido Socialista Obrero Español",
-      "en": "Spanish Socialist Workers' Party",
+      "en": "Spanish Socialist Workers Party",
       "range": 2,
       "color": "#EE1C27"
-    },
-    "SUMAR": {
-      "name": "Sumar",
-      "en": "Unite",
-      "range": 2,
-      "color": "#EF4B91"
     },
     "Independent": {
       "name": "Independiente",
       "en": "Independent",
       "range": 3,
       "color": "#AAAAAA"
+    },
+    "SMR": {
+      "name": "Movimiento Sumar",
+      "en": "Unite",
+      "range": 2,
+      "color": "#EF4B91"
     }
   }
 }
