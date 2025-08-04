@@ -113,217 +113,217 @@
     {
       "name": "José Mayans",
       "gender": "M",
-      "distric": "Formosa",
+      "district": "Formosa",
       "party": "PJ",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "María Teresa González",
       "gender": "F",
-      "distric": "Formosa",
+      "district": "Formosa",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Luis Petcoff Naidenoff",
       "gender": "M",
-      "distric": "Formosa",
+      "district": "Formosa",
       "party": "UCR",
       "salary": { "gross": 37500, "net": 24375 }
     },
     {
       "name": "Anabel Fernández Sagasti",
       "gender": "F",
-      "distric": "Mendoza",
+      "district": "Mendoza",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Alfredo Cornejo",
       "gender": "M",
-      "distric": "Mendoza",
+      "district": "Mendoza",
       "party": "UCR",
       "salary": { "gross": 37500, "net": 24375 }
     },
     {
       "name": "Rodolfo Suárez",
       "gender": "M",
-      "distric": "Mendoza",
+      "district": "Mendoza",
       "party": "UCR",
       "salary": { "gross": 37500, "net": 24375 }
     },
     {
       "name": "Juan Carlos Romero",
       "gender": "M",
-      "distric": "Salta",
+      "district": "Salta",
       "party": "PJ",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Nora Giménez",
       "gender": "F",
-      "distric": "Salta",
+      "district": "Salta",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Sergio Leavy",
       "gender": "M",
-      "distric": "Salta",
+      "district": "Salta",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Eduardo Costa",
       "gender": "M",
-      "distric": "Santa Cruz",
+      "district": "Santa Cruz",
       "party": "UCR",
       "salary": { "gross": 37500, "net": 24375 }
     },
     {
       "name": "Ana María Ianni",
       "gender": "F",
-      "distric": "Santa Cruz",
+      "district": "Santa Cruz",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Natalia Gadano",
       "gender": "F",
-      "distric": "Santa Cruz",
+      "district": "Santa Cruz",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Martín Lousteau",
       "gender": "M",
-      "distric": "Buenos Aires City",
+      "district": "Buenos Aires City",
       "party": "UCR",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Guadalupe Tagliaferri",
       "gender": "F",
-      "distric": "Buenos Aires City",
+      "district": "Buenos Aires City",
       "party": "PRO",
       "salary": { "gross": 37500, "net": 24375 }
     },
     {
       "name": "Mariana Juri",
       "gender": "F",
-      "distric": "Buenos Aires City",
+      "district": "Buenos Aires City",
       "party": "UCR",
       "salary": { "gross": 37500, "net": 24375 }
     },
     {
       "name": "Edgardo Kueider",
       "gender": "M",
-      "distric": "Entre Ríos",
+      "district": "Entre Ríos",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Stella Maris Olalla",
       "gender": "F",
-      "distric": "Entre Ríos",
+      "district": "Entre Ríos",
       "party": "UCR",
       "salary": { "gross": 37500, "net": 24375 }
     },
     {
       "name": "Alfredo de Angeli",
       "gender": "M",
-      "distric": "Entre Ríos",
+      "district": "Entre Ríos",
       "party": "PRO",
       "salary": { "gross": 37500, "net": 24375 }
     },
     {
       "name": "Carlos Espínola",
       "gender": "M",
-      "distric": "Corrientes",
+      "district": "Corrientes",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Mercedes Valenzuela",
       "gender": "F",
-      "distric": "Corrientes",
+      "district": "Corrientes",
       "party": "UCR",
       "salary": { "gross": 37500, "net": 24375 }
     },
     {
       "name": "Eduardo Vischi",
       "gender": "M",
-      "distric": "Corrientes",
+      "district": "Corrientes",
       "party": "UCR",
       "salary": { "gross": 37500, "net": 24375 }
     },
     {
       "name": "Lucila Crexell",
       "gender": "F",
-      "distric": "Neuquén",
+      "district": "Neuquén",
       "party": "JxC",
       "salary": { "gross": 37500, "net": 24375 }
     },
     {
       "name": "Carmen Álvarez",
       "gender": "F",
-      "distric": "Neuquén",
+      "district": "Neuquén",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Oscar Parrilli",
       "gender": "M",
-      "distric": "Neuquén",
+      "district": "Neuquén",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Mónica Silva",
       "gender": "F",
-      "distric": "Río Negro",
+      "district": "Río Negro",
       "party": "JSRN",
       "salary": { "gross": 37500, "net": 24375 }
     },
     {
       "name": "Martín Doñate",
       "gender": "M",
-      "distric": "Río Negro",
+      "district": "Río Negro",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Silvina García Larraburu",
       "gender": "F",
-      "distric": "Río Negro",
+      "district": "Río Negro",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Claudia Ledesma Abdala",
       "gender": "F",
-      "distric": "Santiago del Estero",
+      "district": "Santiago del Estero",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Gerardo Montenegro",
       "gender": "M",
-      "distric": "Santiago del Estero",
+      "district": "Santiago del Estero",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Emilio Neder",
       "gender": "M",
-      "distric": "Santiago del Estero",
+      "district": "Santiago del Estero",
       "party": "UP",
       "salary": { "gross": 79800, "net": 51870 }
     },
     {
       "name": "Juan Carlos Pagotto",
       "gender": "M",
-      "distric": "La Rioja",
+      "district": "La Rioja",
       "party": "LLA",
       "salary": {
         "gross": 37500,
@@ -333,7 +333,7 @@
     {
       "name": "Ricardo Guerra",
       "gender": "M",
-      "distric": "La Rioja",
+      "district": "La Rioja",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -343,7 +343,7 @@
     {
       "name": "Florencia López",
       "gender": "F",
-      "distric": "La Rioja",
+      "district": "La Rioja",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -353,7 +353,7 @@
     {
       "name": "Eugenio Artaza",
       "gender": "M",
-      "distric": "Chaco",
+      "district": "Chaco",
       "party": "UCR",
       "salary": {
         "gross": 37500,
@@ -363,7 +363,7 @@
     {
       "name": "Víctor Zimmermann",
       "gender": "M",
-      "distric": "Chaco",
+      "district": "Chaco",
       "party": "UCR",
       "salary": {
         "gross": 37500,
@@ -373,7 +373,7 @@
     {
       "name": "Alicia Fregonese",
       "gender": "F",
-      "distric": "Chaco",
+      "district": "Chaco",
       "party": "PRO",
       "salary": {
         "gross": 37500,
@@ -383,7 +383,7 @@
     {
       "name": "Bruno Olivera",
       "gender": "M",
-      "distric": "San Juan",
+      "district": "San Juan",
       "party": "LLA",
       "salary": {
         "gross": 37500,
@@ -393,7 +393,7 @@
     {
       "name": "Rubén Uñac",
       "gender": "M",
-      "distric": "San Juan",
+      "district": "San Juan",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -403,7 +403,7 @@
     {
       "name": "María Celeste Giménez",
       "gender": "F",
-      "distric": "San Juan",
+      "district": "San Juan",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -413,7 +413,7 @@
     {
       "name": "Cristina López",
       "gender": "F",
-      "distric": "Tierra del Fuego",
+      "district": "Tierra del Fuego",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -423,7 +423,7 @@
     {
       "name": "María Eugenia Duré",
       "gender": "F",
-      "distric": "Tierra del Fuego",
+      "district": "Tierra del Fuego",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -433,7 +433,7 @@
     {
       "name": "Pablo Blanco",
       "gender": "M",
-      "distric": "Tierra del Fuego",
+      "district": "Tierra del Fuego",
       "party": "UCR",
       "salary": {
         "gross": 37500,
@@ -443,7 +443,7 @@
     {
       "name": "Maximiliano Abad",
       "gender": "M",
-      "distric": "Buenos Aires",
+      "district": "Buenos Aires",
       "party": "UCR",
       "salary": {
         "gross": 37500,
@@ -453,7 +453,7 @@
     {
       "name": "Wado de Pedro",
       "gender": "M",
-      "distric": "Buenos Aires",
+      "district": "Buenos Aires",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -463,7 +463,7 @@
     {
       "name": "Juliana di Tullio",
       "gender": "F",
-      "distric": "Buenos Aires",
+      "district": "Buenos Aires",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -473,7 +473,7 @@
     {
       "name": "Flavio Fama",
       "gender": "M",
-      "distric": "Catamarca",
+      "district": "Catamarca",
       "party": "UCR",
       "salary": {
         "gross": 37500,
@@ -483,7 +483,7 @@
     {
       "name": "Lucía Corpacci",
       "gender": "F",
-      "distric": "Catamarca",
+      "district": "Catamarca",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -493,7 +493,7 @@
     {
       "name": "Guillermo Andrada",
       "gender": "M",
-      "distric": "Catamarca",
+      "district": "Catamarca",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -503,7 +503,7 @@
     {
       "name": "Carolina Losada",
       "gender": "F",
-      "distric": "Santa Fe",
+      "district": "Santa Fe",
       "party": "UCR",
       "salary": {
         "gross": 37500,
@@ -513,7 +513,7 @@
     {
       "name": "Marcelo Lewandowski",
       "gender": "M",
-      "distric": "Santa Fe",
+      "district": "Santa Fe",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -523,7 +523,7 @@
     {
       "name": "María Sacnun",
       "gender": "F",
-      "distric": "Santa Fe",
+      "district": "Santa Fe",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -533,7 +533,7 @@
     {
       "name": "Roberto Mirabella",
       "gender": "M",
-      "distric": "San Luis",
+      "district": "San Luis",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -543,7 +543,7 @@
     {
       "name": "Eugenia Catalfamo",
       "gender": "F",
-      "distric": "San Luis",
+      "district": "San Luis",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -553,7 +553,7 @@
     {
       "name": "Gabriela González Riollo",
       "gender": "F",
-      "distric": "San Luis",
+      "district": "San Luis",
       "party": "LLA",
       "salary": {
         "gross": 37500,
@@ -563,7 +563,7 @@
     {
       "name": "Dalmacio Mera",
       "gender": "M",
-      "distric": "Jujuy",
+      "district": "Jujuy",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -573,7 +573,7 @@
     {
       "name": "Carolina Moisés",
       "gender": "F",
-      "distric": "Jujuy",
+      "district": "Jujuy",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -583,7 +583,7 @@
     {
       "name": "Mario Fiad",
       "gender": "M",
-      "distric": "Jujuy",
+      "district": "Jujuy",
       "party": "UCR",
       "salary": {
         "gross": 37500,
@@ -593,7 +593,7 @@
     {
       "name": "Sonia Rojas Decut",
       "gender": "F",
-      "distric": "Misiones",
+      "district": "Misiones",
       "party": "FRCS",
       "salary": {
         "gross": 37500,
@@ -603,7 +603,7 @@
     {
       "name": "Maurice Closs",
       "gender": "M",
-      "distric": "Misiones",
+      "district": "Misiones",
       "party": "FRCS",
       "salary": {
         "gross": 37500,
@@ -613,7 +613,7 @@
     {
       "name": "Carlos Arce",
       "gender": "M",
-      "distric": "Misiones",
+      "district": "Misiones",
       "party": "FRCS",
       "salary": {
         "gross": 37500,
@@ -623,7 +623,7 @@
     {
       "name": "Ignacio Torres",
       "gender": "M",
-      "distric": "Chubut",
+      "district": "Chubut",
       "party": "PRO",
       "salary": {
         "gross": 37500,
@@ -633,7 +633,7 @@
     {
       "name": "Edith Terenzi",
       "gender": "F",
-      "distric": "Chubut",
+      "district": "Chubut",
       "party": "UCR",
       "salary": {
         "gross": 37500,
@@ -643,7 +643,7 @@
     {
       "name": "Andrea Cristina",
       "gender": "F",
-      "distric": "Chubut",
+      "district": "Chubut",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -653,7 +653,7 @@
     {
       "name": "Jesús Rejal",
       "gender": "M",
-      "distric": "La Pampa",
+      "district": "La Pampa",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -663,7 +663,7 @@
     {
       "name": "Daniel Kroneberger",
       "gender": "M",
-      "distric": "La Pampa",
+      "district": "La Pampa",
       "party": "UCR",
       "salary": {
         "gross": 37500,
@@ -673,7 +673,7 @@
     {
       "name": "María Higonet",
       "gender": "F",
-      "distric": "La Pampa",
+      "district": "La Pampa",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -683,7 +683,7 @@
     {
       "name": "Antonio Rodas",
       "gender": "M",
-      "distric": "Córdoba",
+      "district": "Córdoba",
       "party": "UP",
       "salary": {
         "gross": 79800,
@@ -693,7 +693,7 @@
     {
       "name": "Luis Juez",
       "gender": "M",
-      "distric": "Córdoba",
+      "district": "Córdoba",
       "party": "PRO",
       "salary": {
         "gross": 37500,
@@ -703,7 +703,7 @@
     {
       "name": "Carmen Delgado",
       "gender": "F",
-      "distric": "Córdoba",
+      "district": "Córdoba",
       "party": "UCR",
       "salary": {
         "gross": 37500,
@@ -713,7 +713,7 @@
     {
       "name": "Paoltroni Francisco",
       "gender": "M",
-      "distric": "Tucumán",
+      "district": "Tucumán",
       "party": "LLA",
       "salary": {
         "gross": 37500,
@@ -723,7 +723,7 @@
     {
       "name": "Beatriz Ávila",
       "gender": "F",
-      "distric": "Tucumán",
+      "district": "Tucumán",
       "party": "PJ",
       "salary": {
         "gross": 37500,
@@ -733,7 +733,7 @@
     {
       "name": "Juan Manzur",
       "gender": "M",
-      "distric": "Tucumán",
+      "district": "Tucumán",
       "party": "UP",
       "salary": {
         "gross": 79800,
