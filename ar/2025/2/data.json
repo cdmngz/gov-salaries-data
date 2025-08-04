@@ -103,10 +103,2317 @@
   ],
   "congress": [
     {
+      "name": "Sergio Edgardo Acevedo",
+      "gender": "M",
+      "party": "PSC",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Oscar Agost Carreño",
+      "gender": "M",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Manuel Ignacio Aguirre",
+      "gender": "M",
+      "party": "DPS",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
       "name": "Hilda Aguirre",
       "gender": "F",
       "party": "UP",
-      "salary": { "gross": 35000, "net": 22750 }
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Sabrina Ajmechet",
+      "gender": "F",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Ernesto Pipi\"\" Alí",
+      "gender": "M",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Eugenia Alianiello",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Walberto Allende",
+      "gender": "M",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Lisandro Almirón",
+      "gender": "M",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Constanza María Alonso",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Pablo Ansaloni",
+      "gender": "M",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Marcela Antola",
+      "gender": "F",
+      "party": "DPS",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Damián Arabia",
+      "gender": "M",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Alberto Gustavo Arancibia Rodríguez",
+      "gender": "M",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "María Fernanda Araujo",
+      "gender": "F",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Jorge Neri Araujo Hernández",
+      "gender": "M",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Martín Ardohain",
+      "gender": "M",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Martín Arjol",
+      "gender": "M",
+      "party": "UCR",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Lourdes Micaela Arrieta",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Daniel Arroyo",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Alberto Arrúa",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Ana Fabiola Aubone",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Martín Aveiro",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Belén Avico",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Jorge Antonio Avila",
+      "gender": "X",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Fernanda Avila",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Karina Ethel Bachey",
+      "gender": "F",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Héctor W. Baldassi",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Nancy Ballejos",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Karina Banfi",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Mario Barletta",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Luis Eugenio Basterra",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Atilio Benedetti",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Beltrán Benedit",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Bertie Benegas Lynch",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Adolfo Bermejo",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Tanya Bertoldi",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Gabriela Besana",
+      "gender": "F",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Emmanuel Bianchetti",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Rocío Bonacci",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Alejandro Bongiovanni",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Gustavo Bordet",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Gabriel Bornoroni",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Victoria Borrego",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Sofía Brambilla",
+      "gender": "F",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Gabriela Brouwer De Koning",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Juan Fernando Brügge",
+      "gender": "X",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Santiago Cafiero",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Pamela Calletti",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Marcela Campagnoli",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Mariano Campero",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Celia Campitelli",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Sergio Eduardo Capozzi",
+      "gender": "M",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Fernando Carbajal",
+      "gender": "M",
+      "party": "DPS",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Florencia Carignano",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Soledad Carrizo",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Ana Carla Carrizo",
+      "gender": "F",
+      "party": "DPS",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Pablo Carro",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Sergio Guillermo Casas",
+      "gender": "M",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Carlos Daniel Castagneto",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Christian Castillo",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Pablo Cervi",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Leila Chaher",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Jorge Chica",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "María Luisa Chomiak",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Gabriel Felipe Chumpitaz",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Gerardo Cipolini",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Carlos Cisneros",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Julio Cobos",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Mariela Coletta",
+      "gender": "F",
+      "party": "DPS",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Marcela Coli",
+      "gender": "F",
+      "party": "DPS",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Facundo Correa Llano",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Carlos D'Alessandro",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Ricardo Daives",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Natalia de la Sota",
+      "gender": "F",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Rodrigo de Loredo",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Mercedes de Mendieta",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "María Florencia De Sensi",
+      "gender": "F",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Romina Diez",
+      "gender": "F",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Agustín Domingo",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Nicolás Emma",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "José Luis Espert",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Gabriela Beatriz Estévez",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Emiliano Estrada",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Eduardo Falcone",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Mónica Fein",
+      "gender": "F",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Agustin Fernández",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Elia Marina Fernández",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Carlos Alberto Fernández",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Daiana Fernández Molero",
+      "gender": "F",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Ramiro Fernández Patri",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Maximiliano Ferraro",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Alida Ferreyra",
+      "gender": "F",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Germana Figueroa Casas",
+      "gender": "F",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Alejandro Finocchiaro",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Mónica Frade",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Andrea Freites",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Ana Carolina Gaillard",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Carlos García",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Ignacio García Aresca",
+      "gender": "X",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Ricardo Garramuño",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "José Luis Garrido",
+      "gender": "X",
+      "party": "PSC",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Silvana Micaela Ginocchio",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Juan Carlos Giordano",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Melina Giorgi",
+      "gender": "F",
+      "party": "DPS",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Silvana Giudici",
+      "gender": "F",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Diego A. Giuliano",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "José Glinski",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Daniel Gollán",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "José Gomez",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Álvaro González",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Gustavo Carlos Miguel González",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Gerardo Gustavo González",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Carlos Gutiérrez",
+      "gender": "X",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Ramiro Gutiérrez",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Itai Hagman",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Carlos Heller",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Ricardo Herrera",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Bernardo José Herrera",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Gerardo Huesen",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Ana María Ianni",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "María Cecilia Ibañez",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Fernando Adolfo Iglesias",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Rogelio Iparraguirre",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Pablo Juliano",
+      "gender": "X",
+      "party": "DPS",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Máximo Carlos Kirchner",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Florencia Klipauka Lewtak",
+      "gender": "F",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Luciano Andrés Laspina",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Tomás Ledesma",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Aldo Leiva",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Lilia Lemoine",
+      "gender": "F",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Mónica Litza",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Osvaldo Llancafilo",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Mercedes Llano",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Juan Manuel López",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Ricardo Hipólito López Murphy",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Dante López Rodríguez",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Silvia Lospennato",
+      "gender": "F",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Mónica Macha",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Lorena Macyszyn",
+      "gender": "F",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Facundo Manes",
+      "gender": "X",
+      "party": "DPS",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Mario Manrique",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Martín Maquieyra",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Varinia Lis Marín",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Juan Marino",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Nadia Márquez",
+      "gender": "F",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Álvaro Martínez",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Germán Pedro Martínez",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Gisela Marziotta",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Nicolás Massot",
+      "gender": "X",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Magalí Mastaler",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Nicolás Mayoraz",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Gladys Medina",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Martín Menem",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Gerardo Milman",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Roberto Mirabella",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Matías Molle",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Guillermo Montenegro",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Francisco Monti",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "María Luisa Montoto",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Emilio Monzó",
+      "gender": "X",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Roxana Monzón",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Micaela Moran",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Francisco Morchio",
+      "gender": "X",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Leopoldo Moreau",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Cecilia Moreau",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "María De Los Ángeles Moreno",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Julio Moreno Ovalle",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Nilda Moyano",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Estela Mary Neder",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Lisandro Nieri",
+      "gender": "M",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Sebastián Nóblega",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "José Nuñez",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Paula Oliveto Lago",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Paula Omodeo",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Emilia Orozco",
+      "gender": "F",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Blanca Inés Osuna",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Pablo Outes",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Marcela Marina Pagano",
+      "gender": "F",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Sergio Omar Palazzo",
+      "gender": "M",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Liliana Paponet",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "María Graciela Parola",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Marcela Fabiana Passo",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Santiago Pauli",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Esteban Paulón",
+      "gender": "X",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Gabriela Pedrali",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Juan Manuel Pedrini",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "José Peluc",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Paula Andrea Penacca",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Julio Pereyra",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Luis Albino Picat",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Miguel Ángel Pichetto",
+      "gender": "X",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Nancy Viviana Picón Martínez",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Carolina Píparo",
+      "gender": "F",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Lorena Pokoik",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Juan Carlos Polini",
+      "gender": "X",
+      "party": "DPS",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "María Celeste Ponce",
+      "gender": "F",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Luciana Potenza",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Agustina Lucrecia Propato",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Fabio José Quetglas",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Manuel Quintar",
+      "gender": "M",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Marilú Quiroz",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Florencio Randazzo",
+      "gender": "X",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Ariel Rauschenberger",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Verónica Razzini",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Roxana Reyes",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Vilma Ripoll",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Cristian A. Ritondo",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Jorge Rizzotti",
+      "gender": "X",
+      "party": "DPS",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Laura Rodríguez Machado",
+      "gender": "F",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Ana Clara Romero",
+      "gender": "F",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Jorge Antonio Romero",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Yamila Ruíz",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Roberto Antonio Sánchez",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Javier Sánchez Wrba",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Nancy Sand",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Juliana Santillán Juárez Brahim",
+      "gender": "F",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Diego Santilli",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Leandro Santoro",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Santiago Santurio",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Natalia Silvina Sarapura",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Sabrina Selva",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Vanesa Raquel Siley",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Guillermo Snopek",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Martín Soria",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "María Sotolano",
+      "gender": "F",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Margarita Stolbizer",
+      "gender": "F",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Julia Strada",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Rodolfo Tailhade",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Danya Tavela",
+      "gender": "F",
+      "party": "DPS",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Martin Alberto Tetaz",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Pablo Todero",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Victoria Tolosa Paz",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Eduardo Toniolli",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Alejandra Torres",
+      "gender": "F",
+      "party": "EF",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Anibal Tortoriello",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "José Federico Tournier",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "César Treffinger",
+      "gender": "X",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Eduardo Félix Valdés",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Daniel Vancsik",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Brenda Vargas Matyi",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Patricia Vásquez",
+      "gender": "F",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Yolanda Vega",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Pamela Fernanda Verasay",
+      "gender": "F",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "María Eugenia Vidal",
+      "gender": "F",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Alejandro Vilca",
+      "gender": "X",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Lorena Villaverde",
+      "gender": "F",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Luana Volnovich",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Hugo Yasky",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Pablo Raúl Yedlin",
+      "gender": "X",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Martín Yeza",
+      "gender": "X",
+      "party": "PRO",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Carolina Yutrovic",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Natalia Zabala Chacur",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Oscar Zago",
+      "gender": "M",
+      "party": "X",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Carlos Raúl Zapata",
+      "gender": "M",
+      "party": "LLA",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Natalia Zaracho",
+      "gender": "F",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
+    },
+    {
+      "name": "Christian Alejandro Zulli",
+      "gender": "M",
+      "party": "UP",
+      "salary": {
+        "gross": 34992,
+        "net": 22745
+      }
     }
   ],
   "senate": [
@@ -755,6 +3062,18 @@
     }
   ],
   "parties": {
+    "DPS": {
+      "name": "Democracia para Siempre",
+      "en": "Forever Democracy",
+      "range": 3,
+      "color": "#DDD"
+    },
+    "EF": {
+      "name": "Encuentro Republicano Federal",
+      "en": "Federal Republican Encounter",
+      "range": 4,
+      "color": "#284264"
+    },
     "FRCS": {
       "name": "Frente Renovador de la Concordia Social",
       "en": "Front for the Renewal of Social Concord",
