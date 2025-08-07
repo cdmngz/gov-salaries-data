@@ -27,22 +27,16 @@ function generateIndexes() {
 
     years.forEach((year) => {
       const yearPath = path.join(countryPath, year);
-      const semesters = fs
-        .readdirSync(yearPath)
-        .filter((sem) => dataFileExists(path.join(yearPath, sem, "data.json")));
+      const dataPath = path.join(yearPath, "data.json");
 
-      semesters.forEach((semester) => {
-        periods.push({
-          year: Number(year),
-          semester: Number(semester),
-        });
-      });
+      if (dataFileExists(dataPath)) {
+        periods.push({ year: Number(year) });
+      }
     });
 
     if (periods.length > 0) {
       globalIndex[country] = periods;
 
-      // Write country-level index
       fs.writeFileSync(
         path.join(countryPath, "index.json"),
         JSON.stringify(periods, null, 2),
@@ -51,14 +45,13 @@ function generateIndexes() {
     }
   });
 
-  // Write global index
   fs.writeFileSync(
     path.join(dataDir, "index.json"),
     JSON.stringify(globalIndex, null, 2),
     "utf-8"
   );
 
-  console.log("✅ index.json files generated");
+  console.log("✅ index.json files generated (year only)");
 }
 
 generateIndexes();
