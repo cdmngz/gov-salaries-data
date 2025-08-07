@@ -654,7 +654,7 @@
     {
       "name": "Pablo Cervi",
       "gender": "M",
-      "party": "X",
+      "party": "LLA",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -690,7 +690,7 @@
     {
       "name": "Gabriel Felipe Chumpitaz",
       "gender": "M",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -699,7 +699,7 @@
     {
       "name": "Gerardo Cipolini",
       "gender": "M",
-      "party": "X",
+      "party": "UCR",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -717,7 +717,7 @@
     {
       "name": "Julio Cobos",
       "gender": "M",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -927,7 +927,7 @@
     {
       "name": "Maximiliano Ferraro",
       "gender": "M",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -963,7 +963,7 @@
     {
       "name": "Mónica Frade",
       "gender": "F",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1008,7 +1008,7 @@
     {
       "name": "Ricardo Garramuño",
       "gender": "M",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1035,7 +1035,7 @@
     {
       "name": "Juan Carlos Giordano",
       "gender": "M",
-      "party": "X",
+      "party": "FIT-U",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1197,7 +1197,7 @@
     {
       "name": "María Cecilia Ibañez",
       "gender": "F",
-      "party": "X",
+      "party": "LLA",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1296,7 +1296,7 @@
     {
       "name": "Osvaldo Llancafilo",
       "gender": "M",
-      "party": "X",
+      "party": "MPN",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1314,7 +1314,7 @@
     {
       "name": "Juan Manuel López",
       "gender": "M",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1323,7 +1323,7 @@
     {
       "name": "Ricardo Hipólito López Murphy",
       "gender": "M",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1476,7 +1476,7 @@
     {
       "name": "Gladys Medina",
       "gender": "F",
-      "party": "X",
+      "party": "UP",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1503,7 +1503,7 @@
     {
       "name": "Roberto Mirabella",
       "gender": "M",
-      "party": "X",
+      "party": "PJ",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1530,7 +1530,7 @@
     {
       "name": "Francisco Monti",
       "gender": "M",
-      "party": "X",
+      "party": "LLA",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1602,7 +1602,7 @@
     {
       "name": "María De Los Ángeles Moreno",
       "gender": "F",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1638,7 +1638,7 @@
     {
       "name": "Lisandro Nieri",
       "gender": "M",
-      "party": "X",
+      "party": "UCR",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1665,7 +1665,7 @@
     {
       "name": "Paula Oliveto Lago",
       "gender": "F",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1674,7 +1674,7 @@
     {
       "name": "Paula Omodeo",
       "gender": "F",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1818,7 +1818,7 @@
     {
       "name": "Luis Albino Picat",
       "gender": "M",
-      "party": "X",
+      "party": "LLA",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1836,7 +1836,7 @@
     {
       "name": "Nancy Viviana Picón Martínez",
       "gender": "F",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1899,7 +1899,7 @@
     {
       "name": "Fabio José Quetglas",
       "gender": "M",
-      "party": "X",
+      "party": "UCR",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1944,7 +1944,7 @@
     {
       "name": "Verónica Razzini",
       "gender": "F",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1953,7 +1953,7 @@
     {
       "name": "Roxana Reyes",
       "gender": "F",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -1962,7 +1962,7 @@
     {
       "name": "Vilma Ripoll",
       "gender": "F",
-      "party": "X",
+      "party": "FIT-U",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -2025,7 +2025,7 @@
     {
       "name": "Roberto Antonio Sánchez",
       "gender": "M",
-      "party": "X",
+      "party": "UCR",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -2088,7 +2088,7 @@
     {
       "name": "Natalia Silvina Sarapura",
       "gender": "F",
-      "party": "X",
+      "party": "UCR",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -2178,7 +2178,7 @@
     {
       "name": "Martin Alberto Tetaz",
       "gender": "M",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -2232,7 +2232,7 @@
     {
       "name": "José Federico Tournier",
       "gender": "M",
-      "party": "X",
+      "party": "JXC",
       "salary": {
         "gross": 34992,
         "net": 22745
@@ -3112,6 +3112,12 @@
       "en": "Freedom Advances",
       "range": 5,
       "color": "#6C4C99"
+    },
+    "MPN": {
+      "name": "Movimiento Popular Neuquino",
+      "en": "Neuquén People's Movement",
+      "range": 2,
+      "color": "#0070B9"
     },
     "PJ": {
       "name": "Partido Justicialista",
