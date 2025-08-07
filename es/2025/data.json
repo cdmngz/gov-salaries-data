@@ -501,439 +501,435 @@
       "party": "Junts per Catalunya",
       "district": "Tarragona",
       "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Abades Martínez, Cristina",
+      "gender": "F",
+      "party": "Popular",
+      "district": "Lugo",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Ábalos Meco, José Luis",
+      "gender": "M",
+      "party": "Socialista",
+      "district": "Valencia",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Abascal Conde, Santiago",
+      "gender": "M",
+      "party": "Vox",
+      "district": "Madrid",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Acedo Reyes, Sofía",
+      "gender": "F",
+      "party": "Popular",
+      "district": "Melilla",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Bolaños García, Félix",
+      "gender": "M",
+      "party": "Socialista",
+      "district": "Madrid",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Borrego Cortés, Isabel María",
+      "gender": "F",
+      "party": "Popular",
+      "district": "Murcia",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Bravo Baena, Juan",
+      "gender": "M",
+      "party": "Popular",
+      "district": "Sevilla",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Cabezón Casas, Tomás",
+      "gender": "M",
+      "party": "Popular",
+      "district": "Soria",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Cacho Isla, Iván",
+      "gender": "M",
+      "party": "Socialista",
+      "district": "Navarra",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Calvo Gómez, Pilar",
+      "gender": "F",
+      "party": "Junts per Catalunya",
+      "district": "Barcelona",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Camino Miñana, Víctor",
+      "gender": "M",
+      "party": "Socialista",
+      "district": "Valencia",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Campos Asensi, Jorge",
+      "gender": "M",
+      "party": "Vox",
+      "district": "Baleares",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Canelo Matito, Andrea",
+      "gender": "F",
+      "party": "PSC",
+      "district": "Barcelona",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Cantalapiedra Álvarez, María de las Mercedes",
+      "gender": "F",
+      "party": "Popular",
+      "district": "Valladolid",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Carazo Hermoso, Eduardo",
+      "gender": "M",
+      "party": "Popular",
+      "district": "Valladolid",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Carballedo Berlanga, María Eugenia",
+      "gender": "F",
+      "party": "Popular",
+      "district": "Madrid",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Casares Hontañón, Pedro",
+      "gender": "M",
+      "party": "Socialista",
+      "district": "Cantabria",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Castilla Álvarez, María Carmen",
+      "gender": "F",
+      "party": "Socialista",
+      "district": "Sevilla",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Catalán Higueras, Alberto",
+      "gender": "M",
+      "party": "Mixto",
+      "district": "Navarra",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Cavacasillas Rodríguez, Antonio",
+      "gender": "M",
+      "party": "Popular",
+      "district": "Badajoz",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Celaya Brey, Javier",
+      "gender": "M",
+      "party": "Popular",
+      "district": "Ceuta",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Cercas Mena, Blanca",
+      "gender": "F",
+      "party": "PSC",
+      "district": "Gerona",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Cervera Pinart, Josep María",
+      "gender": "M",
+      "party": "Junts per Catalunya",
+      "district": "Gerona",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Chamorro Delmo, Ricardo",
+      "gender": "M",
+      "party": "Vox",
+      "district": "Ciudad Real",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Clavell López, Óscar",
+      "gender": "M",
+      "party": "Popular",
+      "district": "Castellón",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Clemente Muñoz, Raquel",
+      "gender": "F",
+      "party": "Popular",
+      "district": "Teruel",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Cobo Carmona, Ana",
+      "gender": "F",
+      "party": "Socialista",
+      "district": "Jaén",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Cobo Pérez, Noelia",
+      "gender": "F",
+      "party": "Socialista",
+      "district": "Cantabria",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Corujo Berriel, María Dolores",
+      "gender": "F",
+      "party": "Socialista",
+      "district": "Las Palmas",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Crespín Rubio, Rafaela",
+      "gender": "F",
+      "party": "Socialista",
+      "district": "Córdoba",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Cruset Domènech, Josep María",
+      "gender": "M",
+      "party": "Junts per Catalunya",
+      "district": "Tarragona",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Abades Martínez, Cristina",
+      "gender": "F",
+      "party": "Popular",
+      "district": "Lugo",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Ábalos Meco, José Luis",
+      "gender": "M",
+      "party": "Socialista",
+      "district": "Valencia",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Abascal Conde, Santiago",
+      "gender": "M",
+      "party": "Vox",
+      "district": "Madrid",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Acedo Reyes, Sofía",
+      "gender": "F",
+      "party": "Popular",
+      "district": "Melilla",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Alcaraz Martos, Francisco José",
+      "gender": "M",
+      "party": "Vox",
+      "district": "Jaén",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Alfonso Cendón, Javier",
+      "gender": "M",
+      "party": "Socialista",
+      "district": "León",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Alfonso Silvestre, Alma",
+      "gender": "F",
+      "party": "Popular",
+      "district": "Valencia",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Alía Aguado, María Pilar",
+      "gender": "F",
+      "party": "Popular",
+      "district": "Toledo",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Almirón Ruiz, Oriol",
+      "gender": "M",
+      "party": "Socialista",
+      "district": "Barcelona",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Aizcorbe Torra, Juan José",
+      "gender": "M",
+      "party": "Vox",
+      "district": "Barcelona",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Aizpurua Arzallus, Mertxe",
+      "gender": "F",
+      "party": "EH Bildu",
+      "district": "Guipúzcoa",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Cervera Pinart, Josep María",
+      "gender": "M",
+      "party": "Junts per Catalunya",
+      "district": "Gerona",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Canelo Matito, Andrea",
+      "gender": "F",
+      "party": "PSC",
+      "district": "Barcelona",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Chamorro Delmo, Ricardo",
+      "gender": "M",
+      "party": "Vox",
+      "district": "Ciudad Real",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Cercas Mena, Blanca",
+      "gender": "F",
+      "party": "PSC",
+      "district": "Gerona",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Carballedo Berlanga, María Eugenia",
+      "gender": "F",
+      "party": "Popular",
+      "district": "Madrid",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Casares Hontañón, Pedro",
+      "gender": "M",
+      "party": "Socialista",
+      "district": "Cantabria",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Castilla Álvarez, María Carmen",
+      "gender": "F",
+      "party": "Socialista",
+      "district": "Sevilla",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Cavacasillas Rodríguez, Antonio",
+      "gender": "M",
+      "party": "Popular",
+      "district": "Badajoz",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Celaya Brey, Javier",
+      "gender": "M",
+      "party": "Popular",
+      "district": "Ceuta",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Clavell López, Óscar",
+      "gender": "M",
+      "party": "Popular",
+      "district": "Castellón",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Clements Muñoz, Raquel",
+      "gender": "F",
+      "party": "Popular",
+      "district": "Teruel",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Crespín Rubio, Rafaela",
+      "gender": "F",
+      "party": "Socialista",
+      "district": "Córdoba",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Bravo Baena, Juan",
+      "gender": "M",
+      "party": "Popular",
+      "district": "Sevilla",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Borrego Cortés, Isabel María",
+      "gender": "F",
+      "party": "Popular",
+      "district": "Murcia",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Bolaños García, Félix",
+      "gender": "M",
+      "party": "Socialista",
+      "district": "Madrid",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Cacho Isla, Iván",
+      "gender": "M",
+      "party": "Socialista",
+      "district": "Navarra",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Calvo Gómez, Pilar",
+      "gender": "F",
+      "party": "Junts per Catalunya",
+      "district": "Barcelona",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Camino Miñana, Víctor",
+      "gender": "M",
+      "party": "Socialista",
+      "district": "Valencia",
+      "salary": { "gross": 74413, "net": 50000 }
+    },
+    {
+      "name": "Campos Asensi, Jorge",
+      "gender": "M",
+      "party": "Vox",
+      "district": "Baleares",
+      "salary": { "gross": 74413, "net": 50000 }
     }
-  [
-  {
-    "name": "Abades Martínez, Cristina",
-    "gender": "F",
-    "party": "Popular",
-    "district": "Lugo",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Ábalos Meco, José Luis",
-    "gender": "M",
-    "party": "Socialista",
-    "district": "Valencia",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Abascal Conde, Santiago",
-    "gender": "M",
-    "party": "Vox",
-    "district": "Madrid",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Acedo Reyes, Sofía",
-    "gender": "F",
-    "party": "Popular",
-    "district": "Melilla",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Bolaños García, Félix",
-    "gender": "M",
-    "party": "Socialista",
-    "district": "Madrid",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Borrego Cortés, Isabel María",
-    "gender": "F",
-    "party": "Popular",
-    "district": "Murcia",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Bravo Baena, Juan",
-    "gender": "M",
-    "party": "Popular",
-    "district": "Sevilla",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Cabezón Casas, Tomás",
-    "gender": "M",
-    "party": "Popular",
-    "district": "Soria",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Cacho Isla, Iván",
-    "gender": "M",
-    "party": "Socialista",
-    "district": "Navarra",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Calvo Gómez, Pilar",
-    "gender": "F",
-    "party": "Junts per Catalunya",
-    "district": "Barcelona",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Camino Miñana, Víctor",
-    "gender": "M",
-    "party": "Socialista",
-    "district": "Valencia",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Campos Asensi, Jorge",
-    "gender": "M",
-    "party": "Vox",
-    "district": "Baleares",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Canelo Matito, Andrea",
-    "gender": "F",
-    "party": "PSC",
-    "district": "Barcelona",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Cantalapiedra Álvarez, María de las Mercedes",
-    "gender": "F",
-    "party": "Popular",
-    "district": "Valladolid",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Carazo Hermoso, Eduardo",
-    "gender": "M",
-    "party": "Popular",
-    "district": "Valladolid",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Carballedo Berlanga, María Eugenia",
-    "gender": "F",
-    "party": "Popular",
-    "district": "Madrid",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Casares Hontañón, Pedro",
-    "gender": "M",
-    "party": "Socialista",
-    "district": "Cantabria",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Castilla Álvarez, María Carmen",
-    "gender": "F",
-    "party": "Socialista",
-    "district": "Sevilla",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Catalán Higueras, Alberto",
-    "gender": "M",
-    "party": "Mixto",
-    "district": "Navarra",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Cavacasillas Rodríguez, Antonio",
-    "gender": "M",
-    "party": "Popular",
-    "district": "Badajoz",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Celaya Brey, Javier",
-    "gender": "M",
-    "party": "Popular",
-    "district": "Ceuta",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Cercas Mena, Blanca",
-    "gender": "F",
-    "party": "PSC",
-    "district": "Gerona",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Cervera Pinart, Josep María",
-    "gender": "M",
-    "party": "Junts per Catalunya",
-    "district": "Gerona",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Chamorro Delmo, Ricardo",
-    "gender": "M",
-    "party": "Vox",
-    "district": "Ciudad Real",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Clavell López, Óscar",
-    "gender": "M",
-    "party": "Popular",
-    "district": "Castellón",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Clemente Muñoz, Raquel",
-    "gender": "F",
-    "party": "Popular",
-    "district": "Teruel",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Cobo Carmona, Ana",
-    "gender": "F",
-    "party": "Socialista",
-    "district": "Jaén",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Cobo Pérez, Noelia",
-    "gender": "F",
-    "party": "Socialista",
-    "district": "Cantabria",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Corujo Berriel, María Dolores",
-    "gender": "F",
-    "party": "Socialista",
-    "district": "Las Palmas",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Crespín Rubio, Rafaela",
-    "gender": "F",
-    "party": "Socialista",
-    "district": "Córdoba",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Cruset Domènech, Josep María",
-    "gender": "M",
-    "party": "Junts per Catalunya",
-    "district": "Tarragona",
-    "salary": { "gross": 74413, "net": 50000 }
-  }
-[
-  {
-    "name": "Abades Martínez, Cristina",
-    "gender": "F",
-    "party": "Popular",
-    "district": "Lugo",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Ábalos Meco, José Luis",
-    "gender": "M",
-    "party": "Socialista",
-    "district": "Valencia",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Abascal Conde, Santiago",
-    "gender": "M",
-    "party": "Vox",
-    "district": "Madrid",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Acedo Reyes, Sofía",
-    "gender": "F",
-    "party": "Popular",
-    "district": "Melilla",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Alcaraz Martos, Francisco José",
-    "gender": "M",
-    "party": "Vox",
-    "district": "Jaén",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Alfonso Cendón, Javier",
-    "gender": "M",
-    "party": "Socialista",
-    "district": "León",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Alfonso Silvestre, Alma",
-    "gender": "F",
-    "party": "Popular",
-    "district": "Valencia",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Alía Aguado, María Pilar",
-    "gender": "F",
-    "party": "Popular",
-    "district": "Toledo",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Almirón Ruiz, Oriol",
-    "gender": "M",
-    "party": "Socialista",
-    "district": "Barcelona",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Aizcorbe Torra, Juan José",
-    "gender": "M",
-    "party": "Vox",
-    "district": "Barcelona",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Aizpurua Arzallus, Mertxe",
-    "gender": "F",
-    "party": "EH Bildu",
-    "district": "Guipúzcoa",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Cervera Pinart, Josep María",
-    "gender": "M",
-    "party": "Junts per Catalunya",
-    "district": "Gerona",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Canelo Matito, Andrea",
-    "gender": "F",
-    "party": "PSC",
-    "district": "Barcelona",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Chamorro Delmo, Ricardo",
-    "gender": "M",
-    "party": "Vox",
-    "district": "Ciudad Real",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Cercas Mena, Blanca",
-    "gender": "F",
-    "party": "PSC",
-    "district": "Gerona",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Carballedo Berlanga, María Eugenia",
-    "gender": "F",
-    "party": "Popular",
-    "district": "Madrid",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Casares Hontañón, Pedro",
-    "gender": "M",
-    "party": "Socialista",
-    "district": "Cantabria",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Castilla Álvarez, María Carmen",
-    "gender": "F",
-    "party": "Socialista",
-    "district": "Sevilla",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Cavacasillas Rodríguez, Antonio",
-    "gender": "M",
-    "party": "Popular",
-    "district": "Badajoz",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Celaya Brey, Javier",
-    "gender": "M",
-    "party": "Popular",
-    "district": "Ceuta",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Clavell López, Óscar",
-    "gender": "M",
-    "party": "Popular",
-    "district": "Castellón",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Clements Muñoz, Raquel",
-    "gender": "F",
-    "party": "Popular",
-    "district": "Teruel",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Crespín Rubio, Rafaela",
-    "gender": "F",
-    "party": "Socialista",
-    "district": "Córdoba",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Bravo Baena, Juan",
-    "gender": "M",
-    "party": "Popular",
-    "district": "Sevilla",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Borrego Cortés, Isabel María",
-    "gender": "F",
-    "party": "Popular",
-    "district": "Murcia",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Bolaños García, Félix",
-    "gender": "M",
-    "party": "Socialista",
-    "district": "Madrid",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Cacho Isla, Iván",
-    "gender": "M",
-    "party": "Socialista",
-    "district": "Navarra",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Calvo Gómez, Pilar",
-    "gender": "F",
-    "party": "Junts per Catalunya",
-    "district": "Barcelona",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Camino Miñana, Víctor",
-    "gender": "M",
-    "party": "Socialista",
-    "district": "Valencia",
-    "salary": { "gross": 74413, "net": 50000 }
-  },
-  {
-    "name": "Campos Asensi, Jorge",
-    "gender": "M",
-    "party": "Vox",
-    "district": "Baleares",
-    "salary": { "gross": 74413, "net": 50000 }
-  }
-]
-
-,
+  ],
   "senate": [
     {
       "name": "Maria Gonzalez",
