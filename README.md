@@ -2,7 +2,7 @@
 
 📊 A public, structured dataset of government officials’ salaries — open, versioned, and community-driven.
 
-This project provides structured JSON files listing salaries by country, year, and semester. The goal is to improve transparency and empower civic tech, journalists, and researchers.
+This project provides structured JSON files listing salaries by country and year. The goal is to improve transparency and empower civic tech, journalists, and researchers.
 
 ---
 
@@ -14,8 +14,8 @@ All JSON data is publicly available at:
 
 ### Example URLs:
 
-- [`/es/2025/2/data.json`](https://cdmngz.github.io/gov-salaries-data/es/2025/2/data.json) – officials, parties, base currency, etc.
-- [`/es/2025/2/rates.json`](https://cdmngz.github.io/gov-salaries-data/es/2025/2/rates.json) – exchange rates for currency conversion
+- [`/es/2025/data.json`](https://cdmngz.github.io/gov-salaries-data/es/2025/data.json) – officials, parties, base currency, etc.
+- [`/es/2025/rates.json`](https://cdmngz.github.io/gov-salaries-data/es/2025/rates.json) – exchange rates for currency conversion
 - [`/es/index.json`](https://cdmngz.github.io/gov-salaries-data/es/index.json) – available semesters per country
 - [`/index.json`](https://cdmngz.github.io/gov-salaries-data/index.json) – all available countries
 
@@ -25,14 +25,15 @@ All JSON data is publicly available at:
 
 Each dataset is organized by:
 
-`/<country>/<year>/<semester>/{data.json,rates.json}`
+`/<country>/<year>/data.json`
+`/<country>/<year>/rates.json`
 
 ### Example:
 
-`/es/2025/1/data.json
-/es/2025/1/rates.json`
+`/es/2025/data.json`
+`/es/2025/rates.json`
 
-- `data.json` contains official records, metadata, and the `baseCurrency` field.
+- `data.json` contains official records, metadata, and the country `baseCurrency` field.
 - `rates.json` contains conversion rates **relative to that baseCurrency**, including both fiat and selected cryptocurrencies.
 
 ---
@@ -61,7 +62,7 @@ Each dataset is organized by:
 We welcome your help! To contribute:
 
 1. **Fork the repo**
-2. **Add or update a `data.json` file** in the correct folder (`/<country>/<year>/<semester>/data.json`)
+2. **Add or update a `data.json` file** in the correct folder (`/<country>/<year>/data.json`)
 3. **Follow the expected JSON format** — see the template below
 4. **Submit a Pull Request**
 

@@ -8,16 +8,18 @@ We welcome new data submissions, corrections, and improvements from the communit
 
 ## 📂 Data Structure
 
-All data is organized by **country**, **year**, and **semester**:
+All data is organized by **country** and **year**:
 
 ```
-/<country>/<year>/<semester>/data.json
+/<country>/<year>/data.json
+/<country>/<year>/rates.json
 ```
 
 ✅ Example:
 
 ```
-/ar/2025/1/data.json
+/es/2025/data.json
+/es/2025/rates.json
 ```
 
 ---
@@ -26,8 +28,7 @@ All data is organized by **country**, **year**, and **semester**:
 
 Each `data.json` should follow this structure:
 
-- Use numeric values without currency symbols
-- Salaries should represent **anual gross** and **anual net** amounts
+- Salaries should represent **anual gross** and **anual net** numeric amounts
 
 You can view the expected format here:  
 ➡️ [`templates/data-template.json`](templates/data-template.json)
@@ -40,7 +41,7 @@ This template serves as the reference for how your `data.json` files should be s
 
 After your pull request is merged, the repository will automatically update the `index.json` files for each country.
 
-You **do not** need to edit them manually.
+You **do not** need to edit the index.json files manually.
 
 ---
 
@@ -49,7 +50,6 @@ You **do not** need to edit them manually.
 - [ ] Place the file in the correct path
 - [ ] Ensure the JSON is valid (no trailing commas!)
 - [ ] Confirm salaries are numeric
-- [ ] Include only publicly available or verified data
 
 ---
 

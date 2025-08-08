@@ -1,14 +1,18 @@
 {
   "baseCurrency": "USD",
-  "Royalty": [
+  "royalty": [
     {
       "name": "Arthur Pendragon",
       "gender": "M",
       "party": "Royal",
       "salary": {
         "gross": 250000,
-        "net": 200000,
-        "bonus": { "coronation": 50000 }
+        "net": 200000
+      },
+      "details": {
+        "Official pdf": "https://...",
+        "Bonus ammount": 14000,
+        "Simple info": "example"
       }
     }
   ],
@@ -16,10 +20,15 @@
     {
       "name": "Alice Johnson",
       "gender": "F",
-      "party": "Unity",
+      "party": "UNI",
       "salary": {
         "gross": 180000,
         "net": 140000
+      },
+      "details": {
+        "Official pdf": "https://...",
+        "Bonus ammount": 14000,
+        "Simple info": "example"
       }
     }
   ],
@@ -27,7 +36,7 @@
     {
       "name": "Victor Ramos",
       "gender": "M",
-      "party": "Unity",
+      "party": "UNI",
       "salary": {
         "gross": 160000,
         "net": 125000
@@ -39,11 +48,10 @@
       "name": "Ariel Smith",
       "gender": "X",
       "role": "Minister of Finance",
-      "party": "Green",
+      "party": "VRD",
       "salary": {
         "gross": 150000,
-        "net": 120000,
-        "bonus": { "performance": 10000 }
+        "net": 120000
       }
     }
   ],
@@ -51,7 +59,8 @@
     {
       "name": "James O'Neil",
       "gender": "M",
-      "party": "Unity",
+      "party": "UNI",
+      "district": "Northwest Region",
       "salary": {
         "gross": 120000,
         "net": 95000
@@ -62,12 +71,12 @@
     {
       "name": "Maria Gonzalez",
       "gender": "F",
-      "party": "Green",
+      "party": "VRD",
+      "district": "Northwest Region",
       "salary": {
         "gross": 130000,
         "net": 100000
-      },
-      "district": "Northwest Region"
+      }
     }
   ],
   "officials": [
@@ -83,9 +92,17 @@
     }
   ],
   "parties": {
-    "Unity": { "name": "Unity Party", "color": "#3366cc" },
-    "Green": { "name": "Green Alliance", "color": "#00cc66" },
-    "Royal": { "name": "Royalists", "color": "#ccaa00" },
-    "Independent": { "name": "Independent", "color": "#999999" }
+    "UNI": {
+      "name": "Unity Party",
+      "en": "Unity Party",
+      "range": 4,
+      "color": "#3366cc"
+    },
+    "VRD": {
+      "name": "Verde",
+      "en": "Green",
+      "range": 3,
+      "color": "#ABC4F3"
+    }
   }
 }
