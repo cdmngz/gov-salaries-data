@@ -10,14 +10,14 @@ This project provides structured JSON files listing salaries by country and year
 
 All JSON data is publicly available at:
 
-**https://cdmngz.github.io/gov-salaries-data/**
+**https://cdmngz.github.io/gov-salaries-data/data**
 
 ### Example URLs:
 
-- [`/es/2025/data.json`](https://cdmngz.github.io/gov-salaries-data/es/2025/data.json) – officials, parties, base currency, etc.
-- [`/es/2025/rates.json`](https://cdmngz.github.io/gov-salaries-data/es/2025/rates.json) – exchange rates for currency conversion
-- [`/es/index.json`](https://cdmngz.github.io/gov-salaries-data/es/index.json) – available years per country
-- [`/index.json`](https://cdmngz.github.io/gov-salaries-data/index.json) – all available countries years
+- [`/es/2025/data.json`](https://cdmngz.github.io/gov-salaries-data/data/es/2025/data.json) – officials, parties, base currency, etc.
+- [`/es/2025/rates.json`](https://cdmngz.github.io/gov-salaries-data/data/es/2025/rates.json) – exchange rates for currency conversion
+- [`/es/index.json`](https://cdmngz.github.io/gov-salaries-data/data/es/index.json) – available years per country
+- [`/index.json`](https://cdmngz.github.io/gov-salaries-data/data/index.json) – all available countries years
 
 ---
 
@@ -53,6 +53,7 @@ Each dataset is organized by:
 
 - 🇦🇷 Argentina (`/ar`)
 - 🇪🇸 Spain (`/es`)
+- 🇺🇸 United States (`/us`)
 - _(More can be added via pull requests)_
 
 ---

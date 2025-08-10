@@ -8,18 +8,18 @@ We welcome new data submissions, corrections, and improvements from the communit
 
 ## 📂 Data Structure
 
-All data is organized by **country** and **year**:
+All data is organized by **country** and **year** in the **data** folder, the only files you need to create/update are:
 
 ```
-/<country>/<year>/data.json
-/<country>/<year>/rates.json
+/data/<country>/<year>/data.json
+/data/<country>/<year>/rates.json
 ```
 
 ✅ Example:
 
 ```
-/es/2025/data.json
-/es/2025/rates.json
+/data/es/2025/data.json
+/data/es/2025/rates.json
 ```
 
 ---
@@ -41,7 +41,9 @@ This template serves as the reference for how your `data.json` files should be s
 
 After your pull request is merged, the repository will automatically update the `index.json` files for each country.
 
-You **do not** need to edit the index.json files manually.
+```markdown
+You **do not** need to edit the index.json files manually, these files are automatically updated.
+```
 
 ---
 
