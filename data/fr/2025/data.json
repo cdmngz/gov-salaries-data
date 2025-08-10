@@ -1,0 +1,160 @@
+{
+  "baseCurrency": "EUR",
+  "president": [
+    {
+      "name": "Emmanuel Macron",
+      "gender": "M",
+      "role": "President of France",
+      "party": "RE",
+      "salary": {
+        "gross": 192468,
+        "net": 175032
+      }
+    }
+  ],
+  "vicePresident": [
+    {
+      "name": "Gabriel Attal",
+      "gender": "M",
+      "role": "Prime Minister of France",
+      "party": "RE",
+      "salary": {
+        "gross": 178920,
+        "net": 145000
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "François Bayrou",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "MoDem",
+      "salary": { "gross": 150000, "net": 120000 },
+      "budget": null
+    },
+    {
+      "name": "Élisabeth Borne",
+      "gender": "F",
+      "role": "Minister of Education, Higher Education & Research",
+      "party": "RE",
+      "salary": { "gross": 128964, "net": 110000 },
+      "budget": null
+    },
+    {
+      "name": "Manuel Valls",
+      "gender": "M",
+      "role": "Minister of Overseas Territories",
+      "party": "RE",
+      "salary": { "gross": 128964, "net": 110000 },
+      "budget": null
+    },
+    {
+      "name": "Gérald Darmanin",
+      "gender": "M",
+      "role": "Minister of Justice",
+      "party": "RE",
+      "salary": { "gross": 128964, "net": 110000 },
+      "budget": null
+    },
+    {
+      "name": "Bruno Retailleau",
+      "gender": "M",
+      "role": "Minister of Interior",
+      "party": "LR",
+      "salary": { "gross": 128964, "net": 110000 },
+      "budget": null
+    },
+    {
+      "name": "Catherine Vautrin",
+      "gender": "F",
+      "role": "Minister of Labour, Health, Solidarity & Families",
+      "party": "RE",
+      "salary": { "gross": 128964, "net": 110000 },
+      "budget": null
+    },
+    {
+      "name": "Éric Lombard",
+      "gender": "M",
+      "role": "Minister of Economy, Finance & Industrial & Digital Sovereignty",
+      "party": "SE",
+      "salary": { "gross": 128964, "net": 110000 },
+      "budget": null
+    },
+    {
+      "name": "Sébastien Lecornu",
+      "gender": "M",
+      "role": "Minister of the Armed Forces",
+      "party": "RE",
+      "salary": { "gross": 128964, "net": 110000 },
+      "budget": null
+    },
+    {
+      "name": "Rachida Dati",
+      "gender": "F",
+      "role": "Minister of Culture",
+      "party": "LR",
+      "salary": { "gross": 128964, "net": 110000 },
+      "budget": null
+    },
+    {
+      "name": "François Rebsamen",
+      "gender": "M",
+      "role": "Minister of Territorial Development & Decentralization",
+      "party": "FP",
+      "salary": { "gross": 128964, "net": 110000 },
+      "budget": null
+    },
+    {
+      "name": "Jean-Noël Barrot",
+      "gender": "M",
+      "role": "Minister of Europe & Foreign Affairs",
+      "party": "MoDem",
+      "salary": { "gross": 128964, "net": 110000 },
+      "budget": null
+    },
+    {
+      "name": "Agnès Pannier-Runacher",
+      "gender": "F",
+      "role": "Minister of Ecological Transition, Biodiversity, Forests, Sea & Fisheries",
+      "party": "RE",
+      "salary": { "gross": 128964, "net": 110000 },
+      "budget": null
+    },
+    {
+      "name": "Annie Genevard",
+      "gender": "F",
+      "role": "Minister of Agriculture & Food Sovereignty",
+      "party": "LR",
+      "salary": { "gross": 128964, "net": 110000 },
+      "budget": null
+    },
+    {
+      "name": "Laurent Marcangeli",
+      "gender": "M",
+      "role": "Minister of Public Action, Civil Service & Simplification",
+      "party": "HOR",
+      "salary": { "gross": 128964, "net": 110000 },
+      "budget": null
+    },
+    {
+      "name": "Marie Barsacq",
+      "gender": "F",
+      "role": "Minister of Sports, Youth & Community Life",
+      "party": "SE",
+      "salary": { "gross": 128964, "net": 110000 },
+      "budget": null
+    }
+  ],
+  "congress": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "RE": {
+      "name": "Renaissance",
+      "en": "Renaissance",
+      "range": 4,
+      "color": "#03215A"
+    }
+  }
+}
