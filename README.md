@@ -53,6 +53,7 @@ Each dataset is organized by:
 
 - 🇦🇷 Argentina (`/ar`)
 - 🇪🇸 Spain (`/es`)
+- 🇫🇷 France (`/fr`)
 - 🇺🇸 United States (`/us`)
 - _(More can be added via pull requests)_
 
@@ -63,7 +64,7 @@ Each dataset is organized by:
 We welcome your help! To contribute:
 
 1. **Fork the repo**
-2. **Add or update a `data.json` file** in the correct folder (`/<country>/<year>/data.json`)
+2. **Add or update a `data.json` file** in the correct folder (`/data/<country>/<year>/data.json`)
 3. **Follow the expected JSON format** — see the template below
 4. **Submit a Pull Request**
 
