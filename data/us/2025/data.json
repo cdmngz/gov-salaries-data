@@ -189,7 +189,2318 @@
       "budget": 62200000000
     }
   ],
-  "congress": [],
+  "congress": [
+    {
+      "name": "Jerry Carl",
+      "gender": "M",
+      "district": "Alabama 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Barry Moore",
+      "gender": "M",
+      "district": "Alabama 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Rogers",
+      "gender": "M",
+      "district": "Alabama 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Robert Aderholt",
+      "gender": "M",
+      "district": "Alabama 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Dale Strong",
+      "gender": "M",
+      "district": "Alabama 5th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Gary Palmer",
+      "gender": "M",
+      "district": "Alabama 6th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Terri Sewell",
+      "gender": "F",
+      "district": "Alabama 7th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mary Peltola",
+      "gender": "F",
+      "district": "Alaska At-Large",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "David Schweikert",
+      "gender": "M",
+      "district": "Arizona 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Eli Crane",
+      "gender": "M",
+      "district": "Arizona 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Raúl Grijalva",
+      "gender": "M",
+      "district": "Arizona 3rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Greg Stanton",
+      "gender": "M",
+      "district": "Arizona 4th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Andy Biggs",
+      "gender": "M",
+      "district": "Arizona 5th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Juan Ciscomani",
+      "gender": "M",
+      "district": "Arizona 6th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Debbie Lesko",
+      "gender": "F",
+      "district": "Arizona 7th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ruben Gallego",
+      "gender": "M",
+      "district": "Arizona 8th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Paul Gosar",
+      "gender": "M",
+      "district": "Arizona 9th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Rick Crawford",
+      "gender": "M",
+      "district": "Arkansas 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "French Hill",
+      "gender": "M",
+      "district": "Arkansas 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Steve Womack",
+      "gender": "M",
+      "district": "Arkansas 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Bruce Westerman",
+      "gender": "M",
+      "district": "Arkansas 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Doug LaMalfa",
+      "gender": "M",
+      "district": "California 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jared Huffman",
+      "gender": "M",
+      "district": "California 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Kevin Kiley",
+      "gender": "M",
+      "district": "California 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Thompson",
+      "gender": "M",
+      "district": "California 4th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tom McClintock",
+      "gender": "M",
+      "district": "California 5th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ami Bera",
+      "gender": "M",
+      "district": "California 6th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Doris Matsui",
+      "gender": "F",
+      "district": "California 7th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Garamendi",
+      "gender": "M",
+      "district": "California 8th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Josh Harder",
+      "gender": "M",
+      "district": "California 9th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mark DeSaulnier",
+      "gender": "M",
+      "district": "California 10th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Nancy Pelosi",
+      "gender": "F",
+      "district": "California 11th",
+      "party": "D",
+      "salary": { "gross": 223500, "net": 145275 }
+    },
+    {
+      "name": "Barbara Lee",
+      "gender": "F",
+      "district": "California 12th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Eric Swalwell",
+      "gender": "M",
+      "district": "California 13th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Kevin Mullin",
+      "gender": "M",
+      "district": "California 14th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Anna Eshoo",
+      "gender": "F",
+      "district": "California 15th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jimmy Panetta",
+      "gender": "M",
+      "district": "California 16th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Zoe Lofgren",
+      "gender": "F",
+      "district": "California 17th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ro Khanna",
+      "gender": "M",
+      "district": "California 18th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jimmy Gomez",
+      "gender": "M",
+      "district": "California 19th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Lucille Roybal-Allard",
+      "gender": "F",
+      "district": "California 20th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Young Kim",
+      "gender": "F",
+      "district": "California 21st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ken Calvert",
+      "gender": "M",
+      "district": "California 22nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Maxine Waters",
+      "gender": "F",
+      "district": "California 23rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Nanette Barragán",
+      "gender": "F",
+      "district": "California 24th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Julia Brownley",
+      "gender": "F",
+      "district": "California 25th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Judy Chu",
+      "gender": "F",
+      "district": "California 26th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tony Cárdenas",
+      "gender": "M",
+      "district": "California 27th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Garcia",
+      "gender": "M",
+      "district": "California 28th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Brad Sherman",
+      "gender": "M",
+      "district": "California 29th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Adam Schiff",
+      "gender": "M",
+      "district": "California 30th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Grace Napolitano",
+      "gender": "F",
+      "district": "California 31st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Norma Torres",
+      "gender": "F",
+      "district": "California 32nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Pete Aguilar",
+      "gender": "M",
+      "district": "California 33rd",
+      "party": "D",
+      "salary": { "gross": 193400, "net": 125710 }
+    },
+    {
+      "name": "Jay Obernolte",
+      "gender": "M",
+      "district": "California 34th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Raul Ruiz",
+      "gender": "M",
+      "district": "California 35th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ted Lieu",
+      "gender": "M",
+      "district": "California 36th",
+      "party": "D",
+      "salary": { "gross": 193400, "net": 125710 }
+    },
+    {
+      "name": "Sydney Kamlager-Dove",
+      "gender": "F",
+      "district": "California 37th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Linda Sánchez",
+      "gender": "F",
+      "district": "California 38th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mark Takano",
+      "gender": "M",
+      "district": "California 39th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Young Oak Kim",
+      "gender": "F",
+      "district": "California 40th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Michelle Steel",
+      "gender": "F",
+      "district": "California 41st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Lou Correa",
+      "gender": "M",
+      "district": "California 42nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Levin",
+      "gender": "M",
+      "district": "California 43rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Sara Jacobs",
+      "gender": "F",
+      "district": "California 44th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Scott Peters",
+      "gender": "M",
+      "district": "California 45th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Joe Neguse",
+      "gender": "M",
+      "district": "Colorado 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Lauren Boebert",
+      "gender": "F",
+      "district": "Colorado 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jason Crow",
+      "gender": "M",
+      "district": "Colorado 6th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ken Buck",
+      "gender": "M",
+      "district": "Colorado 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Yadira Caraveo",
+      "gender": "F",
+      "district": "Colorado 8th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Joe Courtney",
+      "gender": "M",
+      "district": "Connecticut 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Rosa DeLauro",
+      "gender": "F",
+      "district": "Connecticut 3rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jim Himes",
+      "gender": "M",
+      "district": "Connecticut 4th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Larson",
+      "gender": "M",
+      "district": "Connecticut 1st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Matt Gaetz",
+      "gender": "M",
+      "district": "Florida 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Neal Dunn",
+      "gender": "M",
+      "district": "Florida 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Kat Cammack",
+      "gender": "F",
+      "district": "Florida 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Aaron Bean",
+      "gender": "M",
+      "district": "Florida 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Rutherford",
+      "gender": "M",
+      "district": "Florida 5th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Michael Waltz",
+      "gender": "M",
+      "district": "Florida 6th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Cory Mills",
+      "gender": "M",
+      "district": "Florida 7th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Bill Posey",
+      "gender": "M",
+      "district": "Florida 8th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Darren Soto",
+      "gender": "M",
+      "district": "Florida 9th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Maxwell Frost",
+      "gender": "M",
+      "district": "Florida 10th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Daniel Webster",
+      "gender": "M",
+      "district": "Florida 11th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Gus Bilirakis",
+      "gender": "M",
+      "district": "Florida 12th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Anna Paulina Luna",
+      "gender": "F",
+      "district": "Florida 13th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Kathy Castor",
+      "gender": "F",
+      "district": "Florida 14th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Laurel Lee",
+      "gender": "F",
+      "district": "Florida 15th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Vern Buchanan",
+      "gender": "M",
+      "district": "Florida 16th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Greg Steube",
+      "gender": "M",
+      "district": "Florida 17th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Scott Franklin",
+      "gender": "M",
+      "district": "Florida 18th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Byron Donalds",
+      "gender": "M",
+      "district": "Florida 19th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Sheila Cherfilus-McCormick",
+      "gender": "F",
+      "district": "Florida 20th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jared Moskowitz",
+      "gender": "M",
+      "district": "Florida 21st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Lois Frankel",
+      "gender": "F",
+      "district": "Florida 22nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Debbie Wasserman Schultz",
+      "gender": "F",
+      "district": "Florida 23rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Frederica Wilson",
+      "gender": "F",
+      "district": "Florida 24th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mario Díaz-Balart",
+      "gender": "M",
+      "district": "Florida 25th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Carlos Giménez",
+      "gender": "M",
+      "district": "Florida 26th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Maria Elvira Salazar",
+      "gender": "F",
+      "district": "Florida 27th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Buddy Carter",
+      "gender": "M",
+      "district": "Georgia 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Sanford Bishop",
+      "gender": "M",
+      "district": "Georgia 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Drew Ferguson",
+      "gender": "M",
+      "district": "Georgia 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Hank Johnson",
+      "gender": "M",
+      "district": "Georgia 4th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Nikema Williams",
+      "gender": "F",
+      "district": "Georgia 5th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Lucy McBath",
+      "gender": "F",
+      "district": "Georgia 6th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Rich McCormick",
+      "gender": "M",
+      "district": "Georgia 7th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Austin Scott",
+      "gender": "M",
+      "district": "Georgia 8th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Andrew Clyde",
+      "gender": "M",
+      "district": "Georgia 9th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Collins",
+      "gender": "M",
+      "district": "Georgia 10th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Barry Loudermilk",
+      "gender": "M",
+      "district": "Georgia 11th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Rick Allen",
+      "gender": "M",
+      "district": "Georgia 12th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "David Scott",
+      "gender": "M",
+      "district": "Georgia 13th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Marjorie Taylor Greene",
+      "gender": "F",
+      "district": "Georgia 14th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ed Case",
+      "gender": "M",
+      "district": "Hawaii 1st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jill Tokuda",
+      "gender": "F",
+      "district": "Hawaii 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Russ Fulcher",
+      "gender": "M",
+      "district": "Idaho 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Simpson",
+      "gender": "M",
+      "district": "Idaho 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jonathan Jackson",
+      "gender": "M",
+      "district": "Illinois 1st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Robin Kelly",
+      "gender": "F",
+      "district": "Illinois 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Marie Newman",
+      "gender": "F",
+      "district": "Illinois 3rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jesús “Chuy” García",
+      "gender": "M",
+      "district": "Illinois 4th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Quigley",
+      "gender": "M",
+      "district": "Illinois 5th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Sean Casten",
+      "gender": "M",
+      "district": "Illinois 6th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Danny Davis",
+      "gender": "M",
+      "district": "Illinois 7th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Raja Krishnamoorthi",
+      "gender": "M",
+      "district": "Illinois 8th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jan Schakowsky",
+      "gender": "F",
+      "district": "Illinois 9th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Brad Schneider",
+      "gender": "M",
+      "district": "Illinois 10th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Bill Foster",
+      "gender": "M",
+      "district": "Illinois 11th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Bost",
+      "gender": "M",
+      "district": "Illinois 12th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mary Miller",
+      "gender": "F",
+      "district": "Illinois 13th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Lauren Underwood",
+      "gender": "F",
+      "district": "Illinois 14th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Quigley",
+      "gender": "M",
+      "district": "Illinois 15th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Darin LaHood",
+      "gender": "M",
+      "district": "Illinois 16th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Randy Feenstra",
+      "gender": "M",
+      "district": "Iowa 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ashley Hinson",
+      "gender": "F",
+      "district": "Iowa 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mariannette Miller-Meeks",
+      "gender": "F",
+      "district": "Iowa 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Zach Nunn",
+      "gender": "M",
+      "district": "Iowa 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tracey Mann",
+      "gender": "M",
+      "district": "Kansas 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jake LaTurner",
+      "gender": "M",
+      "district": "Kansas 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Sharice Davids",
+      "gender": "F",
+      "district": "Kansas 3rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ron Estes",
+      "gender": "M",
+      "district": "Kansas 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "James Comer",
+      "gender": "M",
+      "district": "Kentucky 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Brett Guthrie",
+      "gender": "M",
+      "district": "Kentucky 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Morgan McGarvey",
+      "gender": "M",
+      "district": "Kentucky 3rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Thomas Massie",
+      "gender": "M",
+      "district": "Kentucky 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Hal Rogers",
+      "gender": "M",
+      "district": "Kentucky 5th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Andy Barr",
+      "gender": "M",
+      "district": "Kentucky 6th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Steve Scalise",
+      "gender": "M",
+      "district": "Louisiana 1st",
+      "party": "R",
+      "salary": { "gross": 193400, "net": 125710 }
+    },
+    {
+      "name": "Clay Higgins",
+      "gender": "M",
+      "district": "Louisiana 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Troy Carter",
+      "gender": "M",
+      "district": "Louisiana 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Johnson",
+      "gender": "M",
+      "district": "Louisiana 4th",
+      "party": "R",
+      "salary": { "gross": 223500, "net": 145275 }
+    },
+    {
+      "name": "Julia Letlow",
+      "gender": "F",
+      "district": "Louisiana 5th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Garret Graves",
+      "gender": "M",
+      "district": "Louisiana 6th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Chellie Pingree",
+      "gender": "F",
+      "district": "Maine 1st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jared Golden",
+      "gender": "M",
+      "district": "Maine 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Dutch Ruppersberger",
+      "gender": "M",
+      "district": "Maryland 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Sarbanes",
+      "gender": "M",
+      "district": "Maryland 3rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Glenn Ivey",
+      "gender": "M",
+      "district": "Maryland 4th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Steny Hoyer",
+      "gender": "M",
+      "district": "Maryland 5th",
+      "party": "D",
+      "salary": { "gross": 193400, "net": 125710 }
+    },
+    {
+      "name": "David Trone",
+      "gender": "M",
+      "district": "Maryland 6th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Kweisi Mfume",
+      "gender": "M",
+      "district": "Maryland 7th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jamie Raskin",
+      "gender": "M",
+      "district": "Maryland 8th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Richard Neal",
+      "gender": "M",
+      "district": "Massachusetts 1st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jim McGovern",
+      "gender": "M",
+      "district": "Massachusetts 2nd",
+      "party": "D",
+      "salary": { "gross": 193400, "net": 125710 }
+    },
+    {
+      "name": "Lori Trahan",
+      "gender": "F",
+      "district": "Massachusetts 3rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jake Auchincloss",
+      "gender": "M",
+      "district": "Massachusetts 4th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Katherine Clark",
+      "gender": "F",
+      "district": "Massachusetts 5th",
+      "party": "D",
+      "salary": { "gross": 193400, "net": 125710 }
+    },
+    {
+      "name": "Seth Moulton",
+      "gender": "M",
+      "district": "Massachusetts 6th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ayanna Pressley",
+      "gender": "F",
+      "district": "Massachusetts 7th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Stephen Lynch",
+      "gender": "M",
+      "district": "Massachusetts 8th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Bill Keating",
+      "gender": "M",
+      "district": "Massachusetts 9th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jack Bergman",
+      "gender": "M",
+      "district": "Michigan 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Moolenaar",
+      "gender": "M",
+      "district": "Michigan 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Hillary Scholten",
+      "gender": "F",
+      "district": "Michigan 3rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Bill Huizenga",
+      "gender": "M",
+      "district": "Michigan 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tim Walberg",
+      "gender": "M",
+      "district": "Michigan 5th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Debbie Dingell",
+      "gender": "F",
+      "district": "Michigan 6th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Elissa Slotkin",
+      "gender": "F",
+      "district": "Michigan 7th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Dan Kildee",
+      "gender": "M",
+      "district": "Michigan 8th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Lisa McClain",
+      "gender": "F",
+      "district": "Michigan 9th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John James",
+      "gender": "M",
+      "district": "Michigan 10th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Haley Stevens",
+      "gender": "F",
+      "district": "Michigan 11th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Debbie Lesko",
+      "gender": "F",
+      "district": "Michigan 12th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Angie Craig",
+      "gender": "F",
+      "district": "Minnesota 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Dean Phillips",
+      "gender": "M",
+      "district": "Minnesota 3rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Betty McCollum",
+      "gender": "F",
+      "district": "Minnesota 4th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ilhan Omar",
+      "gender": "F",
+      "district": "Minnesota 5th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tom Emmer",
+      "gender": "M",
+      "district": "Minnesota 6th",
+      "party": "R",
+      "salary": { "gross": 193400, "net": 125710 }
+    },
+    {
+      "name": "Michelle Fischbach",
+      "gender": "F",
+      "district": "Minnesota 7th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Pete Stauber",
+      "gender": "M",
+      "district": "Minnesota 8th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jason Smith",
+      "gender": "M",
+      "district": "Missouri 8th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Cori Bush",
+      "gender": "F",
+      "district": "Missouri 1st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ann Wagner",
+      "gender": "F",
+      "district": "Missouri 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Blaine Luetkemeyer",
+      "gender": "M",
+      "district": "Missouri 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mark Alford",
+      "gender": "M",
+      "district": "Missouri 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Emanuel Cleaver",
+      "gender": "M",
+      "district": "Missouri 5th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Sam Graves",
+      "gender": "M",
+      "district": "Missouri 6th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Billy Long",
+      "gender": "M",
+      "district": "Missouri 7th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ryan Zinke",
+      "gender": "M",
+      "district": "Montana 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Matt Rosendale",
+      "gender": "M",
+      "district": "Montana 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Don Bacon",
+      "gender": "M",
+      "district": "Nebraska 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Flood",
+      "gender": "M",
+      "district": "Nebraska 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Adrian Smith",
+      "gender": "M",
+      "district": "Nebraska 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Susie Lee",
+      "gender": "F",
+      "district": "Nevada 3rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Dina Titus",
+      "gender": "F",
+      "district": "Nevada 1st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Steven Horsford",
+      "gender": "M",
+      "district": "Nevada 4th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mark Amodei",
+      "gender": "M",
+      "district": "Nevada 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Chris Pappas",
+      "gender": "M",
+      "district": "New Hampshire 1st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ann McLane Kuster",
+      "gender": "F",
+      "district": "New Hampshire 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jeff Van Drew",
+      "gender": "M",
+      "district": "New Jersey 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Donald Norcross",
+      "gender": "M",
+      "district": "New Jersey 1st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Andy Kim",
+      "gender": "M",
+      "district": "New Jersey 3rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Chris Smith",
+      "gender": "M",
+      "district": "New Jersey 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Josh Gottheimer",
+      "gender": "M",
+      "district": "New Jersey 5th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Frank Pallone",
+      "gender": "M",
+      "district": "New Jersey 6th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tom Malinowski",
+      "gender": "M",
+      "district": "New Jersey 7th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Albio Sires",
+      "gender": "M",
+      "district": "New Jersey 8th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Bill Pascrell",
+      "gender": "M",
+      "district": "New Jersey 9th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Donald Payne Jr.",
+      "gender": "M",
+      "district": "New Jersey 10th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mikie Sherrill",
+      "gender": "F",
+      "district": "New Jersey 11th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Bonnie Watson Coleman",
+      "gender": "F",
+      "district": "New Jersey 12th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Yvette Herrell",
+      "gender": "F",
+      "district": "New Mexico 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Teresa Leger Fernandez",
+      "gender": "F",
+      "district": "New Mexico 3rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Melanie Stansbury",
+      "gender": "F",
+      "district": "New Mexico 1st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Nick LaLota",
+      "gender": "M",
+      "district": "New York 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Andrew Garbarino",
+      "gender": "M",
+      "district": "New York 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "George Santos",
+      "gender": "M",
+      "district": "New York 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Anthony D'Esposito",
+      "gender": "M",
+      "district": "New York 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Gregory Meeks",
+      "gender": "M",
+      "district": "New York 5th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Grace Meng",
+      "gender": "F",
+      "district": "New York 6th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Nydia Velázquez",
+      "gender": "F",
+      "district": "New York 7th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Hakeem Jeffries",
+      "gender": "M",
+      "district": "New York 8th",
+      "party": "D",
+      "salary": { "gross": 193400, "net": 125710 }
+    },
+    {
+      "name": "Yvette Clarke",
+      "gender": "F",
+      "district": "New York 9th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jerry Nadler",
+      "gender": "M",
+      "district": "New York 10th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Dan Goldman",
+      "gender": "M",
+      "district": "New York 10th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Nicole Malliotakis",
+      "gender": "F",
+      "district": "New York 11th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Adriano Espaillat",
+      "gender": "M",
+      "district": "New York 13th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "gender": "F",
+      "district": "New York 14th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ritchie Torres",
+      "gender": "M",
+      "district": "New York 15th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jamaal Bowman",
+      "gender": "M",
+      "district": "New York 16th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mondaire Jones",
+      "gender": "M",
+      "district": "New York 17th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Lawler",
+      "gender": "M",
+      "district": "New York 18th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Pat Ryan",
+      "gender": "M",
+      "district": "New York 19th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Marc Molinaro",
+      "gender": "M",
+      "district": "New York 20th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Paul Tonko",
+      "gender": "M",
+      "district": "New York 21st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Elise Stefanik",
+      "gender": "F",
+      "district": "New York 22nd",
+      "party": "R",
+      "salary": { "gross": 193400, "net": 125710 }
+    },
+    {
+      "name": "Brandon Williams",
+      "gender": "M",
+      "district": "New York 23rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Nick Langworthy",
+      "gender": "M",
+      "district": "New York 24th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Joseph Morelle",
+      "gender": "M",
+      "district": "New York 25th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Claudia Tenney",
+      "gender": "F",
+      "district": "New York 26th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Brian Higgins",
+      "gender": "M",
+      "district": "New York 27th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Chris Jacobs",
+      "gender": "M",
+      "district": "New York 28th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Matt Cartwright",
+      "gender": "M",
+      "district": "Pennsylvania 8th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Susan Wild",
+      "gender": "F",
+      "district": "Pennsylvania 7th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Chrissy Houlahan",
+      "gender": "F",
+      "district": "Pennsylvania 6th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mary Gay Scanlon",
+      "gender": "F",
+      "district": "Pennsylvania 5th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Madeleine Dean",
+      "gender": "F",
+      "district": "Pennsylvania 4th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Dwight Evans",
+      "gender": "M",
+      "district": "Pennsylvania 3rd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Brendan Boyle",
+      "gender": "M",
+      "district": "Pennsylvania 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Robert Brady",
+      "gender": "M",
+      "district": "Pennsylvania 1st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Brian Fitzpatrick",
+      "gender": "M",
+      "district": "Pennsylvania 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Dan Meuser",
+      "gender": "M",
+      "district": "Pennsylvania 9th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Fred Keller",
+      "gender": "M",
+      "district": "Pennsylvania 12th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Kelly",
+      "gender": "M",
+      "district": "Pennsylvania 16th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Guy Reschenthaler",
+      "gender": "M",
+      "district": "Pennsylvania 14th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Joyce",
+      "gender": "M",
+      "district": "Pennsylvania 13th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Glenn Thompson",
+      "gender": "M",
+      "district": "Pennsylvania 15th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Doyle",
+      "gender": "M",
+      "district": "Pennsylvania 18th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Conor Lamb",
+      "gender": "M",
+      "district": "Pennsylvania 17th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Summer Lee",
+      "gender": "F",
+      "district": "Pennsylvania 12th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Chris Deluzio",
+      "gender": "M",
+      "district": "Pennsylvania 17th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jared Golden",
+      "gender": "M",
+      "district": "Pennsylvania 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Kelly",
+      "gender": "M",
+      "district": "Pennsylvania 16th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Guy Reschenthaler",
+      "gender": "M",
+      "district": "Pennsylvania 14th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Joyce",
+      "gender": "M",
+      "district": "Pennsylvania 13th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Glenn Thompson",
+      "gender": "M",
+      "district": "Pennsylvania 15th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Doyle",
+      "gender": "M",
+      "district": "Pennsylvania 18th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Conor Lamb",
+      "gender": "M",
+      "district": "Pennsylvania 17th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Summer Lee",
+      "gender": "F",
+      "district": "Pennsylvania 12th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Chris Deluzio",
+      "gender": "M",
+      "district": "Pennsylvania 17th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Seth Magaziner",
+      "gender": "M",
+      "district": "Rhode Island 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "David Cicilline",
+      "gender": "M",
+      "district": "Rhode Island 1st",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Nancy Mace",
+      "gender": "F",
+      "district": "South Carolina 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Joe Wilson",
+      "gender": "M",
+      "district": "South Carolina 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jeff Duncan",
+      "gender": "M",
+      "district": "South Carolina 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "William Timmons",
+      "gender": "M",
+      "district": "South Carolina 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ralph Norman",
+      "gender": "M",
+      "district": "South Carolina 5th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "James Clyburn",
+      "gender": "M",
+      "district": "South Carolina 6th",
+      "party": "D",
+      "salary": { "gross": 193400, "net": 125710 }
+    },
+    {
+      "name": "Tom Rice",
+      "gender": "M",
+      "district": "South Carolina 7th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Dusty Johnson",
+      "gender": "M",
+      "district": "South Dakota At-Large",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Diana Harshbarger",
+      "gender": "F",
+      "district": "Tennessee 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tim Burchett",
+      "gender": "M",
+      "district": "Tennessee 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Chuck Fleischmann",
+      "gender": "M",
+      "district": "Tennessee 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Scott DesJarlais",
+      "gender": "M",
+      "district": "Tennessee 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Andy Ogles",
+      "gender": "M",
+      "district": "Tennessee 5th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Rose",
+      "gender": "M",
+      "district": "Tennessee 6th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mark Green",
+      "gender": "M",
+      "district": "Tennessee 7th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "David Kustoff",
+      "gender": "M",
+      "district": "Tennessee 8th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Steve Cohen",
+      "gender": "M",
+      "district": "Tennessee 9th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Pat Fallon",
+      "gender": "M",
+      "district": "Texas 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Lance Gooden",
+      "gender": "M",
+      "district": "Texas 5th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jake Ellzey",
+      "gender": "M",
+      "district": "Texas 6th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Lizzie Fletcher",
+      "gender": "F",
+      "district": "Texas 7th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Dan Crenshaw",
+      "gender": "M",
+      "district": "Texas 8th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Morgan Luttrell",
+      "gender": "M",
+      "district": "Texas 8th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Al Green",
+      "gender": "M",
+      "district": "Texas 9th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Michael McCaul",
+      "gender": "M",
+      "district": "Texas 10th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Collins",
+      "gender": "M",
+      "district": "Texas 10th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Dan Newhouse",
+      "gender": "M",
+      "district": "Washington 4th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Cathy McMorris Rodgers",
+      "gender": "F",
+      "district": "Washington 5th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Derek Kilmer",
+      "gender": "M",
+      "district": "Washington 6th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Pramila Jayapal",
+      "gender": "F",
+      "district": "Washington 7th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Kim Schrier",
+      "gender": "F",
+      "district": "Washington 8th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Adam Smith",
+      "gender": "M",
+      "district": "Washington 9th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Marilyn Strickland",
+      "gender": "F",
+      "district": "Washington 10th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "David McKinley",
+      "gender": "M",
+      "district": "West Virginia 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Carol Miller",
+      "gender": "F",
+      "district": "West Virginia 2nd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Alex Mooney",
+      "gender": "M",
+      "district": "West Virginia 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Bryan Steil",
+      "gender": "M",
+      "district": "Wisconsin 1st",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mark Pocan",
+      "gender": "M",
+      "district": "Wisconsin 2nd",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Derrick Van Orden",
+      "gender": "M",
+      "district": "Wisconsin 3rd",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Gwen Moore",
+      "gender": "F",
+      "district": "Wisconsin 4th",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Scott Fitzgerald",
+      "gender": "M",
+      "district": "Wisconsin 5th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Glenn Grothman",
+      "gender": "M",
+      "district": "Wisconsin 6th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tom Tiffany",
+      "gender": "M",
+      "district": "Wisconsin 7th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Gallagher",
+      "gender": "M",
+      "district": "Wisconsin 8th",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Harriet Hageman",
+      "gender": "F",
+      "district": "Wyoming At-Large",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    }
+  ],
   "senate": [
     {
       "name": "Katie Britt",
