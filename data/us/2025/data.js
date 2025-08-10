@@ -190,7 +190,694 @@
     }
   ],
   "congress": [],
-  "senate": [],
+  "senate": [
+    {
+      "name": "Katie Britt",
+      "gender": "F",
+      "district": "Alabama",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tommy Tuberville",
+      "gender": "M",
+      "district": "Alabama",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Lisa Murkowski",
+      "gender": "F",
+      "district": "Alaska",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Dan Sullivan",
+      "gender": "M",
+      "district": "Alaska",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ruben Gallego",
+      "gender": "M",
+      "district": "Arizona",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mark Kelly",
+      "gender": "M",
+      "district": "Arizona",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Boozman",
+      "gender": "M",
+      "district": "Arkansas",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tom Cotton",
+      "gender": "M",
+      "district": "Arkansas",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Laphonza Butler",
+      "gender": "F",
+      "district": "California",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Alex Padilla",
+      "gender": "M",
+      "district": "California",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Michael Bennet",
+      "gender": "M",
+      "district": "Colorado",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Hickenlooper",
+      "gender": "M",
+      "district": "Colorado",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Richard Blumenthal",
+      "gender": "M",
+      "district": "Connecticut",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Chris Murphy",
+      "gender": "M",
+      "district": "Connecticut",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tom Carper",
+      "gender": "M",
+      "district": "Delaware",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Chris Coons",
+      "gender": "M",
+      "district": "Delaware",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Marco Rubio",
+      "gender": "M",
+      "district": "Florida",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Rick Scott",
+      "gender": "M",
+      "district": "Florida",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jon Ossoff",
+      "gender": "M",
+      "district": "Georgia",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Raphael Warnock",
+      "gender": "M",
+      "district": "Georgia",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mazie Hirono",
+      "gender": "F",
+      "district": "Hawaii",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Brian Schatz",
+      "gender": "M",
+      "district": "Hawaii",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Crapo",
+      "gender": "M",
+      "district": "Idaho",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jim Risch",
+      "gender": "M",
+      "district": "Idaho",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tammy Duckworth",
+      "gender": "F",
+      "district": "Illinois",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Dick Durbin",
+      "gender": "M",
+      "district": "Illinois",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Braun",
+      "gender": "M",
+      "district": "Indiana",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Todd Young",
+      "gender": "M",
+      "district": "Indiana",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Chuck Grassley",
+      "gender": "M",
+      "district": "Iowa",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Joni Ernst",
+      "gender": "F",
+      "district": "Iowa",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jerry Moran",
+      "gender": "M",
+      "district": "Kansas",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Roger Marshall",
+      "gender": "M",
+      "district": "Kansas",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mitch McConnell",
+      "gender": "M",
+      "district": "Kentucky",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Rand Paul",
+      "gender": "M",
+      "district": "Kentucky",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Bill Cassidy",
+      "gender": "M",
+      "district": "Louisiana",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Kennedy",
+      "gender": "M",
+      "district": "Louisiana",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Susan Collins",
+      "gender": "F",
+      "district": "Maine",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Angus King",
+      "gender": "M",
+      "district": "Maine",
+      "party": "I",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ben Cardin",
+      "gender": "M",
+      "district": "Maryland",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Chris Van Hollen",
+      "gender": "M",
+      "district": "Maryland",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Elizabeth Warren",
+      "gender": "F",
+      "district": "Massachusetts",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ed Markey",
+      "gender": "M",
+      "district": "Massachusetts",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Gary Peters",
+      "gender": "M",
+      "district": "Michigan",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Debbie Stabenow",
+      "gender": "F",
+      "district": "Michigan",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Amy Klobuchar",
+      "gender": "F",
+      "district": "Minnesota",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tina Smith",
+      "gender": "F",
+      "district": "Minnesota",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "gender": "F",
+      "district": "Mississippi",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Roger Wicker",
+      "gender": "M",
+      "district": "Mississippi",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Josh Hawley",
+      "gender": "M",
+      "district": "Missouri",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Eric Schmitt",
+      "gender": "M",
+      "district": "Missouri",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jon Tester",
+      "gender": "M",
+      "district": "Montana",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Steve Daines",
+      "gender": "M",
+      "district": "Montana",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Deb Fischer",
+      "gender": "F",
+      "district": "Nebraska",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Pete Ricketts",
+      "gender": "M",
+      "district": "Nebraska",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jacky Rosen",
+      "gender": "F",
+      "district": "Nevada",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "gender": "F",
+      "district": "Nevada",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "gender": "F",
+      "district": "New Hampshire",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Maggie Hassan",
+      "gender": "F",
+      "district": "New Hampshire",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Cory Booker",
+      "gender": "M",
+      "district": "New Jersey",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Bob Menendez",
+      "gender": "M",
+      "district": "New Jersey",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ben Ray Luján",
+      "gender": "M",
+      "district": "New Mexico",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Martin Heinrich",
+      "gender": "M",
+      "district": "New Mexico",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Chuck Schumer",
+      "gender": "M",
+      "district": "New York",
+      "party": "D",
+      "salary": { "gross": 193400, "net": 125710 }
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "gender": "F",
+      "district": "New York",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ted Budd",
+      "gender": "M",
+      "district": "North Carolina",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Thom Tillis",
+      "gender": "M",
+      "district": "North Carolina",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Hoeven",
+      "gender": "M",
+      "district": "North Dakota",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Kevin Cramer",
+      "gender": "M",
+      "district": "North Dakota",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Sherrod Brown",
+      "gender": "M",
+      "district": "Ohio",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "J.D. Vance",
+      "gender": "M",
+      "district": "Ohio",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "James Lankford",
+      "gender": "M",
+      "district": "Oklahoma",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Markwayne Mullin",
+      "gender": "M",
+      "district": "Oklahoma",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jeff Merkley",
+      "gender": "M",
+      "district": "Oregon",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ron Wyden",
+      "gender": "M",
+      "district": "Oregon",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Bob Casey Jr.",
+      "gender": "M",
+      "district": "Pennsylvania",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Fetterman",
+      "gender": "M",
+      "district": "Pennsylvania",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Jack Reed",
+      "gender": "M",
+      "district": "Rhode Island",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "gender": "M",
+      "district": "Rhode Island",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Lindsey Graham",
+      "gender": "M",
+      "district": "South Carolina",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tim Scott",
+      "gender": "M",
+      "district": "South Carolina",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Thune",
+      "gender": "M",
+      "district": "South Dakota",
+      "party": "R",
+      "salary": { "gross": 193400, "net": 125710 }
+    },
+    {
+      "name": "Mike Rounds",
+      "gender": "M",
+      "district": "South Dakota",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Marsha Blackburn",
+      "gender": "F",
+      "district": "Tennessee",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Bill Hagerty",
+      "gender": "M",
+      "district": "Tennessee",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "John Cornyn",
+      "gender": "M",
+      "district": "Texas",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ted Cruz",
+      "gender": "M",
+      "district": "Texas",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mitt Romney",
+      "gender": "M",
+      "district": "Utah",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mike Lee",
+      "gender": "M",
+      "district": "Utah",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Bernie Sanders",
+      "gender": "M",
+      "district": "Vermont",
+      "party": "I",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Peter Welch",
+      "gender": "M",
+      "district": "Vermont",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Mark Warner",
+      "gender": "M",
+      "district": "Virginia",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tim Kaine",
+      "gender": "M",
+      "district": "Virginia",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Maria Cantwell",
+      "gender": "F",
+      "district": "Washington",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Patty Murray",
+      "gender": "F",
+      "district": "Washington",
+      "party": "D",
+      "salary": { "gross": 193400, "net": 125710 }
+    },
+    {
+      "name": "Joe Manchin",
+      "gender": "M",
+      "district": "West Virginia",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Shelley Moore Capito",
+      "gender": "F",
+      "district": "West Virginia",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Tammy Baldwin",
+      "gender": "F",
+      "district": "Wisconsin",
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 }
+    },
+    {
+      "name": "Ron Johnson",
+      "gender": "M",
+      "district": "Wisconsin",
+      "party": "R",
+      "salary": { "gross": 174000, "net": 113100 }
+    }
+  ],
   "officials": [
     {
       "name": "Karoline Leavitt",
