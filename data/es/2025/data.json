@@ -4021,7 +4021,7 @@
       "name": "Barcos Berruezo, Miren Uxue",
       "gender": "F",
       "district": "Parlamento de Navarra",
-      "party": "Geroa Bai",
+      "party": "GBai",
       "salary": {
         "gross": 45989,
         "net": 32192
@@ -6460,6 +6460,12 @@
       "en": "Republican Left of Catalonia",
       "range": 2,
       "color": "#C20813"
+    },
+    "GBai": {
+      "name": "Geroa Bai - Sí al futuro",
+      "en": "Republican Left of Catalonia",
+      "range": 2,
+      "color": "#F75E42"
     },
     "Independent": {
       "name": "Independiente",
