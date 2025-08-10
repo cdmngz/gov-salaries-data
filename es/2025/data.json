@@ -748,7 +748,7 @@
     {
       "name": "Calvo Gómez, Pilar",
       "gender": "F",
-      "party": "Junts",
+      "party": "JxCat",
       "district": "Barcelona",
       "salary": {
         "gross": 57478,
@@ -868,7 +868,7 @@
     {
       "name": "Cervera Pinart, Josep Maria",
       "gender": "",
-      "party": "Junts",
+      "party": "JxCat",
       "district": "Girona",
       "salary": {
         "gross": 57478,
@@ -1008,7 +1008,7 @@
     {
       "name": "Cruset Domènech, Josep Maria",
       "gender": "",
-      "party": "Junts",
+      "party": "JxCat",
       "district": "Tarragona",
       "salary": {
         "gross": 57478,
@@ -1448,7 +1448,7 @@
     {
       "name": "Gavin i Valls, Isidre",
       "gender": "",
-      "party": "Junts",
+      "party": "JxCat",
       "district": "Lleida",
       "salary": {
         "gross": 57478,
@@ -1918,7 +1918,7 @@
     {
       "name": "Madrenas i Mir, Marta",
       "gender": "F",
-      "party": "Junts",
+      "party": "JxCat",
       "district": "Girona",
       "salary": {
         "gross": 57478,
@@ -2408,7 +2408,7 @@
     {
       "name": "Nogueras i Camero, Míriam",
       "gender": "",
-      "party": "Junts",
+      "party": "JxCat",
       "district": "Barcelona",
       "salary": {
         "gross": 57478,
@@ -2508,7 +2508,7 @@
     {
       "name": "Pagès i Massó, Josep",
       "gender": "",
-      "party": "Junts",
+      "party": "JxCat",
       "district": "Barcelona",
       "salary": {
         "gross": 57478,
@@ -3768,14 +3768,2654 @@
   ],
   "senate": [
     {
-      "name": "Maria Gonzalez",
-      "gender": "F",
-      "party": "Green",
+      "name": "Abdesalam Al Lal, Abdelhakim",
+      "gender": "M",
+      "district": "Ceuta",
+      "party": "PP",
       "salary": {
-        "gross": 130000,
-        "net": 100000
-      },
-      "district": "Northwest Region"
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Adrián Gutiérrez, Miguel Ángel",
+      "gender": "M",
+      "district": "Burgos",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Ahedo Ceza, Nerea",
+      "gender": "F",
+      "district": "Vizcaya",
+      "party": "EAJ-PNV",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Aldea Gómez, Rosa María",
+      "gender": "F",
+      "district": "Palencia",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Almodóbar Barceló, Agustín",
+      "gender": "M",
+      "district": "Alicante",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Alonso Pérez, José Ángel",
+      "gender": "M",
+      "district": "Valladolid",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Álvarez García, Melania",
+      "gender": "F",
+      "district": "Junta General del Principado de Asturias",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Amores García, Juan Ramón",
+      "gender": "M",
+      "district": "Cortes de Castilla-La Mancha",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Andreu Rodríguez, Concepción",
+      "gender": "F",
+      "district": "La Rioja",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Antón Cacho, Javier",
+      "gender": "M",
+      "district": "Soria",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Aranda García, Mariola",
+      "gender": "F",
+      "district": "Jaén",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Aranda Lassa, José Manuel",
+      "gender": "M",
+      "district": "Zaragoza",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Arenas Bocanegra, Francisco Javier",
+      "gender": "M",
+      "district": "Parlamento de Andalucía",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Arévalo Gómez, Nidia María",
+      "gender": "F",
+      "district": "Pontevedra",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Armas González, Aniceto Javier",
+      "gender": "M",
+      "district": "El Hierro",
+      "party": "AHI",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Armijo Navas, José Alberto",
+      "gender": "M",
+      "district": "Málaga",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Arocha Correa, Marta",
+      "gender": "F",
+      "district": "Tenerife",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Arriba Sánchez, Bienvenido de",
+      "gender": "M",
+      "district": "Salamanca",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Ávila Gutiérrez, Juan Manuel",
+      "gender": "M",
+      "district": "Sevilla",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Azpitarte Pérez, Vicente",
+      "gender": "M",
+      "district": "Granada",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Bagué i Roura, Joan Baptista",
+      "gender": "M",
+      "district": "Gerona",
+      "party": "JxCat",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Bailac Ardanuy, Sara",
+      "gender": "F",
+      "district": "Lérida Lérida",
+      "party": "ERC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Ballester Feliu, Carmen",
+      "gender": "F",
+      "district": "Castellón",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Balseiro Orol, José Manuel",
+      "gender": "M",
+      "district": "Lugo",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Baltar Blanco, José Manuel",
+      "gender": "M",
+      "district": "Parlamento de Galicia",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Barcos Berruezo, Miren Uxue",
+      "gender": "F",
+      "district": "Parlamento de Navarra",
+      "party": "Geroa Bai",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Barreiro Fernández, José Manuel",
+      "gender": "M",
+      "district": "Lugo",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Barrios Tejero, José María",
+      "gender": "M",
+      "district": "Zamora",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Belmonte Sánchez, Teresa María",
+      "gender": "F",
+      "district": "Cortes Valencianas",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Beltrán de Heredia Arroniz, Estefanía",
+      "gender": "F",
+      "district": "Parlamento Vasco",
+      "party": "EAJ-PNV",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Beltrán Villalva, Ana María",
+      "gender": "F",
+      "district": "Huesca",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Bermúdez Carrillo, Francisco Javier",
+      "gender": "M",
+      "district": "Jaén",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Bernabé Pérez, Francisco Martín",
+      "gender": "M",
+      "district": "Murcia",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Bideguren Gabantxo, Idurre",
+      "gender": "F",
+      "district": "Parlamento Vasco",
+      "party": "EH Bildu",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Blanch Fulcarà, Luisa",
+      "gender": "F",
+      "district": "Gerona",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Blanca Garrido, María Mar",
+      "gender": "F",
+      "district": "Asamblea de Madrid",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Boné Amela, Carlos Luis",
+      "gender": "M",
+      "district": "Teruel",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Bonilla Domínguez, María Jesús",
+      "gender": "F",
+      "district": "Cuenca",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Bravo Sánchez, Miriam",
+      "gender": "F",
+      "district": "Asamblea de Madrid",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Brío González, Esther Basilia del",
+      "gender": "F",
+      "district": "Salamanca",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Briones Morales, Rocío",
+      "gender": "F",
+      "district": "Cortes Valencianas",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Bueno Campanario, Eva Patricia",
+      "gender": "F",
+      "district": "Sevilla",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Bueno Vargas, Simón Valentín",
+      "gender": "M",
+      "district": "Albacete",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Buj Sánchez, María Emma",
+      "gender": "F",
+      "district": "Teruel",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Caballero Martínez, María Mar",
+      "gender": "F",
+      "district": "Navarra",
+      "party": "UPN",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Caicedo Bernabé, Jesús",
+      "gender": "M",
+      "district": "Parlamento de Andalucía",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Camacho Borrego, Francisco Joaquín",
+      "gender": "M",
+      "district": "Granada",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Campoy Monreal, Javier",
+      "gender": "M",
+      "district": "Huesca",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Camps Devesa, Gerardo",
+      "gender": "M",
+      "district": "Cortes Valencianas",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Cantenys Arbolí, Consol",
+      "gender": "M",
+      "district": "Gerona",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Carbonell Tatay, Fernando",
+      "gender": "M",
+      "district": "Cortes Valencianas",
+      "party": "Vox",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Carnero García, Jesús Julio",
+      "gender": "M",
+      "district": "Valladolid",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Caro Adanero, Jesús",
+      "gender": "M",
+      "district": "Ávila",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Casal Míguez, Verónica María",
+      "gender": "F",
+      "district": "La Coruña",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Casanueva Jiménez, Cristina",
+      "gender": "F",
+      "district": "Córdoba",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Caso Roiz, Secundino",
+      "gender": "M",
+      "district": "Cantabria",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Castel Fort, Laura",
+      "gender": "F",
+      "district": "Parlamento de Cataluña",
+      "party": "ERC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Castellón Rubio, Miguel Ángel",
+      "gender": "M",
+      "district": "Almería",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Castillo López, Elena",
+      "gender": "F",
+      "district": "Cantabria",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Castillo Rodríguez, Lucas",
+      "gender": "M",
+      "district": "Guadalajara",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Chinea Correa, Fabián",
+      "gender": "M",
+      "district": "La Gomera",
+      "party": "ASG",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Colomé García, Gabriel",
+      "gender": "M",
+      "district": "Barcelona",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Cotelo Balmaseda, Mar",
+      "gender": "F",
+      "district": "Parlamento de La Rioja",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Crespo Iglesias, José",
+      "gender": "M",
+      "district": "Pontevedra",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Cruz Rodríguez, Manuel",
+      "gender": "M",
+      "district": "Barcelona",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Cuesta Alonso, Severiano Ángel",
+      "gender": "M",
+      "district": "Cantabria",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Dalmau Blanco, Miguel Carmelo",
+      "gender": "M",
+      "district": "Zaragoza",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Darocas Marín, Estela del Carmen",
+      "gender": "F",
+      "district": "Valencia",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Delgado Gómez, Carla",
+      "gender": "F",
+      "district": "Asamblea de Madrid",
+      "party": "Más Madrid",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Díaz Moreno, Cristina",
+      "gender": "F",
+      "district": "Ceuta",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Díaz Pacheco, Susana",
+      "gender": "F",
+      "district": "Parlamento de Andalucía",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Diego Castellanos, María Elena",
+      "gender": "F",
+      "district": "Salamanca",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Díez de Revenga Albacete, José Ramón",
+      "gender": "M",
+      "district": "Asamblea Regional de Murcia",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Divar Conde, María del Rocío",
+      "gender": "F",
+      "district": "Zaragoza",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Duarte López, Olaia",
+      "gender": "F",
+      "district": "Guipúzcoa",
+      "party": "EH Bildu",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Elejabarrieta Díaz, Gorka",
+      "gender": "M",
+      "district": "Guipúzcoa",
+      "party": "EH Bildu",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Entrena Ávila, José",
+      "gender": "M",
+      "district": "Granada",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Espadas Cejas, Juan",
+      "gender": "M",
+      "district": "Parlamento de Andalucía",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Estarrona Elizondo, Josu",
+      "gender": "M",
+      "district": "Álava",
+      "party": "EH Bildu",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Esteve Juan, María Dolores",
+      "gender": "F",
+      "district": "Alicante",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Etxano Varela, María Dolores",
+      "gender": "F",
+      "district": "Vizcaya",
+      "party": "EAJ-PNV",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Fajardo Palarea, Francisco Manuel",
+      "gender": "M",
+      "district": "Lanzarote",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Fernández Álvarez, María",
+      "gender": "F",
+      "district": "Asturias",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Fernández Blanco, José",
+      "gender": "M",
+      "district": "Zamora",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Fernández Díaz, José Manuel",
+      "gender": "M",
+      "district": "Asturias",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Fernández García, Íñigo",
+      "gender": "M",
+      "district": "Parlamento de Cantabria",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Fernández Pérez, Francisco José",
+      "gender": "M",
+      "district": "Orense",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Fernández Vara, Guillermo",
+      "gender": "M",
+      "district": "Asamblea de Extremadura",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Ferrer Martínez, Juanjo",
+      "gender": "M",
+      "district": "Ibiza-Formentera",
+      "party": "Independiente",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Flores García, María Dolores",
+      "gender": "F",
+      "district": "Asamblea Regional de Murcia",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Foronda Vaquero, Salvador de",
+      "gender": "M",
+      "district": "Burgos",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Franco Pardo, José Manuel",
+      "gender": "M",
+      "district": "Madrid",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Galicia Jaramillo, Vidal",
+      "gender": "M",
+      "district": "Cortes de Castilla y León",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Gallego Neira, Rosa María",
+      "gender": "F",
+      "district": "La Coruña",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "García Diego, Juan Carlos",
+      "gender": "M",
+      "district": "Cantabria",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "García Herrero, María Ángeles",
+      "gender": "F",
+      "district": "Segovia",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "García Navarro, Miriam",
+      "gender": "F",
+      "district": "Albacete",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "García Rodríguez, Alfonso",
+      "gender": "M",
+      "district": "Parlamento de Cataluña",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "García Rodríguez, Alicia",
+      "gender": "F",
+      "district": "Ávila",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "García Vega, Jorge",
+      "gender": "M",
+      "district": "León",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "García-Escudero Márquez, Pío",
+      "gender": "M",
+      "district": "Madrid",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "García-Pelayo Jurado, María José",
+      "gender": "F",
+      "district": "Cádiz",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Garrido Tinta, Abigail",
+      "gender": "M",
+      "district": "Parlamento de Cataluña",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Gaseni Blanch, Jordi",
+      "gender": "M",
+      "district": "Tarragona",
+      "party": "ERC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Gil Invernón, Alfonso",
+      "gender": "M",
+      "district": "Parlamento Vasco",
+      "party": "PSE-EE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Gómez Enríquez, Paloma",
+      "gender": "F",
+      "district": "Parlamento de Andalucía",
+      "party": "Vox",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "González Benito, Raquel",
+      "gender": "F",
+      "district": "Burgos",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "González Camacho, Juan Manuel",
+      "gender": "M",
+      "district": "Huelva",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "González Fernández, Víctor",
+      "gender": "M",
+      "district": "Parlamento de Andalucía",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "González Menéndez, Pelayo",
+      "gender": "M",
+      "district": "Asturias",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "González Muñoz, Ángel Luis",
+      "gender": "M",
+      "district": "Málaga",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Gordillo Moreno, Ángel Pelayo",
+      "gender": "M",
+      "district": "Asamblea de Extremadura",
+      "party": "Vox",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Gracia Ferrer, Miguel",
+      "gender": "M",
+      "district": "Huesca",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Grados Caro, Mónica",
+      "gender": "F",
+      "district": "Cáceres",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Granados Ruiz, Rafael",
+      "gender": "M",
+      "district": "Málaga",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Guerra Sánchez, Lorena",
+      "gender": "F",
+      "district": "Córdoba",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Gutiérrez Díaz de Otazu, Fernando Adolfo",
+      "gender": "M",
+      "district": "Melilla",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Gutiérrez Limones, Antonio",
+      "gender": "M",
+      "district": "Sevilla",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Hernández Cerezo, Paloma",
+      "gender": "F",
+      "district": "Fuerteventura",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Hernández Rodríguez, Inmaculada",
+      "gender": "F",
+      "district": "Parlamento de Andalucía",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Hernando García, José Manuel",
+      "gender": "M",
+      "district": "Soria",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Hila Vargas, José Francisco",
+      "gender": "M",
+      "district": "Parlamento de las Islas Baleares",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Huelva Betanzos, Amaro",
+      "gender": "M",
+      "district": "Huelva",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Ibarrola de la Fuente, María Yolanda",
+      "gender": "F",
+      "district": "Asamblea de Madrid",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Izquierdo Roncero, José Javier",
+      "gender": "M",
+      "district": "Valladolid",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Jerez Juan, Miguel Ángel",
+      "gender": "M",
+      "district": "Parlamento de las Islas Baleares",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Jiménez Santamaría, Javier",
+      "gender": "M",
+      "district": "Soria",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Lacalle Lacalle, Francisco Javier",
+      "gender": "M",
+      "district": "Burgos",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Landaluce Calleja, José Ignacio",
+      "gender": "M",
+      "district": "Cádiz",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Lander Vera, Adolfo",
+      "gender": "M",
+      "district": "Álava",
+      "party": "PSE-EE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Latorre Ruiz, José",
+      "gender": "M",
+      "district": "Jaén",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Lemus Rubiales, Rafael Damián",
+      "gender": "M",
+      "district": "Badajoz",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Leyte Coello, María del Carmen",
+      "gender": "F",
+      "district": "Orense",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Liberal Liberal, Julia María",
+      "gender": "F",
+      "district": "Álava",
+      "party": "PSE-EE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Limón Bayo, María Eugenia",
+      "gender": "F",
+      "district": "Huelva",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Llorens Monzonís, Jaume",
+      "gender": "M",
+      "district": "Castellón",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Lobato Gandarias, Juan",
+      "gender": "M",
+      "district": "Asamblea de Madrid",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "López Moya, Antonia",
+      "gender": "F",
+      "district": "Murcia",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "López Torre, Igotz",
+      "gender": "M",
+      "district": "Vizcaya",
+      "party": "EAJ-PNV",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "López Zapata, Carmen Belén",
+      "gender": "F",
+      "district": "Almería",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Luengo Zapata, Antonio",
+      "gender": "M",
+      "district": "Murcia",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Luna Morales, María de los Ángeles",
+      "gender": "F",
+      "district": "Córdoba",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Macías Mateos, María Teresa",
+      "gender": "F",
+      "district": "Badajoz",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Magdaleno Alegría, Antonio",
+      "gender": "M",
+      "district": "Navarra",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Mallada de Castro, María Teresa",
+      "gender": "F",
+      "district": "Asturias",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Marco Gual, María Amparo",
+      "gender": "F",
+      "district": "Castellón",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Marcos Moyano, María Dolores",
+      "gender": "F",
+      "district": "Cáceres",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Maroto Aranzábal, Javier Ignacio",
+      "gender": "M",
+      "district": "Cortes de Castilla y León",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Marqués Escoín, María Susana",
+      "gender": "F",
+      "district": "Castellón",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Marqués Palliser, Cristóbal",
+      "gender": "M",
+      "district": "Menorca",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Marqués Sánchez, Francisco Javier",
+      "gender": "M",
+      "district": "Jaén",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Martín Domínguez, Pedro Manuel",
+      "gender": "M",
+      "district": "Tenerife",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Martín García, María del Lirio",
+      "gender": "F",
+      "district": "Segovia",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Martín Martín, Juan Pablo",
+      "gender": "M",
+      "district": "Ávila",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Martín Martín, Paloma",
+      "gender": "F",
+      "district": "Madrid",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Martín Pérez, María Eva",
+      "gender": "F",
+      "district": "Granada",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Martínez Antolín, Jorge Domingo",
+      "gender": "M",
+      "district": "Palencia",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Martínez Esteban, Araceli",
+      "gender": "F",
+      "district": "Guadalajara",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Martínez Rodríguez, Antonio",
+      "gender": "M",
+      "district": "Almería",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Martínez Zaragoza, Ana",
+      "gender": "F",
+      "district": "Alicante",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Martínez-Maíllo Toribio, Fernando",
+      "gender": "M",
+      "district": "Zamora",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Martínez-Portillo Subero, Luis",
+      "gender": "M",
+      "district": "La Rioja",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Matarí Sáez, Juan José",
+      "gender": "M",
+      "district": "Almería",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Mayo Fernández, María Asunción",
+      "gender": "F",
+      "district": "León",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Medina Santos, Nuria",
+      "gender": "F",
+      "district": "Navarra",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Miranda de Larra Arnaiz, Alejo Joaquín",
+      "gender": "M",
+      "district": "Cuenca",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Mirás Franqueira, Manuel",
+      "gender": "M",
+      "district": "La Coruña",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Mogo Zaro, César Alejandro",
+      "gender": "M",
+      "district": "Lugo",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Monago Terraza, José Antonio",
+      "gender": "M",
+      "district": "Badajoz",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Morales García, Jaime",
+      "gender": "M",
+      "district": "Gran Canaria",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Morales Quesada, Ramón",
+      "gender": "M",
+      "district": "Gran Canaria",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Moreno Duque, María Isabel",
+      "gender": "F",
+      "district": "Cáceres",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Moreno Fernández, Cristina",
+      "gender": "F",
+      "district": "Valencia",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Moreno Mohamed, Isabel María",
+      "gender": "F",
+      "district": "Melilla",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Morera Catalá, Enric Xavier",
+      "gender": "M",
+      "district": "Cortes Valencianas",
+      "party": "Compromís",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Moscoso González, Alfonso Carlos",
+      "gender": "M",
+      "district": "Cádiz",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Muñoz Martínez, Antonio",
+      "gender": "M",
+      "district": "Sevilla",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Mur Sangrá, Melania",
+      "gender": "F",
+      "district": "Huesca",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Nacarino Muriel, Miguel Ángel",
+      "gender": "M",
+      "district": "Cáceres",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Navarro Castanedo, Emilio José",
+      "gender": "M",
+      "district": "Tenerife",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Nieva Delgado, Julián",
+      "gender": "M",
+      "district": "Ciudad Real",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Oleaga Zalvidea, José María",
+      "gender": "M",
+      "district": "Vizcaya",
+      "party": "PSE-EE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Oña Martín, Dionís",
+      "gender": "M",
+      "district": "Lérida Lérida",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Ortega Gómez, María José",
+      "gender": "F",
+      "district": "Palencia",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Ortiz Vilella, Eva",
+      "gender": "F",
+      "district": "Alicante",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Pagador López, Carmen",
+      "gender": "F",
+      "district": "Badajoz",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Pallarès Piqué, María Teresa",
+      "gender": "M",
+      "district": "Parlamento de Cataluña",
+      "party": "JxCat",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Pardo Pumar, María José",
+      "gender": "F",
+      "district": "Pontevedra",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Patricio Zafra, María",
+      "gender": "F",
+      "district": "Guadalajara",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Pérez Becerra, María del Carmen",
+      "gender": "F",
+      "district": "Cádiz",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Pérez Esteban, María Teresa",
+      "gender": "M",
+      "district": "Cortes de Aragón",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Pérez Jiménez, Israel Roberto",
+      "gender": "M",
+      "district": "Toledo",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Pobo Sánchez, María Carmen Isabel",
+      "gender": "F",
+      "district": "Teruel",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Polanco Rebolleda, Carlos Alfonso",
+      "gender": "M",
+      "district": "Palencia",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Pomés López, Jan",
+      "gender": "M",
+      "district": "Lérida Lérida",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Pons Sampietro, Pere Joan",
+      "gender": "M",
+      "district": "Mallorca",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Poveda Zapata, Antonio",
+      "gender": "M",
+      "district": "Parlamento de Cataluña",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Priego Chacón, Fernando",
+      "gender": "M",
+      "district": "Córdoba",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Prieto Valencia, Benjamín",
+      "gender": "M",
+      "district": "Cuenca",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Pujol Bonell, Eduardo",
+      "gender": "F",
+      "district": "Parlamento de Cataluña",
+      "party": "JxCat",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Queralt Jiménez, Joan Josep",
+      "gender": "M",
+      "district": "Barcelona",
+      "party": "ERC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Redondo Gamero, Eva María",
+      "gender": "F",
+      "district": "Cortes Valencianas",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Remírez Apesteguía, Javier",
+      "gender": "M",
+      "district": "Navarra",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Rey Varela, José Manuel",
+      "gender": "M",
+      "district": "Parlamento de Galicia",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Riolobos Regadera, María Carmen",
+      "gender": "F",
+      "district": "Toledo",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Rivas de la Torre, María Montserrat",
+      "gender": "F",
+      "district": "Guadalajara",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Robles Orozco, Gonzalo Jesús",
+      "gender": "M",
+      "district": "Salamanca",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Rodríguez González, José Manuel",
+      "gender": "M",
+      "district": "Junta General del Principado de Asturias",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Rodríguez Villarino, Rafael",
+      "gender": "M",
+      "district": "Orense",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Rodríguez-Comendador Pérez, Luis Rogelio",
+      "gender": "M",
+      "district": "Parlamento de Andalucía",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Rojo Noguera, Pilar Milagros",
+      "gender": "F",
+      "district": "Albacete",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Rollán Ojeda, Pedro Manuel",
+      "gender": "M",
+      "district": "Madrid",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Romero García, Pasión Gádor",
+      "gender": "M",
+      "district": "Lérida Lérida",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Romero Hernández, Carmelo",
+      "gender": "M",
+      "district": "Huelva",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Romero Sánchez, Rosa María",
+      "gender": "F",
+      "district": "Ciudad Real",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "De la Rosa Martín, Miguel Ángel",
+      "gender": "M",
+      "district": "Cortes de Castilla-La Mancha",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Rovira Costas, Núria",
+      "gender": "F",
+      "district": "Tarragona",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Rubio Blasco, María Cristina",
+      "gender": "F",
+      "district": "Soria",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Rudi Úbeda, Luisa Fernanda",
+      "gender": "F",
+      "district": "Zaragoza",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Ruiz Escudero, Enrique",
+      "gender": "M",
+      "district": "Asamblea de Madrid",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Ruiz Rivas, Manuel Santos",
+      "gender": "M",
+      "district": "La Coruña",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Ruiz-Sillero Bernal, María Teresa",
+      "gender": "F",
+      "district": "Parlamento de Andalucía",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Saavedra Doménech, Marta Jorgina",
+      "gender": "F",
+      "district": "Gran Canaria",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Sagredo Marco, Juan Antonio",
+      "gender": "M",
+      "district": "Valencia",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Salom Coll, María",
+      "gender": "F",
+      "district": "Mallorca",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "San Martín Ibarra, María del Mar",
+      "gender": "F",
+      "district": "La Rioja",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Sánchez Gándara, Rosa María",
+      "gender": "F",
+      "district": "Orense",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Sánchez García, Piedad",
+      "gender": "F",
+      "district": "Ávila",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Sánchez Roca, Inmaculada",
+      "gender": "F",
+      "district": "Murcia",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Sánchez San Juan, Kilian",
+      "gender": "M",
+      "district": "La Palma",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Sanginés Gutiérrez, Pedro Manuel",
+      "gender": "M",
+      "district": "Parlamento de Canarias",
+      "party": "CCa",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Sans Pairutó, Martín",
+      "gender": "M",
+      "district": "Gerona",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Santamaría Ruiz, Luis Javier",
+      "gender": "M",
+      "district": "Valencia",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Sanz Jerónimo, Paloma Inés",
+      "gender": "F",
+      "district": "Segovia",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Sanz Vitorio, Juan José",
+      "gender": "M",
+      "district": "Segovia",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Serrano Argüello, María Arenales",
+      "gender": "F",
+      "district": "Valladolid",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Serrano López, Juan Carlos",
+      "gender": "M",
+      "district": "Lugo",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Serrano Sánchez-Capuchino, Alfonso Carlos",
+      "gender": "M",
+      "district": "Asamblea de Madrid",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Sierra Gallardo, Leopoldo Jerónimo",
+      "gender": "M",
+      "district": "Ciudad Real",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Silva Méndez, María Carmen da",
+      "gender": "F",
+      "district": "Parlamento de Galicia",
+      "party": "BNG",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Silva Rego, María del Carmen",
+      "gender": "F",
+      "district": "Pontevedra",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Silván Rodríguez, Antonio",
+      "gender": "M",
+      "district": "León",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Soler Santos, Mario",
+      "gender": "M",
+      "district": "Tarragona",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Somalo García, Paula Alicia",
+      "gender": "F",
+      "district": "Álava",
+      "party": "PSE-EE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Suárez Lamata, Eloy",
+      "gender": "M",
+      "district": "Cortes de Aragón",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Ten Costa, Francesc Xavier",
+      "gender": "M",
+      "district": "Parlamento de Cataluña",
+      "party": "JxCat",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Tirado Ochoa, Vicente",
+      "gender": "M",
+      "district": "Toledo",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Tofiño Pérez, José Manuel",
+      "gender": "M",
+      "district": "Toledo",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Torralba Valiente, Carmen",
+      "gender": "F",
+      "district": "Cuenca",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Torres Valencoso, Amparo",
+      "gender": "F",
+      "district": "Albacete",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Torres Valls, Martín Ángel",
+      "gender": "M",
+      "district": "Mallorca",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Tudanca Fernández, Luis",
+      "gender": "M",
+      "district": "Cortes de Castilla y León",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Ucero Pérez, Natalia",
+      "gender": "F",
+      "district": "Zamora",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Uribe-Etxebarria Apalategi, Luis Jesús",
+      "gender": "M",
+      "district": "Guipúzcoa",
+      "party": "EAJ-PNV",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Valbuena Alonso, José Antonio",
+      "gender": "M",
+      "district": "Parlamento de Canarias",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Valero Mejía, Raúl Dalmacio",
+      "gender": "M",
+      "district": "Ciudad Real",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "De la Vega Carrera, José Manuel",
+      "gender": "M",
+      "district": "Tarragona",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Vidal Varela, Salvador",
+      "gender": "M",
+      "district": "León",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Viera Fernández, Rosa Faustina",
+      "gender": "F",
+      "district": "Parlamento de Canarias",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Vila Gómez, Elena",
+      "gender": "F",
+      "district": "Barcelona",
+      "party": "PSC",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Villalva Chavarría, María José",
+      "gender": "F",
+      "district": "Teruel",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Yécora Roca, Carlos",
+      "gender": "M",
+      "district": "La Rioja",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Yeves Leal, Lucía",
+      "gender": "F",
+      "district": "Málaga",
+      "party": "PP",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Zamora Bastante, María del Pilar",
+      "gender": "F",
+      "district": "Cortes de Castilla-La Mancha",
+      "party": "PSOE",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
+    },
+    {
+      "name": "Zubiaga Garate, Mario",
+      "gender": "M",
+      "district": "Guipúzcoa",
+      "party": "EH Bildu",
+      "salary": {
+        "gross": 45989,
+        "net": 32192
+      }
     }
   ],
   "officials": [
@@ -3827,7 +6467,7 @@
       "range": 3,
       "color": "#AAAAAA"
     },
-    "Junts": {
+    "JxCat": {
       "name": "Junts per Catalunya",
       "en": "Together for Catalonia",
       "range": 4,
