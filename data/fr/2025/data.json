@@ -77,7 +77,7 @@
       "name": "Éric Lombard",
       "gender": "M",
       "role": "Minister of Economy, Finance & Industrial & Digital Sovereignty",
-      "party": "SE",
+      "party": "Independent",
       "salary": { "gross": 128964, "net": 110000 },
       "budget": null
     },
@@ -150,6 +150,30 @@
   "senate": [],
   "officials": [],
   "parties": {
+    "FP": {
+      "name": "Fédération Progressiste",
+      "en": "Progressist Federation",
+      "range": 2,
+      "color": "#FE0056"
+    },
+    "HOR": {
+      "name": "Horizons",
+      "en": "Horizons",
+      "range": 4,
+      "color": "#0000BA"
+    },
+    "MoDem": {
+      "name": "Mouvement démocrate",
+      "en": "Democratic Movement",
+      "range": 4,
+      "color": "#F05122"
+    },
+    "LR": {
+      "name": "Les Républicains",
+      "en": "The Republicans",
+      "range": 4,
+      "color": "#0043AF"
+    },
     "RE": {
       "name": "Renaissance",
       "en": "Renaissance",
