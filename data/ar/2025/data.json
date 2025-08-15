@@ -839,9 +839,11 @@
         "gross": 67866,
         "net": 52928
       },
-      "details": {
-        "Sueldo": "https://espert.com.ar/diputado/sueldos/"
-      }
+      "sources": [
+        {
+          "Sueldo": "https://espert.com.ar/diputado/sueldos/"
+        }
+      ]
     },
     {
       "name": "Gabriela Beatriz Estévez",
