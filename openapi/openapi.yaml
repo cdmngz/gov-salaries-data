@@ -213,7 +213,7 @@ paths:
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/CountryRates"
+                $ref: "#/components/schemas/Rates"
         "404":
           description: Not Found
 
