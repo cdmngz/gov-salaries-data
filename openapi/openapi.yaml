@@ -1,0 +1,829 @@
+openapi: 3.1.0
+info:
+  title: Government salary API
+  version: 1.0.0
+
+tags:
+  - name: Country
+  - name: World
+
+paths:
+  /data/{code}/{year}/data.json:
+    get:
+      tags: [Country]
+      summary: Get data by country and year
+      parameters:
+        - name: code
+          in: path
+          required: true
+          description: ISO country code (alpha-2).
+          schema:
+            type: string
+            pattern: "^[A-Za-z]{2}$"
+            example: us
+        - name: year
+          in: path
+          required: true
+          description: Calendar year of the data.
+          schema:
+            type: integer
+            example: 2025
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Snapshot"
+              examples:
+                sample:
+                  value:
+                    baseCurrency: "USD"
+                    royalty:
+                      - name: "Arthur Pendragon"
+                        gender: "M"
+                        party: "Royal"
+                        salary: { gross: 250000, net: 200000 }
+                        details:
+                          Official pdf: "https://..."
+                          Bonus ammount: 14000
+                          Simple info: "example"
+                    president:
+                      - name: "Alice Johnson"
+                        gender: "F"
+                        party: "UNI"
+                        salary: { gross: 180000, net: 140000 }
+                        details:
+                          Official pdf: "https://..."
+                          Bonus ammount: 14000
+                          Simple info: "example"
+                    vicePresident:
+                      - name: "Victor Ramos"
+                        gender: "M"
+                        party: "UNI"
+                        salary: { gross: 160000, net: 125000 }
+                    ministers:
+                      - name: "Ariel Smith"
+                        gender: "X"
+                        role: "Minister of Finance"
+                        party: "VRD"
+                        salary: { gross: 150000, net: 120000 }
+                    congress:
+                      - name: "James O'Neil"
+                        gender: "M"
+                        party: "UNI"
+                        district: "Northwest Region"
+                        salary: { gross: 120000, net: 95000 }
+                    senate:
+                      - name: "Maria Gonzalez"
+                        gender: "F"
+                        party: "VRD"
+                        district: "Northwest Region"
+                        salary: { gross: 130000, net: 100000 }
+                    officials:
+                      - name: "Eve Thompson"
+                        gender: "F"
+                        role: "Chief of Staff"
+                        party: "Independent"
+                        salary: { gross: 125000, net: 100000 }
+                    parties:
+                      UNI:
+                        {
+                          name: "Unity Party",
+                          en: "Unity Party",
+                          range: 4,
+                          color: "#3366cc",
+                        }
+                      VRD:
+                        {
+                          name: "Verde",
+                          en: "Green",
+                          range: 3,
+                          color: "#ABC4F3",
+                        }
+        "304":
+          description: Not Modified
+        "404":
+          description: Not Found
+
+  /data/{code}/{year}/rates.json:
+    get:
+      tags: [Country]
+      summary: Get data by country and year
+      parameters:
+        - name: code
+          in: path
+          required: true
+          description: ISO country code (alpha-2).
+          schema:
+            type: string
+            pattern: "^[A-Za-z]{2}$"
+            example: us
+        - name: year
+          in: path
+          required: true
+          description: Calendar year of the data.
+          schema:
+            type: integer
+            example: 2025
+      responses:
+        "200":
+          description: OK
+          headers:
+            ETag:
+              description: Entity tag for caching.
+              schema: { type: string }
+            Cache-Control:
+              description: Cache hints from Pages/CDN.
+              schema: { type: string }
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Snapshot"
+              examples:
+                sample:
+                  value:
+                    baseCurrency: "USD"
+                    royalty:
+                      - name: "Arthur Pendragon"
+                        gender: "M"
+                        party: "Royal"
+                        salary: { gross: 250000, net: 200000 }
+                        details:
+                          Official pdf: "https://..."
+                          Bonus ammount: 14000
+                          Simple info: "example"
+                    president:
+                      - name: "Alice Johnson"
+                        gender: "F"
+                        party: "UNI"
+                        salary: { gross: 180000, net: 140000 }
+                        details:
+                          Official pdf: "https://..."
+                          Bonus ammount: 14000
+                          Simple info: "example"
+                    vicePresident:
+                      - name: "Victor Ramos"
+                        gender: "M"
+                        party: "UNI"
+                        salary: { gross: 160000, net: 125000 }
+                    ministers:
+                      - name: "Ariel Smith"
+                        gender: "X"
+                        role: "Minister of Finance"
+                        party: "VRD"
+                        salary: { gross: 150000, net: 120000 }
+                    congress:
+                      - name: "James O'Neil"
+                        gender: "M"
+                        party: "UNI"
+                        district: "Northwest Region"
+                        salary: { gross: 120000, net: 95000 }
+                    senate:
+                      - name: "Maria Gonzalez"
+                        gender: "F"
+                        party: "VRD"
+                        district: "Northwest Region"
+                        salary: { gross: 130000, net: 100000 }
+                    officials:
+                      - name: "Eve Thompson"
+                        gender: "F"
+                        role: "Chief of Staff"
+                        party: "Independent"
+                        salary: { gross: 125000, net: 100000 }
+                    parties:
+                      UNI:
+                        {
+                          name: "Unity Party",
+                          en: "Unity Party",
+                          range: 4,
+                          color: "#3366cc",
+                        }
+                      VRD:
+                        {
+                          name: "Verde",
+                          en: "Green",
+                          range: 3,
+                          color: "#ABC4F3",
+                        }
+        "304":
+          description: Not Modified
+        "404":
+          description: Not Found
+
+  /data/{code}/index.json:
+    get:
+      tags: [Country]
+      summary: Get data by country and year
+      parameters:
+        - name: code
+          in: path
+          required: true
+          description: ISO country code (alpha-2).
+          schema:
+            type: string
+            pattern: "^[A-Za-z]{2}$"
+            example: us
+        - name: year
+          in: path
+          required: true
+          description: Calendar year of the data.
+          schema:
+            type: integer
+            example: 2025
+      responses:
+        "200":
+          description: OK
+          headers:
+            ETag:
+              description: Entity tag for caching.
+              schema: { type: string }
+            Cache-Control:
+              description: Cache hints from Pages/CDN.
+              schema: { type: string }
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Snapshot"
+              examples:
+                sample:
+                  value:
+                    baseCurrency: "USD"
+                    royalty:
+                      - name: "Arthur Pendragon"
+                        gender: "M"
+                        party: "Royal"
+                        salary: { gross: 250000, net: 200000 }
+                        details:
+                          Official pdf: "https://..."
+                          Bonus ammount: 14000
+                          Simple info: "example"
+                    president:
+                      - name: "Alice Johnson"
+                        gender: "F"
+                        party: "UNI"
+                        salary: { gross: 180000, net: 140000 }
+                        details:
+                          Official pdf: "https://..."
+                          Bonus ammount: 14000
+                          Simple info: "example"
+                    vicePresident:
+                      - name: "Victor Ramos"
+                        gender: "M"
+                        party: "UNI"
+                        salary: { gross: 160000, net: 125000 }
+                    ministers:
+                      - name: "Ariel Smith"
+                        gender: "X"
+                        role: "Minister of Finance"
+                        party: "VRD"
+                        salary: { gross: 150000, net: 120000 }
+                    congress:
+                      - name: "James O'Neil"
+                        gender: "M"
+                        party: "UNI"
+                        district: "Northwest Region"
+                        salary: { gross: 120000, net: 95000 }
+                    senate:
+                      - name: "Maria Gonzalez"
+                        gender: "F"
+                        party: "VRD"
+                        district: "Northwest Region"
+                        salary: { gross: 130000, net: 100000 }
+                    officials:
+                      - name: "Eve Thompson"
+                        gender: "F"
+                        role: "Chief of Staff"
+                        party: "Independent"
+                        salary: { gross: 125000, net: 100000 }
+                    parties:
+                      UNI:
+                        {
+                          name: "Unity Party",
+                          en: "Unity Party",
+                          range: 4,
+                          color: "#3366cc",
+                        }
+                      VRD:
+                        {
+                          name: "Verde",
+                          en: "Green",
+                          range: 3,
+                          color: "#ABC4F3",
+                        }
+        "304":
+          description: Not Modified
+        "404":
+          description: Not Found
+
+  /data/index.json:
+    get:
+      tags: [Country]
+      summary: Get data by country and year
+      parameters:
+        - name: code
+          in: path
+          required: true
+          description: ISO country code (alpha-2).
+          schema:
+            type: string
+            pattern: "^[A-Za-z]{2}$"
+            example: us
+        - name: year
+          in: path
+          required: true
+          description: Calendar year of the data.
+          schema:
+            type: integer
+            example: 2025
+      responses:
+        "200":
+          description: OK
+          headers:
+            ETag:
+              description: Entity tag for caching.
+              schema: { type: string }
+            Cache-Control:
+              description: Cache hints from Pages/CDN.
+              schema: { type: string }
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Snapshot"
+              examples:
+                sample:
+                  value:
+                    baseCurrency: "USD"
+                    royalty:
+                      - name: "Arthur Pendragon"
+                        gender: "M"
+                        party: "Royal"
+                        salary: { gross: 250000, net: 200000 }
+                        details:
+                          Official pdf: "https://..."
+                          Bonus ammount: 14000
+                          Simple info: "example"
+                    president:
+                      - name: "Alice Johnson"
+                        gender: "F"
+                        party: "UNI"
+                        salary: { gross: 180000, net: 140000 }
+                        details:
+                          Official pdf: "https://..."
+                          Bonus ammount: 14000
+                          Simple info: "example"
+                    vicePresident:
+                      - name: "Victor Ramos"
+                        gender: "M"
+                        party: "UNI"
+                        salary: { gross: 160000, net: 125000 }
+                    ministers:
+                      - name: "Ariel Smith"
+                        gender: "X"
+                        role: "Minister of Finance"
+                        party: "VRD"
+                        salary: { gross: 150000, net: 120000 }
+                    congress:
+                      - name: "James O'Neil"
+                        gender: "M"
+                        party: "UNI"
+                        district: "Northwest Region"
+                        salary: { gross: 120000, net: 95000 }
+                    senate:
+                      - name: "Maria Gonzalez"
+                        gender: "F"
+                        party: "VRD"
+                        district: "Northwest Region"
+                        salary: { gross: 130000, net: 100000 }
+                    officials:
+                      - name: "Eve Thompson"
+                        gender: "F"
+                        role: "Chief of Staff"
+                        party: "Independent"
+                        salary: { gross: 125000, net: 100000 }
+                    parties:
+                      UNI:
+                        {
+                          name: "Unity Party",
+                          en: "Unity Party",
+                          range: 4,
+                          color: "#3366cc",
+                        }
+                      VRD:
+                        {
+                          name: "Verde",
+                          en: "Green",
+                          range: 3,
+                          color: "#ABC4F3",
+                        }
+        "304":
+          description: Not Modified
+        "404":
+          description: Not Found
+
+  /data/world/index.json:
+    get:
+      tags: [World]
+      summary: Get list of availables years
+      parameters:
+        - name: year
+          in: path
+          required: true
+          description: Calendar year of the data
+          schema:
+            type: integer
+            example: 2025
+      responses:
+        "200":
+          description: OK
+          headers:
+            ETag:
+              description: Entity tag for caching.
+              schema: { type: string }
+            Cache-Control:
+              description: Cache hints from Pages/CDN.
+              schema: { type: string }
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/WorldAvailableYears"
+
+        "304":
+          description: Not Modified
+        "404":
+          description: Not Found
+
+  /data/world/{year}/data.json:
+    get:
+      tags: [World]
+      summary: Get data by country and year
+      parameters:
+        - name: code
+          in: path
+          required: true
+          description: ISO country code (alpha-2).
+          schema:
+            type: string
+            pattern: "^[A-Za-z]{2}$"
+            example: us
+        - name: year
+          in: path
+          required: true
+          description: Calendar year of the data.
+          schema:
+            type: integer
+            example: 2025
+      responses:
+        "200":
+          description: OK
+          headers:
+            ETag:
+              description: Entity tag for caching.
+              schema: { type: string }
+            Cache-Control:
+              description: Cache hints from Pages/CDN.
+              schema: { type: string }
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Snapshot"
+              examples:
+                sample:
+                  value:
+                    baseCurrency: "USD"
+                    royalty:
+                      - name: "Arthur Pendragon"
+                        gender: "M"
+                        party: "Royal"
+                        salary: { gross: 250000, net: 200000 }
+                        details:
+                          Official pdf: "https://..."
+                          Bonus ammount: 14000
+                          Simple info: "example"
+                    president:
+                      - name: "Alice Johnson"
+                        gender: "F"
+                        party: "UNI"
+                        salary: { gross: 180000, net: 140000 }
+                        details:
+                          Official pdf: "https://..."
+                          Bonus ammount: 14000
+                          Simple info: "example"
+                    vicePresident:
+                      - name: "Victor Ramos"
+                        gender: "M"
+                        party: "UNI"
+                        salary: { gross: 160000, net: 125000 }
+                    ministers:
+                      - name: "Ariel Smith"
+                        gender: "X"
+                        role: "Minister of Finance"
+                        party: "VRD"
+                        salary: { gross: 150000, net: 120000 }
+                    congress:
+                      - name: "James O'Neil"
+                        gender: "M"
+                        party: "UNI"
+                        district: "Northwest Region"
+                        salary: { gross: 120000, net: 95000 }
+                    senate:
+                      - name: "Maria Gonzalez"
+                        gender: "F"
+                        party: "VRD"
+                        district: "Northwest Region"
+                        salary: { gross: 130000, net: 100000 }
+                    officials:
+                      - name: "Eve Thompson"
+                        gender: "F"
+                        role: "Chief of Staff"
+                        party: "Independent"
+                        salary: { gross: 125000, net: 100000 }
+                    parties:
+                      UNI:
+                        {
+                          name: "Unity Party",
+                          en: "Unity Party",
+                          range: 4,
+                          color: "#3366cc",
+                        }
+                      VRD:
+                        {
+                          name: "Verde",
+                          en: "Green",
+                          range: 3,
+                          color: "#ABC4F3",
+                        }
+        "304":
+          description: Not Modified
+        "404":
+          description: Not Found
+
+  /data/world/{year}/rates.json:
+    get:
+      tags: [World]
+      summary: Get data by country and year
+      parameters:
+        - name: code
+          in: path
+          required: true
+          description: ISO country code (alpha-2).
+          schema:
+            type: string
+            pattern: "^[A-Za-z]{2}$"
+            example: us
+        - name: year
+          in: path
+          required: true
+          description: Calendar year of the data.
+          schema:
+            type: integer
+            example: 2025
+      responses:
+        "200":
+          description: OK
+          headers:
+            ETag:
+              description: Entity tag for caching.
+              schema: { type: string }
+            Cache-Control:
+              description: Cache hints from Pages/CDN.
+              schema: { type: string }
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Snapshot"
+              examples:
+                sample:
+                  value:
+                    baseCurrency: "USD"
+                    royalty:
+                      - name: "Arthur Pendragon"
+                        gender: "M"
+                        party: "Royal"
+                        salary: { gross: 250000, net: 200000 }
+                        details:
+                          Official pdf: "https://..."
+                          Bonus ammount: 14000
+                          Simple info: "example"
+                    president:
+                      - name: "Alice Johnson"
+                        gender: "F"
+                        party: "UNI"
+                        salary: { gross: 180000, net: 140000 }
+                        details:
+                          Official pdf: "https://..."
+                          Bonus ammount: 14000
+                          Simple info: "example"
+                    vicePresident:
+                      - name: "Victor Ramos"
+                        gender: "M"
+                        party: "UNI"
+                        salary: { gross: 160000, net: 125000 }
+                    ministers:
+                      - name: "Ariel Smith"
+                        gender: "X"
+                        role: "Minister of Finance"
+                        party: "VRD"
+                        salary: { gross: 150000, net: 120000 }
+                    congress:
+                      - name: "James O'Neil"
+                        gender: "M"
+                        party: "UNI"
+                        district: "Northwest Region"
+                        salary: { gross: 120000, net: 95000 }
+                    senate:
+                      - name: "Maria Gonzalez"
+                        gender: "F"
+                        party: "VRD"
+                        district: "Northwest Region"
+                        salary: { gross: 130000, net: 100000 }
+                    officials:
+                      - name: "Eve Thompson"
+                        gender: "F"
+                        role: "Chief of Staff"
+                        party: "Independent"
+                        salary: { gross: 125000, net: 100000 }
+                    parties:
+                      UNI:
+                        {
+                          name: "Unity Party",
+                          en: "Unity Party",
+                          range: 4,
+                          color: "#3366cc",
+                        }
+                      VRD:
+                        {
+                          name: "Verde",
+                          en: "Green",
+                          range: 3,
+                          color: "#ABC4F3",
+                        }
+        "404":
+          description: Not Found
+
+components:
+  schemas:
+    Snapshot:
+      type: object
+      required: [baseCurrency]
+      properties:
+        baseCurrency:
+          type: string
+          description: ISO 4217 currency code for salary figures.
+          example: USD
+        royalty:
+          type: array
+          items: { $ref: "#/components/schemas/PersonWithOptionalSources" }
+        president:
+          type: array
+          items: { $ref: "#/components/schemas/PersonWithOptionalSources" }
+        vicePresident:
+          type: array
+          items: { $ref: "#/components/schemas/Person" }
+        ministers:
+          type: array
+          items: { $ref: "#/components/schemas/Minister" }
+        congress:
+          type: array
+          items: { $ref: "#/components/schemas/Legislator" }
+        senate:
+          type: array
+          items: { $ref: "#/components/schemas/Legislator" }
+        officials:
+          type: array
+          items: { $ref: "#/components/schemas/Official" }
+        parties:
+          $ref: "#/components/schemas/PartiesMap"
+
+    PersonGender:
+      type: string
+      enum: [M, F, X]
+
+    PersonBase:
+      type: object
+      required: [name]
+      properties:
+        name:
+          type: string
+          example: "Alice Johnson"
+        gender:
+          $ref: "#/components/schemas/PersonGender"
+        party:
+          type: string
+          description: Party code or literal label (see `parties` map).
+          example: "UNI"
+        salary:
+          $ref: "#/components/schemas/Salary"
+
+    Person:
+      allOf:
+        - $ref: "#/components/schemas/PersonBase"
+
+    PersonWithOptionalSources:
+      allOf:
+        - $ref: "#/components/schemas/PersonBase"
+        - type: object
+          properties:
+            sources:
+              $ref: "#/components/schemas/Sources"
+
+    Minister:
+      allOf:
+        - $ref: "#/components/schemas/PersonBase"
+        - type: object
+          properties:
+            role:
+              type: string
+              example: "Minister of Finance"
+
+    Official:
+      allOf:
+        - $ref: "#/components/schemas/PersonBase"
+        - type: object
+          properties:
+            role:
+              type: string
+              example: "Chief of Staff"
+
+    Legislator:
+      allOf:
+        - $ref: "#/components/schemas/PersonBase"
+        - type: object
+          properties:
+            district:
+              type: string
+              example: "Northwest Region"
+
+    Salary:
+      type: object
+      properties:
+        gross:
+          type: number
+          format: float
+          example: 180000
+        net:
+          type: number
+          format: float
+          example: 140000
+
+    Sources:
+      type: object
+      additionalProperties:
+        oneOf:
+          - type: string
+          - type: number
+      example:
+        source-1: 12000
+        source-2: "https://..."
+        source-3: "information"
+
+    PartyInfo:
+      type: object
+      required: [name, range, color]
+      properties:
+        name:
+          type: string
+          description: Localized/common name.
+          example: Sozialdemokratische Partei
+        en:
+          type: string
+          description: English display name.
+          example: Social Democratic Party
+        range:
+          type: integer
+          description: Political wing level (1 → 5). 1 is the most left, 5 is the most right.
+          minimum: 1
+          maximum: 5
+          example: 2
+        color:
+          type: string
+          description: Hex color code.
+          pattern: "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$"
+          example: "#FF0000"
+
+    PartiesMap:
+      type: object
+      description: Map of party code → metadata.
+      additionalProperties:
+        $ref: "#/components/schemas/PartyInfo"
+      example:
+        SPD:
+          name: Sozialdemokratische Partei
+          en: Social Democratic Party
+          range: 2
+          color: "#FF0000"
+        CDU:
+          name: Christlich Demokratische Union
+          en: Christian Democratic Union
+          range: 4
+          color: "#000000"
+
+    WorldAvailableYears:
+      type: array
+      description: List of available years with data, sorted in descending order
+      items:
+        type: integer
+        example: 2025
+      minItems: 1
+      uniqueItems: true
+      example: [2025, 2024, 2023]
