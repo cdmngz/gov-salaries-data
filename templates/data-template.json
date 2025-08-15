@@ -9,11 +9,13 @@
         "gross": 250000,
         "net": 200000
       },
-      "details": {
-        "Official pdf": "https://...",
-        "Bonus ammount": 14000,
-        "Simple info": "example"
-      }
+      "sources": [
+        {
+          "Official PDF": "https://..."
+        },
+        { "Bonus ammount": 14000 },
+        { "Another info": "example" }
+      ]
     }
   ],
   "president": [
@@ -25,11 +27,13 @@
         "gross": 180000,
         "net": 140000
       },
-      "details": {
-        "Official pdf": "https://...",
-        "Bonus ammount": 14000,
-        "Simple info": "example"
-      }
+      "sources": [
+        {
+          "Official PDF": "https://..."
+        },
+        { "Bonus ammount": 14000 },
+        { "Another info": "example" }
+      ]
     }
   ],
   "vicePresident": [
@@ -76,7 +80,14 @@
       "salary": {
         "gross": 130000,
         "net": 100000
-      }
+      },
+      "sources": [
+        {
+          "Official PDF": "https://..."
+        },
+        { "Bonus ammount": 14000 },
+        { "Another info": "example" }
+      ]
     }
   ],
   "officials": [
