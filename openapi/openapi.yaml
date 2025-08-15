@@ -34,80 +34,14 @@ paths:
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/Snapshot"
-              examples:
-                sample:
-                  value:
-                    baseCurrency: "USD"
-                    royalty:
-                      - name: "Arthur Pendragon"
-                        gender: "M"
-                        party: "Royal"
-                        salary: { gross: 250000, net: 200000 }
-                        details:
-                          Official pdf: "https://..."
-                          Bonus ammount: 14000
-                          Simple info: "example"
-                    president:
-                      - name: "Alice Johnson"
-                        gender: "F"
-                        party: "UNI"
-                        salary: { gross: 180000, net: 140000 }
-                        details:
-                          Official pdf: "https://..."
-                          Bonus ammount: 14000
-                          Simple info: "example"
-                    vicePresident:
-                      - name: "Victor Ramos"
-                        gender: "M"
-                        party: "UNI"
-                        salary: { gross: 160000, net: 125000 }
-                    ministers:
-                      - name: "Ariel Smith"
-                        gender: "X"
-                        role: "Minister of Finance"
-                        party: "VRD"
-                        salary: { gross: 150000, net: 120000 }
-                    congress:
-                      - name: "James O'Neil"
-                        gender: "M"
-                        party: "UNI"
-                        district: "Northwest Region"
-                        salary: { gross: 120000, net: 95000 }
-                    senate:
-                      - name: "Maria Gonzalez"
-                        gender: "F"
-                        party: "VRD"
-                        district: "Northwest Region"
-                        salary: { gross: 130000, net: 100000 }
-                    officials:
-                      - name: "Eve Thompson"
-                        gender: "F"
-                        role: "Chief of Staff"
-                        party: "Independent"
-                        salary: { gross: 125000, net: 100000 }
-                    parties:
-                      UNI:
-                        {
-                          name: "Unity Party",
-                          en: "Unity Party",
-                          range: 4,
-                          color: "#3366cc",
-                        }
-                      VRD:
-                        {
-                          name: "Verde",
-                          en: "Green",
-                          range: 3,
-                          color: "#ABC4F3",
-                        }
+                $ref: "#/components/schemas/CountryData"
         "404":
           description: Not Found
 
   /data/{code}/{year}/rates.json:
     get:
       tags: [Country]
-      summary: Get data by country and year
+      summary: Get rates by country and year
       parameters:
         - name: code
           in: path
@@ -137,80 +71,14 @@ paths:
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/Snapshot"
-              examples:
-                sample:
-                  value:
-                    baseCurrency: "USD"
-                    royalty:
-                      - name: "Arthur Pendragon"
-                        gender: "M"
-                        party: "Royal"
-                        salary: { gross: 250000, net: 200000 }
-                        details:
-                          Official pdf: "https://..."
-                          Bonus ammount: 14000
-                          Simple info: "example"
-                    president:
-                      - name: "Alice Johnson"
-                        gender: "F"
-                        party: "UNI"
-                        salary: { gross: 180000, net: 140000 }
-                        details:
-                          Official pdf: "https://..."
-                          Bonus ammount: 14000
-                          Simple info: "example"
-                    vicePresident:
-                      - name: "Victor Ramos"
-                        gender: "M"
-                        party: "UNI"
-                        salary: { gross: 160000, net: 125000 }
-                    ministers:
-                      - name: "Ariel Smith"
-                        gender: "X"
-                        role: "Minister of Finance"
-                        party: "VRD"
-                        salary: { gross: 150000, net: 120000 }
-                    congress:
-                      - name: "James O'Neil"
-                        gender: "M"
-                        party: "UNI"
-                        district: "Northwest Region"
-                        salary: { gross: 120000, net: 95000 }
-                    senate:
-                      - name: "Maria Gonzalez"
-                        gender: "F"
-                        party: "VRD"
-                        district: "Northwest Region"
-                        salary: { gross: 130000, net: 100000 }
-                    officials:
-                      - name: "Eve Thompson"
-                        gender: "F"
-                        role: "Chief of Staff"
-                        party: "Independent"
-                        salary: { gross: 125000, net: 100000 }
-                    parties:
-                      UNI:
-                        {
-                          name: "Unity Party",
-                          en: "Unity Party",
-                          range: 4,
-                          color: "#3366cc",
-                        }
-                      VRD:
-                        {
-                          name: "Verde",
-                          en: "Green",
-                          range: 3,
-                          color: "#ABC4F3",
-                        }
+                $ref: "#/components/schemas/Rates"
         "404":
           description: Not Found
 
   /data/{code}/index.json:
     get:
       tags: [Country]
-      summary: Get data by country and year
+      summary: Get list of availables years
       parameters:
         - name: code
           in: path
@@ -240,7 +108,7 @@ paths:
   /data/index.json:
     get:
       tags: [Country]
-      summary: Get data by country and year
+      summary: Get list of availables countries by years
       parameters:
         - name: code
           in: path
@@ -292,7 +160,7 @@ paths:
   /data/world/{year}/data.json:
     get:
       tags: [World]
-      summary: Get data by country and year
+      summary: Get full countries data by year
       parameters:
         - name: code
           in: path
@@ -322,7 +190,7 @@ paths:
   /data/world/{year}/rates.json:
     get:
       tags: [World]
-      summary: Get data by country and year
+      summary: Get world rates by year
       parameters:
         - name: code
           in: path
@@ -341,11 +209,11 @@ paths:
             example: 2025
       responses:
         "200":
-          description: OK
+          description: Successful response
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/WorldRates"
+                $ref: "#/components/schemas/CountryRates"
         "404":
           description: Not Found
 
