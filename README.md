@@ -78,6 +78,7 @@ We welcome your help! To contribute:
 Please make sure your `data.json` and `rates.json` files follows the structure shown in:
 
 ➡️ [`templates/data-template.json`](templates/data-template.json)
+
 ➡️ [`templates/rates-template.json`](templates/rates-template.json)
 
 ---
