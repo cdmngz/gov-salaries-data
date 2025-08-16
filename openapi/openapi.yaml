@@ -425,9 +425,18 @@ components:
           link: "#/components/schemas/SourceLink"
 
     Sources:
-      type: array
-      items:
-        $ref: "#/components/schemas/Source"
+      type: object
+      description: Map of label → value (text, number, or URL).
+      additionalProperties:
+        anyOf:
+          - type: number
+          - type: string # plain text
+          - type: string # URL
+            format: uri
+      example:
+        "pdf": "https://example.com/file.pdf"
+        "bonus": 67866
+        "notes": "declaration"
 
     Official:
       type: object
