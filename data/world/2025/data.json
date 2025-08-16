@@ -5,8 +5,8 @@
       "quantity": 7,
       "budget": 22561000000
     },
-    "congress": {
-      "quantity": 0
+    "deputies": {
+      "quantity": 257
     },
     "senate": {
       "quantity": 72
@@ -18,8 +18,8 @@
       "quantity": 22,
       "budget": 190880197802
     },
-    "congress": {
-      "quantity": 0
+    "deputies": {
+      "quantity": 348
     },
     "senate": {
       "quantity": 265
@@ -31,7 +31,7 @@
       "quantity": 13,
       "budget": 0
     },
-    "congress": {
+    "deputies": {
       "quantity": 0
     },
     "senate": {
@@ -44,8 +44,8 @@
       "quantity": 15,
       "budget": 1615600000000
     },
-    "congress": {
-      "quantity": 0
+    "deputies": {
+      "quantity": 330
     },
     "senate": {
       "quantity": 98

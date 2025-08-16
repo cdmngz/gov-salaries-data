@@ -56,7 +56,7 @@ function buildWorldEntry(countryCode, year, dataPath, ratesPath, worldRates) {
   const data = readJSON(dataPath) || {};
   const rates = readJSON(ratesPath) || {};
   const ministersArr = Array.isArray(data.ministers) ? data.ministers : [];
-  const congressArr = Array.isArray(data.congress) ? data.congress : [];
+  const deputiesArr = Array.isArray(data.deputies) ? data.deputies : [];
   const senateArr = Array.isArray(data.senate) ? data.senate : [];
   const quantity = ministersArr.length;
   const localCurrency =
@@ -77,7 +77,7 @@ function buildWorldEntry(countryCode, year, dataPath, ratesPath, worldRates) {
   return {
     GDP: gdpUSD,
     ministers: { quantity, budget: budgetUSD },
-    congress: { quantity: congressArr.length },
+    deputies: { quantity: deputiesArr.length },
     senate: { quantity: senateArr.length },
   };
 }

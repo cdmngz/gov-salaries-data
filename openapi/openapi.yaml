@@ -324,11 +324,11 @@ components:
           minimum: 0
         ministers:
           $ref: "#/components/schemas/MinistersBlock"
-        congress:
+        deputies:
           $ref: "#/components/schemas/ChamberBlock"
         senate:
           $ref: "#/components/schemas/ChamberBlock"
-      required: [GDP, ministers, congress, senate]
+      required: [GDP, ministers, deputies, senate]
       additionalProperties: false
 
     MinistersBlock:
@@ -510,22 +510,22 @@ components:
         ar:
           GDP: 633270000000
           ministers: { quantity: 7, budget: 22561000000 }
-          congress: { quantity: 257 }
+          deputies: { quantity: 257 }
           senate: { quantity: 72 }
         es:
           GDP: 1749040659341
           ministers: { quantity: 22, budget: 190880197802 }
-          congress: { quantity: 348 }
+          deputies: { quantity: 348 }
           senate: { quantity: 265 }
         fr:
           GDP: 1749040659341
           ministers: { quantity: 15, budget: 0 }
-          congress: { quantity: 0 }
+          deputies: { quantity: 0 }
           senate: { quantity: 0 }
         us:
           GDP: 30331117000000
           ministers: { quantity: 15, budget: 1615600000000 }
-          congress: { quantity: 330 }
+          deputies: { quantity: 330 }
           senate: { quantity: 98 }
 
     WorldYears:
