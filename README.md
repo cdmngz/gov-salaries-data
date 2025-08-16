@@ -86,7 +86,7 @@ Please make sure your `data.json` and `rates.json` files follows the structure s
 
 In order to see the full structure of the json response, you can take a look to the openapi documentation
 
-📚 [`openapi/openapi.yaml`](openapi/openapi.yaml)
+📚 [openapi.yaml en Swagger UI](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/cdmngz/gov-salaries-data/main/openapi/openapi.yaml)
 
 ---
 
