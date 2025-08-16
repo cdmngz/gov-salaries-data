@@ -4,6 +4,7 @@
     {
       "name": "Felipe VI",
       "gender": "M",
+      "title": "Rey de España",
       "salary": {
         "gross": 277361,
         "net": 175000
@@ -12,32 +13,27 @@
     {
       "name": "Letizia Ortiz",
       "gender": "F",
+      "role": "Reina consorte de España",
       "salary": {
         "gross": 152539,
         "net": 97000
       }
     }
   ],
-  "president": [
+  "executive": [
     {
       "name": "Pedro Sánchez Pérez-Castejón",
       "gender": "M",
+      "role": "Presidente del Gobierno",
       "party": "PSOE",
-      "salary": {
-        "gross": 106598,
-        "net": 62000
-      }
-    }
-  ],
-  "vicePresident": [
+      "salary": { "gross": 106598, "net": 62000 }
+    },
     {
       "name": "María Jesús Montero Cuadrado",
       "gender": "F",
+      "role": "Vicepresidenta Primera y Ministra de Hacienda",
       "party": "PSOE",
-      "salary": {
-        "gross": 112000,
-        "net": 70000
-      }
+      "salary": { "gross": 112000, "net": 70000 }
     }
   ],
   "ministers": [
@@ -284,7 +280,7 @@
       "budget": 203110000
     }
   ],
-  "congress": [
+  "deputies": [
     {
       "name": "Abades Martínez, Cristina",
       "gender": "F",

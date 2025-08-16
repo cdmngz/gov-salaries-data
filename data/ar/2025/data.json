@@ -1,25 +1,19 @@
 {
   "baseCurrency": "USD",
-  "president": [
+  "executive": [
     {
       "name": "Javier Milei",
       "gender": "M",
+      "role": "Presidente de la Nación",
       "party": "LLA",
-      "salary": {
-        "gross": 35994,
-        "net": 23396
-      }
-    }
-  ],
-  "vicePresident": [
+      "salary": { "gross": 35994, "net": 23396 }
+    },
     {
       "name": "Victoria Villarruel",
       "gender": "F",
+      "role": "Vicepresidenta de la Nación",
       "party": "LLA",
-      "salary": {
-        "gross": 33341,
-        "net": 21671
-      }
+      "salary": { "gross": 33341, "net": 21671 }
     }
   ],
   "ministers": [
@@ -101,7 +95,7 @@
       "budget": 421000000
     }
   ],
-  "congress": [
+  "deputies": [
     {
       "name": "Sergio Edgardo Acevedo",
       "gender": "M",

@@ -1,25 +1,19 @@
 {
   "baseCurrency": "USD",
-  "president": [
+  "executive": [
     {
       "name": "Donald Trump",
       "gender": "M",
+      "role": "President of the United States",
       "party": "R",
-      "salary": {
-        "gross": 400000,
-        "net": 260000
-      }
-    }
-  ],
-  "vicePresident": [
+      "salary": { "gross": 400000, "net": 260000 }
+    },
     {
       "name": "James David Vance",
       "gender": "M",
+      "role": "Vice President of the United States",
       "party": "R",
-      "salary": {
-        "gross": 235100,
-        "net": 152815
-      }
+      "salary": { "gross": 235100, "net": 152815 }
     }
   ],
   "ministers": [
@@ -189,7 +183,7 @@
       "budget": 62200000000
     }
   ],
-  "congress": [
+  "deputies": [
     {
       "name": "Jerry Carl",
       "gender": "M",

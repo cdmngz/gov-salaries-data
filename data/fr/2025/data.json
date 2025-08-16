@@ -1,152 +1,116 @@
 {
   "baseCurrency": "EUR",
-  "president": [
+  "executive": [
     {
       "name": "Emmanuel Macron",
       "gender": "M",
       "role": "President of France",
       "party": "RE",
-      "salary": {
-        "gross": 192468,
-        "net": 175032
-      }
-    }
-  ],
-  "vicePresident": [
-    {
-      "name": "Gabriel Attal",
-      "gender": "M",
-      "role": "Prime Minister of France",
-      "party": "RE",
-      "salary": {
-        "gross": 178920,
-        "net": 145000
-      }
-    }
-  ],
-  "ministers": [
+      "salary": { "gross": 192468, "net": 175032 }
+    },
     {
       "name": "François Bayrou",
       "gender": "M",
-      "role": "Prime Minister",
+      "role": "Prime Minister of France",
       "party": "MoDem",
-      "salary": { "gross": 150000, "net": 120000 },
-      "budget": null
-    },
+      "salary": { "gross": 178920, "net": 145000 }
+    }
+  ],
+
+  "ministers": [
     {
       "name": "Élisabeth Borne",
       "gender": "F",
-      "role": "Minister of Education, Higher Education & Research",
+      "portfolio": "Minister of Education, Higher Education & Research",
       "party": "RE",
-      "salary": { "gross": 128964, "net": 110000 },
-      "budget": null
-    },
-    {
-      "name": "Manuel Valls",
-      "gender": "M",
-      "role": "Minister of Overseas Territories",
-      "party": "RE",
-      "salary": { "gross": 128964, "net": 110000 },
-      "budget": null
+      "salary": { "gross": 128964, "net": 110000 }
     },
     {
       "name": "Gérald Darmanin",
       "gender": "M",
-      "role": "Minister of Justice",
+      "portfolio": "Minister of Justice",
       "party": "RE",
-      "salary": { "gross": 128964, "net": 110000 },
-      "budget": null
+      "salary": { "gross": 128964, "net": 110000 }
     },
     {
       "name": "Bruno Retailleau",
       "gender": "M",
-      "role": "Minister of Interior",
+      "portfolio": "Minister of the Interior",
       "party": "LR",
-      "salary": { "gross": 128964, "net": 110000 },
-      "budget": null
+      "salary": { "gross": 128964, "net": 110000 }
     },
     {
       "name": "Catherine Vautrin",
       "gender": "F",
-      "role": "Minister of Labour, Health, Solidarity & Families",
+      "portfolio": "Minister of Labour, Health, Solidarity & Families",
       "party": "RE",
-      "salary": { "gross": 128964, "net": 110000 },
-      "budget": null
+      "salary": { "gross": 128964, "net": 110000 }
     },
     {
       "name": "Éric Lombard",
       "gender": "M",
-      "role": "Minister of Economy, Finance & Industrial & Digital Sovereignty",
+      "portfolio": "Minister of Economy, Finance & Industrial & Digital Sovereignty",
       "party": "Independent",
-      "salary": { "gross": 128964, "net": 110000 },
-      "budget": null
+      "salary": { "gross": 128964, "net": 110000 }
     },
     {
       "name": "Sébastien Lecornu",
       "gender": "M",
-      "role": "Minister of the Armed Forces",
+      "portfolio": "Minister of the Armed Forces",
       "party": "RE",
-      "salary": { "gross": 128964, "net": 110000 },
-      "budget": null
+      "salary": { "gross": 128964, "net": 110000 }
     },
     {
       "name": "Rachida Dati",
       "gender": "F",
-      "role": "Minister of Culture",
+      "portfolio": "Minister of Culture",
       "party": "LR",
-      "salary": { "gross": 128964, "net": 110000 },
-      "budget": null
+      "salary": { "gross": 128964, "net": 110000 }
     },
     {
       "name": "François Rebsamen",
       "gender": "M",
-      "role": "Minister of Territorial Development & Decentralization",
+      "portfolio": "Minister of Territorial Development & Decentralization",
       "party": "FP",
-      "salary": { "gross": 128964, "net": 110000 },
-      "budget": null
+      "salary": { "gross": 128964, "net": 110000 }
     },
     {
       "name": "Jean-Noël Barrot",
       "gender": "M",
-      "role": "Minister of Europe & Foreign Affairs",
+      "portfolio": "Minister of Europe & Foreign Affairs",
       "party": "MoDem",
-      "salary": { "gross": 128964, "net": 110000 },
-      "budget": null
+      "salary": { "gross": 128964, "net": 110000 }
     },
     {
       "name": "Agnès Pannier-Runacher",
       "gender": "F",
-      "role": "Minister of Ecological Transition, Biodiversity, Forests, Sea & Fisheries",
+      "portfolio": "Minister of Ecological Transition, Biodiversity, Forests, Sea & Fisheries",
       "party": "RE",
-      "salary": { "gross": 128964, "net": 110000 },
-      "budget": null
+      "salary": { "gross": 128964, "net": 110000 }
     },
     {
       "name": "Annie Genevard",
       "gender": "F",
-      "role": "Minister of Agriculture & Food Sovereignty",
+      "portfolio": "Minister of Agriculture & Food Sovereignty",
       "party": "LR",
-      "salary": { "gross": 128964, "net": 110000 },
-      "budget": null
+      "salary": { "gross": 128964, "net": 110000 }
     },
     {
       "name": "Laurent Marcangeli",
       "gender": "M",
-      "role": "Minister of Public Action, Civil Service & Simplification",
+      "portfolio": "Minister of Public Action, Civil Service & Simplification",
       "party": "HOR",
-      "salary": { "gross": 128964, "net": 110000 },
-      "budget": null
+      "salary": { "gross": 128964, "net": 110000 }
     },
     {
       "name": "Marie Barsacq",
       "gender": "F",
-      "role": "Minister of Sports, Youth & Community Life",
+      "portfolio": "Minister of Sports, Youth & Community Life",
       "party": "SE",
-      "salary": { "gross": 128964, "net": 110000 },
-      "budget": null
+      "salary": { "gross": 128964, "net": 110000 }
     }
   ],
-  "congress": [],
+  "deputies": [],
   "senate": [],
   "officials": [],
   "parties": {

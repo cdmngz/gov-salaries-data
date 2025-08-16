@@ -230,16 +230,13 @@ components:
         royalty:
           type: array
           items: { $ref: "#/components/schemas/Official" }
-        president:
-          type: array
-          items: { $ref: "#/components/schemas/Official" }
-        vicePresident:
+        executive:
           type: array
           items: { $ref: "#/components/schemas/Official" }
         ministers:
           type: array
           items: { $ref: "#/components/schemas/Official" }
-        congress:
+        deputies:
           type: array
           items: { $ref: "#/components/schemas/Official" }
         senate:
@@ -435,6 +432,7 @@ components:
           - pdf: https://example.com/salary.pdf
           - bonus: 1200
           - notes: "Declared in 2024 official report"
+        budget: 12000000
 
     CountriesYears:
       type: object

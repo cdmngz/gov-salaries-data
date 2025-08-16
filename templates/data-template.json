@@ -4,7 +4,7 @@
     {
       "name": "Arthur Pendragon",
       "gender": "M",
-      "party": "Royal",
+      "role": "King",
       "salary": {
         "gross": 250000,
         "net": 200000
@@ -18,10 +18,11 @@
       ]
     }
   ],
-  "president": [
+  "executive": [
     {
       "name": "Alice Johnson",
       "gender": "F",
+      "role": "President",
       "party": "UNI",
       "salary": {
         "gross": 180000,
@@ -34,12 +35,11 @@
         { "Bonus ammount": 14000 },
         { "Another info": "example" }
       ]
-    }
-  ],
-  "vicePresident": [
+    },
     {
       "name": "Victor Ramos",
       "gender": "M",
+      "role": "Vice President",
       "party": "UNI",
       "salary": {
         "gross": 160000,
@@ -56,10 +56,11 @@
       "salary": {
         "gross": 150000,
         "net": 120000
-      }
+      },
+      "budget": 123456789
     }
   ],
-  "congress": [
+  "deputies": [
     {
       "name": "James O'Neil",
       "gender": "M",
