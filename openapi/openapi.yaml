@@ -388,7 +388,7 @@ components:
           properties:
             value:
               type: string
-              example: Declaración de ingresos 2024
+              example: Declaration
           required: [value]
 
     SourceNumber:
@@ -409,7 +409,7 @@ components:
             value:
               type: string
               format: uri
-              example: https://espert.com.ar/diputado/sueldos/
+              example: https://...
           required: [value]
 
     Source:
@@ -423,6 +423,11 @@ components:
           text: "#/components/schemas/SourceText"
           number: "#/components/schemas/SourceNumber"
           link: "#/components/schemas/SourceLink"
+
+    Sources:
+      type: array
+      items:
+        $ref: "#/components/schemas/Source"
 
     Official:
       type: object
