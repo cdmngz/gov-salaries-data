@@ -370,9 +370,11 @@ components:
           description: Net anual salary.
           example: 52928
 
-    Sources:
+    Source:
       type: object
-      description: Map of label → value (text, number, or URL).
+      description: Single source entry with exactly one label → value mapping.
+      minProperties: 1
+      maxProperties: 1
       additionalProperties:
         anyOf:
           - type: number
@@ -380,9 +382,17 @@ components:
           - type: string # URL
             format: uri
       example:
-        "pdf": "https://example.com/file.pdf"
-        "bonus": 67866
-        "notes": "declaration"
+        pdf: https://example.com/file.pdf
+
+    Sources:
+      type: array
+      description: Array of source entries.
+      items:
+        $ref: "#/components/schemas/Source"
+      example:
+        - pdf: https://example.com/salary.pdf
+        - bonus: 1200
+        - notes: "Declared report"
 
     Official:
       type: object
@@ -409,9 +419,7 @@ components:
         salary:
           $ref: "#/components/schemas/Salary"
         sources:
-          type: array
-          items:
-            $ref: "#/components/schemas/Sources"
+          $ref: "#/components/schemas/Sources"
       required: [name]
       example:
         name: Ariel Doe
@@ -424,9 +432,9 @@ components:
           net: 52928
           currency: EUR
         sources:
-          - label: Salary PDF
-            kind: link
-            value: https://...
+          - pdf: https://example.com/salary.pdf
+          - bonus: 1200
+          - notes: "Declared in 2024 official report"
 
     CountriesYears:
       type: object
