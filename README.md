@@ -80,11 +80,15 @@ Please make sure your `data.json` and `rates.json` files follows the structure s
 ➡️ [`templates/data-template.json`](templates/data-template.json)
 ➡️ [`templates/rates-template.json`](templates/rates-template.json)
 
+---
+
 ## 🤖 API response structure
 
 In order to see the full structure of the json response, you can take a look to the openapi documentation
 
 📚 [`openapi/openapi.yaml`](openapi/openapi.yaml)
+
+---
 
 ## 📜 License
 
