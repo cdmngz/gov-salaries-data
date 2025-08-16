@@ -6,7 +6,7 @@
       "budget": 22561000000
     },
     "congress": {
-      "quantity": 257
+      "quantity": 0
     },
     "senate": {
       "quantity": 72
@@ -19,7 +19,7 @@
       "budget": 190880197802
     },
     "congress": {
-      "quantity": 348
+      "quantity": 0
     },
     "senate": {
       "quantity": 265
@@ -28,7 +28,7 @@
   "fr": {
     "GDP": 1749040659341,
     "ministers": {
-      "quantity": 15,
+      "quantity": 13,
       "budget": 0
     },
     "congress": {
@@ -45,7 +45,7 @@
       "budget": 1615600000000
     },
     "congress": {
-      "quantity": 330
+      "quantity": 0
     },
     "senate": {
       "quantity": 98
