@@ -370,60 +370,6 @@ components:
           description: Net anual salary.
           example: 52928
 
-    SourceBase:
-      type: object
-      properties:
-        label:
-          type: string
-          example: Sueldo
-        kind:
-          type: string
-          enum: [text, number, link]
-      required: [label, kind]
-
-    SourceText:
-      allOf:
-        - $ref: "#/components/schemas/SourceBase"
-        - type: object
-          properties:
-            value:
-              type: string
-              example: Declaration
-          required: [value]
-
-    SourceNumber:
-      allOf:
-        - $ref: "#/components/schemas/SourceBase"
-        - type: object
-          properties:
-            value:
-              type: number
-              example: 67866
-          required: [value]
-
-    SourceLink:
-      allOf:
-        - $ref: "#/components/schemas/SourceBase"
-        - type: object
-          properties:
-            value:
-              type: string
-              format: uri
-              example: https://...
-          required: [value]
-
-    Source:
-      oneOf:
-        - $ref: "#/components/schemas/SourceText"
-        - $ref: "#/components/schemas/SourceNumber"
-        - $ref: "#/components/schemas/SourceLink"
-      discriminator:
-        propertyName: kind
-        mapping:
-          text: "#/components/schemas/SourceText"
-          number: "#/components/schemas/SourceNumber"
-          link: "#/components/schemas/SourceLink"
-
     Sources:
       type: object
       description: Map of label → value (text, number, or URL).
@@ -465,7 +411,7 @@ components:
         sources:
           type: array
           items:
-            $ref: "#/components/schemas/Source"
+            $ref: "#/components/schemas/Sources"
       required: [name]
       example:
         name: Ariel Doe
