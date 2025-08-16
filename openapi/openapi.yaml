@@ -358,10 +358,6 @@ components:
       required: [quantity]
       additionalProperties: false
 
-    OfficialGender:
-      type: string
-      enum: [M, F, X]
-
     Salary:
       type: object
       properties:
@@ -435,10 +431,14 @@ components:
           type: string
           example: Ariel Doe
         gender:
-          $ref: "#/components/schemas/OfficialGender"
+          type: string
+          enum: [M, F, X]
         role:
           type: string
           example: Minister of Economy
+        budget:
+          type: number
+          description: Annual ministerial budget.
         district:
           type: string
           description: Localized/common district name.
@@ -452,7 +452,7 @@ components:
           type: array
           items:
             $ref: "#/components/schemas/Source"
-      required: [name, gender]
+      required: [name]
       example:
         name: Ariel Doe
         gender: F
@@ -467,6 +467,46 @@ components:
           - label: Salary PDF
             kind: link
             value: https://...
+
+    CountriesYears:
+      type: object
+      additionalProperties:
+        type: array
+        items:
+          type: integer
+          example: 2025
+      example:
+        ar: [2025]
+        es: [2025]
+        fr: [2025]
+        us: [2025]
+
+    CountryYears:
+      type: array
+      description: List of available years with data, sorted in descending order
+      items:
+        type: integer
+        example: 2025
+      minItems: 1
+      uniqueItems: true
+      example: [2025, 2024, 2023]
+
+    Parties:
+      type: object
+      description: Map of party code → metadata.
+      additionalProperties:
+        $ref: "#/components/schemas/Party"
+      example:
+        SPD:
+          name: Sozialdemokratische Partei
+          en: Social Democratic Party
+          range: 2
+          color: "#FF0000"
+        CDU:
+          name: Christlich Demokratische Union
+          en: Christian Democratic Union
+          range: 4
+          color: "#000000"
 
     Party:
       type: object
@@ -491,46 +531,6 @@ components:
           description: Hex color code.
           pattern: "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$"
           example: "#FF0000"
-
-    Parties:
-      type: object
-      description: Map of party code → metadata.
-      additionalProperties:
-        $ref: "#/components/schemas/Party"
-      example:
-        SPD:
-          name: Sozialdemokratische Partei
-          en: Social Democratic Party
-          range: 2
-          color: "#FF0000"
-        CDU:
-          name: Christlich Demokratische Union
-          en: Christian Democratic Union
-          range: 4
-          color: "#000000"
-
-    CountriesYears:
-      type: object
-      additionalProperties:
-        type: array
-        items:
-          type: integer
-          example: 2025
-      example:
-        ar: [2025]
-        es: [2025]
-        fr: [2025]
-        us: [2025]
-
-    CountryYears:
-      type: array
-      description: List of available years with data, sorted in descending order
-      items:
-        type: integer
-        example: 2025
-      minItems: 1
-      uniqueItems: true
-      example: [2025, 2024, 2023]
 
     WorldData:
       type: object
