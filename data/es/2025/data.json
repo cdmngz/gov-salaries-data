@@ -4,7 +4,7 @@
     {
       "name": "Felipe VI",
       "gender": "M",
-      "title": "Rey de España",
+      "role": "Rey de España",
       "salary": {
         "gross": 277361,
         "net": 175000
