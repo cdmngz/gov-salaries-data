@@ -65,8 +65,9 @@ We welcome your help! To contribute:
 
 1. **Fork the repo**
 2. **Add or update a `data.json` file** in the correct folder (`/data/<country>/<year>/data.json`)
-3. **Follow the expected JSON format** — see the template below
-4. **Submit a Pull Request**
+3. **Add or update a `rates.json` file** in the correct folder (`/data/<country>/<year>/rates.json`)
+4. **Follow the expected JSON format** — see the template below
+5. **Submit a Pull Request**
 
 ✅ `index.json` files (used to track available periods) are auto-generated on each push.
 
@@ -74,9 +75,16 @@ We welcome your help! To contribute:
 
 ## 🧾 Data Template
 
-Please make sure your `data.json` file follows the structure shown in:
+Please make sure your `data.json` and `rates.json` files follows the structure shown in:
 
 ➡️ [`templates/data-template.json`](templates/data-template.json)
+➡️ [`templates/rates-template.json`](templates/rates-template.json)
+
+## 🤖 API response structure
+
+In order to see the full structure of the json response, you can take a look to the openapi documentation
+
+📚 [`openapi/openapi.yaml`](openapi/openapi.yaml)
 
 ## 📜 License
 
