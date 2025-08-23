@@ -6,8 +6,8 @@
       "gender": "M",
       "role": "Konge av Norge",
       "salary": {
-        "gross": 0,
-        "net": 0
+        "gross": null,
+        "net": null
       }
     },
     {
@@ -15,8 +15,8 @@
       "gender": "F",
       "role": "Dronning av Norge",
       "salary": {
-        "gross": 0,
-        "net": 0
+        "gross": null,
+        "net": null
       }
     },
     {
@@ -24,8 +24,8 @@
       "gender": "M",
       "role": "Kronprins av Norge",
       "salary": {
-        "gross": 0,
-        "net": 0
+        "gross": null,
+        "net": null
       }
     },
     {
@@ -33,8 +33,8 @@
       "gender": "F",
       "role": "Kronprinsesse av Norge",
       "salary": {
-        "gross": 0,
-        "net": 0
+        "gross": null,
+        "net": null
       }
     }
   ],
@@ -44,7 +44,7 @@
       "gender": "M",
       "role": "Statsminister",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     }
   ],
   "ministers": [
@@ -53,133 +53,133 @@
       "gender": "F",
       "portfolio": "Minister of Labour and Social Inclusion",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Jan Christian Vestre",
       "gender": "M",
       "portfolio": "Minister of Health and Care Services",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Jens Stoltenberg",
       "gender": "M",
       "portfolio": "Minister of Finance",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Espen Barth Eide",
       "gender": "M",
       "portfolio": "Minister of Foreign Affairs",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Jon-Ivar Nygård",
       "gender": "M",
       "portfolio": "Minister of Transport",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Terje Aasland",
       "gender": "M",
       "portfolio": "Minister of Energy",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Lubna Jaffery",
       "gender": "F",
       "portfolio": "Minister of Culture and Equality",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Karianne Oldernes Tung",
       "gender": "F",
       "portfolio": "Minister of Digitalisation and Public Governance",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Cecilie Myrseth",
       "gender": "F",
       "portfolio": "Minister of Trade and Industry",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Kari Nessa Nordtun",
       "gender": "F",
       "portfolio": "Minister of Education",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Andreas Bjelland Eriksen",
       "gender": "M",
       "portfolio": "Minister of Climate and Environment",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Marianne Sivertsen Næss",
       "gender": "F",
       "portfolio": "Minister of Fisheries and Ocean Policy",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Tore O. Sandvik",
       "gender": "M",
       "portfolio": "Minister of Defence",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Astri Aas-Hansen",
       "gender": "F",
       "portfolio": "Minister of Justice and Public Security",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Kjersti Stenseng",
       "gender": "F",
       "portfolio": "Minister of Local Government and Regional Development",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Sigrun Aasland",
       "gender": "F",
       "portfolio": "Minister of Research and Higher Education",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Åsmund Grøver Aukrust",
       "gender": "M",
       "portfolio": "Minister of International Development",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Lene Vågslid",
       "gender": "F",
       "portfolio": "Minister of Children and Families",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     },
     {
       "name": "Nils Kristen Sandtrøen",
       "gender": "M",
       "portfolio": "Minister of Agriculture and Food",
       "party": "Ap",
-      "salary": { "gross": 0, "net": 0 }
+      "salary": { "gross": null, "net": null }
     }
   ],
   "deputies": [],
