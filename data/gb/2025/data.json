@@ -1,0 +1,115 @@
+{
+  "baseCurrency": "GBP",
+  "royalty": [
+    {
+      "name": "Charles III",
+      "gender": "M",
+      "role": "King of the United Kingdom",
+      "salary": {
+        "gross": 86300000,
+        "net": null
+      }
+    },
+    {
+      "name": "Camilla Rosemary Shand",
+      "gender": "F",
+      "role": "Queen Consort of the United Kingdom",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "William Arthur Philip Louis",
+      "gender": "M",
+      "role": "Prince of Wales",
+      "salary": {
+        "gross": 24000000,
+        "net": null
+      }
+    },
+    {
+      "name": "Catherine Middleton",
+      "gender": "F",
+      "role": "Princess of Wales",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "executive": [
+    {
+      "name": "Keir Starmer",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "Labour",
+      "salary": { "gross": 167391, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Rachel Reeves",
+      "gender": "F",
+      "portfolio": "Chancellor of the Exchequer",
+      "party": "Labour",
+      "salary": { "gross": 152084, "net": null }
+    },
+    {
+      "name": "David Lammy",
+      "gender": "M",
+      "portfolio": "Foreign Secretary",
+      "party": "Labour",
+      "salary": { "gross": 152084, "net": null }
+    },
+    {
+      "name": "Yvette Cooper",
+      "gender": "F",
+      "portfolio": "Home Secretary",
+      "party": "Labour",
+      "salary": { "gross": 152084, "net": null }
+    },
+    {
+      "name": "John Healey",
+      "gender": "M",
+      "portfolio": "Defence Secretary",
+      "party": "Labour",
+      "salary": { "gross": 152084, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "Labour": {
+      "name": "Labour Party",
+      "en": "Labour Party",
+      "range": 2,
+      "color": "#E4003B"
+    },
+    "Conservative": {
+      "name": "Conservative and Unionist Party",
+      "en": "Conservative Party",
+      "range": 4,
+      "color": "#0087DC"
+    },
+    "LibDem": {
+      "name": "Liberal Democrats",
+      "en": "Liberal Democrats",
+      "range": 3,
+      "color": "#FDBB30"
+    },
+    "SNP": {
+      "name": "Scottish National Party",
+      "en": "Scottish National Party",
+      "range": 2,
+      "color": "#FFF95D"
+    },
+    "Green": {
+      "name": "Green Party of England and Wales",
+      "en": "Green Party",
+      "range": 1,
+      "color": "#6AB023"
+    }
+  }
+}
