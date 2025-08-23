@@ -52,8 +52,10 @@ Each dataset is organized by:
 ## 🌍 Supported Countries
 
 - 🇦🇷 Argentina (`/ar`)
-- 🇪🇸 Spain (`/es`)
 - 🇫🇷 France (`/fr`)
+- 🇳🇴 Norway (`/no`)
+- 🇪🇸 Spain (`/es`)
+- 🇬🇧 United Kingdom (`/gb`)
 - 🇺🇸 United States (`/us`)
 - _(More can be added via pull requests)_
 
