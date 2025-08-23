@@ -50,5 +50,18 @@
     "senate": {
       "quantity": 98
     }
+  },
+  "no": {
+    "GDP": 603296703297,
+    "ministers": {
+      "quantity": 19,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 0
+    },
+    "senate": {
+      "quantity": 0
+    }
   }
 }
