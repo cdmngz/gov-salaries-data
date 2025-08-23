@@ -63,5 +63,18 @@
     "senate": {
       "quantity": 0
     }
+  },
+  "gb": {
+    "GDP": 4243589743590,
+    "ministers": {
+      "quantity": 4,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 0
+    },
+    "senate": {
+      "quantity": 0
+    }
   }
 }
