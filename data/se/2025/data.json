@@ -1,0 +1,109 @@
+{
+  "baseCurrency": "SEK",
+  "executive": [
+    {
+      "name": "Ulf Kristersson",
+      "gender": "M",
+      "role": "Prime Minister of Sweden",
+      "party": "M",
+      "salary": { "gross": 2112000, "net": null }
+    }
+  ],
+
+  "ministers": [
+    {
+      "name": "Elisabeth Svantesson",
+      "gender": "F",
+      "portfolio": "Minister for Finance",
+      "party": "M",
+      "salary": { "gross": 1680000, "net": null }
+    },
+    {
+      "name": "Tobias Billström",
+      "gender": "M",
+      "portfolio": "Minister for Foreign Affairs",
+      "party": "M",
+      "salary": { "gross": 1680000, "net": null }
+    },
+    {
+      "name": "Pål Jonson",
+      "gender": "M",
+      "portfolio": "Minister for Defence",
+      "party": "M",
+      "salary": { "gross": 1680000, "net": null }
+    },
+    {
+      "name": "Gunnar Strömmer",
+      "gender": "M",
+      "portfolio": "Minister for Justice",
+      "party": "M",
+      "salary": { "gross": 1680000, "net": null }
+    },
+    {
+      "name": "Johan Pehrson",
+      "gender": "M",
+      "portfolio": "Minister for Employment and Integration",
+      "party": "L",
+      "salary": { "gross": 1680000, "net": null }
+    },
+    {
+      "name": "Ebba Busch",
+      "gender": "F",
+      "portfolio": "Minister for Energy, Business and Industry",
+      "party": "KD",
+      "salary": { "gross": 1680000, "net": null }
+    },
+    {
+      "name": "Romina Pourmokhtari",
+      "gender": "F",
+      "portfolio": "Minister for Climate and the Environment",
+      "party": "L",
+      "salary": { "gross": 1680000, "net": null }
+    },
+    {
+      "name": "Peter Kullgren",
+      "gender": "M",
+      "portfolio": "Minister for Rural Affairs",
+      "party": "KD",
+      "salary": { "gross": 1680000, "net": null }
+    },
+    {
+      "name": "Lina Axelsson Kihlblom",
+      "gender": "F",
+      "portfolio": "Minister for Schools",
+      "party": "S",
+      "salary": { "gross": 1680000, "net": null }
+    }
+  ],
+
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+
+  "parties": {
+    "M": {
+      "name": "Moderata samlingspartiet",
+      "en": "Moderate Party",
+      "range": 4,
+      "color": "#1A3F7A"
+    },
+    "L": {
+      "name": "Liberalerna",
+      "en": "Liberals",
+      "range": 4,
+      "color": "#006AB6"
+    },
+    "KD": {
+      "name": "Kristdemokraterna",
+      "en": "Christian Democrats",
+      "range": 4,
+      "color": "#231F20"
+    },
+    "S": {
+      "name": "Socialdemokraterna",
+      "en": "Social Democrats",
+      "range": 2,
+      "color": "#EE1C25"
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Friedrich Merz",
+      "gender": "M",
+      "role": "Federal Chancellor of Germany",
+      "party": "CDU",
+      "salary": { "gross": 480000, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Lars Klingbeil",
+      "gender": "M",
+      "portfolio": "Vice Chancellor and Minister of Finance",
+      "party": "SPD",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Alexander Dobrindt",
+      "gender": "M",
+      "portfolio": "Minister of the Interior",
+      "party": "CSU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Katherina Reiche",
+      "gender": "F",
+      "portfolio": "Minister for Economic Affairs and Energy",
+      "party": "CDU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Johann Wadephul",
+      "gender": "M",
+      "portfolio": "Minister for Foreign Affairs",
+      "party": "CDU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Stefanie Hubig",
+      "gender": "F",
+      "portfolio": "Minister of Justice and Consumer Protection",
+      "party": "SPD",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Bärbel Bas",
+      "gender": "F",
+      "portfolio": "Minister of Labour and Social Affairs",
+      "party": "SPD",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Boris Pistorius",
+      "gender": "M",
+      "portfolio": "Minister of Defence",
+      "party": "SPD",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Alois Rainer",
+      "gender": "M",
+      "portfolio": "Minister of Agriculture, Food and Regional Identity",
+      "party": "CSU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Karin Prien",
+      "gender": "F",
+      "portfolio": "Minister for Education, Family, Senior Citizens and Women",
+      "party": "CDU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Nina Warken",
+      "gender": "F",
+      "portfolio": "Minister of Health",
+      "party": "CDU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Patrick Schnieder",
+      "gender": "M",
+      "portfolio": "Minister of Transport",
+      "party": "CDU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Carsten Schneider",
+      "gender": "M",
+      "portfolio": "Minister of Environment, Climate Action, Nature Conservation and Nuclear Safety",
+      "party": "SPD",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Dorothee Bär",
+      "gender": "F",
+      "portfolio": "Minister of Research, Technology and Space",
+      "party": "CSU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Reem Alabali-Radovan",
+      "gender": "F",
+      "portfolio": "Minister for Economic Cooperation and Development",
+      "party": "SPD",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Verena Hubertz",
+      "gender": "F",
+      "portfolio": "Minister of Housing, Urban Development and Building",
+      "party": "SPD",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Karsten Wildberger",
+      "gender": "M",
+      "portfolio": "Minister of Digitalization and State Modernization",
+      "party": "Independent (close to CDU)",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Thorsten Frei",
+      "gender": "M",
+      "portfolio": "Minister for Special Affairs and Head of the Chancellery",
+      "party": "CDU",
+      "salary": { "gross": 215306, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "CDU": {
+      "name": "Christlich Demokratische Union Deutschlands",
+      "en": "Christian Democratic Union",
+      "range": 4,
+      "color": "#000000"
+    },
+    "CSU": {
+      "name": "Christlich-Soziale Union in Bayern",
+      "en": "Christian Social Union in Bavaria",
+      "range": 4,
+      "color": "#008AC5"
+    },
+    "SPD": {
+      "name": "Sozialdemokratische Partei Deutschlands",
+      "en": "Social Democratic Party of Germany",
+      "range": 2,
+      "color": "#E3000F"
+    }
+  }
+}

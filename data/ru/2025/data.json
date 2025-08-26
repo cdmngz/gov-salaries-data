@@ -1,0 +1,58 @@
+{
+  "baseCurrency": "RUB",
+  "executive": [
+    {
+      "name": "Vladimir Putin",
+      "gender": "M",
+      "role": "President of Russia",
+      "party": "Independent",
+      "salary": {
+        "gross": 11000000,
+        "net": null
+      }
+    },
+    {
+      "name": "Mikhail Mishustin",
+      "gender": "M",
+      "role": "Prime Minister of Russia",
+      "party": "Independent",
+      "salary": {
+        "gross": 18200000,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Typical Minister",
+      "gender": null,
+      "portfolio": "Various (e.g., Finance, Interior, etc.)",
+      "party": "Independent",
+      "salary": {
+        "gross": 1087218,
+        "net": null
+      }
+    },
+    {
+      "name": "Top Minister (e.g., Finance Minister)",
+      "gender": null,
+      "portfolio": "Finance Minister",
+      "party": "Independent",
+      "salary": {
+        "gross": 20760000,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "Independent": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": null,
+      "color": null
+    }
+  }
+}
