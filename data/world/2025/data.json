@@ -76,5 +76,44 @@
     "senate": {
       "quantity": 0
     }
+  },
+  "de": {
+    "GDP": 4730769230769,
+    "ministers": {
+      "quantity": 17,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 0
+    },
+    "senate": {
+      "quantity": 0
+    }
+  },
+  "ru": {
+    "GDP": 1967648878750,
+    "ministers": {
+      "quantity": 2,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 0
+    },
+    "senate": {
+      "quantity": 0
+    }
+  },
+  "se": {
+    "GDP": 6895299000000,
+    "ministers": {
+      "quantity": 9,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 0
+    },
+    "senate": {
+      "quantity": 0
+    }
   }
 }
