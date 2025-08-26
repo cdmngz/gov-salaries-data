@@ -53,8 +53,11 @@ Each dataset is organized by:
 
 - 🇦🇷 Argentina (`/ar`)
 - 🇫🇷 France (`/fr`)
+- 🇩🇪 Germany (`/de`)
 - 🇳🇴 Norway (`/no`)
+- 🇷🇺 Russia (`/ru`)
 - 🇪🇸 Spain (`/es`)
+- 🇸🇪 Sweden (`/se`)
 - 🇬🇧 United Kingdom (`/gb`)
 - 🇺🇸 United States (`/us`)
 - _(More can be added via pull requests)_
