@@ -1,6 +1,7 @@
 {
   "baseCurrency": "EUR",
-  "GDP": 1591627000000,
+  "GDP": 1370000000000,
+  "GDPPerCapita": 28562,
   "timestamp": "2025-08-01T00:00:00Z",
   "rates": {
     "AUD": 1.659,
