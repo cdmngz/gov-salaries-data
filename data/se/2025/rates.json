@@ -1,6 +1,7 @@
 {
   "baseCurrency": "SEK",
-  "GDP": 6895299000000,
+  "GDP": 6140000000000,
+  "GDPPerCapita": 578672,
   "timestamp": "2025-08-01T00:00:00Z",
   "rates": {
     "AUD": 0.001508,
