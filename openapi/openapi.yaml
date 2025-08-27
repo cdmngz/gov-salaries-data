@@ -259,8 +259,11 @@ components:
           example: USD
         GDP:
           type: number
-          description: Nominal GDP of the base currency's economy.
-          example: 633270000000
+          description: Nominal GDP (last full year) of the base currency's economy.
+          example: 1230000000000
+        GDPPerCapita:
+          type: number
+          description: Nominal GDP per capita (last full year) of the base currency's economy.
         timestamp:
           type: string
           format: date-time
@@ -296,7 +299,8 @@ components:
         - rates
       example:
         baseCurrency: USD
-        GDP: 633270000000
+        GDP: 1370000000000
+        GDPPerCapita: 28562
         timestamp: "2025-07-31T00:00:00Z"
         rates:
           AUD: 1.51

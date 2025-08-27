@@ -1,6 +1,7 @@
 {
   "baseCurrency": "USD",
-  "GDP": 1234567890,
+  "GDP": 1230000000000,
+  "GDPPerCapita": 12345,
   "timestamp": "2025-07-31T00:00:00Z",
   "rates": {
     "EUR": 0.91,
