@@ -283,10 +283,10 @@
       "salary": { "gross": 174000, "net": 113100 }
     },
     {
-      "name": "Debbie Lesko",
-      "gender": "F",
+      "name": "Raúl Grijalva",
+      "gender": "M",
       "district": "Arizona 7th",
-      "party": "R",
+      "party": "D",
       "salary": { "gross": 174000, "net": 113100 }
     },
     {
@@ -2119,69 +2119,6 @@
       "salary": { "gross": 174000, "net": 113100 }
     },
     {
-      "name": "Brendan Boyle",
-      "gender": "M",
-      "district": "Pennsylvania 2nd",
-      "party": "D",
-      "salary": { "gross": 174000, "net": 113100 }
-    },
-    {
-      "name": "Mike Kelly",
-      "gender": "M",
-      "district": "Pennsylvania 16th",
-      "party": "R",
-      "salary": { "gross": 174000, "net": 113100 }
-    },
-    {
-      "name": "Guy Reschenthaler",
-      "gender": "M",
-      "district": "Pennsylvania 14th",
-      "party": "R",
-      "salary": { "gross": 174000, "net": 113100 }
-    },
-    {
-      "name": "John Joyce",
-      "gender": "M",
-      "district": "Pennsylvania 13th",
-      "party": "R",
-      "salary": { "gross": 174000, "net": 113100 }
-    },
-    {
-      "name": "Glenn Thompson",
-      "gender": "M",
-      "district": "Pennsylvania 15th",
-      "party": "R",
-      "salary": { "gross": 174000, "net": 113100 }
-    },
-    {
-      "name": "Mike Doyle",
-      "gender": "M",
-      "district": "Pennsylvania 18th",
-      "party": "D",
-      "salary": { "gross": 174000, "net": 113100 }
-    },
-    {
-      "name": "Conor Lamb",
-      "gender": "M",
-      "district": "Pennsylvania 17th",
-      "party": "D",
-      "salary": { "gross": 174000, "net": 113100 }
-    },
-    {
-      "name": "Summer Lee",
-      "gender": "F",
-      "district": "Pennsylvania 12th",
-      "party": "D",
-      "salary": { "gross": 174000, "net": 113100 }
-    },
-    {
-      "name": "Chris Deluzio",
-      "gender": "M",
-      "district": "Pennsylvania 17th",
-      "party": "D",
-      "salary": { "gross": 174000, "net": 113100 }
-    },
-    {
       "name": "Seth Magaziner",
       "gender": "M",
       "district": "Rhode Island 2nd",
@@ -2365,13 +2302,6 @@
     },
     {
       "name": "Michael McCaul",
-      "gender": "M",
-      "district": "Texas 10th",
-      "party": "R",
-      "salary": { "gross": 174000, "net": 113100 }
-    },
-    {
-      "name": "Mike Collins",
       "gender": "M",
       "district": "Texas 10th",
       "party": "R",
