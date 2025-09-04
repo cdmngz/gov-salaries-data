@@ -4817,7 +4817,6 @@
       "name": "Gómez Enríquez, Paloma",
       "gender": "F",
       "district": "Parlamento de Andalucía",
-      "party": "Vox",
       "salary": {
         "gross": 45989,
         "net": 32192
@@ -4877,7 +4876,7 @@
       "name": "Gordillo Moreno, Ángel Pelayo",
       "gender": "M",
       "district": "Asamblea de Extremadura",
-      "party": "Vox",
+      "party": "",
       "salary": {
         "gross": 45989,
         "net": 32192
