@@ -290,10 +290,10 @@
       "salary": { "gross": 174000, "net": 113100 }
     },
     {
-      "name": "Ruben Gallego",
-      "gender": "M",
+      "name": "Debbie Lesko",
+      "gender": "F",
       "district": "Arizona 8th",
-      "party": "D",
+      "party": "R",
       "salary": { "gross": 174000, "net": 113100 }
     },
     {
@@ -1115,11 +1115,16 @@
       "salary": { "gross": 174000, "net": 113100 }
     },
     {
-      "name": "Mary Miller",
+      "name": "Nikki Budzinski",      
       "gender": "F",
       "district": "Illinois 13th",
-      "party": "R",
-      "salary": { "gross": 174000, "net": 113100 }
+      "party": "D",
+      "salary": { "gross": 174000, "net": 113100 },
+      "sources": [
+        {
+          "govtrack": "https://www.govtrack.us/congress/members/nicole_nikki_budzinski/456901"
+        }
+      ]
     },
     {
       "name": "Lauren Underwood",
@@ -1491,7 +1496,7 @@
       "salary": { "gross": 174000, "net": 113100 }
     },
     {
-      "name": "Debbie Lesko",
+      "name": "Rashida Tlaib",
       "gender": "F",
       "district": "Michigan 12th",
       "party": "D",
@@ -2114,7 +2119,7 @@
       "salary": { "gross": 174000, "net": 113100 }
     },
     {
-      "name": "Jared Golden",
+      "name": "Brendan Boyle",
       "gender": "M",
       "district": "Pennsylvania 2nd",
       "party": "D",
