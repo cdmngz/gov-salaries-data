@@ -1057,7 +1057,13 @@
       "gender": "M",
       "district": "Illinois 5th",
       "party": "D",
-      "salary": { "gross": 174000, "net": 113100 }
+      "salary": { "gross": 174000, "net": 113100 },
+      "sources": [
+        {
+          "Ballotpedia": "https://ballotpedia.org/Mike_Quigley",
+          "Wikipedia": "https://en.wikipedia.org/wiki/Mike_Quigley"
+        }
+      ]
     },
     {
       "name": "Sean Casten",
@@ -1123,11 +1129,16 @@
       "salary": { "gross": 174000, "net": 113100 }
     },
     {
-      "name": "Mike Quigley",
-      "gender": "M",
+      "name": "Mary Miller",
+      "gender": "F",
       "district": "Illinois 15th",
       "party": "R",
-      "salary": { "gross": 174000, "net": 113100 }
+      "salary": { "gross": 174000, "net": 113100 },
+      "sources":[
+        {
+          "Wikipedia": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)"
+        }
+      ]
     },
     {
       "name": "Darin LaHood",
