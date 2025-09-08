@@ -119,7 +119,6 @@
       "name": "Karsten Wildberger",
       "gender": "M",
       "portfolio": "Minister of Digitalization and State Modernization",
-      "party": "Independent (close to CDU)",
       "salary": { "gross": 215306, "net": null }
     },
     {
@@ -131,7 +130,422 @@
     }
   ],
   "deputies": [],
-  "senate": [],
+  "senate": [
+    {
+      "name": "Doris Ahnen",
+      "gender": "F",
+      "district": "Rheinland-Pfalz",
+      "party": "SPD"
+    },
+    {
+      "name": "Hubert Aiwanger",
+      "gender": "M",
+      "district": "Bayern",
+      "party": "Freie Wähler"
+    },
+    {
+      "name": "Jürgen Barke",
+      "gender": "M",
+      "district": "Saarland",
+      "party": "SPD"
+    },
+    {
+      "name": "Danyal Bayaz",
+      "gender": "M",
+      "district": "Baden-Württemberg",
+      "party": "Bündnis 90/Die Grünen"
+    },
+    {
+      "name": "Daniela Behrens",
+      "gender": "F",
+      "district": "Niedersachsen",
+      "party": "SPD"
+    },
+    {
+      "name": "Katharina Binz",
+      "gender": "F",
+      "district": "Rheinland-Pfalz",
+      "party": "Bündnis 90/Die Grünen"
+    },
+    {
+      "name": "Thorsten Bischoff",
+      "gender": "M",
+      "district": "Saarland",
+      "party": "SPD"
+    },
+    {
+      "name": "Andreas Bovenschulte",
+      "gender": "M",
+      "district": "Bremen",
+      "party": "SPD"
+    },
+    {
+      "name": "Robert Crumbach",
+      "gender": "M",
+      "district": "Brandenburg",
+      "party": "BSW"
+    },
+    {
+      "name": "Andreas Dressel",
+      "gender": "M",
+      "district": "Hamburg",
+      "party": "SPD"
+    },
+    {
+      "name": "Georg Eisenreich",
+      "gender": "M",
+      "district": "Bayern",
+      "party": "CSU"
+    },
+    {
+      "name": "Stefan Evers",
+      "gender": "M",
+      "district": "Berlin",
+      "party": "CDU"
+    },
+    {
+      "name": "Björn Fecker",
+      "gender": "M",
+      "district": "Bremen",
+      "party": "Bündnis 90/Die Grünen"
+    },
+    {
+      "name": "Katharina Fegebank",
+      "gender": "F",
+      "district": "Hamburg",
+      "party": "Bündnis 90/Die Grünen"
+    },
+    {
+      "name": "Franziska Giffey",
+      "gender": "F",
+      "district": "Berlin",
+      "party": "SPD"
+    },
+    {
+      "name": "Thorsten Glauber",
+      "gender": "M",
+      "district": "Bayern",
+      "party": "Freie Wähler"
+    },
+    {
+      "name": "Tobias Goldschmidt",
+      "gender": "M",
+      "district": "Schleswig-Holstein",
+      "party": "Bündnis 90/Die Grünen"
+    },
+    {
+      "name": "Timon Gremmels",
+      "gender": "M",
+      "district": "Hessen",
+      "party": "SPD"
+    },
+    {
+      "name": "Stefan Gruhner",
+      "gender": "M",
+      "district": "Thüringen",
+      "party": "CDU"
+    },
+    {
+      "name": "Daniel Günther",
+      "gender": "M",
+      "district": "Schleswig-Holstein",
+      "party": "CDU"
+    },
+    {
+      "name": "Julia Hamburg",
+      "gender": "F",
+      "district": "Niedersachsen",
+      "party": "Bündnis 90/Die Grünen"
+    },
+    {
+      "name": "Andreas Handschuh",
+      "gender": "M",
+      "district": "Sachsen",
+      "party": "CDU"
+    },
+    {
+      "name": "Reiner Haseloff",
+      "gender": "M",
+      "district": "Sachsen-Anhalt",
+      "party": "CDU"
+    },
+    {
+      "name": "Winfried Hermann",
+      "gender": "M",
+      "district": "Baden-Württemberg",
+      "party": "Bündnis 90/Die Grünen"
+    },
+    {
+      "name": "Florian Herrmann",
+      "gender": "M",
+      "district": "Bayern",
+      "party": "CSU"
+    },
+    {
+      "name": "Joachim Herrmann",
+      "gender": "M",
+      "district": "Bayern",
+      "party": "CSU"
+    },
+    {
+      "name": "Nicole Hoffmeister-Kraut",
+      "gender": "F",
+      "district": "Baden-Württemberg",
+      "party": "CDU"
+    },
+    {
+      "name": "Rudi Hoogvliet",
+      "gender": "M",
+      "district": "Baden-Württemberg",
+      "party": "Bündnis 90/Die Grünen"
+    },
+    {
+      "name": "Lydia Hüskens",
+      "gender": "F",
+      "district": "Sachsen-Anhalt",
+      "party": "FDP"
+    },
+    {
+      "name": "Olaf Joachim",
+      "gender": "M",
+      "district": "Bremen",
+      "party": "SPD"
+    },
+    {
+      "name": "Daniel Keller",
+      "gender": "M",
+      "district": "Brandenburg",
+      "party": "SPD"
+    },
+    {
+      "name": "Cansel Kiziltepe",
+      "gender": "F",
+      "district": "Berlin",
+      "party": "SPD"
+    },
+    {
+      "name": "Petra Köpping",
+      "gender": "F",
+      "district": "Sachsen",
+      "party": "SPD"
+    },
+    {
+      "name": "Winfried Kretschmann",
+      "gender": "M",
+      "district": "Baden-Württemberg",
+      "party": "Bündnis 90/Die Grünen"
+    },
+    {
+      "name": "Michael Kretschmer",
+      "gender": "M",
+      "district": "Sachsen",
+      "party": "CDU"
+    },
+    {
+      "name": "René Wilke",
+      "gender": "M",
+      "district": "Brandenburg",
+      "party": "SPD"
+    },
+    {
+      "name": "Olaf Lies",
+      "gender": "M",
+      "district": "Niedersachsen",
+      "party": "SPD"
+    },
+    {
+      "name": "Nathanael Liminski",
+      "gender": "M",
+      "district": "Nordrhein-Westfalen",
+      "party": "CDU"
+    },
+    {
+      "name": "Ralph Alexander Lorz",
+      "gender": "M",
+      "district": "Hessen",
+      "party": "CDU"
+    },
+    {
+      "name": "Georg Maier",
+      "gender": "M",
+      "district": "Thüringen",
+      "party": "SPD"
+    },
+    {
+      "name": "Kaweh Mansoori",
+      "gender": "M",
+      "district": "Hessen",
+      "party": "SPD"
+    },
+    {
+      "name": "Bettina Martin",
+      "gender": "F",
+      "district": "Mecklenburg-Vorpommern",
+      "party": "SPD"
+    },
+    {
+      "name": "Christian Meyer",
+      "gender": "M",
+      "district": "Niedersachsen",
+      "party": "Bündnis 90/Die Grünen"
+    },
+    {
+      "name": "Mona Neubaur",
+      "gender": "F",
+      "district": "Nordrhein-Westfalen",
+      "party": "Bündnis 90/Die Grünen"
+    },
+    {
+      "name": "Simone Oldenburg",
+      "gender": "F",
+      "district": "Mecklenburg-Vorpommern",
+      "party": "Die Linke"
+    },
+    {
+      "name": "Marcus Optendrenk",
+      "gender": "M",
+      "district": "Nordrhein-Westfalen",
+      "party": "CDU"
+    },
+    {
+      "name": "Dirk Panter",
+      "gender": "M",
+      "district": "Sachsen",
+      "party": "SPD"
+    },
+    {
+      "name": "Josefine Paul",
+      "gender": "F",
+      "district": "Nordrhein-Westfalen",
+      "party": "Bündnis 90/Die Grünen"
+    },
+    {
+      "name": "Manfred Pentz",
+      "gender": "M",
+      "district": "Hessen",
+      "party": "CDU"
+    },
+    {
+      "name": "Andreas Philippi",
+      "gender": "M",
+      "district": "Niedersachsen",
+      "party": "SPD"
+    },
+    {
+      "name": "Anke Rehlinger",
+      "gender": "F",
+      "district": "Saarland",
+      "party": "SPD"
+    },
+    {
+      "name": "Boris Rhein",
+      "gender": "M",
+      "district": "Hessen",
+      "party": "CDU"
+    },
+    {
+      "name": "Rainer Robra",
+      "gender": "M",
+      "district": "Sachsen-Anhalt",
+      "party": "CDU"
+    },
+    {
+      "name": "Ina Scharrenbach",
+      "gender": "F",
+      "district": "Nordrhein-Westfalen",
+      "party": "CDU"
+    },
+    {
+      "name": "Daniela Schmitt",
+      "gender": "F",
+      "district": "Rheinland-Pfalz",
+      "party": "FDP"
+    },
+    {
+      "name": "Alexander Schweitzer",
+      "gender": "M",
+      "district": "Rheinland-Pfalz",
+      "party": "SPD"
+    },
+    {
+      "name": "Manuela Schwesig",
+      "gender": "F",
+      "district": "Mecklenburg-Vorpommern",
+      "party": "SPD"
+    },
+    {
+      "name": "Markus Söder",
+      "gender": "M",
+      "district": "Bayern",
+      "party": "CSU"
+    },
+    {
+      "name": "Thomas Strobl",
+      "gender": "M",
+      "district": "Baden-Württemberg",
+      "party": "CDU"
+    },
+    {
+      "name": "Sabine Sütterlin-Waack",
+      "gender": "F",
+      "district": "Schleswig-Holstein",
+      "party": "CDU"
+    },
+    {
+      "name": "Aminata Touré",
+      "gender": "F",
+      "district": "Schleswig-Holstein",
+      "party": "Bündnis 90/Die Grünen"
+    },
+    {
+      "name": "Peter Tschentscher",
+      "gender": "M",
+      "district": "Hamburg",
+      "party": "SPD"
+    },
+    {
+      "name": "Mario Voigt",
+      "gender": "M",
+      "district": "Thüringen",
+      "party": "CDU"
+    },
+    {
+      "name": "Kathrin Wahlmann",
+      "gender": "F",
+      "district": "Niedersachsen",
+      "party": "SPD"
+    },
+    {
+      "name": "Kai Wegner",
+      "gender": "M",
+      "district": "Berlin",
+      "party": "CDU"
+    },
+    {
+      "name": "Armin Willingmann",
+      "gender": "M",
+      "district": "Sachsen-Anhalt",
+      "party": "SPD"
+    },
+    {
+      "name": "Dietmar Woidke",
+      "gender": "M",
+      "district": "Brandenburg",
+      "party": "SPD"
+    },
+    {
+      "name": "Katja Wolf",
+      "gender": "F",
+      "district": "Thüringen",
+      "party": "BSW"
+    },
+    {
+      "name": "Hendrik Wüst",
+      "gender": "M",
+      "district": "Nordrhein-Westfalen",
+      "party": "CDU"
+    }
+  ],
   "officials": [],
   "parties": {
     "CDU": {
