@@ -109,7 +109,6 @@
       "name": "Robert F. Kennedy Jr.",
       "gender": "M",
       "role": "Secretary of Health and Human Services",
-      "party": "I",
       "salary": {
         "gross": 250600,
         "net": 162890
@@ -1115,7 +1114,7 @@
       "salary": { "gross": 174000, "net": 113100 }
     },
     {
-      "name": "Nikki Budzinski",      
+      "name": "Nikki Budzinski",
       "gender": "F",
       "district": "Illinois 13th",
       "party": "D",
@@ -1139,7 +1138,7 @@
       "district": "Illinois 15th",
       "party": "R",
       "salary": { "gross": 174000, "net": 113100 },
-      "sources":[
+      "sources": [
         {
           "Wikipedia": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)"
         }
@@ -2705,7 +2704,6 @@
       "name": "Angus King",
       "gender": "M",
       "district": "Maine",
-      "party": "I",
       "salary": { "gross": 174000, "net": 113100 }
     },
     {
@@ -3062,7 +3060,6 @@
       "name": "Bernie Sanders",
       "gender": "M",
       "district": "Vermont",
-      "party": "I",
       "salary": { "gross": 174000, "net": 113100 }
     },
     {
@@ -3142,9 +3139,14 @@
     }
   ],
   "parties": {
+    "D": {
+      "name": "Democratic Party",
+      "range": 5,
+      "color": "#003cb9"
+    },
     "R": {
       "name": "Republican Party",
-      "range": 5,
+      "range": 2,
       "color": "#E81A23"
     }
   }
