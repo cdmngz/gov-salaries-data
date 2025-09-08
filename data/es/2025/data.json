@@ -63,7 +63,6 @@
       "name": "Sara Aagesen Muñoz",
       "gender": "F",
       "role": "Minister for the Ecological Transition and the Demographic Challenge",
-      "party": "Independent",
       "salary": {
         "gross": 87135,
         "net": 46000
@@ -96,7 +95,6 @@
       "name": "Margarita Robles Fernández",
       "gender": "F",
       "role": "Minister of Defence",
-      "party": "Independent",
       "salary": {
         "gross": 92915,
         "net": 50000
@@ -195,7 +193,6 @@
       "name": "Carlos Cuerpo Caballero",
       "gender": "M",
       "role": "Minister of Economy, Trade and Enterprise",
-      "party": "Independent",
       "salary": {
         "gross": 81794,
         "net": 50000
@@ -2204,7 +2201,7 @@
     {
       "name": "Micó Micó, Àgueda",
       "gender": "F",
-      "party": "Més",
+      "party": "CCPV",
       "district": "Valencia/València",
       "salary": {
         "gross": 57478,
@@ -4647,7 +4644,6 @@
       "name": "Ferrer Martínez, Juanjo",
       "gender": "M",
       "district": "Ibiza-Formentera",
-      "party": "Independiente",
       "salary": {
         "gross": 45989,
         "net": 32192
@@ -4817,6 +4813,7 @@
       "name": "Gómez Enríquez, Paloma",
       "gender": "F",
       "district": "Parlamento de Andalucía",
+      "party": "VOX",
       "salary": {
         "gross": 45989,
         "net": 32192
@@ -4876,7 +4873,7 @@
       "name": "Gordillo Moreno, Ángel Pelayo",
       "gender": "M",
       "district": "Asamblea de Extremadura",
-      "party": "",
+      "party": "VOX",
       "salary": {
         "gross": 45989,
         "net": 32192
@@ -5506,7 +5503,7 @@
       "name": "Morera Catalá, Enric Xavier",
       "gender": "M",
       "district": "Cortes Valencianas",
-      "party": "Compromís",
+      "party": "CCPV",
       "salary": {
         "gross": 45989,
         "net": 32192
@@ -6426,6 +6423,18 @@
     }
   ],
   "parties": {
+    "AHI": {
+      "name": "Agrupación Herreña Independiente",
+      "en": "Independent Herrenian Group",
+      "range": 3,
+      "color": "#027f00"
+    },
+    "ASG": {
+      "name": "Agrupación Socialista Gomera",
+      "en": "Gomera Socialist Group",
+      "range": 2,
+      "color": "#d21212"
+    },
     "BNG": {
       "name": "Bloque Nacionalista Galego",
       "en": "Galician Nationalist Bloc",
@@ -6437,6 +6446,12 @@
       "en": "Canarian Coalition",
       "range": 4,
       "color": "#02ADD7"
+    },
+    "CCPV": {
+      "name": "Coalició Compromís",
+      "en": "Commitment Coalition",
+      "range": 1,
+      "color": "#d84d22"
     },
     "EAJ-PNV": {
       "name": "Euzko Alderdi Jeltzalea - Partido Nacionalista Vasco",
@@ -6462,29 +6477,35 @@
       "range": 2,
       "color": "#F75E42"
     },
-    "Independent": {
-      "name": "Independiente",
-      "en": "Independent",
-      "range": 3,
-      "color": "#AAAAAA"
-    },
     "JxCat": {
       "name": "Junts per Catalunya",
       "en": "Together for Catalonia",
       "range": 4,
       "color": "#00C4B3"
     },
-    "Més": {
-      "name": "Més Compromís",
-      "en": "More Commitment",
+    "Más": {
+      "name": "Más Madrid",
+      "en": "More Madrid",
       "range": 1,
-      "color": "#f25A30"
+      "color": "#4ace8d"
     },
     "PP": {
       "name": "Partido Popular",
       "en": "People's Party",
       "range": 4,
       "color": "#174A90"
+    },
+    "PSE-EE": {
+      "name": "Euskadiko Alderdi Sozialista - Euskadiko Ezkerra",
+      "en": "Socialist Party of the Basque Country - Basque Country Left",
+      "range": 2,
+      "color": "#e4020a"
+    },
+    "PSC": {
+      "name": "Partit dels Socialistes de Catalunya",
+      "en": "Socialists' Party of Catalonia",
+      "range": 2,
+      "color": "#e3030f"
     },
     "PSOE": {
       "name": "Partido Socialista Obrero Español",
