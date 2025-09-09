@@ -19,8 +19,11 @@ jobs:
         with:
           node-version: "18"
 
+      - name: List scripts dir
+        run: ls -la scripts
+
       - name: Build country/global indexes
-        run: node scripts/generate-indexes.js
+        run: node scripts/build-indexes.js
 
       - id: collect-years
         shell: bash
