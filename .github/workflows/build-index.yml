@@ -111,22 +111,58 @@ jobs:
         with:
           path: artifacts
 
+      - name: Show downloaded artifacts (debug)
+        run: |
+          echo "---- artifacts/ ----"
+          find artifacts -maxdepth 5 -type f | sort || true
+
       - name: Merge artifacts into repo
         shell: bash
         run: |
+          set -euo pipefail
           shopt -s globstar nullglob
-          # copy per-year world data
+
+          # Copy per-year files from each artifact into the repo
+          copied_any=0
           for f in artifacts/world-*/data/world/*/data.json; do
-            year=$(echo "$f" | sed -nE 's#artifacts/world-([0-9]{4})/.*#\1#p')
+            year="$(basename "$(dirname "$f")")"
             mkdir -p "data/world/$year"
             cp "$f" "data/world/$year/data.json"
+            echo "Copied $f -> data/world/$year/data.json"
+            copied_any=1
           done
-          # update world/index.json (from any artifact; they all include it)
-          lastIndex=$(ls -d artifacts/world-*/ 2>/dev/null | tail -n 1)
-          if [ -n "$lastIndex" ] && [ -f "${lastIndex}data/world/index.json" ]; then
-            mkdir -p data/world
-            cp "${lastIndex}data/world/index.json" data/world/index.json
+
+          if [[ "$copied_any" -ne 1 ]]; then
+            echo "No world data.json files found in artifacts/world-*/data/world/*/data.json"
+            echo "Nothing to merge."
+            exit 0
           fi
+
+          # Rebuild world/index.json from the years we have in the workspace
+          years_json="$(
+            node - <<'NODE'
+              const fs=require('fs'),path=require('path');
+              const root='data/world';
+              let years=[];
+              if(fs.existsSync(root)) {
+                years = fs.readdirSync(root)
+                  .filter(s => /^\d{4}$/.test(s))
+                  .map(Number)
+                  .sort((a,b)=>a-b);
+              }
+              process.stdout.write(JSON.stringify(years));
+            NODE
+          )"
+          echo "world/index.json -> $years_json"
+          mkdir -p data/world
+          printf '%s\n' "$years_json" > data/world/index.json
+
+      - name: Show repo world tree (debug)
+        run: |
+          echo "---- data/world/ ----"
+          find data/world -maxdepth 3 -type f | sort || true
+          echo "index.json contents:"
+          cat data/world/index.json || true
 
       - name: Commit and push world changes (single commit)
         env:
@@ -135,6 +171,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/world
+          git status --porcelain
+          git diff --cached --name-only || true
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: build world aggregates (matrix)"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git push origin HEAD
