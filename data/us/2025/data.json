@@ -3141,12 +3141,12 @@
   "parties": {
     "D": {
       "name": "Democratic Party",
-      "range": 5,
+      "range": 2,
       "color": "#003cb9"
     },
     "R": {
       "name": "Republican Party",
-      "range": 2,
+      "range": 5,
       "color": "#E81A23"
     }
   }
