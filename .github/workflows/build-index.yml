@@ -1,4 +1,4 @@
-name: Generate index.json
+name: Build index.json
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}
 
 jobs:
-  generate-index:
+  build-index:
     runs-on: ubuntu-latest
     outputs:
       years: ${{ steps.collect-years.outputs.years }}
@@ -26,34 +26,34 @@ jobs:
       - name: Build country/global indexes
         run: node scripts/build-indexes.js
 
-      # Optional debug
-      - name: Show data tree (debug)
-        run: |
-          echo "---- data/ ----"
-          find data -maxdepth 3 -type f | sort || true
-
       - id: collect-years
         name: Collect years (Node)
+        shell: bash
         run: |
-          node -e "const fs=require('fs'),path=require('path');
-          const root='data', years=new Set();
-          if(fs.existsSync(root)){
-            for(const cc of fs.readdirSync(root)){
-              if(!/^[a-z]{2}$/i.test(cc)) continue;
-              const cdir=path.join(root,cc);
-              if(!fs.statSync(cdir).isDirectory()) continue;
-              for(const y of fs.readdirSync(cdir)){
-                if(!/^\d{4}$/.test(y)) continue;
-                const ydir=path.join(cdir,y);
-                if(!fs.existsSync(path.join(ydir,'data.json'))) continue;
-                if(!fs.existsSync(path.join(ydir,'rates.json'))) continue;
-                years.add(Number(y));
+          YEARS_JSON=$(
+            node - <<'NODE'
+            const fs=require('fs'),path=require('path');
+            const root='data', years=new Set();
+            if(fs.existsSync(root)){
+              for (const cc of fs.readdirSync(root)) {
+                if(!/^[a-z]{2}$/i.test(cc)) continue;
+                const cdir=path.join(root,cc);
+                if(!fs.statSync(cdir).isDirectory()) continue;
+                for (const y of fs.readdirSync(cdir)) {
+                  if(!/^\d{4}$/.test(y)) continue;
+                  const ydir=path.join(cdir,y);
+                  if(!fs.existsSync(path.join(ydir,'data.json'))) continue;
+                  if(!fs.existsSync(path.join(ydir,'rates.json'))) continue;
+                  years.add(Number(y));
+                }
               }
             }
-          }
-          const arr=[...years].sort((a,b)=>a-b);
-          require('fs').appendFileSync(process.env.GITHUB_OUTPUT, `years=${JSON.stringify(arr)}\n`);
-          console.log('Matrix years:', JSON.stringify(arr));"
+            const arr=[...years].sort((a,b)=>a-b);
+            process.stdout.write(JSON.stringify(arr));
+            NODE
+          )
+          echo "years=$YEARS_JSON" >> "$GITHUB_OUTPUT"
+          echo "Matrix years: $YEARS_JSON"
 
       - name: Commit and push index changes (if any)
         env:
@@ -62,18 +62,18 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: auto-generate index.json"
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: auto-build index.json"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git push origin HEAD
 
   build-world-matrix:
-    if: ${{ needs.generate-index.outputs.years != '[]' && needs.generate-index.outputs.years != '' }}
+    if: ${{ needs.build-index.outputs.years != '[]' && needs.build-index.outputs.years != '' }}
     runs-on: ubuntu-latest
-    needs: generate-index
+    needs: build-index
     strategy:
       fail-fast: false
       matrix:
-        year: ${{ fromJson(needs.generate-index.outputs.years) }}
+        year: ${{ fromJson(needs.build-index.outputs.years) }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
