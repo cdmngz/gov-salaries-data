@@ -30,30 +30,32 @@ jobs:
         name: Collect years (Node)
         shell: bash
         run: |
-          YEARS_JSON=$(
-            node - <<'NODE'
-            const fs=require('fs'),path=require('path');
-            const root='data', years=new Set();
-            if(fs.existsSync(root)){
-              for (const cc of fs.readdirSync(root)) {
-                if(!/^[a-z]{2}$/i.test(cc)) continue;
-                const cdir=path.join(root,cc);
-                if(!fs.statSync(cdir).isDirectory()) continue;
-                for (const y of fs.readdirSync(cdir)) {
-                  if(!/^\d{4}$/.test(y)) continue;
-                  const ydir=path.join(cdir,y);
-                  if(!fs.existsSync(path.join(ydir,'data.json'))) continue;
-                  if(!fs.existsSync(path.join(ydir,'rates.json'))) continue;
-                  years.add(Number(y));
-                }
+          set -euo pipefail
+          cat > collect-years.js <<'NODE'
+          const fs = require('fs'), path = require('path');
+          const root = 'data', years = new Set();
+          if (fs.existsSync(root)) {
+            for (const cc of fs.readdirSync(root)) {
+              if (!/^[a-z]{2}$/i.test(cc)) continue;
+              const cdir = path.join(root, cc);
+              if (!fs.statSync(cdir).isDirectory()) continue;
+              for (const y of fs.readdirSync(cdir)) {
+                if (!/^\d{4}$/.test(y)) continue;
+                const ydir = path.join(cdir, y);
+                if (!fs.existsSync(path.join(ydir, 'data.json'))) continue;
+                if (!fs.existsSync(path.join(ydir, 'rates.json'))) continue;
+                years.add(Number(y));
               }
             }
-            const arr=[...years].sort((a,b)=>a-b);
-            process.stdout.write(JSON.stringify(arr));
-            NODE
-          )
-          echo "years=$YEARS_JSON" >> "$GITHUB_OUTPUT"
+          }
+          const arr = [...years].sort((a,b)=>a-b);
+          process.stdout.write(JSON.stringify(arr));
+          NODE
+
+          YEARS_JSON="$(node collect-years.js)"
           echo "Matrix years: $YEARS_JSON"
+          echo "years=$YEARS_JSON" >> "$GITHUB_OUTPUT"
+          rm -f collect-years.js
 
       - name: Commit and push index changes (if any)
         env:
