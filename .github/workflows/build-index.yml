@@ -19,19 +19,41 @@ jobs:
         with:
           node-version: "18"
 
-      - name: List scripts dir
-        run: ls -la scripts
+      # Optional debug
+      - name: List scripts dir (debug)
+        run: ls -la scripts || true
 
       - name: Build country/global indexes
         run: node scripts/build-indexes.js
 
-      - id: collect-years
-        shell: bash
+      # Optional debug
+      - name: Show data tree (debug)
         run: |
-          years=$(find data -mindepth 2 -maxdepth 2 -type d -regex '.*\/[0-9]{4}$' \
-            | sed -E 's/.*\/([0-9]{4})$/\1/' | sort -u | jq -R -s -c 'split("\n")[:-1]')
-          echo "years=$years" >> $GITHUB_OUTPUT
-          echo "Matrix years: $years"
+          echo "---- data/ ----"
+          find data -maxdepth 3 -type f | sort || true
+
+      - id: collect-years
+        name: Collect years (Node)
+        run: |
+          node -e "const fs=require('fs'),path=require('path');
+          const root='data', years=new Set();
+          if(fs.existsSync(root)){
+            for(const cc of fs.readdirSync(root)){
+              if(!/^[a-z]{2}$/i.test(cc)) continue;
+              const cdir=path.join(root,cc);
+              if(!fs.statSync(cdir).isDirectory()) continue;
+              for(const y of fs.readdirSync(cdir)){
+                if(!/^\d{4}$/.test(y)) continue;
+                const ydir=path.join(cdir,y);
+                if(!fs.existsSync(path.join(ydir,'data.json'))) continue;
+                if(!fs.existsSync(path.join(ydir,'rates.json'))) continue;
+                years.add(Number(y));
+              }
+            }
+          }
+          const arr=[...years].sort((a,b)=>a-b);
+          require('fs').appendFileSync(process.env.GITHUB_OUTPUT, `years=${JSON.stringify(arr)}\n`);
+          console.log('Matrix years:', JSON.stringify(arr));"
 
       - name: Commit and push index changes (if any)
         env:
@@ -45,6 +67,7 @@ jobs:
           git push origin HEAD
 
   build-world-matrix:
+    if: ${{ needs.generate-index.outputs.years != '[]' && needs.generate-index.outputs.years != '' }}
     runs-on: ubuntu-latest
     needs: generate-index
     strategy:
