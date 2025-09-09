@@ -1,15 +1,16 @@
-name: Build index.json
+name: Build index + world
 
 on:
   push:
     branches: [main]
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   build-index:
     runs-on: ubuntu-latest
-    outputs:
-      years: ${{ steps.collect-years.outputs.years }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -19,43 +20,16 @@ jobs:
         with:
           node-version: "18"
 
-      # Optional debug
       - name: List scripts dir (debug)
         run: ls -la scripts || true
 
       - name: Build country/global indexes
         run: node scripts/build-indexes.js
 
-      - id: collect-years
-        name: Collect years (Node)
-        shell: bash
+      - name: Show data tree (debug)
         run: |
-          set -euo pipefail
-          cat > collect-years.js <<'NODE'
-          const fs = require('fs'), path = require('path');
-          const root = 'data', years = new Set();
-          if (fs.existsSync(root)) {
-            for (const cc of fs.readdirSync(root)) {
-              if (!/^[a-z]{2}$/i.test(cc)) continue;
-              const cdir = path.join(root, cc);
-              if (!fs.statSync(cdir).isDirectory()) continue;
-              for (const y of fs.readdirSync(cdir)) {
-                if (!/^\d{4}$/.test(y)) continue;
-                const ydir = path.join(cdir, y);
-                if (!fs.existsSync(path.join(ydir, 'data.json'))) continue;
-                if (!fs.existsSync(path.join(ydir, 'rates.json'))) continue;
-                years.add(Number(y));
-              }
-            }
-          }
-          const arr = [...years].sort((a,b)=>a-b);
-          process.stdout.write(JSON.stringify(arr));
-          NODE
-
-          YEARS_JSON="$(node collect-years.js)"
-          echo "Matrix years: $YEARS_JSON"
-          echo "years=$YEARS_JSON" >> "$GITHUB_OUTPUT"
-          rm -f collect-years.js
+          echo "---- data/ (after indexes) ----"
+          find data -maxdepth 3 -type f | sort || true
 
       - name: Commit and push index changes (if any)
         env:
@@ -68,14 +42,9 @@ jobs:
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git push origin HEAD
 
-  build-world-matrix:
-    if: ${{ needs.build-index.outputs.years != '[]' && needs.build-index.outputs.years != '' }}
-    runs-on: ubuntu-latest
+  build-world:
     needs: build-index
-    strategy:
-      fail-fast: false
-      matrix:
-        year: ${{ fromJson(needs.build-index.outputs.years) }}
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -87,84 +56,22 @@ jobs:
         with:
           node-version: "18"
 
-      - name: Build world for a single year
-        run: node scripts/build-world-year.js ${{ matrix.year }}
+      - name: Build world (all detected years)
+        run: node scripts/build-world.js
 
-      - name: Upload world artifact for this year
-        uses: actions/upload-artifact@v4
-        with:
-          name: world-${{ matrix.year }}
-          path: |
-            data/world/${{ matrix.year }}/data.json
-            data/world/index.json
-          if-no-files-found: error
-
-  merge-world-and-commit:
-    runs-on: ubuntu-latest
-    needs: build-world-matrix
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Download all world artifacts
-        uses: actions/download-artifact@v4
-        with:
-          path: artifacts
-
-      - name: Show downloaded artifacts (debug)
+      # --- diagnostics to verify the file actually exists and changed ---
+      - name: Print world 2025 (debug)
         run: |
-          echo "---- artifacts/ ----"
-          find artifacts -maxdepth 5 -type f | sort || true
+          echo "---- data/world/2025/data.json (post-build) ----"
+          test -f data/world/2025/data.json && head -c 400 data/world/2025/data.json && echo || echo "missing"
 
-      - name: Merge artifacts into repo
-        shell: bash
+      - name: Check if ignored (debug)
         run: |
-          set -euo pipefail
-          shopt -s globstar nullglob
+          echo "---- .gitignore check ----"
+          cat .gitignore || true
+          git check-ignore -v data/world/2025/data.json || echo "not ignored"
 
-          # Copy per-year files from each artifact into the repo
-          copied_any=0
-          for f in artifacts/world-*/data/world/*/data.json; do
-            year="$(basename "$(dirname "$f")")"
-            mkdir -p "data/world/$year"
-            cp "$f" "data/world/$year/data.json"
-            echo "Copied $f -> data/world/$year/data.json"
-            copied_any=1
-          done
-
-          if [[ "$copied_any" -ne 1 ]]; then
-            echo "No world data.json files found in artifacts/world-*/data/world/*/data.json"
-            echo "Nothing to merge."
-            exit 0
-          fi
-
-          # Rebuild world/index.json from the years we have in the workspace
-          years_json="$(
-            node - <<'NODE'
-              const fs=require('fs'),path=require('path');
-              const root='data/world';
-              let years=[];
-              if(fs.existsSync(root)) {
-                years = fs.readdirSync(root)
-                  .filter(s => /^\d{4}$/.test(s))
-                  .map(Number)
-                  .sort((a,b)=>a-b);
-              }
-              process.stdout.write(JSON.stringify(years));
-            NODE
-          )"
-          echo "world/index.json -> $years_json"
-          mkdir -p data/world
-          printf '%s\n' "$years_json" > data/world/index.json
-
-      - name: Show repo world tree (debug)
-        run: |
-          echo "---- data/world/ ----"
-          find data/world -maxdepth 3 -type f | sort || true
-          echo "index.json contents:"
-          cat data/world/index.json || true
-
-      - name: Commit and push world changes (single commit)
+      - name: Commit and push world changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -173,6 +80,6 @@ jobs:
           git add data/world
           git status --porcelain
           git diff --cached --name-only || true
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: build world aggregates (matrix)"
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: build world aggregates"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git push origin HEAD
