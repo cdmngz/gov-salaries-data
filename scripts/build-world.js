@@ -1,4 +1,5 @@
 // scripts/build-world.js
+
 const path = require("path");
 const fs = require("fs");
 const {
@@ -59,23 +60,36 @@ function buildWorldEntry(dataPath, ratesPath, worldRates, prevCountryEntry) {
     worldRates
   );
 
-  // YoY growth vs previous entry (if it exists)
+  const minSalaryLocal =
+    rates.minAnualSalary !== undefined
+      ? rates.minAnualSalary
+      : rates.minAnnualSalary;
+  const MinAnnualSalary = amountToUSDInteger(
+    minSalaryLocal,
+    localCurrency,
+    worldRates
+  );
+
   const GDPGrowthYoY = prevCountryEntry
     ? pctGrowth(GDP, prevCountryEntry.GDP)
     : null;
   const GDPPerCapitaGrowthYoY = prevCountryEntry
     ? pctGrowth(GDPPerCapita, prevCountryEntry.GDPPerCapita)
     : null;
+  const MinAnnualSalaryGrowthYoY = prevCountryEntry
+    ? pctGrowth(MinAnnualSalary, prevCountryEntry.MinAnnualSalary)
+    : null;
 
-  // Ratio
   const MinistersBudgetPctOfGDP = safePct(ministersBudget, GDP);
 
   return {
     GDP,
     GDPPerCapita,
-    GDPGrowthYoY, // % or null
-    GDPPerCapitaGrowthYoY, // % or null
-    MinistersBudgetPctOfGDP, // % or null
+    GDPGrowthYoY,
+    GDPPerCapitaGrowthYoY,
+    MinAnnualSalary,
+    MinAnnualSalaryGrowthYoY,
+    MinistersBudgetPctOfGDP,
     ministers: { quantity: ministersArr.length, budget: ministersBudget },
     deputies: { quantity: deputiesArr.length },
     senate: { quantity: senateArr.length },

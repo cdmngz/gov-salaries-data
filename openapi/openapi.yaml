@@ -264,6 +264,11 @@ components:
         GDPPerCapita:
           type: number
           description: Nominal GDP per capita (last full year) of the base currency's economy.
+        minAnnualSalary:
+          type: number
+          description: Nominal gross minimum annual salary amount in the base currency's economy.
+          minimum: 0
+          example: 15080
         timestamp:
           type: string
           format: date-time
@@ -301,6 +306,7 @@ components:
         baseCurrency: USD
         GDP: 1370000000000
         GDPPerCapita: 28562
+        minAnualSalary: 15000
         timestamp: "2025-07-31T00:00:00Z"
         rates:
           AUD: 1.51
@@ -330,6 +336,11 @@ components:
           type: number
           description: Nominal GDP per capita (same currency convention as GDP).
           minimum: 0
+        minAnnualSalary:
+          type: number
+          description: Nominal gross minimum annual salary amount (same currency convention as GDP).
+          minimum: 0
+          example: 15000
         ministers:
           $ref: "#/components/schemas/MinistersBlock"
         deputies:
@@ -518,27 +529,17 @@ components:
         ar:
           GDP: 633270000000
           GDPPerCapita: 14235
+          minAnualSalary: 15000
           ministers: { quantity: 7, budget: 22561000000 }
           deputies: { quantity: 257 }
           senate: { quantity: 72 }
         es:
           GDP: 1749040659341
           GDPPerCapita: 37121
+          minAnualSalary: 22000
           ministers: { quantity: 22, budget: 190880197802 }
           deputies: { quantity: 348 }
           senate: { quantity: 265 }
-        fr:
-          GDP: 1749040659341
-          GDPPerCapita: 38420
-          ministers: { quantity: 15, budget: 0 }
-          deputies: { quantity: 0 }
-          senate: { quantity: 0 }
-        us:
-          GDP: 30331117000000
-          GDPPerCapita: 68000
-          ministers: { quantity: 15, budget: 1615600000000 }
-          deputies: { quantity: 330 }
-          senate: { quantity: 98 }
 
     WorldYears:
       type: array
