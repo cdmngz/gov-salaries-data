@@ -60,10 +60,7 @@ function buildWorldEntry(dataPath, ratesPath, worldRates, prevCountryEntry) {
     worldRates
   );
 
-  const minSalaryLocal =
-    rates.minAnualSalary !== undefined
-      ? rates.minAnualSalary
-      : rates.minAnnualSalary;
+  const minSalaryLocal = rates.minAnnualSalary;
   const MinAnnualSalary = amountToUSDInteger(
     minSalaryLocal,
     localCurrency,

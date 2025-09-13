@@ -2,6 +2,7 @@
   "baseCurrency": "USD",
   "GDP": 604000000000,
   "GDPPerCapita": 13111,
+  "minAnnualSalary": 3600,
   "timestamp": "2025-07-31T00:00:00Z",
   "rates": {
     "AUD": 1.51,

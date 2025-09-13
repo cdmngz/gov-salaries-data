@@ -2,6 +2,7 @@
   "baseCurrency": "GBP",
   "GDP": 2707000000000,
   "GDPPerCapita": 39950,
+  "minAnnualSalary": 23810,
   "timestamp": "2025-08-23T00:00:00Z",
   "rates": {
     "AUD": 1.53,

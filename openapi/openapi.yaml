@@ -306,7 +306,7 @@ components:
         baseCurrency: USD
         GDP: 1370000000000
         GDPPerCapita: 28562
-        minAnualSalary: 15000
+        minAnnualSalary: 15000
         timestamp: "2025-07-31T00:00:00Z"
         rates:
           AUD: 1.51
@@ -379,11 +379,11 @@ components:
       properties:
         gross:
           type: number
-          description: Gross anual salary (same currency as net).
+          description: Gross annual salary (same currency as net).
           example: 67866
         net:
           type: number
-          description: Net anual salary.
+          description: Net annual salary.
           example: 52928
 
     Source:
@@ -529,14 +529,14 @@ components:
         ar:
           GDP: 633270000000
           GDPPerCapita: 14235
-          minAnualSalary: 15000
+          minAnnualSalary: 15000
           ministers: { quantity: 7, budget: 22561000000 }
           deputies: { quantity: 257 }
           senate: { quantity: 72 }
         es:
           GDP: 1749040659341
           GDPPerCapita: 37121
-          minAnualSalary: 22000
+          minAnnualSalary: 22000
           ministers: { quantity: 22, budget: 190880197802 }
           deputies: { quantity: 348 }
           senate: { quantity: 265 }

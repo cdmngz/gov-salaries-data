@@ -28,7 +28,7 @@ All data is organized by **country** and **year** in the **data** folder, the on
 
 Each `data.json` should follow this structure:
 
-- Salaries should represent **anual gross** and **anual net** numeric amounts
+- Salaries should represent **annual gross** and **annual net** numeric amounts
 
 You can view the expected format here:  
 ➡️ [`templates/data-template.json`](templates/data-template.json)

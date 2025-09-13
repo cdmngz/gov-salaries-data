@@ -2,6 +2,7 @@
   "baseCurrency": "EUR",
   "GDP": 443000000000,
   "GDPPerCapita": 80334,
+  "minAnnualSalary": 40300,
   "timestamp": "2025-08-23T00:00:00Z",
   "rates": {
     "AUD": 1.8068,

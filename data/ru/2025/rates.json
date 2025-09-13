@@ -2,6 +2,7 @@
   "baseCurrency": "RUB",
   "GDP": 201100000000000,
   "GDPPerCapita": 1386873,
+  "minAnnualSalary": 269280,
   "timestamp": "2025-08-01T00:00:00Z",
   "rates": {
     "AUD": 0.016775,
