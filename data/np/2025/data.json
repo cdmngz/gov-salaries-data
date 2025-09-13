@@ -1,0 +1,619 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Ram Chandra Poudel",
+      "gender": "M",
+      "role": "President of Nepal",
+      "party": "NC",
+      "salary": {
+        "gross_usd": 8920,
+        "net_usd": 7500
+      }
+    },
+    {
+      "name": "Khadga Prasad Sharma Oli",
+      "gender": "M",
+      "role": "Prime Minister of Nepal",
+      "party": "CPN-UML",
+      "salary": {
+        "gross_usd": 7500,
+        "net_usd": 6200
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Narayan Kaji Shrestha",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Home Affairs",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 150000000000
+    },
+    {
+      "name": "Prakash Sharan Mahat",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "NC",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 1700000000000
+    },
+    {
+      "name": "NP Saud",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "NC",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 120000000000
+    },
+    {
+      "name": "Sharat Singh Bhandari",
+      "gender": "M",
+      "role": "Minister of Labour, Employment and Social Security",
+      "party": "Loktantrik Samajwadi",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 250000000000
+    },
+    {
+      "name": "Padam Giri",
+      "gender": "M",
+      "role": "Minister of Health and Population",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 180000000000
+    },
+    {
+      "name": "Raghubir Mahaseth",
+      "gender": "M",
+      "role": "Minister of Physical Infrastructure and Transport",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 300000000000
+    },
+    {
+      "name": "Shakti Basnet",
+      "gender": "M",
+      "role": "Minister of Energy, Water Resources and Irrigation",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 280000000000
+    },
+    {
+      "name": "Dig Bahadur Limbu",
+      "gender": "M",
+      "role": "Minister of Culture, Tourism and Civil Aviation",
+      "party": "NC",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 95000000000
+    },
+    {
+      "name": "Pradeep Gyawali",
+      "gender": "M",
+      "role": "Minister of Education, Science and Technology",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 400000000000
+    },
+    {
+      "name": "Renu Kumari Yadav",
+      "gender": "F",
+      "role": "Minister of Federal Affairs and General Administration",
+      "party": "JSP",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 85000000000
+    },
+    {
+      "name": "Rajendra Kumar Rai",
+      "gender": "M",
+      "role": "Minister of Communications and Information Technology",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 60000000000
+    },
+    {
+      "name": "Janardan Sharma",
+      "gender": "M",
+      "role": "Minister of Agriculture and Livestock Development",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 200000000000
+    },
+    {
+      "name": "Metmani Chaudhary",
+      "gender": "M",
+      "role": "Minister of Urban Development",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 150000000000
+    },
+    {
+      "name": "Jwala Kumari Sah",
+      "gender": "F",
+      "role": "Minister of Women, Children and Senior Citizens",
+      "party": "Loktantrik Samajwadi",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 70000000000
+    },
+    {
+      "name": "Asta Laxmi Shakya",
+      "gender": "F",
+      "role": "Minister of Industry, Commerce and Supplies",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 230000000000
+    },
+    {
+      "name": "Mohammad Istiyak Rai",
+      "gender": "M",
+      "role": "Minister of Forests and Environment",
+      "party": "JSP",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 90000000000
+    },
+    {
+      "name": "Shashi Shrestha",
+      "gender": "F",
+      "role": "Minister of Land Management, Cooperatives and Poverty Alleviation",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 85000000000
+    },
+    {
+      "name": "Prem Ale",
+      "gender": "M",
+      "role": "Minister of Youth and Sports",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 50000000000
+    },
+    {
+      "name": "Umashankar Argariya",
+      "gender": "M",
+      "role": "Minister of Water Supply",
+      "party": "Loktantrik Samajwadi",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 120000000000
+    },
+    {
+      "name": "Pampha Bhusal",
+      "gender": "F",
+      "role": "Minister of Energy, Water Resources and Irrigation (State)",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 60000000000
+    },
+    {
+      "name": "Bina Magar",
+      "gender": "F",
+      "role": "Minister of Drinking Water",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 100000000000
+    },
+    {
+      "name": "Khimlal Devkota",
+      "gender": "M",
+      "role": "Minister of Law, Justice and Parliamentary Affairs",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 45000000000
+    },
+    {
+      "name": "Chitra Bahadur KC",
+      "gender": "M",
+      "role": "Minister of Culture, Tourism and Civil Aviation (State)",
+      "party": "RPP",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 40000000000
+    },
+    {
+      "name": "Anita Devi",
+      "gender": "F",
+      "role": "Minister of Health and Population (State)",
+      "party": "JSP",
+      "salary": { "gross_usd": 6180, "net_usd": 5000 },
+      "budget": 30000000000
+    }
+  ],
+  "senate": [
+    {
+      "name": "Ganesh Timilsina",
+      "gender": "M",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Shashi Kala Dahal",
+      "gender": "F",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Bamdev Gautam",
+      "gender": "M",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Bedu Ram Bhusal",
+      "gender": "M",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Dil Kumari Rawal",
+      "gender": "F",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Ram Narayan Bidari",
+      "gender": "M",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Radheshyam Adhikari",
+      "gender": "M",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Komal Oli",
+      "gender": "F",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Khim Lal Devkota",
+      "gender": "M",
+      "party": "Independent",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Binda Devi Ale",
+      "gender": "F",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Binda Pandey",
+      "gender": "F",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Deepa Gurung",
+      "gender": "F",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Kailash Rai",
+      "gender": "M",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Jayanti Devi Rai",
+      "gender": "F",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Indira Rana Magar",
+      "gender": "F",
+      "party": "RSP",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Mina Pandey",
+      "gender": "F",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Bishnu Prasad Timilsina",
+      "gender": "M",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Renu Kumari Yadav",
+      "gender": "F",
+      "party": "JSP",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Mohammad Khalid",
+      "gender": "M",
+      "party": "Loktantrik Samajwadi",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Sushila Shrestha",
+      "gender": "F",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Chandra Bahadur Khadka",
+      "gender": "M",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Dina Nath Sharma",
+      "gender": "M",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Gopal Basnet",
+      "gender": "M",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Jayanti Devi Bishwakarma",
+      "gender": "F",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Sher Bahadur Kunwar",
+      "gender": "M",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Indira Joshi",
+      "gender": "F",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Basant Kumar Nembang",
+      "gender": "M",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Pushpa Kumari Karna",
+      "gender": "F",
+      "party": "JSP",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Krishna Prasad Sitaula",
+      "gender": "M",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Bimala Ghimire",
+      "gender": "F",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Bishnu Devi Pudasaini",
+      "gender": "F",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Surendra Raj Acharya",
+      "gender": "M",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Prakash Pantha",
+      "gender": "M",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Durga Poudel",
+      "gender": "F",
+      "party": "RPP",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Prakash Thapa",
+      "gender": "M",
+      "party": "RSP",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Laxmi Kumari Chaudhary",
+      "gender": "F",
+      "party": "Loktantrik Samajwadi",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Kalyani Khadka",
+      "gender": "F",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Chudamani Jangali",
+      "gender": "M",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Pushpa Bhusal",
+      "gender": "F",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Hari Prasad Upreti",
+      "gender": "M",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Rajendra Laxmi Gaire",
+      "gender": "F",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Narayan Datta Mishra",
+      "gender": "M",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Chand Tara Kumari",
+      "gender": "F",
+      "party": "JSP",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Sher Bahadur Sunar",
+      "gender": "M",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Anita Devkota",
+      "gender": "F",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Mohan Baniya",
+      "gender": "M",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Tulasa Kumari Dahal",
+      "gender": "F",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Mohammad Samir",
+      "gender": "M",
+      "party": "Loktantrik Samajwadi",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Yashoda Gurung",
+      "gender": "F",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Kedar Bahadur Gurung",
+      "gender": "M",
+      "party": "RPP",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Kalyan Kumari Saud",
+      "gender": "F",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Ramesh Jung Rayamajhi",
+      "gender": "M",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Indira Shrestha",
+      "gender": "F",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Ananda Prasad Dhungana",
+      "gender": "M",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Radha Gyawali",
+      "gender": "F",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Ramesh Jung Shah",
+      "gender": "M",
+      "party": "JSP",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Kamala Panta",
+      "gender": "F",
+      "party": "NC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Bhakta Bahadur Bishwakarma",
+      "gender": "M",
+      "party": "CPN-UML",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    },
+    {
+      "name": "Parvati Kumari Bishwakarma",
+      "gender": "F",
+      "party": "CPN-MC",
+      "salary": { "gross_usd": 5620, "net_usd": 4500 }
+    }
+  ],
+  "parties": {
+    "NC": {
+      "name": "नेपाली कांग्रेस",
+      "en": "Nepali Congress",
+      "range": 3,
+      "color": "#0066CC"
+    },
+    "CPN-UML": {
+      "name": "नेपाल कम्युनिष्ट पार्टी (एकीकृत मार्क्सवादी–लेनिनवादी)",
+      "en": "Communist Party of Nepal (Unified Marxist–Leninist)",
+      "range": 2,
+      "color": "#FF0000"
+    },
+    "CPN-MC": {
+      "name": "नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)",
+      "en": "Communist Party of Nepal (Maoist Centre)",
+      "range": 1,
+      "color": "#B22222"
+    },
+    "RSP": {
+      "name": "राष्ट्रिय स्वतन्त्र पार्टी",
+      "en": "Rastriya Swatantra Party",
+      "range": 3,
+      "color": "#228B22"
+    },
+    "RPP": {
+      "name": "राष्ट्रिय प्रजातन्त्र पार्टी",
+      "en": "Rastriya Prajatantra Party",
+      "range": 4,
+      "color": "#FFD700"
+    },
+    "JSP": {
+      "name": "जनता समाजवादी पार्टी, नेपाल",
+      "en": "People's Socialist Party, Nepal",
+      "range": 2,
+      "color": "#800080"
+    },
+    "Loktantrik Samajwadi": {
+      "name": "लोकतान्त्रिक समाजवादी पार्टी, नेपाल",
+      "en": "Democratic Socialist Party, Nepal",
+      "range": 3,
+      "color": "#008000"
+    }
+  }
+}
