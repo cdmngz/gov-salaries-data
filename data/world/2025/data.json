@@ -84,14 +84,14 @@
     "minAnnualSalaryGrowthYoY": null,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
-      "quantity": 13,
+      "quantity": 10,
       "budget": 0
     },
     "deputies": {
       "quantity": 0
     },
     "senate": {
-      "quantity": 695
+      "quantity": 470
     }
   },
   "gb": {
@@ -113,6 +113,25 @@
       "quantity": 0
     }
   },
+  "li": {
+    "GDP": 9109890110,
+    "GDPPerCapita": 228543,
+    "GDPGrowthYoY": null,
+    "GDPPerCapitaGrowthYoY": null,
+    "minAnnualSalary": 49670,
+    "minAnnualSalaryGrowthYoY": null,
+    "ministersBudgetPctOfGDP": 0,
+    "ministers": {
+      "quantity": 4,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 24
+    },
+    "senate": {
+      "quantity": 0
+    }
+  },
   "lu": {
     "GDP": 131868131868,
     "GDPPerCapita": 98681,
@@ -127,6 +146,25 @@
     },
     "deputies": {
       "quantity": 60
+    },
+    "senate": {
+      "quantity": 0
+    }
+  },
+  "mo": {
+    "GDP": 10153846154,
+    "GDPPerCapita": 281957,
+    "GDPGrowthYoY": null,
+    "GDPPerCapitaGrowthYoY": null,
+    "minAnnualSalary": 25963,
+    "minAnnualSalaryGrowthYoY": null,
+    "ministersBudgetPctOfGDP": 0,
+    "ministers": {
+      "quantity": 5,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 24
     },
     "senate": {
       "quantity": 0
