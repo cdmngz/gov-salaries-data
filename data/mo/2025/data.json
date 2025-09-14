@@ -1,0 +1,223 @@
+{
+  "baseCurrency": "EUR",
+  "royalty": [
+    {
+      "name": "Albert II",
+      "gender": "M",
+      "role": "Prince Souverain de Monaco",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Charlène",
+      "gender": "F",
+      "role": "Princesse de Monaco",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jacques",
+      "gender": "M",
+      "role": "Prince Héréditaire de Monaco (Marquis des Baux)",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gabriella",
+      "gender": "F",
+      "role": "Princesse de Monaco (Comtesse de Carladès)",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "executive": [
+    {
+      "name": "Christophe Mirmand",
+      "gender": "M",
+      "role": "Head of Government",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Lionel Beffre",
+      "gender": "M",
+      "portfolio": "Ministre de l'Intérieur",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Pierre-André Chiappori",
+      "gender": "M",
+      "portfolio": "Ministre des Finances et de l'Économie",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Céline Caron-Dagioni",
+      "gender": "F",
+      "portfolio": "Ministre de l'Équipement, de l'Environnement et de l'Urbanisme",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Isabelle Berro-Amadeï",
+      "gender": "F",
+      "portfolio": "Ministre des Relations Extérieures et de la Coopération",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Christophe Robino",
+      "gender": "M",
+      "portfolio": "Ministre des Affaires Sociales et de la Santé",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Thomas Brezzo",
+      "gender": "M",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Jean-Louis Grinda",
+      "gender": "M",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Brigitte Boccone-Pagès",
+      "gender": "F",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Nathalie Amoratti-Blanc",
+      "gender": "F",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Karen Aliprendi",
+      "gender": "F",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Jade Aureglia",
+      "gender": "F",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Maryse Battaglia",
+      "gender": "F",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Régis Bergonzi",
+      "gender": "M",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Corinne Bertani",
+      "gender": "F",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Christophe Brico",
+      "gender": "M",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Philippe Brunner",
+      "gender": "M",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Nicolas Croesi",
+      "gender": "M",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Béatrice Fresko-Rolfo",
+      "gender": "F",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Marie-Noëlle Gibelli",
+      "gender": "F",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Marine Grisoul",
+      "gender": "F",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Franck Julien",
+      "gender": "M",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Mathilde Le Clerc",
+      "gender": "F",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Franck Lobono",
+      "gender": "M",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Roland Mouflard",
+      "gender": "M",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Fabrice Notari",
+      "gender": "M",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Mikaël Palmaro",
+      "gender": "M",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Christine Pasquier-Ciulla",
+      "gender": "F",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Guillaume Rose",
+      "gender": "M",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    },
+    {
+      "name": "Balthazar Seydoux",
+      "gender": "M",
+      "party": "UNM",
+      "salary": { "gross": 38000, "net": null }
+    }
+  ],
+  "parties": {
+    "UNM": {
+      "name": "Union Nationale Monégasque",
+      "en": "National Union of Monaco",
+      "range": 4,
+      "color": "#E30613"
+    }
+  }
+}
