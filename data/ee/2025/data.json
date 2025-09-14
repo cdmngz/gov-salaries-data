@@ -1,0 +1,728 @@
+{
+  "executive": [
+    {
+      "name": "Kristen Michal",
+      "gender": "M",
+      "role": "Prime Minister of Estonia",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Hanno Pevkur",
+      "gender": "M",
+      "portfolio": "Minister of Defence",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jürgen Ligi",
+      "gender": "M",
+      "portfolio": "Minister of Finance",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Heidy Purga",
+      "gender": "F",
+      "portfolio": "Minister of Culture",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Erkki Keldo",
+      "gender": "M",
+      "portfolio": "Minister of Economy and Industry",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Andres Sutt",
+      "gender": "M",
+      "portfolio": "Minister of Energy and Environment",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kuldar Leis",
+      "gender": "M",
+      "portfolio": "Minister of Infrastructure",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Karmen Joller",
+      "gender": "F",
+      "portfolio": "Minister of Social Affairs",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kristina Kallas",
+      "gender": "F",
+      "portfolio": "Minister of Education and Research",
+      "party": "EST200",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Margus Tsahkna",
+      "gender": "M",
+      "portfolio": "Minister of Foreign Affairs",
+      "party": "EST200",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Liisa-Ly Pakosta",
+      "gender": "F",
+      "portfolio": "Minister of Justice and Digital Affairs",
+      "party": "EST200",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Igor Taro",
+      "gender": "M",
+      "portfolio": "Minister of Interior",
+      "party": "EST200",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hendrik Johannes Terras",
+      "gender": "M",
+      "portfolio": "Minister of Regional Affairs and Agriculture",
+      "party": "EST200",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Anti Allas",
+      "gender": "M",
+      "party": "SDE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Arvo Aller",
+      "gender": "M",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Vladimir Arhipov",
+      "gender": "M",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Vadim Belobrovtsev",
+      "gender": "M",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Enn Eesmaa",
+      "gender": "M",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Rain Epler",
+      "gender": "M",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Peeter Ernits",
+      "gender": "M",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Anti Frosch",
+      "gender": "M",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kalle Grünthal",
+      "gender": "M",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Andre Hanimägi",
+      "gender": "M",
+      "party": "SDE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Anti Haugas",
+      "gender": "M",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Helle-Moonika Helme",
+      "gender": "F",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mart Helme",
+      "gender": "M",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Martin Helme",
+      "gender": "M",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lauri Hussar",
+      "gender": "M",
+      "party": "EST200",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Diana Ingerainen",
+      "gender": "F",
+      "party": "EST200",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Züleyxa Izmailova",
+      "gender": "F",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jüri Jaanson",
+      "gender": "M",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Aleksei Jevgrafov",
+      "gender": "M",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Maria Jufereva-Skuratovski",
+      "gender": "F",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jaak Aab",
+      "gender": "M",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Annely Akkermann",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yoko Alender",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Anti Allas",
+      "gender": "M",
+      "party": "SDE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Arvo Aller",
+      "gender": "M",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Vladimir Arhipov",
+      "gender": "M",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Vadim Belobrovtsev",
+      "gender": "M",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Enn Eesmaa",
+      "gender": "M",
+      "party": "Non-affiliated",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Rain Epler",
+      "gender": "M",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Peeter Ernits",
+      "gender": "M",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ants Frosch",
+      "gender": "M",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kalle Grünthal",
+      "gender": "M",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Andre Hanimägi",
+      "gender": "M",
+      "party": "SDE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Anti Haugas",
+      "gender": "M",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Helle-Moonika Helme",
+      "gender": "F",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mart Helme",
+      "gender": "M",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Martin Helme",
+      "gender": "M",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lauri Hussar",
+      "gender": "M",
+      "party": "EST200",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Maria Jufereva-Skuratovski",
+      "gender": "F",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Raimond Kaljulaid",
+      "gender": "M",
+      "party": "SDE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Toomas Järveoja",
+      "gender": "M",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mario Kadastik",
+      "gender": "M",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Madis Kallas",
+      "gender": "M",
+      "party": "SDE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jaanus Karilaid",
+      "gender": "M",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ester Karuse",
+      "gender": "F",
+      "party": "SDE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Liina Kersna",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Tanel Kiik",
+      "gender": "M",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Meelis Kiili",
+      "gender": "M",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Signe Kivi",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ando Kiviberg",
+      "gender": "M",
+      "party": "EST200",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Toomas Kivimägi",
+      "gender": "M",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Aivar Kokk",
+      "gender": "M",
+      "party": "Isamaa",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Rene Kokk",
+      "gender": "M",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Anastassia Kovalenko-Kõlvart",
+      "gender": "F",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Eerik-Niiles Kross",
+      "gender": "M",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Urmas Kruuse",
+      "gender": "M",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Leo Kunnas",
+      "gender": "M",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Katrin Kuusemäe",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hanah Lahe",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Maris Lauri",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Aivar Sõerd",
+      "gender": "M",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Õnne Pillak",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hanah Lahe",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Maris Lauri",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kristina Šmigun-Vähi",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Urve Tiidus",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Vilja Toomast",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Marko Torm",
+      "gender": "M",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mart Võrklaev",
+      "gender": "M",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jaak Aab",
+      "gender": "M",
+      "party": "SDE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Taavi Aas",
+      "gender": "M",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dmitri Dmitrijev",
+      "gender": "M",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ester Karuse",
+      "gender": "F",
+      "party": "SDE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jaanus Karilaid",
+      "gender": "M",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mihhail Korb",
+      "gender": "M",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Siret Kotka",
+      "gender": "F",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Igor Kravtšenko",
+      "gender": "M",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Maria Jufereva-Skuratovski",
+      "gender": "F",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Liisa Pakosta",
+      "gender": "F",
+      "party": "EST200",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Raimond Kaljulaid",
+      "gender": "M",
+      "party": "SDE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Indrek Saar",
+      "gender": "M",
+      "party": "SDE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Helmen Kütt",
+      "gender": "F",
+      "party": "SDE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Evelin Sepp",
+      "gender": "F",
+      "party": "SDE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Priit Lomp",
+      "gender": "M",
+      "party": "SDE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Andres Sutt",
+      "gender": "M",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Heidy Purga",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kristen Michal",
+      "gender": "M",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Urmas Reinsalu",
+      "gender": "M",
+      "party": "Isamaa",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Riina Solman",
+      "gender": "F",
+      "party": "Isamaa",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Tõnis Lukas",
+      "gender": "M",
+      "party": "Isamaa",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kaia Iva",
+      "gender": "F",
+      "party": "Isamaa",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Siim Pohlak",
+      "gender": "M",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jaak Madison",
+      "gender": "M",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Henn Põlluaas",
+      "gender": "M",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Paul Puustusmaa",
+      "gender": "M",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kalle Kurvits",
+      "gender": "M",
+      "party": "EKRE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Aivar Kokk",
+      "gender": "M",
+      "party": "Isamaa",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Signe Riisalo",
+      "gender": "F",
+      "party": "REF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Anneli Ott",
+      "gender": "F",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mihhail Kõlvart",
+      "gender": "M",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kadri Simson",
+      "gender": "F",
+      "party": "KESK",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "parties": {
+    "REF": {
+      "name": "Reformierakond",
+      "en": "Estonian Reform Party",
+      "range": 4,
+      "color": "#F8A800"
+    },
+    "SDE": {
+      "name": "Sotsiaaldemokraatlik Erakond",
+      "en": "Social Democratic Party",
+      "range": 2,
+      "color": "#E40134"
+    },
+    "EST200": {
+      "name": "Eesti 200",
+      "en": "Estonia 200",
+      "range": 3,
+      "color": "#00ADEF"
+    },
+    "ISAMAA": {
+      "name": "Isamaa",
+      "en": "Fatherland",
+      "range": 5,
+      "color": "#003DA5"
+    },
+    "EKRE": {
+      "name": "Eesti Konservatiivne Rahvaerakond",
+      "en": "Conservative People's Party of Estonia",
+      "range": 5,
+      "color": "#1C4E9E"
+    },
+    "KESK": {
+      "name": "Eesti Keskerakond",
+      "en": "Centre Party",
+      "range": 3,
+      "color": "#009F3C"
+    }
+  }
+}
