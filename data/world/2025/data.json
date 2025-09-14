@@ -4,6 +4,8 @@
     "GDPPerCapita": 13111,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
+    "MinAnnualSalary": 3600,
+    "MinAnnualSalaryGrowthYoY": null,
     "MinistersBudgetPctOfGDP": 3.74,
     "ministers": {
       "quantity": 7,
@@ -17,10 +19,12 @@
     }
   },
   "de": {
-    "GDP": 4538461538462,
+    "GDP": 4730769230769,
     "GDPPerCapita": 53433,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
+    "MinAnnualSalary": 29303,
+    "MinAnnualSalaryGrowthYoY": null,
     "MinistersBudgetPctOfGDP": 0,
     "ministers": {
       "quantity": 17,
@@ -38,6 +42,8 @@
     "GDPPerCapita": 31387,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
+    "MinAnnualSalary": 18215,
+    "MinAnnualSalaryGrowthYoY": null,
     "MinistersBudgetPctOfGDP": 12.68,
     "ministers": {
       "quantity": 22,
@@ -55,6 +61,8 @@
     "GDPPerCapita": 46776,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
+    "MinAnnualSalary": 23759,
+    "MinAnnualSalaryGrowthYoY": null,
     "MinistersBudgetPctOfGDP": 0,
     "ministers": {
       "quantity": 13,
@@ -72,6 +80,8 @@
     "GDPPerCapita": 51218,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
+    "MinAnnualSalary": 30526,
+    "MinAnnualSalaryGrowthYoY": null,
     "MinistersBudgetPctOfGDP": 0,
     "ministers": {
       "quantity": 4,
@@ -89,6 +99,8 @@
     "GDPPerCapita": 88279,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
+    "MinAnnualSalary": 44286,
+    "MinAnnualSalaryGrowthYoY": null,
     "MinistersBudgetPctOfGDP": 0,
     "ministers": {
       "quantity": 19,
@@ -101,11 +113,32 @@
       "quantity": 0
     }
   },
+  "np": {
+    "GDP": 42200000000,
+    "GDPPerCapita": 1418,
+    "GDPGrowthYoY": null,
+    "GDPPerCapitaGrowthYoY": null,
+    "MinAnnualSalary": 1660,
+    "MinAnnualSalaryGrowthYoY": null,
+    "MinistersBudgetPctOfGDP": 11587.68,
+    "ministers": {
+      "quantity": 24,
+      "budget": 4890000000000
+    },
+    "deputies": {
+      "quantity": 0
+    },
+    "senate": {
+      "quantity": 59
+    }
+  },
   "ru": {
     "GDP": 2513750000000,
     "GDPPerCapita": 17336,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
+    "MinAnnualSalary": 3366,
+    "MinAnnualSalaryGrowthYoY": null,
     "MinistersBudgetPctOfGDP": 0,
     "ministers": {
       "quantity": 2,
@@ -123,6 +156,8 @@
     "GDPPerCapita": 53089,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
+    "MinAnnualSalary": 27523,
+    "MinAnnualSalaryGrowthYoY": null,
     "MinistersBudgetPctOfGDP": 0,
     "ministers": {
       "quantity": 9,
@@ -140,6 +175,8 @@
     "GDPPerCapita": 85865,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
+    "MinAnnualSalary": 15480,
+    "MinAnnualSalaryGrowthYoY": null,
     "MinistersBudgetPctOfGDP": 5.61,
     "ministers": {
       "quantity": 15,
