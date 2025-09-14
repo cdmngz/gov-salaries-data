@@ -1,0 +1,228 @@
+{
+  "baseCurrency": "EUR",
+  "royalty": [
+    {
+      "name": "Hans-Adam II",
+      "gender": "M",
+      "role": "Prince Reigning of Liechtenstein",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Alois",
+      "gender": "M",
+      "role": "Hereditary Prince of Liechtenstein (Regent)",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "executive": [
+    {
+      "name": "Brigitte Haas",
+      "gender": "F",
+      "role": "Prime Minister",
+      "party": "VU",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Sabine Monauni",
+      "gender": "F",
+      "portfolio": "Deputy Prime Minister; Foreign Affairs, Environment and Culture",
+      "party": "FBP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hubert Büchel",
+      "gender": "M",
+      "portfolio": "Interior, Economy and Sport",
+      "party": "VU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Daniel Oehry",
+      "gender": "M",
+      "portfolio": "Infrastructure and Education",
+      "party": "FBP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Emanuel Schädler",
+      "gender": "M",
+      "portfolio": "Society and Justice",
+      "party": "VU",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Manfred Kaufmann",
+      "gender": "M",
+      "party": "VU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Franziska Hoop",
+      "gender": "F",
+      "party": "FBP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Thomas Vogt",
+      "gender": "M",
+      "party": "VU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Bettina Petzold-Mähr",
+      "gender": "F",
+      "party": "FBP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Daniel Seger",
+      "gender": "M",
+      "party": "VU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Thomas Rehak",
+      "gender": "M",
+      "party": "DpL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Simon Schächle",
+      "gender": "M",
+      "party": "DpL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Sandra Fausch",
+      "gender": "F",
+      "party": "FL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Roger Schädler",
+      "gender": "M",
+      "party": "VU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Daniel Salzgeber",
+      "gender": "M",
+      "party": "FBP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Johannes Zimmermann",
+      "gender": "M",
+      "party": "VU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dietmar Hasler",
+      "gender": "M",
+      "party": "VU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Carmen Heeb-Kindle",
+      "gender": "F",
+      "party": "VU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Erich Hasler",
+      "gender": "M",
+      "party": "FBP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lino Nägele",
+      "gender": "M",
+      "party": "FBP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Marion Kindle-Kühnis",
+      "gender": "F",
+      "party": "DpL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Stefan Öhri",
+      "gender": "M",
+      "party": "VU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nägele Lino",
+      "gender": "M",
+      "party": "FBP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Sebastian Gassner",
+      "gender": "M",
+      "party": "FBP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hasler Dietmar",
+      "gender": "M",
+      "party": "VU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Johannes Kaiser",
+      "gender": "M",
+      "party": "FBP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hasler Erich",
+      "gender": "M",
+      "party": "FBP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Heeb-Kindle Carmen",
+      "gender": "F",
+      "party": "VU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Wenaweser Christoph",
+      "gender": "M",
+      "party": "VU",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "parties": {
+    "VU": {
+      "name": "Vaterländische Union",
+      "en": "Patriotic Union",
+      "range": 4,
+      "color": "#CC0000"
+    },
+    "FBP": {
+      "name": "Fortschrittliche Bürgerpartei",
+      "en": "Progressive Citizens Party",
+      "range": 4,
+      "color": "#003DA5"
+    },
+    "FL": {
+      "name": "Die Freie Liste",
+      "en": "Free List",
+      "range": 2,
+      "color": "#009933"
+    },
+    "DU": {
+      "name": "Die Unabhängigen",
+      "en": "The Independents",
+      "range": 3,
+      "color": "#999999"
+    }
+  }
+}
