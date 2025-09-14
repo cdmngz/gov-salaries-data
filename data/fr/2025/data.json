@@ -50,7 +50,6 @@
       "name": "Éric Lombard",
       "gender": "M",
       "role": "Minister of Economy, Finance & Industrial & Digital Sovereignty",
-      "party": "Independent",
       "salary": { "gross": 128964, "net": 110000 }
     },
     {
@@ -110,7 +109,6958 @@
     }
   ],
   "deputies": [],
-  "senate": [],
+  "senate": [
+    {
+      "name": "Abbate, Angèle",
+      "gender": "F",
+      "district": "Finistère",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Abdallah, Saïd",
+      "gender": "M",
+      "district": "Mayotte",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Amiel, Thierry",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Apourceau, Éric",
+      "gender": "M",
+      "district": "Pas-de-Calais",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Arnaud, Jean-Michel",
+      "gender": "M",
+      "district": "Hautes-Alpes",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Artano, Mathieu",
+      "gender": "M",
+      "district": "Saint-Pierre-et-Miquelon",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Assassi, Eliane",
+      "gender": "F",
+      "district": "Seine-Saint-Denis",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Assouline, David",
+      "gender": "M",
+      "district": "Paris",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Babary, Serge",
+      "gender": "M",
+      "district": "Indre-et-Loire",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bacchiolelli, Jean-Michel",
+      "gender": "M",
+      "district": "Val-d'Oise",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bacci, Jean",
+      "gender": "M",
+      "district": "Var",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Baillet, Alexandra",
+      "gender": "F",
+      "district": "Nord",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bas, Philippe",
+      "gender": "M",
+      "district": "Manche",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bassar, Thani Mohamed",
+      "gender": "M",
+      "district": "Mayotte",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bazin, Arnaud",
+      "gender": "M",
+      "district": "Val-d'Oise",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Beaufils, Grégory",
+      "gender": "M",
+      "district": "Doubs",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Belin, Bruno",
+      "gender": "M",
+      "district": "Vienne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Belkhir, Audrey",
+      "gender": "F",
+      "district": "Loiret",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Belrhiti, Audrey",
+      "gender": "F",
+      "district": "Maine-et-Loire",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Benarroche, Guy",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bennis, Karim",
+      "gender": "M",
+      "district": "Français établis hors de France",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Berthet, Annick",
+      "gender": "F",
+      "district": "Savoie",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Billon, Annick",
+      "gender": "F",
+      "district": "Vendée",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bitz, Étienne",
+      "gender": "M",
+      "district": "Indre",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Blanc, Étienne",
+      "gender": "M",
+      "district": "Ain",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Blondin, Maryvonne",
+      "gender": "F",
+      "district": "Finistère",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bonne, François",
+      "gender": "M",
+      "district": "Charente",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bonnefoy, Nicole",
+      "gender": "F",
+      "district": "Charente",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bonneau, François",
+      "gender": "M",
+      "district": "Charente",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bonnu-Bodin, Valérie",
+      "gender": "F",
+      "district": "Loir-et-Cher",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bonnus, Céline",
+      "gender": "F",
+      "district": "Charente-Maritime",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bordes, Bernard",
+      "gender": "M",
+      "district": "Gers",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bouad, Denis",
+      "gender": "M",
+      "district": "Gard",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Boucault, Jean-Luc",
+      "gender": "M",
+      "district": "Pas-de-Calais",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bouchet, Cédric",
+      "gender": "M",
+      "district": "Loire-Atlantique",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Boul, Audrey",
+      "gender": "F",
+      "district": "Morbihan",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Boulay-Espéronnier, Céline",
+      "gender": "F",
+      "district": "Paris",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bourgi, Hussein",
+      "gender": "M",
+      "district": "Hérault",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bourgois, François",
+      "gender": "M",
+      "district": "Nord",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bourguignon, Isabelle",
+      "gender": "F",
+      "district": "Haute-Garonne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Boutant, Michel",
+      "gender": "M",
+      "district": "Charente",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Boutié, Rémi",
+      "gender": "M",
+      "district": "Val-de-Marne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bouvard, Valérie",
+      "gender": "F",
+      "district": "Savoie",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Boy, Ian",
+      "gender": "M",
+      "district": "Français établis hors de France",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Boyer, Valérie",
+      "gender": "F",
+      "district": "Bouches-du-Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Brès, Max",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Breton, Christian",
+      "gender": "M",
+      "district": "Ain",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Briquet, Maryse",
+      "gender": "F",
+      "district": "Haute-Vienne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Brisson, Max",
+      "gender": "M",
+      "district": "Pyrénées-Atlantiques",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Brochand, Laurent",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Brossat, Ian",
+      "gender": "M",
+      "district": "Paris",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bruges, Emmanuel",
+      "gender": "M",
+      "district": "Maine-et-Loire",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Brun, Aymeric",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bruneau, Laurent",
+      "gender": "M",
+      "district": "Charente",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Buffet, François-Noël",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Buval, Paul",
+      "gender": "M",
+      "district": "Loiret",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cabanal-Duvillard, Olivier",
+      "gender": "M",
+      "district": "Haute-Savoie",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cadec, Alain",
+      "gender": "M",
+      "district": "Côtes-d'Armor",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Calvet, François",
+      "gender": "M",
+      "district": "Pyrénées-Orientales",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cambon, Christian",
+      "gender": "M",
+      "district": "Val-de-Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Canal, Thierry",
+      "gender": "M",
+      "district": "Puy-de-Dôme",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Canayer, Jean-Pierre",
+      "gender": "M",
+      "district": "Hérault",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Capo-Canellas, Vincent",
+      "gender": "M",
+      "district": "Seine-Saint-Denis",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Capus, Jean-Gérard",
+      "gender": "M",
+      "district": "Maine-et-Loire",
+      "party": "LIRT",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cardon, Mathilde",
+      "gender": "F",
+      "district": "Val-d'Oise",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Carlin, Ghislaine",
+      "gender": "F",
+      "district": "Pas-de-Calais",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Carli, Cathy",
+      "gender": "F",
+      "district": "Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Caron, Jean-Noël",
+      "gender": "M",
+      "district": "Eure",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Carrère, Alain",
+      "gender": "M",
+      "district": "Hautes-Pyrénées",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cartron, Françoise",
+      "gender": "F",
+      "district": "Gironde",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cassé, Jean-Yves",
+      "gender": "M",
+      "district": "Yvelines",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Castaing, Patrice",
+      "gender": "M",
+      "district": "Haute-Garonne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cazabonne, Alain",
+      "gender": "M",
+      "district": "Gironde",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cazal, Michel",
+      "gender": "M",
+      "district": "Tarn-et-Garonne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cazeau, Michel",
+      "gender": "M",
+      "district": "Gironde",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cazebonne, Samantha",
+      "gender": "F",
+      "district": "Français établis hors de France",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Chabot, Gilbert-Luc",
+      "gender": "M",
+      "district": "Allier",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Chagnon, Patrick",
+      "gender": "M",
+      "district": "Nord",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Chaize, Patrick",
+      "gender": "M",
+      "district": "Ain",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Chain-Larché, Anne",
+      "gender": "F",
+      "district": "Seine-et-Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Champagne, Florence",
+      "gender": "F",
+      "district": "Orne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Chantrel, Hélène",
+      "gender": "F",
+      "district": "Français établis hors de France",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Charon, Pierre",
+      "gender": "M",
+      "district": "Paris",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Chasseing, Daniel",
+      "gender": "M",
+      "district": "Corrèze",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Chauvet, François",
+      "gender": "M",
+      "district": "Vendée",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Chevrollier, Guillaume",
+      "gender": "M",
+      "district": "Mayenne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Chiclet, Denis",
+      "gender": "M",
+      "district": "Meuse",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Chighine, Audrey",
+      "gender": "F",
+      "district": "Lot-et-Garonne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Chouat, Manuel",
+      "gender": "M",
+      "district": "Essonne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cigolotti, Olivier",
+      "gender": "M",
+      "district": "Haute-Loire",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cointat, Christian",
+      "gender": "M",
+      "district": "Français établis hors de France",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Collin, Cécile",
+      "gender": "F",
+      "district": "Haut-Rhin",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Colloric, Yvan",
+      "gender": "M",
+      "district": "Finistère",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Combette, Grégory",
+      "gender": "M",
+      "district": "Tarn",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Commeinhes, François",
+      "gender": "M",
+      "district": "Hérault",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Comptour, David",
+      "gender": "M",
+      "district": "Lot",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Constant, Marianne",
+      "gender": "F",
+      "district": "Puy-de-Dôme",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Conway-Mouret, Hélène",
+      "gender": "F",
+      "district": "Français établis hors de France",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Corbière, Alexis",
+      "gender": "M",
+      "district": "Seine-Saint-Denis",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cordelet, Jean-Pierre",
+      "gender": "M",
+      "district": "Mayenne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cornevin, Thomas",
+      "gender": "M",
+      "district": "Drôme",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Corvaisier, Chantal",
+      "gender": "F",
+      "district": "Cher",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Couderc, Jean-Claude",
+      "gender": "M",
+      "district": "Haute-Vienne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Coulonges, Cédric",
+      "gender": "M",
+      "district": "Tarn-et-Garonne",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Courtial, Edouard",
+      "gender": "M",
+      "district": "Oise",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Courtial, Édouard",
+      "gender": "M",
+      "district": "Oise",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Craynest, Corinne",
+      "gender": "F",
+      "district": "Nord",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cuypers, Amel",
+      "gender": "F",
+      "district": "Hauts-de-Seine",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Da Silva, Rémi",
+      "gender": "M",
+      "district": "Val-d'Oise",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dacbert, Blandine",
+      "gender": "F",
+      "district": "Pas-de-Calais",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dages, Christian",
+      "gender": "M",
+      "district": "Landes",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dahyot, Yannick",
+      "gender": "M",
+      "district": "Manche",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Darnaud, Mathieu",
+      "gender": "M",
+      "district": "Ardèche",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Datt, Patricia",
+      "gender": "F",
+      "district": "Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Daubresse, Marc-Philippe",
+      "gender": "M",
+      "district": "Nord",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dauchy, Anaïs",
+      "gender": "F",
+      "district": "Seine-et-Marne",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Daudigny, Annie",
+      "gender": "F",
+      "district": "Aisne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "de Cacqueray, Laure",
+      "gender": "F",
+      "district": "Yvelines",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "de La Verpillière, Charles",
+      "gender": "M",
+      "district": "Ain",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "de Legge, Dominique",
+      "gender": "M",
+      "district": "Ille-et-Vilaine",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Delebarre, Michel",
+      "gender": "M",
+      "district": "Nord",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Delfraissy, Jean-François",
+      "gender": "M",
+      "district": "Val-de-Marne",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Delpon, Corinne",
+      "gender": "F",
+      "district": "Lot",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Demilly, Stéphane",
+      "gender": "M",
+      "district": "Somme",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Démoulin, Thierry",
+      "gender": "M",
+      "district": "Haute-Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dennemont, Viviane",
+      "gender": "F",
+      "district": "La Réunion",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Deprez, Valérie",
+      "gender": "F",
+      "district": "Val-d'Oise",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Deromedi, Olivier",
+      "gender": "M",
+      "district": "Français établis hors de France",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Derom-Rogier, Anne-Sophie",
+      "gender": "F",
+      "district": "Oise",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Deroziers, Nicolas",
+      "gender": "M",
+      "district": "Aisne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Deseyne, Catherine",
+      "gender": "F",
+      "district": "Seine-Maritime",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Desmarescaux, Jean-Pierre",
+      "gender": "M",
+      "district": "Nord",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dessigny, Aymeric",
+      "gender": "M",
+      "district": "Aisne",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Destans, Michel",
+      "gender": "M",
+      "district": "Eure",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Détraigne, Yves",
+      "gender": "M",
+      "district": "Marne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Devedjian, Patrick",
+      "gender": "M",
+      "district": "Hauts-de-Seine",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Di Folco, Catherine",
+      "gender": "F",
+      "district": "Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Didier, Michel",
+      "gender": "M",
+      "district": "Vosges",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dini, Muguette",
+      "gender": "F",
+      "district": "Rhône",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dindar, Nassimah",
+      "gender": "F",
+      "district": "La Réunion",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dinić, Adeline",
+      "gender": "F",
+      "district": "Savoie",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dion, Pierre-Jean",
+      "gender": "M",
+      "district": "Loiret",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dionis du Séjour, Jean",
+      "gender": "M",
+      "district": "Lot-et-Garonne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Doisy, Jean-Pierre",
+      "gender": "M",
+      "district": "Aisne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Donio, Christelle",
+      "gender": "F",
+      "district": "Moselle",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Doressom, Thomas",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dossus, Thomas",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Doucet, Denis",
+      "gender": "M",
+      "district": "Indre",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Drean, Franck",
+      "gender": "M",
+      "district": "Mayenne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dreux, Jocelyne",
+      "gender": "F",
+      "district": "Yvelines",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dreyfus-Schmidt, Michel",
+      "gender": "M",
+      "district": "Territoire de Belfort",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Drian, Patrick",
+      "gender": "M",
+      "district": "Morbihan",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dubreuil-Chambardel, Michèle",
+      "gender": "F",
+      "district": "Indre-et-Loire",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Duby-Muller, Virginie",
+      "gender": "F",
+      "district": "Haute-Savoie",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ducène, Michel",
+      "gender": "M",
+      "district": "Nord",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Duclay, Anne-Marie",
+      "gender": "F",
+      "district": "Saône-et-Loire",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ducongé, Jean-Jacques",
+      "gender": "M",
+      "district": "Gironde",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ducos, Laurence",
+      "gender": "F",
+      "district": "Pyrénées-Atlantiques",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dudicourt, Philippe",
+      "gender": "M",
+      "district": "Oise",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dufay, Corinne",
+      "gender": "F",
+      "district": "Nord",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dufaut, Alain",
+      "gender": "M",
+      "district": "Vaucluse",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dufourg, Anne-Catherine",
+      "gender": "F",
+      "district": "Gironde",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dugoin-Clément, Florence",
+      "gender": "F",
+      "district": "Essonne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dumas, Catherine",
+      "gender": "F",
+      "district": "Paris",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dumay, Vincent",
+      "gender": "M",
+      "district": "Yonne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dumont, Jean-Pierre",
+      "gender": "M",
+      "district": "Meuse",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dupont-Aignan, Nicolas",
+      "gender": "M",
+      "district": "Essonne",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Duport, Philippe",
+      "gender": "M",
+      "district": "Calvados",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Duran, Viviane",
+      "gender": "F",
+      "district": "Tarn",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Duret, Alain",
+      "gender": "M",
+      "district": "Eure-et-Loir",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Durieux, Olivier",
+      "gender": "M",
+      "district": "Nord",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Durivaux, Olivier",
+      "gender": "M",
+      "district": "Orne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Duthé, Martine",
+      "gender": "F",
+      "district": "Nord",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Duvic, Patrick",
+      "gender": "M",
+      "district": "Finistère",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "El Guerrab, M'jid",
+      "gender": "M",
+      "district": "Français établis hors de France",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "El Hairy, Sarah",
+      "gender": "F",
+      "district": "Loire-Atlantique",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Elias, Michel",
+      "gender": "M",
+      "district": "Maine-et-Loire",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Élizé, Louis-Daniel",
+      "gender": "M",
+      "district": "Martinique",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Elorri, Dominique",
+      "gender": "M",
+      "district": "Pyrénées-Atlantiques",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Eshlimann, Jean-François",
+      "gender": "M",
+      "district": "Yonne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Espinasse, Jean-Marc",
+      "gender": "M",
+      "district": "Var",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Estrosi, Jean-Pierre",
+      "gender": "M",
+      "district": "Alpes-Maritimes",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Euzet, Jean-Pierre",
+      "gender": "M",
+      "district": "Manche",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Even, Bernard",
+      "gender": "M",
+      "district": "Côtes-d'Armor",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Évrard, Jean-Luc",
+      "gender": "M",
+      "district": "Somme",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Fagnen, Corentin",
+      "gender": "M",
+      "district": "Seine-Saint-Denis",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Fargeot, Fabien",
+      "gender": "M",
+      "district": "Saône-et-Loire",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Fauconnier, Thierry",
+      "gender": "M",
+      "district": "Gard",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Féret, Amandine",
+      "gender": "F",
+      "district": "Pas-de-Calais",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Fergeau, Karine",
+      "gender": "F",
+      "district": "Loire-Atlantique",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Fernandez, Patricia",
+      "gender": "F",
+      "district": "Nord",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ferrand, Nathalie",
+      "gender": "F",
+      "district": "Ain",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ferrara, Philippe",
+      "gender": "M",
+      "district": "Var",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Finiels, Anne-Sophie",
+      "gender": "F",
+      "district": "Ille-et-Vilaine",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Flandre, Christophe",
+      "gender": "M",
+      "district": "Oise",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Flajolet, André",
+      "gender": "M",
+      "district": "Pas-de-Calais",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Fleury, Jean-Jacques",
+      "gender": "M",
+      "district": "Oise",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Fontaine, Martine",
+      "gender": "F",
+      "district": "Nord",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Forcieri, Annie",
+      "gender": "F",
+      "district": "Pas-de-Calais",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Forest, Bernard",
+      "gender": "M",
+      "district": "Loire",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Forget, Jean-Pierre",
+      "gender": "M",
+      "district": "Eure-et-Loir",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Fort, Philippe",
+      "gender": "M",
+      "district": "Val-de-Marne",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Fortassin, Alain",
+      "gender": "M",
+      "district": "Hautes-Pyrénées",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Fouché, Jean-Paul",
+      "gender": "M",
+      "district": "Vienne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Fourcade, Jean-Pierre",
+      "gender": "M",
+      "district": "Hauts-de-Seine",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Fournier, Jean-Paul",
+      "gender": "M",
+      "district": "Gard",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Frais, Denis",
+      "gender": "M",
+      "district": "Sarthe",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Frassa, Christophe-André",
+      "gender": "M",
+      "district": "Français établis hors de France",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Frinault, Jean-François",
+      "gender": "M",
+      "district": "Sarthe",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Fromentin, Laurence",
+      "gender": "F",
+      "district": "Doubs",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gacquerre, Jean-Pierre",
+      "gender": "M",
+      "district": "Pas-de-Calais",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gaillard, Jean-Noël",
+      "gender": "M",
+      "district": "Aube",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gall, Joël",
+      "gender": "M",
+      "district": "Alpes-Maritimes",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gallo, Hervé",
+      "gender": "M",
+      "district": "Côtes-d'Armor",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gatel, Françoise",
+      "gender": "F",
+      "district": "Ille-et-Vilaine",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gaudin, Jean-Claude",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gaultier, Philippe",
+      "gender": "M",
+      "district": "Cher",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gautier, Jacques",
+      "gender": "M",
+      "district": "Hauts-de-Seine",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gavonsky, Guy",
+      "gender": "M",
+      "district": "Nord",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gay, Fabien",
+      "gender": "M",
+      "district": "Seine-Saint-Denis",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Genet, Daniel",
+      "gender": "M",
+      "district": "Charente-Maritime",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gentelet, Jean-Louis",
+      "gender": "M",
+      "district": "Aisne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "George, Christian",
+      "gender": "M",
+      "district": "Nièvre",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Georges, Jean-Pierre",
+      "gender": "M",
+      "district": "Tarn",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gerbault, Thierry",
+      "gender": "M",
+      "district": "Indre-et-Loire",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gérin, Jacques",
+      "gender": "M",
+      "district": "Isère",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ghesquière, Évelyne",
+      "gender": "F",
+      "district": "Essonne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gillet, Charles",
+      "gender": "M",
+      "district": "Indre-et-Loire",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gillot, Jean-Patrick",
+      "gender": "M",
+      "district": "Nord",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gingène, Valérie",
+      "gender": "F",
+      "district": "Val-d'Oise",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Giorgis, Michel",
+      "gender": "M",
+      "district": "Var",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Godon, Vincent",
+      "gender": "M",
+      "district": "Yonne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gontard, Guillaume",
+      "gender": "M",
+      "district": "Isère",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gorodine, Alix",
+      "gender": "F",
+      "district": "Seine-et-Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Goulet, Nathalie",
+      "gender": "F",
+      "district": "Orne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gourault, Jacqueline",
+      "gender": "F",
+      "district": "Loir-et-Cher",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gournac, Jean-François",
+      "gender": "M",
+      "district": "Yvelines",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gouttebel, Jean-Yves",
+      "gender": "M",
+      "district": "Puy-de-Dôme",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Grand, Laurent",
+      "gender": "M",
+      "district": "Bas-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Grignon, Francis",
+      "gender": "M",
+      "district": "Bas-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Griset, Elisabeth",
+      "gender": "F",
+      "district": "Nord",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Grosdidier, François",
+      "gender": "M",
+      "district": "Moselle",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Grosperrin, Jacques",
+      "gender": "M",
+      "district": "Doubs",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Grouard, Serge",
+      "gender": "M",
+      "district": "Loiret",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Guégan, Annie",
+      "gender": "F",
+      "district": "Côtes-d'Armor",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Guéret, Robert",
+      "gender": "M",
+      "district": "Vendée",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Guerrand, Grégory",
+      "gender": "M",
+      "district": "Haute-Savoie",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Guerrini, Françoise",
+      "gender": "F",
+      "district": "Var",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Guillaume, Christian",
+      "gender": "M",
+      "district": "Haute-Marne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Guillaume, Michèle",
+      "gender": "F",
+      "district": "Hautes-Alpes",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Guillotin, Olivier",
+      "gender": "M",
+      "district": "Loire-Atlantique",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Guiol, Cécile",
+      "gender": "F",
+      "district": "Hauts-de-Seine",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Guirois, Patrick",
+      "gender": "M",
+      "district": "Essonne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Guirold-Vinet, Anne-Laure",
+      "gender": "F",
+      "district": "Charente-Maritime",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Guy, Michel",
+      "gender": "M",
+      "district": "Ain",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Haddad, Karim",
+      "gender": "M",
+      "district": "Paris",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Haenel, Hubert",
+      "gender": "M",
+      "district": "Haut-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Hagobian, Alain",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Hamon, Joël",
+      "gender": "M",
+      "district": "Côtes-d'Armor",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Havet, Jean-François",
+      "gender": "M",
+      "district": "Pas-de-Calais",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Henno, Olivier",
+      "gender": "M",
+      "district": "Nord",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Henry, Jean-Michel",
+      "gender": "M",
+      "district": "Vosges",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Herth, Antoine",
+      "gender": "M",
+      "district": "Bas-Rhin",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Herzog, Christine",
+      "gender": "F",
+      "district": "Moselle",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Heulot, Patrice",
+      "gender": "M",
+      "district": "Côtes-d'Armor",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Hingray, Daniel",
+      "gender": "M",
+      "district": "Vosges",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Houpert, Alain",
+      "gender": "M",
+      "district": "Côte-d'Or",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Houques-Dado, Anne",
+      "gender": "F",
+      "district": "Tarn-et-Garonne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Houllegatte, Jean-Michel",
+      "gender": "M",
+      "district": "Manche",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Hubert, Louis-Jean",
+      "gender": "M",
+      "district": "Ardennes",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Hugonet, Jean-Raymond",
+      "gender": "M",
+      "district": "Essonne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Humbel, Christian",
+      "gender": "M",
+      "district": "Haut-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Husson, Jean-François",
+      "gender": "M",
+      "district": "Meurthe-et-Moselle",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Iacovelli, Xavier",
+      "gender": "M",
+      "district": "Hauts-de-Seine",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Iborra, Monique",
+      "gender": "F",
+      "district": "Haute-Garonne",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jacquemet, Christian",
+      "gender": "M",
+      "district": "Doubs",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jacques, Ghislaine",
+      "gender": "F",
+      "district": "Yonne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jacquin, Patrick",
+      "gender": "M",
+      "district": "Meurthe-et-Moselle",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jalkh, Jean-François",
+      "gender": "M",
+      "district": "Seine-et-Marne",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jan, Paul",
+      "gender": "M",
+      "district": "Nord",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Janssens, François",
+      "gender": "M",
+      "district": "Ardèche",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jarrot, Marie-Claude",
+      "gender": "F",
+      "district": "Saône-et-Loire",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jasmin, Victorin",
+      "gender": "M",
+      "district": "Guadeloupe",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Joissains, Alain",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jouanno, Chantal",
+      "gender": "F",
+      "district": "Paris",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jourda, Muriel",
+      "gender": "F",
+      "district": "Morbihan",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jouve, Jean-Marc",
+      "gender": "M",
+      "district": "Hérault",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jouvet, David",
+      "gender": "M",
+      "district": "Doubs",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Joyandet, Alain",
+      "gender": "M",
+      "district": "Haute-Saône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Kaddour, Reda",
+      "gender": "M",
+      "district": "Val-d'Oise",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Kalandra, Georges",
+      "gender": "M",
+      "district": "Wallis et Futuna",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Kaltenbach, Philippe",
+      "gender": "M",
+      "district": "Hauts-de-Seine",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Karam, Auguste",
+      "gender": "M",
+      "district": "Guyane",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Karamanli, Marietta",
+      "gender": "F",
+      "district": "Sarthe",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Klinger, Daniel",
+      "gender": "M",
+      "district": "Bas-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Labbé, Daniel",
+      "gender": "M",
+      "district": "Calvados",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Laclais, Dominique",
+      "gender": "F",
+      "district": "Savoie",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lafon, Jean-Jacques",
+      "gender": "M",
+      "district": "Tarn",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lafond, Cédric",
+      "gender": "M",
+      "district": "Savoie",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lafont, Henri",
+      "gender": "M",
+      "district": "Loire-Atlantique",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lafourcade, Olivier",
+      "gender": "M",
+      "district": "Gironde",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lagarde, Jean-Christophe",
+      "gender": "M",
+      "district": "Seine-Saint-Denis",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lagourgue, Michel",
+      "gender": "M",
+      "district": "La Réunion",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lagrange, Jean-François",
+      "gender": "M",
+      "district": "Gers",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lahellec, Gérard",
+      "gender": "M",
+      "district": "Côtes-d'Armor",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lamant, Pierre",
+      "gender": "M",
+      "district": "Ardennes",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lamarque, Philippe",
+      "gender": "M",
+      "district": "Landes",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Larcher, Gérard",
+      "gender": "M",
+      "district": "Yvelines",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Larrivé, Guillaume",
+      "gender": "M",
+      "district": "Yonne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lassalle, Jean",
+      "gender": "M",
+      "district": "Pyrénées-Atlantiques",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Laurence, Françoise",
+      "gender": "F",
+      "district": "Ille-et-Vilaine",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lauvergeon, Anne",
+      "gender": "F",
+      "district": "Paris",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lauvergne, Thierry",
+      "gender": "M",
+      "district": "Nièvre",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lavaud, Thierry",
+      "gender": "M",
+      "district": "Haute-Vienne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lavenn, Sébastien",
+      "gender": "M",
+      "district": "Morbihan",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Le Bodo, Marie-Josée",
+      "gender": "F",
+      "district": "Morbihan",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Le Bouillonnec, Daniel",
+      "gender": "M",
+      "district": "Val-de-Marne",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Le Drian, Jean-Yves",
+      "gender": "M",
+      "district": "Morbihan",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Le Gleut, Ronan",
+      "gender": "M",
+      "district": "Français établis hors de France",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Le Houerou, Annie",
+      "gender": "F",
+      "district": "Côtes-d'Armor",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Le Nay, Jacques",
+      "gender": "M",
+      "district": "Morbihan",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Le Pen, Marine",
+      "gender": "F",
+      "district": "Pas-de-Calais",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Le Rudulier, Stéphane",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lebon, Audrey",
+      "gender": "F",
+      "district": "La Réunion",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lecas, Gérald",
+      "gender": "M",
+      "district": "Seine-Maritime",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lecerf, Jean-René",
+      "gender": "M",
+      "district": "Nord",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lefèvre, Antoine",
+      "gender": "M",
+      "district": "Aisne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lelièvre, Thierry",
+      "gender": "M",
+      "district": "Cher",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lelong, Jean-Claude",
+      "gender": "M",
+      "district": "Haute-Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lemoyne, Jean-Baptiste",
+      "gender": "M",
+      "district": "Yonne",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Léonhardt, Brigitte",
+      "gender": "F",
+      "district": "Meurthe-et-Moselle",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lepeletier, Anne",
+      "gender": "F",
+      "district": "Loire-Atlantique",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lepetit, Jean-Claude",
+      "gender": "M",
+      "district": "Manche",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Leroy, Philippe",
+      "gender": "M",
+      "district": "Moselle",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Létard, Valérie",
+      "gender": "F",
+      "district": "Nord",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Levi, David",
+      "gender": "M",
+      "district": "Territoire de Belfort",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lévêque, Jean-Marie",
+      "gender": "M",
+      "district": "Nièvre",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lignières-Cassou, Martine",
+      "gender": "F",
+      "district": "Pyrénées-Atlantiques",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Limet, Grégory",
+      "gender": "M",
+      "district": "Oise",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Limouzin, Jean-Louis",
+      "gender": "M",
+      "district": "Vienne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Longeot, Jean-François",
+      "gender": "M",
+      "district": "Doubs",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lopez, Viviane",
+      "gender": "F",
+      "district": "Gironde",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Loquier, Philippe",
+      "gender": "M",
+      "district": "Calvados",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Louault, Jean-Marie",
+      "gender": "M",
+      "district": "Indre-et-Loire",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Luberne, Frédéric",
+      "gender": "M",
+      "district": "Gironde",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Madelin, Alain",
+      "gender": "M",
+      "district": "Ille-et-Vilaine",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Madrelle, Philippe",
+      "gender": "M",
+      "district": "Gironde",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Magner, Éric",
+      "gender": "M",
+      "district": "Puy-de-Dôme",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Magras, Michel",
+      "gender": "M",
+      "district": "Saint-Barthélemy",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mahieu, Hervé",
+      "gender": "M",
+      "district": "Nord",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Maillat, Jean-François",
+      "gender": "M",
+      "district": "Haut-Rhin",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Maire, Jacques-Bernard",
+      "gender": "M",
+      "district": "Nord",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Malvy, Martin",
+      "gender": "M",
+      "district": "Lot",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mamet, Jean-Claude",
+      "gender": "M",
+      "district": "Haute-Saône",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mancel, Jean-Pierre",
+      "gender": "M",
+      "district": "Oise",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mandelli, Didier",
+      "gender": "M",
+      "district": "Vendée",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Manet, Jean-Pierre",
+      "gender": "M",
+      "district": "Orne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Manier, Hervé",
+      "gender": "M",
+      "district": "Pas-de-Calais",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mansat, Éric",
+      "gender": "M",
+      "district": "Tarn",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Marc, Alain",
+      "gender": "M",
+      "district": "Aveyron",
+      "party": "LIRT",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Marcangeli, Laurent",
+      "gender": "M",
+      "district": "Corse-du-Sud",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Marchand, Philippe",
+      "gender": "M",
+      "district": "Charente-Maritime",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Marchandeau, Jean-Philippe",
+      "gender": "M",
+      "district": "Val-de-Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mareschal, Cédric",
+      "gender": "M",
+      "district": "Haute-Saône",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Margotton, Hervé",
+      "gender": "M",
+      "district": "Loire",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Marie, Pascal",
+      "gender": "M",
+      "district": "Calvados",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Marion, Hervé",
+      "gender": "M",
+      "district": "Maine-et-Loire",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Marleix, Olivier",
+      "gender": "M",
+      "district": "Eure-et-Loir",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Marsaud, Jean-Louis",
+      "gender": "M",
+      "district": "Charente-Maritime",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Marsin, Jacques",
+      "gender": "M",
+      "district": "Pas-de-Calais",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Martial, Jean-Luc",
+      "gender": "M",
+      "district": "Lot-et-Garonne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Martin, Alain",
+      "gender": "M",
+      "district": "Yvelines",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Martin, Hervé",
+      "gender": "M",
+      "district": "Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Martin, Jacques",
+      "gender": "M",
+      "district": "Gironde",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Martinez, Jean-Louis",
+      "gender": "M",
+      "district": "Gard",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mary, Pierre",
+      "gender": "M",
+      "district": "Nièvre",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mas, Damien",
+      "gender": "M",
+      "district": "Sarthe",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Massé, Jacques",
+      "gender": "M",
+      "district": "Vendée",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Masseret, Jean-Pierre",
+      "gender": "M",
+      "district": "Moselle",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Masson, Jean Louis",
+      "gender": "M",
+      "district": "Moselle",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Masse, Philippe",
+      "gender": "M",
+      "district": "Nièvre",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mauffrey, Jean-François",
+      "gender": "M",
+      "district": "Jura",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mauro, Pierre",
+      "gender": "M",
+      "district": "Nord",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Maurey, Hervé",
+      "gender": "M",
+      "district": "Eure",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mazzoleni, Hervé",
+      "gender": "M",
+      "district": "Haute-Saône",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mazzoni, Jean-Marie",
+      "gender": "M",
+      "district": "Indre-et-Loire",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Médevielle, Alain",
+      "gender": "M",
+      "district": "Haute-Garonne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mégret, Bruno",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mélenchon, Jean-Luc",
+      "gender": "M",
+      "district": "Essonne",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Menant, Cyrille",
+      "gender": "M",
+      "district": "Calvados",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ménard, Robert",
+      "gender": "M",
+      "district": "Hérault",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mercier, Michel",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mestre, Philippe",
+      "gender": "M",
+      "district": "Vendée",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Meunier, Laurent",
+      "gender": "M",
+      "district": "Haute-Vienne",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Meyer, Claude",
+      "gender": "M",
+      "district": "Haut-Rhin",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Meyzenc, Jean-Pierre",
+      "gender": "M",
+      "district": "Drôme",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Michau, Claude",
+      "gender": "M",
+      "district": "Indre",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Michaud, Jean-Louis",
+      "gender": "M",
+      "district": "Deux-Sèvres",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Michaux, Marie-Sophie",
+      "gender": "F",
+      "district": "Pas-de-Calais",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Michel-Paul, Antoine",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Miclo, Stéphane",
+      "gender": "M",
+      "district": "Hautes-Pyrénées",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mifsud, Pierre",
+      "gender": "M",
+      "district": "Drôme",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mignola, Philippe",
+      "gender": "M",
+      "district": "Savoie",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Miguet, Nicolas",
+      "gender": "M",
+      "district": "Paris",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Milon, Alain",
+      "gender": "M",
+      "district": "Vaucluse",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mizzon, Jean-Marie",
+      "gender": "M",
+      "district": "Moselle",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mohamed, Abdallah",
+      "gender": "M",
+      "district": "Mayotte",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Moinet, Jean-Pierre",
+      "gender": "M",
+      "district": "Deux-Sèvres",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Molinarie, Alain",
+      "gender": "M",
+      "district": "Lot-et-Garonne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mompeou, David",
+      "gender": "M",
+      "district": "Haute-Garonne",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Monestier, Jean-Paul",
+      "gender": "M",
+      "district": "Puy-de-Dôme",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Montaugé, Franck",
+      "gender": "M",
+      "district": "Gers",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Monteil, Jean-Marc",
+      "gender": "M",
+      "district": "Creuse",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Monteiro, Adelino",
+      "gender": "M",
+      "district": "Val-de-Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Morel, Jean-Baptiste",
+      "gender": "M",
+      "district": "Jura",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Morel-Darleux, Corinne",
+      "gender": "F",
+      "district": "Drôme",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Moreno, Jean-François",
+      "gender": "M",
+      "district": "Nièvre",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Morin, Hervé",
+      "gender": "M",
+      "district": "Eure",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Morisset, Patrick",
+      "gender": "M",
+      "district": "Seine-Maritime",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Morvan, Claude",
+      "gender": "M",
+      "district": "Côtes-d'Armor",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mouiller, Philippe",
+      "gender": "M",
+      "district": "Deux-Sèvres",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Moulins, Eric",
+      "gender": "M",
+      "district": "Drôme",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Moureau, Alain",
+      "gender": "M",
+      "district": "Creuse",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mournet, Jean-Michel",
+      "gender": "M",
+      "district": "Lot-et-Garonne",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mouton, Jean",
+      "gender": "M",
+      "district": "Drôme",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Muller, Jean-Pierre",
+      "gender": "M",
+      "district": "Val-d'Oise",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Muller-Bronn, Laurence",
+      "gender": "F",
+      "district": "Bas-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mure-Ravaud, Mathilde",
+      "gender": "F",
+      "district": "Rhône",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Négron, Jean-Louis",
+      "gender": "M",
+      "district": "Maine-et-Loire",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Nehlig, Laurent",
+      "gender": "M",
+      "district": "Haut-Rhin",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Néri, Alain",
+      "gender": "M",
+      "district": "Puy-de-Dôme",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Neumann, Denis",
+      "gender": "M",
+      "district": "Bas-Rhin",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Nicolin, Yves",
+      "gender": "M",
+      "district": "Loire",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Nivet, Philippe",
+      "gender": "M",
+      "district": "Indre-et-Loire",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Noël, Jean-Marc",
+      "gender": "M",
+      "district": "Calvados",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Nogal, Mickaël",
+      "gender": "M",
+      "district": "Haute-Garonne",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Nogueira, Marie-Madeleine",
+      "gender": "F",
+      "district": "Essonne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Noirot, Marie-Thérèse",
+      "gender": "F",
+      "district": "Vosges",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Notebaert, Jean-Pierre",
+      "gender": "M",
+      "district": "Nord",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Nougein, Claude",
+      "gender": "M",
+      "district": "Corrèze",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ollivier, Paul",
+      "gender": "M",
+      "district": "Finistère",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Omes, Géraldine",
+      "gender": "F",
+      "district": "Nord",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Paccaud, Sylviane",
+      "gender": "F",
+      "district": "Saône-et-Loire",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pacchiano-Lemoine, Marie-Christine",
+      "gender": "F",
+      "district": "Val-de-Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pachet, Frédéric",
+      "gender": "M",
+      "district": "Seine-et-Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pannier, Denis",
+      "gender": "M",
+      "district": "Pas-de-Calais",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Panunzi, José",
+      "gender": "M",
+      "district": "Corse-du-Sud",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Parmentier, Olivier",
+      "gender": "M",
+      "district": "Nord",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Patriat, François",
+      "gender": "M",
+      "district": "Côte-d'Or",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Paul, Daniel",
+      "gender": "M",
+      "district": "Seine-Maritime",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pau-Langevin, George",
+      "gender": "F",
+      "district": "Paris",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Payet, Michel",
+      "gender": "M",
+      "district": "La Réunion",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pellevat, Cyril",
+      "gender": "M",
+      "district": "Haute-Savoie",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pelleter, Jean-Claude",
+      "gender": "M",
+      "district": "Meurthe-et-Moselle",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pelletier, Évelyne",
+      "gender": "F",
+      "district": "Meurthe-et-Moselle",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Perben, Dominique",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Percheron, Daniel",
+      "gender": "M",
+      "district": "Pas-de-Calais",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pérès, Jean-Luc",
+      "gender": "M",
+      "district": "Hautes-Pyrénées",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pérol-Dumont, Marie-Françoise",
+      "gender": "F",
+      "district": "Haute-Vienne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Perrault, Jean-Louis",
+      "gender": "M",
+      "district": "Deux-Sèvres",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Perrot, Philippe",
+      "gender": "M",
+      "district": "Aube",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Petit, Frédéric",
+      "gender": "M",
+      "district": "Français établis hors de France",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Petton, Jean-Yves",
+      "gender": "M",
+      "district": "Ille-et-Vilaine",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Peyronnet, Jean-Claude",
+      "gender": "M",
+      "district": "Haute-Vienne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Peyrony, Bernard",
+      "gender": "M",
+      "district": "Dordogne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pezin, Philippe",
+      "gender": "M",
+      "district": "Pas-de-Calais",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Philippot, Florian",
+      "gender": "M",
+      "district": "Moselle",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pialoux, Damien",
+      "gender": "M",
+      "district": "Sarthe",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Picard, Fabien",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Picard, Jean-Pierre",
+      "gender": "M",
+      "district": "Saône-et-Loire",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Picart, Claude",
+      "gender": "M",
+      "district": "Oise",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Piedvache, Stéphane",
+      "gender": "M",
+      "district": "Maine-et-Loire",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pierret, Christian",
+      "gender": "M",
+      "district": "Vosges",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pillon, Michel",
+      "gender": "M",
+      "district": "Orne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pilsi, Roland",
+      "gender": "M",
+      "district": "Territoire de Belfort",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pin, Patricia",
+      "gender": "F",
+      "district": "Nord",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pinta, Jean-Claude",
+      "gender": "M",
+      "district": "Loire",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pintat, Xavier",
+      "gender": "M",
+      "district": "Gironde",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pintor, Sébastien",
+      "gender": "M",
+      "district": "Pyrénées-Orientales",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pinton, Jean-François",
+      "gender": "M",
+      "district": "Jura",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Piron, Jean-François",
+      "gender": "M",
+      "district": "Loire-Atlantique",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Plaisait, Jean-François",
+      "gender": "M",
+      "district": "Eure-et-Loir",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Plancade, Jean-Pierre",
+      "gender": "M",
+      "district": "Haute-Garonne",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Poignant, Bernard",
+      "gender": "M",
+      "district": "Finistère",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pointereau, Rémy",
+      "gender": "M",
+      "district": "Cher",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Poirier, Ladislas",
+      "gender": "M",
+      "district": "Seine-Maritime",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Poisson, Jean-Frédéric",
+      "gender": "M",
+      "district": "Yvelines",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Poletti, Bérengère",
+      "gender": "F",
+      "district": "Ardennes",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ponia, Christophe",
+      "gender": "M",
+      "district": "Nouvelle-Calédonie",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pons, Bernard",
+      "gender": "M",
+      "district": "Paris",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Porte, Didier",
+      "gender": "M",
+      "district": "Gard",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Portelli, Hugues",
+      "gender": "M",
+      "district": "Val-d'Oise",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Poulain, Guy-Dominique",
+      "gender": "M",
+      "district": "Eure",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Poulot, Christian",
+      "gender": "M",
+      "district": "Jura",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pourcher, Bernard",
+      "gender": "M",
+      "district": "Lozère",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pozzo di Borgo, Yves",
+      "gender": "M",
+      "district": "Paris",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Prache, Daniel",
+      "gender": "M",
+      "district": "Yvelines",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Préel, Jean-Luc",
+      "gender": "M",
+      "district": "Vendée",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Préfol, Matthieu",
+      "gender": "M",
+      "district": "Seine-et-Marne",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Primature, Jean-Marc",
+      "gender": "M",
+      "district": "Indre",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Prince, Gilbert",
+      "gender": "M",
+      "district": "Sarthe",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Priou, Christophe",
+      "gender": "M",
+      "district": "Loire-Atlantique",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Procaccia, Catherine",
+      "gender": "F",
+      "district": "Val-de-Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Proust, Patrice",
+      "gender": "M",
+      "district": "Deux-Sèvres",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Puissat, Michel",
+      "gender": "M",
+      "district": "Isère",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pusset, Michel",
+      "gender": "M",
+      "district": "Val-de-Marne",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Puy, Michel",
+      "gender": "M",
+      "district": "Ardèche",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Queyranne, Jean-Jack",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Racaud, Daniel",
+      "gender": "M",
+      "district": "Charente-Maritime",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Raffin, Jean-François",
+      "gender": "M",
+      "district": "Savoie",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Raffarin, Jean-Pierre",
+      "gender": "M",
+      "district": "Vienne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rageul, Dominique",
+      "gender": "M",
+      "district": "Ille-et-Vilaine",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Raher, Laurent",
+      "gender": "M",
+      "district": "Moselle",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Raisson, Michel",
+      "gender": "M",
+      "district": "Haute-Savoie",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ravier, Stéphane",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Raynal, Alain",
+      "gender": "M",
+      "district": "Puy-de-Dôme",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Redon-Sarrazy, Isabelle",
+      "gender": "F",
+      "district": "Haute-Vienne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Reichardt, Frédéric",
+      "gender": "M",
+      "district": "Bas-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Reiss, Frédéric",
+      "gender": "M",
+      "district": "Bas-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Renard, Alain",
+      "gender": "M",
+      "district": "Nièvre",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Renaud-Garabedian, Évelyne",
+      "gender": "F",
+      "district": "Français établis hors de France",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Renavand, Marc-Antoine",
+      "gender": "M",
+      "district": "Paris",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Retailleau, Bruno",
+      "gender": "M",
+      "district": "Vendée",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Revêt, Charles",
+      "gender": "M",
+      "district": "Seine-Maritime",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Revol, Henri",
+      "gender": "M",
+      "district": "Côte-d'Or",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ricaud, Didier",
+      "gender": "M",
+      "district": "Loiret",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Richard, Alain",
+      "gender": "M",
+      "district": "Val-d'Oise",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Richard, Dominique",
+      "gender": "F",
+      "district": "Maine-et-Loire",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Richefou, Olivier",
+      "gender": "M",
+      "district": "Mayenne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Richelet, Marc",
+      "gender": "M",
+      "district": "Meuse",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ricord, Jean-Paul",
+      "gender": "M",
+      "district": "Alpes-de-Haute-Provence",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Riehl, Paul",
+      "gender": "M",
+      "district": "Bas-Rhin",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ries, Roland",
+      "gender": "M",
+      "district": "Bas-Rhin",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Riocreux, Georges",
+      "gender": "M",
+      "district": "Guadeloupe",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ripoll, Philippe",
+      "gender": "M",
+      "district": "Côte-d'Or",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Riou, Alain",
+      "gender": "M",
+      "district": "Finistère",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Riou, Didier",
+      "gender": "M",
+      "district": "Finistère",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rioufol, Ivan",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ritz, Gilbert",
+      "gender": "M",
+      "district": "Haute-Saône",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rivière, Jean-Luc",
+      "gender": "M",
+      "district": "Tarn",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rivoisy, Jean-Louis",
+      "gender": "M",
+      "district": "Cher",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Robert, Jean-Claude",
+      "gender": "M",
+      "district": "Val-de-Marne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Robert, Thierry",
+      "gender": "M",
+      "district": "La Réunion",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Robin, Jean-Marie",
+      "gender": "M",
+      "district": "Morbihan",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Roccard, Jean-Michel",
+      "gender": "M",
+      "district": "Yvelines",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rochette, Michel",
+      "gender": "M",
+      "district": "Loire",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Roger, Gilbert",
+      "gender": "M",
+      "district": "Seine-Saint-Denis",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Roiron, Karine",
+      "gender": "F",
+      "district": "Vienne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Roland, Yves-Daniel",
+      "gender": "M",
+      "district": "Loire-Atlantique",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rollin, Jean-Pierre",
+      "gender": "M",
+      "district": "Eure",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Romani, Roger",
+      "gender": "M",
+      "district": "Paris",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rome, Bernard",
+      "gender": "M",
+      "district": "Oise",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rossinot, André",
+      "gender": "M",
+      "district": "Meurthe-et-Moselle",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rottner, Jean",
+      "gender": "M",
+      "district": "Haut-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rouas, Alain",
+      "gender": "M",
+      "district": "Gironde",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Roubaud, Jean-Marc",
+      "gender": "M",
+      "district": "Gard",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Roujas, Simon",
+      "gender": "M",
+      "district": "Haute-Garonne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rousset, Alain",
+      "gender": "M",
+      "district": "Gironde",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Roux, Christian",
+      "gender": "M",
+      "district": "Vaucluse",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Roy, Jean-Yves",
+      "gender": "M",
+      "district": "Indre-et-Loire",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Saad, Omar",
+      "gender": "M",
+      "district": "Val-d'Oise",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sabatier, Florence",
+      "gender": "F",
+      "district": "Ardèche",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Saglio, Francis",
+      "gender": "M",
+      "district": "Bas-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Saint-Léger, Dominique",
+      "gender": "M",
+      "district": "Meuse",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Salles, Rudy",
+      "gender": "M",
+      "district": "Alpes-Maritimes",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Salmon, Jean-Pierre",
+      "gender": "M",
+      "district": "Marne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Salvador, Gilbert",
+      "gender": "M",
+      "district": "Meurthe-et-Moselle",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sandri, Daniel",
+      "gender": "M",
+      "district": "Nord",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sarkozy, Nicolas",
+      "gender": "M",
+      "district": "Paris",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sartori, Christian",
+      "gender": "M",
+      "district": "Loire-Atlantique",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sassone, Claudine",
+      "gender": "F",
+      "district": "Essonne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Saugues, Alain",
+      "gender": "M",
+      "district": "Haute-Loire",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sauvadet, François",
+      "gender": "M",
+      "district": "Côte-d'Or",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sauvan, Gilbert",
+      "gender": "M",
+      "district": "Alpes-de-Haute-Provence",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Savary, Gilles",
+      "gender": "M",
+      "district": "Gironde",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Savin, Michel",
+      "gender": "M",
+      "district": "Isère",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Schalck, François",
+      "gender": "M",
+      "district": "Haut-Rhin",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Schillinger, Patricia",
+      "gender": "F",
+      "district": "Haut-Rhin",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Schosteck, Charles",
+      "gender": "M",
+      "district": "Hauts-de-Seine",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Schurch, Pierre",
+      "gender": "M",
+      "district": "Vienne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Schwab, Thomas",
+      "gender": "M",
+      "district": "Bas-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Schwander, Jean-Luc",
+      "gender": "M",
+      "district": "Haut-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Schwartzenberg, Roger-Gérard",
+      "gender": "M",
+      "district": "Val-de-Marne",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Schweitzer, Jean-Marc",
+      "gender": "M",
+      "district": "Bas-Rhin",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Scoffoni, Guy",
+      "gender": "M",
+      "district": "Val-de-Marne",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Seday, Philippe",
+      "gender": "M",
+      "district": "Guadeloupe",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Seguin, Philippe",
+      "gender": "M",
+      "district": "Vosges",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sido, Bruno",
+      "gender": "M",
+      "district": "Haute-Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sié, Jean-Michel",
+      "gender": "M",
+      "district": "Haute-Garonne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sollogoub, Nadia",
+      "gender": "F",
+      "district": "Nièvre",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Soltysiak, David",
+      "gender": "M",
+      "district": "Meurthe-et-Moselle",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sordi, Michel",
+      "gender": "M",
+      "district": "Haut-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Soriano, Jean-Paul",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Soulage, Bernard",
+      "gender": "M",
+      "district": "Isère",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Spagnou, Daniel",
+      "gender": "M",
+      "district": "Alpes-de-Haute-Provence",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Stablo, Robert",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Straumann, Eric",
+      "gender": "M",
+      "district": "Haut-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sturni, Bernard",
+      "gender": "M",
+      "district": "Haut-Rhin",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Suebling, Gérald",
+      "gender": "M",
+      "district": "Doubs",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Suepramanien, Éric",
+      "gender": "M",
+      "district": "La Réunion",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sueur, Jean-Pierre",
+      "gender": "M",
+      "district": "Loiret",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tajan, Viviane",
+      "gender": "F",
+      "district": "Hautes-Pyrénées",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Talon, Patrice",
+      "gender": "M",
+      "district": "Allier",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tambareau, Gauthier",
+      "gender": "M",
+      "district": "Val-d'Oise",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tapol, Joseph",
+      "gender": "M",
+      "district": "La Réunion",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tardy, Lionel",
+      "gender": "M",
+      "district": "Haute-Savoie",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Taubira, Christiane",
+      "gender": "F",
+      "district": "Guyane",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Taugourdeau, Jean-Charles",
+      "gender": "M",
+      "district": "Maine-et-Loire",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tax, Catherine",
+      "gender": "F",
+      "district": "Puy-de-Dôme",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tedeschi, Cécile",
+      "gender": "F",
+      "district": "Val-de-Marne",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Teissier, Guy",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Templier, Jean-Paul",
+      "gender": "M",
+      "district": "Haute-Marne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Termier, Guy",
+      "gender": "M",
+      "district": "Isère",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Terrade, Philippe",
+      "gender": "M",
+      "district": "Corrèze",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Terrasson, Jean-Louis",
+      "gender": "M",
+      "district": "Dordogne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tessier, François-Louis",
+      "gender": "M",
+      "district": "Indre-et-Loire",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Teston, Michel",
+      "gender": "M",
+      "district": "Ardèche",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tétart, Jean-Marie",
+      "gender": "M",
+      "district": "Yvelines",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Teychenné, Carole",
+      "gender": "F",
+      "district": "Ariège",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Thévenot, Jean-Paul",
+      "gender": "M",
+      "district": "Seine-et-Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Thiollière, Michel",
+      "gender": "M",
+      "district": "Loire",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Thomas, Jean-Claude",
+      "gender": "M",
+      "district": "Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Thomas, Pascal",
+      "gender": "M",
+      "district": "Calvados",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tissot, Michel",
+      "gender": "M",
+      "district": "Haute-Savoie",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Todeschini, Jean-Marc",
+      "gender": "M",
+      "district": "Moselle",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Touraine, Marisol",
+      "gender": "F",
+      "district": "Indre-et-Loire",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Touré, Alpha",
+      "gender": "M",
+      "district": "Français établis hors de France",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Touret, Jacky",
+      "gender": "M",
+      "district": "Loiret",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tournadre, Philippe",
+      "gender": "M",
+      "district": "Cantal",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tourret, Alain",
+      "gender": "M",
+      "district": "Calvados",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Toutut, Jean-Marc",
+      "gender": "M",
+      "district": "Haute-Garonne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Travert, Stéphane",
+      "gender": "M",
+      "district": "Manche",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tremolet, Guilhem",
+      "gender": "M",
+      "district": "Tarn-et-Garonne",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Trillard, Annick",
+      "gender": "F",
+      "district": "Loire-Atlantique",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Troadec, Paul",
+      "gender": "M",
+      "district": "Côtes-d'Armor",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Troallae, Joseph",
+      "gender": "M",
+      "district": "Finistère",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tron, Georges",
+      "gender": "M",
+      "district": "Essonne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Truchot, Catherine",
+      "gender": "F",
+      "district": "Jura",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Trucy, François",
+      "gender": "M",
+      "district": "Var",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Valente, Isabelle",
+      "gender": "F",
+      "district": "Val-d'Oise",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Valentin, Patrice",
+      "gender": "M",
+      "district": "Haute-Loire",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vallet, André",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Valletoux, Jean-François",
+      "gender": "M",
+      "district": "Seine-et-Marne",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vallini, André",
+      "gender": "M",
+      "district": "Isère",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Valls, Manuel",
+      "gender": "M",
+      "district": "Essonne",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Van-Hoorne, Michel",
+      "gender": "M",
+      "district": "Nord",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vandoorne, Patrice",
+      "gender": "M",
+      "district": "Nord",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Varennes, Isabelle",
+      "gender": "F",
+      "district": "Creuse",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Varin, Philippe",
+      "gender": "M",
+      "district": "Manche",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vassal, Martine",
+      "gender": "F",
+      "district": "Bouches-du-Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vasselle, François",
+      "gender": "M",
+      "district": "Oise",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vauclare, Jean-Pierre",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vauzelle, Michel",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vedovato, Claude",
+      "gender": "M",
+      "district": "Haute-Garonne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Venant, Jean-Pierre",
+      "gender": "M",
+      "district": "Seine-et-Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Verchère, Patrice",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Verdier, Jean-Pierre",
+      "gender": "M",
+      "district": "Corrèze",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vergès, Paul",
+      "gender": "M",
+      "district": "La Réunion",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vergnaud, Bernadette",
+      "gender": "F",
+      "district": "Charente",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vergniol, Catherine",
+      "gender": "F",
+      "district": "Dordogne",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vernier, Jean-Paul",
+      "gender": "M",
+      "district": "Hauts-de-Seine",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vial, Jean-Claude",
+      "gender": "M",
+      "district": "Loire",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Viala, Arnaud",
+      "gender": "M",
+      "district": "Aveyron",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vialatte, Jean-Sébastien",
+      "gender": "M",
+      "district": "Var",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Viatte, Jean-Paul",
+      "gender": "M",
+      "district": "Territoire de Belfort",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vichnievsky, Laurence",
+      "gender": "F",
+      "district": "Puy-de-Dôme",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vidal, Christian",
+      "gender": "M",
+      "district": "Hérault",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vignal, Patrick",
+      "gender": "M",
+      "district": "Hérault",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vigier, Jean-Pierre",
+      "gender": "M",
+      "district": "Haute-Loire",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vigouroux, Robert",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "RDSE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Villa, Dominique",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Villani, Cédric",
+      "gender": "M",
+      "district": "Essonne",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Villiers, Philippe de",
+      "gender": "M",
+      "district": "Vendée",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vincendet, Jean-Christophe",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vincent, Michel",
+      "gender": "M",
+      "district": "Loire",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Viry, Stéphane",
+      "gender": "M",
+      "district": "Vosges",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vitel, Philippe",
+      "gender": "M",
+      "district": "Var",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vlody, Jean-Jacques",
+      "gender": "M",
+      "district": "La Réunion",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vogel, Mélanie",
+      "gender": "F",
+      "district": "Français établis hors de France",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vuibert, Arnaud",
+      "gender": "M",
+      "district": "Ardennes",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vuillet, Jean",
+      "gender": "M",
+      "district": "Haute-Savoie",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vuong, Frédéric",
+      "gender": "M",
+      "district": "Français établis hors de France",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Wagon, Jean-Marc",
+      "gender": "M",
+      "district": "Nord",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Wallart, Jean-Louis",
+      "gender": "M",
+      "district": "Pas-de-Calais",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Wauquiez, Laurent",
+      "gender": "M",
+      "district": "Haute-Loire",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Weber, Louis",
+      "gender": "M",
+      "district": "Moselle",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Weil, Jean-Luc",
+      "gender": "M",
+      "district": "Bas-Rhin",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Weisbecker, Jean-Michel",
+      "gender": "M",
+      "district": "Seine-et-Marne",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Weiten, Patrick",
+      "gender": "M",
+      "district": "Moselle",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Wojciechowski, Christian",
+      "gender": "M",
+      "district": "Marne",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Youssouffa, Saïd",
+      "gender": "M",
+      "district": "Mayotte",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Zemmour, Éric",
+      "gender": "M",
+      "district": "Var",
+      "party": "RASNAG",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Zimmermann, Marie-Jo",
+      "gender": "F",
+      "district": "Moselle",
+      "party": "REP",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Zocchetto, François",
+      "gender": "M",
+      "district": "Mayenne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Zulesi, Jean-Marc",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "RDPI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    }
+  ],
   "officials": [],
   "parties": {
     "FP": {
