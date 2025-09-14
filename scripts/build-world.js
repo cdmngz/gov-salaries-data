@@ -60,9 +60,8 @@ function buildWorldEntry(dataPath, ratesPath, worldRates, prevCountryEntry) {
     worldRates
   );
 
-  const minSalaryLocal = rates.minAnnualSalary;
-  const MinAnnualSalary = amountToUSDInteger(
-    minSalaryLocal,
+  const minAnnualSalary = amountToUSDInteger(
+    rates.minAnnualSalary,
     localCurrency,
     worldRates
   );
@@ -73,20 +72,20 @@ function buildWorldEntry(dataPath, ratesPath, worldRates, prevCountryEntry) {
   const GDPPerCapitaGrowthYoY = prevCountryEntry
     ? pctGrowth(GDPPerCapita, prevCountryEntry.GDPPerCapita)
     : null;
-  const MinAnnualSalaryGrowthYoY = prevCountryEntry
-    ? pctGrowth(MinAnnualSalary, prevCountryEntry.MinAnnualSalary)
+  const minAnnualSalaryGrowthYoY = prevCountryEntry
+    ? pctGrowth(minAnnualSalary, prevCountryEntry.minAnnualSalary)
     : null;
 
-  const MinistersBudgetPctOfGDP = safePct(ministersBudget, GDP);
+  const ministersBudgetPctOfGDP = safePct(ministersBudget, GDP);
 
   return {
     GDP,
     GDPPerCapita,
     GDPGrowthYoY,
     GDPPerCapitaGrowthYoY,
-    MinAnnualSalary,
-    MinAnnualSalaryGrowthYoY,
-    MinistersBudgetPctOfGDP,
+    minAnnualSalary: minAnnualSalary,
+    minAnnualSalaryGrowthYoY: minAnnualSalaryGrowthYoY,
+    ministersBudgetPctOfGDP: ministersBudgetPctOfGDP,
     ministers: { quantity: ministersArr.length, budget: ministersBudget },
     deputies: { quantity: deputiesArr.length },
     senate: { quantity: senateArr.length },

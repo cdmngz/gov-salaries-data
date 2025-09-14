@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: Government salary API
-  version: 1.0.0
+  version: 1.1.0
 
 tags:
   - name: Country
@@ -78,7 +78,7 @@ paths:
   /data/{code}/index.json:
     get:
       tags: [Country]
-      summary: Get list of availables years
+      summary: Get list of available years for a country
       parameters:
         - name: code
           in: path
@@ -88,13 +88,6 @@ paths:
             type: string
             pattern: "^[A-Za-z]{2}$"
             example: us
-        - name: year
-          in: path
-          required: true
-          description: Calendar year of the data.
-          schema:
-            type: integer
-            example: 2025
       responses:
         "200":
           description: OK
@@ -108,23 +101,7 @@ paths:
   /data/index.json:
     get:
       tags: [Country]
-      summary: Get list of availables countries by years
-      parameters:
-        - name: code
-          in: path
-          required: true
-          description: ISO country code (alpha-2).
-          schema:
-            type: string
-            pattern: "^[A-Za-z]{2}$"
-            example: us
-        - name: year
-          in: path
-          required: true
-          description: Calendar year of the data.
-          schema:
-            type: integer
-            example: 2025
+      summary: Get list of available countries by years
       responses:
         "200":
           description: OK
@@ -138,15 +115,7 @@ paths:
   /data/world/index.json:
     get:
       tags: [World]
-      summary: Get list of availables years
-      parameters:
-        - name: year
-          in: path
-          required: true
-          description: Calendar year of the data
-          schema:
-            type: integer
-            example: 2025
+      summary: Get list of available years (world)
       responses:
         "200":
           description: OK
@@ -162,14 +131,6 @@ paths:
       tags: [World]
       summary: Get full countries data by year
       parameters:
-        - name: code
-          in: path
-          required: true
-          description: ISO country code (alpha-2).
-          schema:
-            type: string
-            pattern: "^[A-Za-z]{2}$"
-            example: us
         - name: year
           in: path
           required: true
@@ -192,14 +153,6 @@ paths:
       tags: [World]
       summary: Get world rates by year
       parameters:
-        - name: code
-          in: path
-          required: true
-          description: ISO country code (alpha-2).
-          schema:
-            type: string
-            pattern: "^[A-Za-z]{2}$"
-            example: us
         - name: year
           in: path
           required: true
@@ -250,7 +203,7 @@ components:
 
     Rates:
       type: object
-      description: Snapshot of currency exchange rates and GDP for a given base currency.
+      description: Snapshot of currency exchange rates and macro figures for the base currency.
       properties:
         baseCurrency:
           type: string
@@ -259,11 +212,11 @@ components:
           example: USD
         GDP:
           type: number
-          description: Nominal GDP (last full year) of the base currency's economy.
+          description: Nominal GDP (last full year) for the base economy.
           example: 1230000000000
         GDPPerCapita:
           type: number
-          description: Nominal GDP per capita (last full year) of the base currency's economy.
+          description: Nominal GDP per capita (last full year).
         minAnnualSalary:
           type: number
           description: Nominal gross minimum annual salary amount in the base currency's economy.
@@ -330,24 +283,44 @@ components:
       properties:
         GDP:
           type: number
-          description: Nominal GDP (units per your data source, e.g., USD).
+          description: Nominal GDP converted to USD (per builder output).
           minimum: 0
         GDPPerCapita:
           type: number
-          description: Nominal GDP per capita (same currency convention as GDP).
+          description: Nominal GDP per capita converted to USD.
           minimum: 0
+        GDPGrowthYoY:
+          type: number
+          nullable: true
+          description: Year-over-year growth of GDP (percent).
+          example: 2.34
+        GDPPerCapitaGrowthYoY:
+          type: number
+          nullable: true
+          description: Year-over-year growth of GDP per capita (percent).
+          example: 1.12
         minAnnualSalary:
           type: number
-          description: Nominal gross minimum annual salary amount (same currency convention as GDP).
+          description: Minimum annual salary converted to USD.
           minimum: 0
           example: 15000
+        minAnnualSalaryGrowthYoY:
+          type: number
+          nullable: true
+          description: Year-over-year growth of minimum annual salary (percent).
+          example: 3.2
+        ministersBudgetPctOfGDP:
+          type: number
+          nullable: true
+          description: Ministerial budget as a percentage of GDP.
+          example: 0.87
         ministers:
           $ref: "#/components/schemas/MinistersBlock"
         deputies:
           $ref: "#/components/schemas/ChamberBlock"
         senate:
           $ref: "#/components/schemas/ChamberBlock"
-      required: [GDP, ministers, deputies, senate]
+      required: [GDP, GDPPerCapita, ministers, deputies, senate]
       additionalProperties: false
 
     MinistersBlock:
@@ -360,7 +333,7 @@ components:
         budget:
           type: number
           minimum: 0
-          description: Annual ministerial budget.
+          description: Annual ministerial budget converted to USD.
       required: [quantity, budget]
       additionalProperties: false
 
@@ -529,14 +502,22 @@ components:
         ar:
           GDP: 633270000000
           GDPPerCapita: 14235
+          GDPGrowthYoY: 1.8
+          GDPPerCapitaGrowthYoY: 0.9
           minAnnualSalary: 15000
+          minAnnualSalaryGrowthYoY: 2.1
+          ministersBudgetPctOfGDP: 0.85
           ministers: { quantity: 7, budget: 22561000000 }
           deputies: { quantity: 257 }
           senate: { quantity: 72 }
         es:
           GDP: 1749040659341
           GDPPerCapita: 37121
+          GDPGrowthYoY: 2.2
+          GDPPerCapitaGrowthYoY: 1.0
           minAnnualSalary: 22000
+          minAnnualSalaryGrowthYoY: 3.5
+          ministersBudgetPctOfGDP: 1.12
           ministers: { quantity: 22, budget: 190880197802 }
           deputies: { quantity: 348 }
           senate: { quantity: 265 }
