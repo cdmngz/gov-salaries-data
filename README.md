@@ -54,7 +54,7 @@ Each dataset is organized by:
 - 🇦🇷 Argentina (`/ar`)
 - 🇫🇷 France (`/fr`)
 - 🇩🇪 Germany (`/de`)
-- 🇳🇴 Nepal (`/np`)
+- 🇳🇵 Nepal (`/np`)
 - 🇳🇴 Norway (`/no`)
 - 🇷🇺 Russia (`/ru`)
 - 🇪🇸 Spain (`/es`)
