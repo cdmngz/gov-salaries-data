@@ -53,8 +53,12 @@ Each dataset is organized by:
 
 - 🇦🇷 Argentina (`/ar`)
 - 🇫🇷 France (`/fr`)
+- 🇪🇪 Estonia (`/ee`)
 - 🇩🇪 Germany (`/de`)
+- 🇱🇮 Liechtenstein (`/li`)
+- 🇱🇺 Luxembourg (`/lu`)
 - 🇳🇵 Nepal (`/np`)
+- 🇲🇨 Monaco (`/mo`)
 - 🇳🇴 Norway (`/no`)
 - 🇷🇺 Russia (`/ru`)
 - 🇪🇸 Spain (`/es`)
