@@ -37,6 +37,25 @@
       "quantity": 69
     }
   },
+  "ee": {
+    "GDP": 49450549451,
+    "GDPPerCapita": 36000,
+    "GDPGrowthYoY": null,
+    "GDPPerCapitaGrowthYoY": null,
+    "minAnnualSalary": 11684,
+    "minAnnualSalaryGrowthYoY": null,
+    "ministersBudgetPctOfGDP": 0,
+    "ministers": {
+      "quantity": 12,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 101
+    },
+    "senate": {
+      "quantity": 0
+    }
+  },
   "es": {
     "GDP": 1505494505495,
     "GDPPerCapita": 31387,
@@ -89,6 +108,25 @@
     },
     "deputies": {
       "quantity": 0
+    },
+    "senate": {
+      "quantity": 0
+    }
+  },
+  "lu": {
+    "GDP": 131868131868,
+    "GDPPerCapita": 98681,
+    "GDPGrowthYoY": null,
+    "GDPPerCapitaGrowthYoY": null,
+    "minAnnualSalary": 35657,
+    "minAnnualSalaryGrowthYoY": null,
+    "ministersBudgetPctOfGDP": 0,
+    "ministers": {
+      "quantity": 13,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 60
     },
     "senate": {
       "quantity": 0
