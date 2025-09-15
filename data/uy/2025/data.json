@@ -278,26 +278,6 @@
   ],
   "senate": [
     {
-      "name": "Nicolás Viera",
-      "gender": "M",
-      "party": "FA",
-      "district": "Nacional",
-      "salary": {
-        "gross": 92172,
-        "net": null
-      }
-    },
-    {
-      "name": "Blanca Rodríguez",
-      "gender": "F",
-      "party": "FA",
-      "district": "Nacional",
-      "salary": {
-        "gross": 92172,
-        "net": null
-      }
-    },
-    {
       "name": "Patricia Kramer",
       "gender": "F",
       "party": "FA",
@@ -309,16 +289,6 @@
     },
     {
       "name": "Daniel Caggiani",
-      "gender": "M",
-      "party": "FA",
-      "district": "Nacional",
-      "salary": {
-        "gross": 92172,
-        "net": null
-      }
-    },
-    {
-      "name": "Pedro Irigoin",
       "gender": "M",
       "party": "FA",
       "district": "Nacional",
@@ -348,27 +318,7 @@
       }
     },
     {
-      "name": "Eduardo Antonini",
-      "gender": "M",
-      "party": "FA",
-      "district": "Nacional",
-      "salary": {
-        "gross": 92172,
-        "net": null
-      }
-    },
-    {
       "name": "Aníbal Pereyra",
-      "gender": "M",
-      "party": "FA",
-      "district": "Nacional",
-      "salary": {
-        "gross": 92172,
-        "net": null
-      }
-    },
-    {
-      "name": "Mario Bergara",
       "gender": "M",
       "party": "FA",
       "district": "Nacional",
@@ -427,13 +377,6 @@
       "salary": { "gross": 113868, "net": null }
     },
     {
-      "name": "Daniel Caggiani",
-      "gender": "M",
-      "party": "FA",
-      "district": "Nacional",
-      "salary": { "gross": 113868, "net": null }
-    },
-    {
       "name": "Felipe Carballo Da Costa",
       "gender": "M",
       "party": "FA",
@@ -444,14 +387,6 @@
       "name": "Sebastián Da Silva",
       "gender": "M",
       "party": "PN",
-      "district": "Nacional",
-      "salary": { "gross": 113868, "net": null }
-    },
-
-    {
-      "name": "Bettiana Díaz",
-      "gender": "F",
-      "party": "FA",
       "district": "Nacional",
       "salary": { "gross": 113868, "net": null }
     },
@@ -620,13 +555,6 @@
       "salary": { "gross": null, "net": null }
     },
     {
-      "name": "Eduardo Antonini",
-      "gender": "M",
-      "party": "FA",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
       "name": "Tatiana Antúnez",
       "gender": "F",
       "party": "FA",
@@ -735,42 +663,35 @@
       "name": "Alejandro Sánchez",
       "gender": "M",
       "party": "FA",
-      "district": null,
       "salary": { "gross": null, "net": null }
     },
     {
       "name": "Diego Reyes",
       "gender": "M",
       "party": "PN",
-      "district": null,
       "salary": { "gross": null, "net": null }
     },
     {
       "name": "Silvana Pérez Bonavita",
       "gender": "F",
-      "party": "Cabildo Abierto",
-      "district": null,
+      "party": "CA",
       "salary": { "gross": null, "net": null }
     },
     {
       "name": "Marcos Pugliese",
       "gender": "M",
       "party": "PC",
-      "district": null,
       "salary": { "gross": null, "net": null }
     },
     {
       "name": "Nicolás Viera",
       "gender": "M",
       "party": "FA",
-      "district": null,
       "salary": { "gross": null, "net": null }
     },
     {
       "name": "Iván Posada",
       "gender": "M",
-      "party": "Partido Independiente",
-      "district": null,
       "salary": { "gross": null, "net": null }
     },
     {
@@ -784,13 +705,6 @@
       "name": "Felipe Schipani",
       "gender": "M",
       "party": "PC",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Gustavo Olmos",
-      "gender": "M",
-      "party": "FA",
       "district": null,
       "salary": { "gross": null, "net": null }
     },
@@ -826,34 +740,6 @@
       "name": "Mario Ayala",
       "gender": "M",
       "party": "PN",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Cecilia Bottino",
-      "gender": "F",
-      "party": "FA",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Ruben Bacigalupe",
-      "gender": "M",
-      "party": "PN",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Ope Pasquet",
-      "gender": "M",
-      "party": "PC",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Mónica Xavier",
-      "gender": "F",
-      "party": "FA",
       "district": null,
       "salary": { "gross": null, "net": null }
     },
@@ -1026,13 +912,6 @@
       "salary": { "gross": null, "net": null }
     },
     {
-      "name": "Enzo Malán",
-      "gender": "M",
-      "party": "FA",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
       "name": "Nancy Núñez",
       "gender": "F",
       "party": "PN",
@@ -1166,13 +1045,6 @@
       "salary": { "gross": null, "net": null }
     },
     {
-      "name": "Alfonso Lereté",
-      "gender": "M",
-      "party": "PN",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
       "name": "Graciela Bianchi",
       "gender": "F",
       "party": "PN",
@@ -1204,42 +1076,12 @@
       "name": "Ope Pasquet",
       "gender": "M",
       "party": "PC",
-      "district": null,
       "salary": { "gross": null, "net": null }
     },
     {
       "name": "Mónica Xavier",
       "gender": "F",
       "party": "FA",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Enzo Malán",
-      "gender": "M",
-      "party": "FA",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Graciela Matiaude",
-      "gender": "F",
-      "party": "PN",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Richard Charamelo",
-      "gender": "M",
-      "party": "PN",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Mario Ayala",
-      "gender": "M",
-      "party": "PN",
-      "district": null,
       "salary": { "gross": null, "net": null }
     },
     {
@@ -1248,44 +1090,15 @@
       "party": "FA",
       "district": null,
       "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Juan Martín Rodríguez",
-      "gender": "M",
-      "party": "PN",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "María José Olivera",
-      "gender": "F",
-      "party": "PN",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Darío Pérez",
-      "gender": "M",
-      "party": "FA",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Carmen Asiaín",
-      "gender": "F",
-      "party": "PN",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Mario García",
-      "gender": "M",
-      "party": "PN",
-      "district": null,
-      "salary": { "gross": null, "net": null }
     }
   ],
   "parties": {
+    "CA": {
+      "name": "Cabildo Abierto",
+      "en": "Open Cabildo",
+      "range": 5,
+      "color": "#f8b617"
+    },
     "FA": {
       "name": "Frente Amplio",
       "en": "Broad Front",
