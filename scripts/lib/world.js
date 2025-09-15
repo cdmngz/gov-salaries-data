@@ -11,7 +11,7 @@ const {
   toNumber,
   amountToUSDInteger,
 } = require("../lib/io");
-const { countPartyRanges } = require("./stats");
+const { countPartyRanges, countPartyRangesSplit } = require("./stats");
 
 const dataDir = path.join(__dirname, "..", "..", "data");
 const worldDir = path.join(dataDir, "world");
@@ -34,8 +34,8 @@ function buildWorldEntry(dataPath, ratesPath, worldRates, prevCountryEntry) {
   const data = readJSON(dataPath) || {};
   const rates = readJSON(ratesPath) || {};
 
-  // NEW: party range popularity (handles optional party safely)
   const partyRangeStats = countPartyRanges(data);
+  const partyRangeStatsSplit = countPartyRangesSplit(data);
 
   const ministersArr = Array.isArray(data.ministers) ? data.ministers : [];
   const deputiesArr = Array.isArray(data.deputies) ? data.deputies : [];
@@ -93,9 +93,8 @@ function buildWorldEntry(dataPath, ratesPath, worldRates, prevCountryEntry) {
     ministers: { quantity: ministersArr.length, budget: ministersBudget },
     deputies: { quantity: deputiesArr.length },
     senate: { quantity: senateArr.length },
-
-    // NEW
     partyRangeStats,
+    partyRangeStatsSplit,
   };
 }
 
