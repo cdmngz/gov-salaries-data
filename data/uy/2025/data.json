@@ -1,0 +1,1314 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Yamandú Orsi",
+      "gender": "M",
+      "role": "President",
+      "party": "FA",
+      "salary": {
+        "gross": 124068,
+        "net": null
+      }
+    },
+    {
+      "name": "Vice President of Uruguay",
+      "gender": "F",
+      "role": "Vice President",
+      "party": "FA",
+      "salary": {
+        "gross": 108000,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Gabriel Oddone",
+      "gender": "M",
+      "role": "Minister of Economy and Finance",
+      "party": "FA",
+      "salary": { "gross": 104460 },
+      "budget": 249342210,
+      "sources": [
+        {
+          "Appointment": "https://www.montevideo.com.uy/Noticias/Uno-por-uno--quienes-son-los-ministros-y-subsecretarios-del-gabinete-de-Yamandu-Orsi--uc909628"
+        },
+        { "Minister pay (UYU/mo)": 382150 },
+        { "FX Jan-2025 UYU/USD (interbank)": 43.9 },
+        {
+          "Budget 2025 (Tomo III, Cuadro 1)": "https://www.frenteamplio.uy/wp-content/uploads/Tomo-III.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Mario Lubetkin",
+      "gender": "M",
+      "role": "Minister of Foreign Relations",
+      "party": "FA",
+      "salary": { "gross": 104460 },
+      "budget": 97544715,
+      "sources": [
+        {
+          "Appointment": "https://www.montevideo.com.uy/Noticias/Uno-por-uno--quienes-son-los-ministros-y-subsecretarios-del-gabinete-de-Yamandu-Orsi--uc909628"
+        },
+        { "Minister pay (UYU/mo)": 382150 },
+        { "FX Jan-2025 UYU/USD (interbank)": 43.9 },
+        {
+          "Budget 2025 (Tomo III, Cuadro 1)": "https://www.frenteamplio.uy/wp-content/uploads/Tomo-III.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Carlos Negro",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "FA",
+      "salary": { "gross": 104460 },
+      "budget": 1195234282,
+      "sources": [
+        {
+          "Appointment": "https://www.montevideo.com.uy/Noticias/Uno-por-uno--quienes-son-los-ministros-y-subsecretarios-del-gabinete-de-Yamandu-Orsi--uc909628"
+        },
+        { "Minister pay (UYU/mo)": 382150 },
+        { "FX Jan-2025 UYU/USD (interbank)": 43.9 },
+        {
+          "Budget 2025 (Tomo III, Cuadro 1)": "https://www.frenteamplio.uy/wp-content/uploads/Tomo-III.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Sandra Lazo",
+      "gender": "F",
+      "role": "Minister of National Defense",
+      "party": "FA",
+      "salary": { "gross": 104460 },
+      "budget": 821636150,
+      "sources": [
+        {
+          "Appointment": "https://www.montevideo.com.uy/Noticias/Uno-por-uno--quienes-son-los-ministros-y-subsecretarios-del-gabinete-de-Yamandu-Orsi--uc909628"
+        },
+        { "Minister pay (UYU/mo)": 382150 },
+        { "FX Jan-2025 UYU/USD (interbank)": 43.9 },
+        {
+          "Budget 2025 (Tomo III, Cuadro 1)": "https://www.frenteamplio.uy/wp-content/uploads/Tomo-III.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Alfredo Fratti",
+      "gender": "M",
+      "role": "Minister of Livestock, Agriculture and Fisheries",
+      "party": "FA",
+      "salary": { "gross": 104460 },
+      "budget": 139280478,
+      "sources": [
+        {
+          "Appointment": "https://www.montevideo.com.uy/Noticias/Uno-por-uno--quienes-son-los-ministros-y-subsecretarios-del-gabinete-de-Yamandu-Orsi--uc909628"
+        },
+        { "Minister pay (UYU/mo)": 382150 },
+        { "FX Jan-2025 UYU/USD (interbank)": 43.9 },
+        {
+          "Budget 2025 (Tomo III, Cuadro 1)": "https://www.frenteamplio.uy/wp-content/uploads/Tomo-III.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Fernanda Cardona",
+      "gender": "F",
+      "role": "Minister of Industry, Energy and Mining",
+      "party": "FA",
+      "salary": { "gross": 104460 },
+      "budget": 38323030,
+      "sources": [
+        {
+          "Appointment": "https://www.montevideo.com.uy/Noticias/Uno-por-uno--quienes-son-los-ministros-y-subsecretarios-del-gabinete-de-Yamandu-Orsi--uc909628"
+        },
+        { "Minister pay (UYU/mo)": 382150 },
+        { "FX Jan-2025 UYU/USD (interbank)": 43.9 },
+        {
+          "Budget 2025 (Tomo III, Cuadro 1)": "https://www.frenteamplio.uy/wp-content/uploads/Tomo-III.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Pablo Menoni",
+      "gender": "M",
+      "role": "Minister of Tourism",
+      "party": "FA",
+      "salary": { "gross": 104460 },
+      "budget": 18217836,
+      "sources": [
+        {
+          "Appointment": "https://www.montevideo.com.uy/Noticias/Uno-por-uno--quienes-son-los-ministros-y-subsecretarios-del-gabinete-de-Yamandu-Orsi--uc909628"
+        },
+        { "Minister pay (UYU/mo)": 382150 },
+        { "FX Jan-2025 UYU/USD (interbank)": 43.9 },
+        {
+          "Budget 2025 (Tomo III, Cuadro 1)": "https://www.frenteamplio.uy/wp-content/uploads/Tomo-III.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Lucía Etcheverry",
+      "gender": "F",
+      "role": "Minister of Transport and Public Works",
+      "party": "FA",
+      "salary": { "gross": 104460 },
+      "budget": 419152392,
+      "sources": [
+        {
+          "Appointment": "https://www.gub.uy/presidencia/comunicacion/noticias/presidente-yamandu-orsi-impuso-ministros-otros-jerarcas-sus-cargos"
+        },
+        { "Minister pay (UYU/mo)": 382150 },
+        { "FX Jan-2025 UYU/USD (interbank)": 43.9 },
+        {
+          "Budget 2025 (Tomo III, Cuadro 1)": "https://www.frenteamplio.uy/wp-content/uploads/Tomo-III.pdf"
+        }
+      ]
+    },
+    {
+      "name": "José Carlos Mahía",
+      "gender": "M",
+      "role": "Minister of Education and Culture",
+      "party": "FA",
+      "salary": { "gross": 104460 },
+      "budget": 157197995,
+      "sources": [
+        {
+          "Appointment": "https://www.montevideo.com.uy/Noticias/Uno-por-uno--quienes-son-los-ministros-y-subsecretarios-del-gabinete-de-Yamandu-Orsi--uc909628"
+        },
+        { "Minister pay (UYU/mo)": 382150 },
+        { "FX Jan-2025 UYU/USD (interbank)": 43.9 },
+        {
+          "Budget 2025 (Tomo III, Cuadro 1)": "https://www.frenteamplio.uy/wp-content/uploads/Tomo-III.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Cristina Lustemberg",
+      "gender": "F",
+      "role": "Minister of Public Health",
+      "party": "FA",
+      "salary": { "gross": 104460 },
+      "budget": 130883599,
+      "sources": [
+        {
+          "Appointment": "https://www.montevideo.com.uy/Noticias/Uno-por-uno--quienes-son-los-ministros-y-subsecretarios-del-gabinete-de-Yamandu-Orsi--uc909628"
+        },
+        { "Minister pay (UYU/mo)": 382150 },
+        { "FX Jan-2025 UYU/USD (interbank)": 43.9 },
+        {
+          "Budget 2025 (Tomo III, Cuadro 1)": "https://www.frenteamplio.uy/wp-content/uploads/Tomo-III.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Juan Castillo",
+      "gender": "M",
+      "role": "Minister of Labour and Social Security",
+      "party": "FA",
+      "salary": { "gross": 104460 },
+      "budget": 42158770,
+      "sources": [
+        {
+          "Appointment": "https://www.montevideo.com.uy/Noticias/Uno-por-uno--quienes-son-los-ministros-y-subsecretarios-del-gabinete-de-Yamandu-Orsi--uc909628"
+        },
+        { "Minister pay (UYU/mo)": 382150 },
+        { "FX Jan-2025 UYU/USD (interbank)": 43.9 },
+        {
+          "Budget 2025 (Tomo III, Cuadro 1)": "https://www.frenteamplio.uy/wp-content/uploads/Tomo-III.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Cecilia Cairo",
+      "gender": "F",
+      "role": "Minister of Housing and Territorial Planning",
+      "party": "FA",
+      "salary": { "gross": 104460 },
+      "budget": 270809226,
+      "sources": [
+        {
+          "Appointment": "https://www.nodal.am/2024/12/uruguay-yamandu-orsi-presento-su-gabinete-y-hablo-de-la-paridad-es-la-que-se-pudo-lograr-de-acuerdo-a-las-propuestas/"
+        },
+        { "Minister pay (UYU/mo)": 382150 },
+        { "FX Jan-2025 UYU/USD (interbank)": 43.9 },
+        {
+          "Budget 2025 (Tomo III, Cuadro 1)": "https://www.frenteamplio.uy/wp-content/uploads/Tomo-III.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Gonzalo Civila",
+      "gender": "M",
+      "role": "Minister of Social Development",
+      "party": "FA",
+      "salary": { "gross": 104460 },
+      "budget": 575875399,
+      "sources": [
+        {
+          "Appointment": "https://www.montevideo.com.uy/Noticias/Uno-por-uno--quienes-son-los-ministros-y-subsecretarios-del-gabinete-de-Yamandu-Orsi--uc909628"
+        },
+        { "Minister pay (UYU/mo)": 382150 },
+        { "FX Jan-2025 UYU/USD (interbank)": 43.9 },
+        {
+          "Budget 2025 (Tomo III, Cuadro 1)": "https://www.frenteamplio.uy/wp-content/uploads/Tomo-III.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Edgardo Ortuño",
+      "gender": "M",
+      "role": "Minister of Environment",
+      "party": "FA",
+      "salary": { "gross": 104460 },
+      "budget": 28436925,
+      "sources": [
+        {
+          "Appointment": "https://www.gub.uy/ministerio-ambiente/comunicacion/noticias/edgardo-ortuno-es-nuevo-ministro-ambiente"
+        },
+        { "Minister pay (UYU/mo)": 382150 },
+        { "FX Jan-2025 UYU/USD (interbank)": 43.9 },
+        {
+          "Budget 2025 (Tomo III, Cuadro 1)": "https://www.frenteamplio.uy/wp-content/uploads/Tomo-III.pdf"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Nicolás Viera",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": {
+        "gross": 92172,
+        "net": null
+      }
+    },
+    {
+      "name": "Blanca Rodríguez",
+      "gender": "F",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": {
+        "gross": 92172,
+        "net": null
+      }
+    },
+    {
+      "name": "Patricia Kramer",
+      "gender": "F",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": {
+        "gross": 92172,
+        "net": null
+      }
+    },
+    {
+      "name": "Daniel Caggiani",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": {
+        "gross": 92172,
+        "net": null
+      }
+    },
+    {
+      "name": "Pedro Irigoin",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": {
+        "gross": 92172,
+        "net": null
+      }
+    },
+    {
+      "name": "Sebastián Sabini",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": {
+        "gross": 92172,
+        "net": null
+      }
+    },
+    {
+      "name": "Bettiana Díaz",
+      "gender": "F",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": {
+        "gross": 92172,
+        "net": null
+      }
+    },
+    {
+      "name": "Eduardo Antonini",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": {
+        "gross": 92172,
+        "net": null
+      }
+    },
+    {
+      "name": "Aníbal Pereyra",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": {
+        "gross": 92172,
+        "net": null
+      }
+    },
+    {
+      "name": "Mario Bergara",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": {
+        "gross": 92172,
+        "net": null
+      }
+    },
+    {
+      "name": "Oscar Andrade",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Eduardo Antonini",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Graciela Bianchi",
+      "gender": "F",
+      "party": "PN",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Daniel Borbonet",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Juan Pedro Bordaberry Herrán",
+      "gender": "M",
+      "party": "PC",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Sergio Botana",
+      "gender": "M",
+      "party": "PN",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Eduardo Brenta Badano",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Daniel Caggiani",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Felipe Carballo Da Costa",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Sebastián Da Silva",
+      "gender": "M",
+      "party": "PN",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+
+    {
+      "name": "Bettiana Díaz",
+      "gender": "F",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "José Luis Falero",
+      "gender": "M",
+      "party": "PN",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Zulimar Ferreira Rodríguez",
+      "gender": "F",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Javier Gandolfo",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Javier García",
+      "gender": "M",
+      "party": "PN",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Gustavo González",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Luis Alberto Heber",
+      "gender": "M",
+      "party": "PN",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Liliam Kechichian",
+      "gender": "F",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Patricia Kramer",
+      "gender": "F",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Martín Lema",
+      "gender": "M",
+      "party": "PN",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+
+    {
+      "name": "Carlos Moreira",
+      "gender": "M",
+      "party": "PN",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Constanza Moreira",
+      "gender": "F",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Andrés Ojeda",
+      "gender": "M",
+      "party": "PC",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Aníbal Pereyra",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Blanca Rodríguez González",
+      "gender": "F",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Sebastián Sabini",
+      "gender": "M",
+      "party": "FA",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Robert Silva",
+      "gender": "M",
+      "party": "PC",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Carmen Niria Tort González",
+      "gender": "F",
+      "party": "PN",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Tabaré Viera Duarte",
+      "gender": "M",
+      "party": "PC",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    },
+    {
+      "name": "Gustavo Zubía",
+      "gender": "M",
+      "party": "PC",
+      "district": "Nacional",
+      "salary": { "gross": 113868, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Carlos Gabriel Albisu Emed",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Víctor Martín Aldaya González",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Fernando Amado",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Sebastián Andújar",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Eduardo Antonini",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Tatiana Antúnez",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mary Araújo",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yisela Araújo",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "María Fernanda Auersperg Kosenkov",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Graciela Haydée Barrera Malrechauffe",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Rodrigo Blás",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Miriam Jacqueline Britos Alegre",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Cecilia Cairo",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Susana Camarán",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Maximiliano Campo Silveira",
+      "gender": "M",
+      "party": "PC",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Elianne Elizabeth Castro Pisciottano",
+      "gender": "F",
+      "party": "PC",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Walter Cervini",
+      "gender": "M",
+      "party": "PC",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mario Colman",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Inés Cortés",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lucía Etcheverry",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Alejandro Sánchez",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Diego Reyes",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Silvana Pérez Bonavita",
+      "gender": "F",
+      "party": "Cabildo Abierto",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Marcos Pugliese",
+      "gender": "M",
+      "party": "PC",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nicolás Viera",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Iván Posada",
+      "gender": "M",
+      "party": "Partido Independiente",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "María Dolores Abella",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Felipe Schipani",
+      "gender": "M",
+      "party": "PC",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gustavo Olmos",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "María Eugenia Roselló",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Enzo Malán",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Graciela Matiaude",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Richard Charamelo",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mario Ayala",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Cecilia Bottino",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ruben Bacigalupe",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ope Pasquet",
+      "gender": "M",
+      "party": "PC",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mónica Xavier",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nicolás Albertoni",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lilián Galán",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Diego Echeverría",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "José Carlos Mahía",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Carmen Sanguinetti",
+      "gender": "F",
+      "party": "PC",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gerardo Amarilla",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jorge Gandini",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mónica Cabrera",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Carlos Iafigliola",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mariana Píriz",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Felipe Carballo",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Martín Lema",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Cecilia Eguiluz",
+      "gender": "F",
+      "party": "PC",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Alejandro Sánchez",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Juan Martín Rodríguez",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "María José Olivera",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Darío Pérez",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Carmen Asiaín",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mario García",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "María Dolores Álvarez",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Juan Manuel Garino",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Verónica Mato",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Luciano Andriolo",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Susana Montaner",
+      "gender": "F",
+      "party": "PC",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Enzo Malán",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nancy Núñez",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Óscar De los Santos",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Alfonso Lereté",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Verónica Pérez",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gustavo Zubía",
+      "gender": "M",
+      "party": "PC",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Alejandro Zavala",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Sofía Caffera",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Luis Gallo",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nimia Acosta",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Germán Cardoso",
+      "gender": "M",
+      "party": "PC",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Carmen Tort",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gabriel Gianoli",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Claudia Hugo",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Pedro Jisdonian",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ana Olivera",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mario Colman",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Daniel Peña",
+      "gender": "M",
+      "party": "PG",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Martín Melazzi",
+      "gender": "M",
+      "party": "PC",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Susana Pereyra",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Alfonso Lereté",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Graciela Bianchi",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gustavo Olmos",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Cecilia Bottino",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ruben Bacigalupe",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ope Pasquet",
+      "gender": "M",
+      "party": "PC",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mónica Xavier",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Enzo Malán",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Graciela Matiaude",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Richard Charamelo",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mario Ayala",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Verónica Mato",
+      "gender": "F",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Juan Martín Rodríguez",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "María José Olivera",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Darío Pérez",
+      "gender": "M",
+      "party": "FA",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Carmen Asiaín",
+      "gender": "F",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mario García",
+      "gender": "M",
+      "party": "PN",
+      "district": null,
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "parties": {
+    "FA": {
+      "name": "Frente Amplio",
+      "en": "Broad Front",
+      "range": 2,
+      "color": "#00529B"
+    },
+    "PC": {
+      "name": "Partido Colorado",
+      "en": "Colorado Party",
+      "range": 3,
+      "color": "#FFD700"
+    },
+    "PG": {
+      "name": "Partido de la Gente",
+      "en": "Party of the People",
+      "range": 5,
+      "color": "#7abd59"
+    },
+    "PN": {
+      "name": "Partido Nacional",
+      "en": "National Party",
+      "range": 4,
+      "color": "#D52B1E"
+    }
+  }
+}
