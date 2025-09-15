@@ -278,16 +278,6 @@
   ],
   "senate": [
     {
-      "name": "Patricia Kramer",
-      "gender": "F",
-      "party": "FA",
-      "district": "Nacional",
-      "salary": {
-        "gross": 92172,
-        "net": null
-      }
-    },
-    {
       "name": "Daniel Caggiani",
       "gender": "M",
       "party": "FA",
@@ -310,16 +300,6 @@
     {
       "name": "Bettiana Díaz",
       "gender": "F",
-      "party": "FA",
-      "district": "Nacional",
-      "salary": {
-        "gross": 92172,
-        "net": null
-      }
-    },
-    {
-      "name": "Aníbal Pereyra",
-      "gender": "M",
       "party": "FA",
       "district": "Nacional",
       "salary": {
@@ -490,13 +470,6 @@
       "salary": { "gross": 113868, "net": null }
     },
     {
-      "name": "Sebastián Sabini",
-      "gender": "M",
-      "party": "FA",
-      "district": "Nacional",
-      "salary": { "gross": 113868, "net": null }
-    },
-    {
       "name": "Robert Silva",
       "gender": "M",
       "party": "PC",
@@ -657,12 +630,6 @@
       "gender": "F",
       "party": "FA",
       "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Alejandro Sánchez",
-      "gender": "M",
-      "party": "FA",
       "salary": { "gross": null, "net": null }
     },
     {
@@ -1017,13 +984,6 @@
       "salary": { "gross": null, "net": null }
     },
     {
-      "name": "Mario Colman",
-      "gender": "M",
-      "party": "PN",
-      "district": null,
-      "salary": { "gross": null, "net": null }
-    },
-    {
       "name": "Daniel Peña",
       "gender": "M",
       "party": "PG",
@@ -1082,13 +1042,6 @@
       "name": "Mónica Xavier",
       "gender": "F",
       "party": "FA",
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Verónica Mato",
-      "gender": "F",
-      "party": "FA",
-      "district": null,
       "salary": { "gross": null, "net": null }
     }
   ],
