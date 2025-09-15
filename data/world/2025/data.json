@@ -32,6 +32,40 @@
       "totalCountedOfficials": 339,
       "unaffiliatedCount": 0,
       "unmappedPartyCount": 0
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 2
+        },
+        "mostPopularRanges": [
+          5
+        ],
+        "mostPopularCount": 2,
+        "totalCountedOfficials": 2,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 5,
+          "2": 148,
+          "3": 42,
+          "4": 85,
+          "5": 57
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 148,
+        "totalCountedOfficials": 337,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      }
     }
   },
   "de": {
@@ -68,6 +102,40 @@
       "totalCountedOfficials": 66,
       "unaffiliatedCount": 1,
       "unmappedPartyCount": 20
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          4
+        ],
+        "mostPopularCount": 1,
+        "totalCountedOfficials": 1,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 33,
+          "3": 0,
+          "4": 32,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 33,
+        "totalCountedOfficials": 65,
+        "unaffiliatedCount": 1,
+        "unmappedPartyCount": 20
+      }
     }
   },
   "ee": {
@@ -103,6 +171,40 @@
       "totalCountedOfficials": 92,
       "unaffiliatedCount": 15,
       "unmappedPartyCount": 7
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          4
+        ],
+        "mostPopularCount": 1,
+        "totalCountedOfficials": 1,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 14,
+          "3": 25,
+          "4": 36,
+          "5": 16
+        },
+        "mostPopularRanges": [
+          4
+        ],
+        "mostPopularCount": 36,
+        "totalCountedOfficials": 91,
+        "unaffiliatedCount": 15,
+        "unmappedPartyCount": 7
+      }
     }
   },
   "es": {
@@ -138,6 +240,40 @@
       "totalCountedOfficials": 634,
       "unaffiliatedCount": 6,
       "unmappedPartyCount": 0
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 2,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 2,
+        "totalCountedOfficials": 2,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 16,
+          "2": 274,
+          "3": 11,
+          "4": 295,
+          "5": 36
+        },
+        "mostPopularRanges": [
+          4
+        ],
+        "mostPopularCount": 295,
+        "totalCountedOfficials": 632,
+        "unaffiliatedCount": 4,
+        "unmappedPartyCount": 0
+      }
     }
   },
   "fr": {
@@ -173,6 +309,40 @@
       "totalCountedOfficials": 377,
       "unaffiliatedCount": 0,
       "unmappedPartyCount": 105
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          4
+        ],
+        "mostPopularCount": 2,
+        "totalCountedOfficials": 2,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 120,
+          "3": 0,
+          "4": 255,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          4
+        ],
+        "mostPopularCount": 255,
+        "totalCountedOfficials": 375,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 105
+      }
     }
   },
   "gb": {
@@ -208,6 +378,40 @@
       "totalCountedOfficials": 5,
       "unaffiliatedCount": 4,
       "unmappedPartyCount": 0
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 1,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 1,
+        "totalCountedOfficials": 1,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 4,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 4,
+        "totalCountedOfficials": 4,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      }
     }
   },
   "li": {
@@ -243,6 +447,40 @@
       "totalCountedOfficials": 26,
       "unaffiliatedCount": 2,
       "unmappedPartyCount": 3
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          4
+        ],
+        "mostPopularCount": 1,
+        "totalCountedOfficials": 1,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 1,
+          "3": 0,
+          "4": 24,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          4
+        ],
+        "mostPopularCount": 24,
+        "totalCountedOfficials": 25,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 3
+      }
     }
   },
   "lu": {
@@ -278,6 +516,41 @@
       "totalCountedOfficials": 61,
       "unaffiliatedCount": 4,
       "unmappedPartyCount": 14
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 1,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          3,
+          4
+        ],
+        "mostPopularCount": 1,
+        "totalCountedOfficials": 2,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 10,
+          "3": 17,
+          "4": 32,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          4
+        ],
+        "mostPopularCount": 32,
+        "totalCountedOfficials": 59,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 14
+      }
     }
   },
   "mo": {
@@ -313,6 +586,38 @@
       "totalCountedOfficials": 24,
       "unaffiliatedCount": 10,
       "unmappedPartyCount": 0
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [],
+        "mostPopularCount": 0,
+        "totalCountedOfficials": 0,
+        "unaffiliatedCount": 1,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 24,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          4
+        ],
+        "mostPopularCount": 24,
+        "totalCountedOfficials": 24,
+        "unaffiliatedCount": 5,
+        "unmappedPartyCount": 0
+      }
     }
   },
   "no": {
@@ -348,6 +653,40 @@
       "totalCountedOfficials": 20,
       "unaffiliatedCount": 4,
       "unmappedPartyCount": 0
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 1,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 1,
+        "totalCountedOfficials": 1,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 19,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 19,
+        "totalCountedOfficials": 19,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      }
     }
   },
   "np": {
@@ -383,6 +722,41 @@
       "totalCountedOfficials": 359,
       "unaffiliatedCount": 0,
       "unmappedPartyCount": 1
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2,
+          3
+        ],
+        "mostPopularCount": 1,
+        "totalCountedOfficials": 2,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 62,
+          "2": 106,
+          "3": 145,
+          "4": 44,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          3
+        ],
+        "mostPopularCount": 145,
+        "totalCountedOfficials": 357,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 1
+      }
     }
   },
   "ru": {
@@ -416,6 +790,36 @@
       "totalCountedOfficials": 0,
       "unaffiliatedCount": 0,
       "unmappedPartyCount": 4
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [],
+        "mostPopularCount": 0,
+        "totalCountedOfficials": 0,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 2
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [],
+        "mostPopularCount": 0,
+        "totalCountedOfficials": 0,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 2
+      }
     }
   },
   "se": {
@@ -451,6 +855,40 @@
       "totalCountedOfficials": 10,
       "unaffiliatedCount": 0,
       "unmappedPartyCount": 0
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          4
+        ],
+        "mostPopularCount": 1,
+        "totalCountedOfficials": 1,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 1,
+          "3": 0,
+          "4": 8,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          4
+        ],
+        "mostPopularCount": 8,
+        "totalCountedOfficials": 9,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      }
     }
   },
   "us": {
@@ -486,6 +924,40 @@
       "totalCountedOfficials": 433,
       "unaffiliatedCount": 3,
       "unmappedPartyCount": 0
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 2
+        },
+        "mostPopularRanges": [
+          5
+        ],
+        "mostPopularCount": 2,
+        "totalCountedOfficials": 2,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 216,
+          "3": 0,
+          "4": 0,
+          "5": 215
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 216,
+        "totalCountedOfficials": 431,
+        "unaffiliatedCount": 3,
+        "unmappedPartyCount": 0
+      }
     }
   },
   "uy": {
@@ -521,6 +993,40 @@
       "totalCountedOfficials": 124,
       "unaffiliatedCount": 1,
       "unmappedPartyCount": 0
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 2,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 2,
+        "totalCountedOfficials": 2,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 60,
+          "3": 17,
+          "4": 43,
+          "5": 2
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 60,
+        "totalCountedOfficials": 122,
+        "unaffiliatedCount": 1,
+        "unmappedPartyCount": 0
+      }
     }
   }
 }
