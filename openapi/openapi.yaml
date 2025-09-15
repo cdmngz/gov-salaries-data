@@ -320,8 +320,8 @@ components:
           $ref: "#/components/schemas/ChamberBlock"
         senate:
           $ref: "#/components/schemas/ChamberBlock"
-        partyRangeStats:
-          $ref: "#/components/schemas/PartyRangeStats"
+        partyRangeStatsSplit:
+          $ref: "#/components/schemas/PartyRangeSplitStats"
       required: [GDP, GDPPerCapita, ministers, deputies, senate]
       additionalProperties: false
 
@@ -376,6 +376,32 @@ components:
         - unaffiliatedCount
         - unmappedPartyCount
       additionalProperties: false
+
+    PartyRangeSplitStats:
+      type: object
+      description: Party-range popularity split into executive vs the rest (ministers, senate, deputies, officials).
+      properties:
+        executive:
+          $ref: "#/components/schemas/PartyRangeStats"
+        rest:
+          $ref: "#/components/schemas/PartyRangeStats"
+      required: [executive, rest]
+      additionalProperties: false
+      example:
+        executive:
+          counts: { "1": 1, "2": 4, "3": 2, "4": 0, "5": 0 }
+          mostPopularRanges: [2]
+          mostPopularCount: 4
+          totalCountedOfficials: 7
+          unaffiliatedCount: 0
+          unmappedPartyCount: 1
+        rest:
+          counts: { "1": 3, "2": 12, "3": 7, "4": 2, "5": 0 }
+          mostPopularRanges: [2]
+          mostPopularCount: 12
+          totalCountedOfficials: 24
+          unaffiliatedCount: 2
+          unmappedPartyCount: 3
 
     MinistersBlock:
       type: object
@@ -474,7 +500,6 @@ components:
         salary:
           gross: 67866
           net: 52928
-          currency: EUR
         sources:
           - pdf: https://example.com/salary.pdf
           - bonus: 1200
@@ -565,13 +590,21 @@ components:
           ministers: { quantity: 7, budget: 22561000000 }
           deputies: { quantity: 257 }
           senate: { quantity: 72 }
-          partyRangeStats:
-            counts: { "1": 3, "2": 12, "3": 7, "4": 9, "5": 4 }
-            mostPopularRanges: [2]
-            mostPopularCount: 12
-            totalCountedOfficials: 35
-            unaffiliatedCount: 6
-            unmappedPartyCount: 2
+          partyRangeStatsSplit:
+            executive:
+              counts: { "1": 0, "2": 4, "3": 1, "4": 0, "5": 0 }
+              mostPopularRanges: [2]
+              mostPopularCount: 4
+              totalCountedOfficials: 5
+              unaffiliatedCount: 0
+              unmappedPartyCount: 0
+            rest:
+              counts: { "1": 3, "2": 8, "3": 6, "4": 9, "5": 4 }
+              mostPopularRanges: [4]
+              mostPopularCount: 9
+              totalCountedOfficials: 30
+              unaffiliatedCount: 6
+              unmappedPartyCount: 2
         es:
           GDP: 1749040659341
           GDPPerCapita: 37121
