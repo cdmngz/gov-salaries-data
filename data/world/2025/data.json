@@ -501,24 +501,24 @@
       "budget": 4184093007
     },
     "deputies": {
-      "quantity": 82
+      "quantity": 79
     },
     "senate": {
-      "quantity": 33
+      "quantity": 30
     },
     "partyRangeStats": {
       "counts": {
         "1": 0,
-        "2": 67,
+        "2": 62,
         "3": 17,
-        "4": 44,
+        "4": 43,
         "5": 2
       },
       "mostPopularRanges": [
         2
       ],
-      "mostPopularCount": 67,
-      "totalCountedOfficials": 130,
+      "mostPopularCount": 62,
+      "totalCountedOfficials": 124,
       "unaffiliatedCount": 1,
       "unmappedPartyCount": 0
     }
