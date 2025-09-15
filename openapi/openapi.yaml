@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: Government salary API
-  version: 1.1.0
+  version: 1.2.0
 
 tags:
   - name: Country
@@ -320,7 +320,61 @@ components:
           $ref: "#/components/schemas/ChamberBlock"
         senate:
           $ref: "#/components/schemas/ChamberBlock"
+        partyRangeStats:
+          $ref: "#/components/schemas/PartyRangeStats"
       required: [GDP, GDPPerCapita, ministers, deputies, senate]
+      additionalProperties: false
+
+    PartyRangeStats:
+      type: object
+      description: Popularity of party political ranges (1=left to 5=right) among officials with a mapped party.
+      properties:
+        counts:
+          type: object
+          additionalProperties: false
+          properties:
+            "1": { type: integer, minimum: 0 }
+            "2": { type: integer, minimum: 0 }
+            "3": { type: integer, minimum: 0 }
+            "4": { type: integer, minimum: 0 }
+            "5": { type: integer, minimum: 0 }
+          required: ["1", "2", "3", "4", "5"]
+          example: { "1": 3, "2": 12, "3": 7, "4": 9, "5": 4 }
+        mostPopularRanges:
+          type: array
+          items:
+            type: integer
+            minimum: 1
+            maximum: 5
+          description: One or more range values if there is a tie.
+          example: [2]
+        mostPopularCount:
+          type: integer
+          minimum: 0
+          description: Count of officials in the winning range(s).
+          example: 12
+        totalCountedOfficials:
+          type: integer
+          minimum: 0
+          description: Officials that contributed to the 1..5 tally (i.e., had a party mapped to a valid range).
+          example: 35
+        unaffiliatedCount:
+          type: integer
+          minimum: 0
+          description: Officials without a party.
+          example: 6
+        unmappedPartyCount:
+          type: integer
+          minimum: 0
+          description: Officials with a party that lacks a valid 1..5 range in the party map.
+          example: 2
+      required:
+        - counts
+        - mostPopularRanges
+        - mostPopularCount
+        - totalCountedOfficials
+        - unaffiliatedCount
+        - unmappedPartyCount
       additionalProperties: false
 
     MinistersBlock:
@@ -404,6 +458,7 @@ components:
           example: Central State
         party:
           type: string
+          description: Optional party code; when present, it refers to an entry in `CountryData.parties`.
           example: RE
         salary:
           $ref: "#/components/schemas/Salary"
@@ -510,6 +565,13 @@ components:
           ministers: { quantity: 7, budget: 22561000000 }
           deputies: { quantity: 257 }
           senate: { quantity: 72 }
+          partyRangeStats:
+            counts: { "1": 3, "2": 12, "3": 7, "4": 9, "5": 4 }
+            mostPopularRanges: [2]
+            mostPopularCount: 12
+            totalCountedOfficials: 35
+            unaffiliatedCount: 6
+            unmappedPartyCount: 2
         es:
           GDP: 1749040659341
           GDPPerCapita: 37121
@@ -521,6 +583,13 @@ components:
           ministers: { quantity: 22, budget: 190880197802 }
           deputies: { quantity: 348 }
           senate: { quantity: 265 }
+          partyRangeStats:
+            counts: { "1": 5, "2": 9, "3": 11, "4": 6, "5": 3 }
+            mostPopularRanges: [3]
+            mostPopularCount: 11
+            totalCountedOfficials: 34
+            unaffiliatedCount: 8
+            unmappedPartyCount: 1
 
     WorldYears:
       type: array

@@ -1,4 +1,5 @@
 // scripts/build-world-year.js
+
 const { buildWorldForYear } = require("./build-world");
 
 const yearArg = process.argv[2];

@@ -1,3 +1,5 @@
+// scripts/build-indexes.js
+
 const path = require("path");
 const fs = require("fs");
 const { isDirectory, isFile, writeJSON } = require("./lib/io");
