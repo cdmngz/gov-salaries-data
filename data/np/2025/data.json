@@ -24,30 +24,6 @@
   ],
   "ministers": [
     {
-      "name": "Narayan Kaji Shrestha",
-      "gender": "M",
-      "role": "Deputy Prime Minister and Minister of Home Affairs",
-      "party": "CPN-MC",
-      "salary": { "gross": 6180, "net": 5000 },
-      "budget": 150000000000
-    },
-    {
-      "name": "Prakash Sharan Mahat",
-      "gender": "M",
-      "role": "Minister of Finance",
-      "party": "NC",
-      "salary": { "gross": 6180, "net": 5000 },
-      "budget": 1700000000000
-    },
-    {
-      "name": "NP Saud",
-      "gender": "M",
-      "role": "Minister of Foreign Affairs",
-      "party": "NC",
-      "salary": { "gross": 6180, "net": 5000 },
-      "budget": 120000000000
-    },
-    {
       "name": "Sharat Singh Bhandari",
       "gender": "M",
       "role": "Minister of Labour, Employment and Social Security",
@@ -200,14 +176,6 @@
       "budget": 45000000000
     },
     {
-      "name": "Chitra Bahadur KC",
-      "gender": "M",
-      "role": "Minister of Culture, Tourism and Civil Aviation (State)",
-      "party": "RPP",
-      "salary": { "gross": 6180, "net": 5000 },
-      "budget": 40000000000
-    },
-    {
       "name": "Anita Devi",
       "gender": "F",
       "role": "Minister of Health and Population (State)",
@@ -217,12 +185,6 @@
     }
   ],
   "deputies": [
-    {
-      "name": "Ramesh Chaudhary",
-      "gender": "M",
-      "party": "Loktantrik Samajwadi",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
     {
       "name": "Shanti Oli",
       "gender": "F",
@@ -249,18 +211,6 @@
     },
     {
       "name": "Narayan Yadav",
-      "gender": "M",
-      "party": "RSP",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
-      "name": "Radha Basnet",
-      "gender": "F",
-      "party": "CPN-MC",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
-      "name": "Ramesh Gurung",
       "gender": "M",
       "party": "RSP",
       "salary": { "gross": 5620, "net": 4500 }
@@ -320,12 +270,6 @@
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
-      "name": "Sunil Basnet",
-      "gender": "M",
-      "party": "CPN-UML",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
       "name": "Anita Nepal",
       "gender": "F",
       "party": "NC",
@@ -350,21 +294,9 @@
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
-      "name": "Anita Sharma",
-      "gender": "F",
-      "party": "Loktantrik Samajwadi",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
       "name": "Mina Lama",
       "gender": "F",
       "party": "JSP",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
-      "name": "Krishna KC",
-      "gender": "M",
-      "party": "NC",
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
@@ -404,12 +336,6 @@
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
-      "name": "Gopal Oli",
-      "gender": "M",
-      "party": "Loktantrik Samajwadi",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
       "name": "Shanti Rai",
       "gender": "F",
       "party": "RSP",
@@ -419,12 +345,6 @@
       "name": "Krishna Lama",
       "gender": "M",
       "party": "CPN-UML",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
-      "name": "Radha Magar",
-      "gender": "F",
-      "party": "RSP",
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
@@ -512,12 +432,6 @@
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
-      "name": "Hari Dahal",
-      "gender": "M",
-      "party": "JSP",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
       "name": "Ram Sharma",
       "gender": "M",
       "party": "Loktantrik Samajwadi",
@@ -525,12 +439,6 @@
     },
     {
       "name": "Anita Magar",
-      "gender": "F",
-      "party": "Loktantrik Samajwadi",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
-      "name": "Mina Poudel",
       "gender": "F",
       "party": "Loktantrik Samajwadi",
       "salary": { "gross": 5620, "net": 4500 }
@@ -572,21 +480,9 @@
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
-      "name": "Krishna Rai",
-      "gender": "M",
-      "party": "Loktantrik Samajwadi",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
       "name": "Sunil Gurung",
       "gender": "M",
       "party": "RSP",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
-      "name": "Ramesh Chaudhary",
-      "gender": "M",
-      "party": "RPP",
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
@@ -599,12 +495,6 @@
       "name": "Ramesh Dahal",
       "gender": "M",
       "party": "CPN-MC",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
-      "name": "Krishna Lama",
-      "gender": "M",
-      "party": "Loktantrik Samajwadi",
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
@@ -704,12 +594,6 @@
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
-      "name": "Ramesh Dahal",
-      "gender": "M",
-      "party": "RPP",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
       "name": "Ram Gurung",
       "gender": "M",
       "party": "JSP",
@@ -740,18 +624,6 @@
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
-      "name": "Ramesh Oli",
-      "gender": "M",
-      "party": "RSP",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
-      "name": "Bishnu Rai",
-      "gender": "M",
-      "party": "RPP",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
       "name": "Bishnu Poudel",
       "gender": "M",
       "party": "RSP",
@@ -759,12 +631,6 @@
     },
     {
       "name": "Kamal Nepal",
-      "gender": "M",
-      "party": "JSP",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
-      "name": "Hari Yadav",
       "gender": "M",
       "party": "JSP",
       "salary": { "gross": 5620, "net": 4500 }
@@ -785,12 +651,6 @@
       "name": "Krishna Dahal",
       "gender": "M",
       "party": "RSP",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
-      "name": "Radha Magar",
-      "gender": "F",
-      "party": "RPP",
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
@@ -821,12 +681,6 @@
       "name": "Narayan Yadav",
       "gender": "M",
       "party": "CPN-UML",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
-      "name": "Radha Basnet",
-      "gender": "F",
-      "party": "RSP",
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
@@ -1190,12 +1044,6 @@
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
-      "name": "Ramesh Dahal",
-      "gender": "M",
-      "party": "NC",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
       "name": "Gita Magar",
       "gender": "F",
       "party": "RSP",
@@ -1418,12 +1266,6 @@
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
-      "name": "Ramesh Chaudhary",
-      "gender": "M",
-      "party": "Loktantrik Samajwadi",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
       "name": "Narayan Thapa",
       "gender": "M",
       "party": "RSP",
@@ -1571,12 +1413,6 @@
       "name": "Ram Bhattarai",
       "gender": "M",
       "party": "JSP",
-      "salary": { "gross": 5620, "net": 4500 }
-    },
-    {
-      "name": "Krishna Thapa",
-      "gender": "M",
-      "party": "RSP",
       "salary": { "gross": 5620, "net": 4500 }
     },
     {
