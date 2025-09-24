@@ -633,5 +633,13 @@
         }
       ]
     }
-  ]
+  ],
+  "parties": {
+    "PSUV": {
+      "name": "Partido Socialista Unido de Venezuela",
+      "en": "United Socialist Party of Venezuela",
+      "range": 1,
+      "color": "#EE1C25"
+    }
+  }
 }
