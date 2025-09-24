@@ -66,6 +66,7 @@ Each dataset is organized by:
 - 🇬🇧 United Kingdom (`/gb`)
 - 🇺🇸 United States (`/us`)
 - 🇺🇾 Uruguay (`/uy`)
+- 🇻🇪 Venezuela (`/ve`)
 - _(More can be added via pull requests)_
 
 ---
