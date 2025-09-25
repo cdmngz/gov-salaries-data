@@ -88,7 +88,1198 @@
       "salary": { "gross": null, "net": null }
     }
   ],
-  "deputies": [],
+  "deputies": [
+    {
+      "name": "Braun-Pivet, Yaël",
+      "gender": "F",
+      "party": "RE",
+      "district": "Yvelines's 5th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Maillard, Sylvain",
+      "gender": "M",
+      "party": "RE",
+      "district": "Paris's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rist, Stéphanie",
+      "gender": "F",
+      "party": "RE",
+      "district": "Loiret's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Kasbarian, Guillaume",
+      "gender": "M",
+      "party": "RE",
+      "district": "Eure-et-Loir's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Houlié, Sacha",
+      "gender": "M",
+      "party": "RE",
+      "district": "Vienne's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lebec, Marie",
+      "gender": "F",
+      "party": "RE",
+      "district": "Yvelines's 4th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Holroyd, Alexandre",
+      "gender": "M",
+      "party": "RE",
+      "district": "French citizens abroad (3rd constituency)",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Anglade, Pieyre-Alexandre",
+      "gender": "M",
+      "party": "RE",
+      "district": "French citizens abroad (4th constituency)",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lakrafi, Amélia",
+      "gender": "F",
+      "party": "RE",
+      "district": "French citizens abroad (10th constituency)",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gassilloud, Thomas",
+      "gender": "M",
+      "party": "RE",
+      "district": "Rhône's 10th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Portarrieu, Jean-François",
+      "gender": "M",
+      "party": "RE",
+      "district": "Haute-Garonne's 5th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cazeneuve, Pierre",
+      "gender": "M",
+      "party": "RE",
+      "district": "Hauts-de-Seine's 7th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mattei, Jean-Paul",
+      "gender": "M",
+      "party": "MoDem",
+      "district": "Pyrénées-Atlantiques's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ramos, Richard",
+      "gender": "M",
+      "party": "MoDem",
+      "district": "Loiret's 6th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bannier, Géraldine",
+      "gender": "F",
+      "party": "MoDem",
+      "district": "Mayenne's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jacquier-Laforge, Élodie",
+      "gender": "F",
+      "party": "MoDem",
+      "district": "Isère's 9th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Hammouche, Brahim",
+      "gender": "M",
+      "party": "MoDem",
+      "district": "Moselle's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Marcangeli, Laurent",
+      "gender": "M",
+      "party": "HOR",
+      "district": "Corse-du-Sud's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Moutchou, Naïma",
+      "gender": "F",
+      "party": "HOR",
+      "district": "Val-d'Oise's 4th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Marleix, Olivier",
+      "gender": "M",
+      "party": "LR",
+      "district": "Eure-et-Loir's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ciotti, Éric",
+      "gender": "M",
+      "party": "LR",
+      "district": "Alpes-Maritimes's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pradié, Aurélien",
+      "gender": "M",
+      "party": "LR",
+      "district": "Lot's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Genevard, Annie",
+      "gender": "F",
+      "party": "LR",
+      "district": "Doubs's 5th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vallaud, Boris",
+      "gender": "M",
+      "party": "PS",
+      "district": "Landes's 3rd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rabault, Valérie",
+      "gender": "F",
+      "party": "PS",
+      "district": "Tarn-et-Garonne's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Guedj, Jérôme",
+      "gender": "M",
+      "party": "PS",
+      "district": "Essonne's 6th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Clergeau, Christophe",
+      "gender": "M",
+      "party": "PS",
+      "district": "Loire-Atlantique's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Le Pen, Marine",
+      "gender": "F",
+      "party": "RN",
+      "district": "Pas-de-Calais's 11th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Chenu, Sébastien",
+      "gender": "M",
+      "party": "RN",
+      "district": "Nord's 19th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jacobelli, Laurent",
+      "gender": "M",
+      "party": "RN",
+      "district": "Moselle's 8th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lavalette, Laure",
+      "gender": "F",
+      "party": "RN",
+      "district": "Var's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ménagé, Thomas",
+      "gender": "M",
+      "party": "RN",
+      "district": "Loiret's 4th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mauvieux, Kévin",
+      "gender": "M",
+      "party": "RN",
+      "district": "Eure's 3rd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Laporte, Hélène",
+      "gender": "F",
+      "party": "RN",
+      "district": "Lot-et-Garonne's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Falcon, Frédéric",
+      "gender": "M",
+      "party": "RN",
+      "district": "Aude's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Masson, Bryan",
+      "gender": "M",
+      "party": "RN",
+      "district": "Alpes-Maritimes's 7th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "de Fournas, Grégoire",
+      "gender": "M",
+      "party": "RN",
+      "district": "Gironde's 5th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Allisio, Franck",
+      "gender": "M",
+      "party": "RN",
+      "district": "Bouches-du-Rhône's 12th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "de Lépinau, Hervé",
+      "gender": "M",
+      "party": "RN",
+      "district": "Vaucluse's 4th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Panot, Mathilde",
+      "gender": "F",
+      "party": "LFI",
+      "district": "Val-de-Marne's 10th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bompard, Manuel",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Bouches-du-Rhône's 4th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Autain, Clémentine",
+      "gender": "F",
+      "party": "LFI",
+      "district": "Seine-Saint-Denis's 11th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ruffin, François",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Somme's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Coquerel, Éric",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Seine-Saint-Denis's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bernalicis, Ugo",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Nord's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Quatennens, Adrien",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Nord's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Obono, Danièle",
+      "gender": "F",
+      "party": "LFI",
+      "district": "Paris's 17th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Portes, Thomas",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Seine-Saint-Denis's 3rd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Keke, Rachel",
+      "gender": "F",
+      "party": "LFI",
+      "district": "Val-de-Marne's 7th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Clouet, Hadrien",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Haute-Garonne's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Coulomme, Jean-François",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Savoie's 4th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bex, Christophe",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Haute-Garonne's 7th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Caron, Aymeric",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Paris's 18th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Léaument, Antoine",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Essonne's 10th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Legrain, Sarah",
+      "gender": "F",
+      "party": "LFI",
+      "district": "Paris's 16th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rousseau, Sandrine",
+      "gender": "F",
+      "party": "EELV",
+      "district": "Paris's 9th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bayou, Julien",
+      "gender": "M",
+      "party": "EELV",
+      "district": "Paris's 5th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Batho, Delphine",
+      "gender": "F",
+      "party": "EELV",
+      "district": "Deux-Sèvres's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Garin, Marie-Charlotte",
+      "gender": "F",
+      "party": "EELV",
+      "district": "Rhône's 3rd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lucas, Benjamin",
+      "gender": "M",
+      "party": "EELV",
+      "district": "Yvelines's 8th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Peytavie, Sébastien",
+      "gender": "M",
+      "party": "EELV",
+      "district": "Dordogne's 4th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pochon, Marie",
+      "gender": "F",
+      "party": "EELV",
+      "district": "Drôme's 3rd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Arrighi, Christine",
+      "gender": "F",
+      "party": "EELV",
+      "district": "Haute-Garonne's 9th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tâché, Aurélien",
+      "gender": "M",
+      "party": "EELV",
+      "district": "Val-d'Oise's 10th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Roussel, Fabien",
+      "gender": "M",
+      "party": "PCF",
+      "district": "Nord's 20th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Chassaigne, André",
+      "gender": "M",
+      "party": "PCF",
+      "district": "Puy-de-Dôme's 5th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Faucillon, Elsa",
+      "gender": "F",
+      "party": "PCF",
+      "district": "Hauts-de-Seine's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jumel, Sébastien",
+      "gender": "M",
+      "party": "PCF",
+      "district": "Seine-Maritime's 6th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sansu, Nicolas",
+      "gender": "M",
+      "party": "PCF",
+      "district": "Cher's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dharréville, Pierre",
+      "gender": "M",
+      "party": "PCF",
+      "district": "Bouches-du-Rhône's 13th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bourouaha, Soumya",
+      "gender": "F",
+      "party": "PCF",
+      "district": "Seine-Saint-Denis's 4th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pancher, Bertrand",
+      "gender": "M",
+      "party": "LIOT",
+      "district": "Meuse's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "de Courson, Charles-Amédée",
+      "gender": "M",
+      "party": "LIOT",
+      "district": "Marne's 5th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Naegelen, Christophe",
+      "gender": "M",
+      "party": "LIOT",
+      "district": "Vosges's 3rd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Serva, Olivier",
+      "gender": "M",
+      "party": "LIOT",
+      "district": "Guadeloupe's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Molac, Paul",
+      "gender": "M",
+      "party": "LIOT",
+      "district": "Morbihan's 4th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Lenormand, Stéphane",
+      "gender": "M",
+      "party": "LIOT",
+      "district": "Saint-Pierre-et-Miquelon's constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Acquaviva, Jean-Félix",
+      "gender": "M",
+      "party": "LIOT",
+      "district": "Haute-Corse's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Castellani, Michel",
+      "gender": "M",
+      "party": "LIOT",
+      "district": "Haute-Corse's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Colombani, Paul-André",
+      "gender": "M",
+      "party": "LIOT",
+      "district": "Corse-du-Sud's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mathiasin, Max",
+      "gender": "M",
+      "party": "LIOT",
+      "district": "Guadeloupe's 3rd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Descamps, Béatrice",
+      "gender": "F",
+      "party": "LIOT",
+      "district": "Nord's 21st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dupont-Aignan, Nicolas",
+      "gender": "M",
+      "party": "DLF",
+      "district": "Essonne's 8th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Abad, Damien",
+      "gender": "M",
+      "party": "RE",
+      "district": "Ain's 5th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Belhaddad, Belkhir",
+      "gender": "M",
+      "party": "RE",
+      "district": "Moselle's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Vojetta, Stéphane",
+      "gender": "M",
+      "party": "RE",
+      "district": "French citizens abroad (5th constituency)",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Genetet, Anne",
+      "gender": "F",
+      "party": "RE",
+      "district": "French citizens abroad (11th constituency)",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cazeneuve, Jean-René",
+      "gender": "M",
+      "party": "RE",
+      "district": "Gers's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rudigoz, Thomas",
+      "gender": "M",
+      "party": "RE",
+      "district": "Rhône's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bothorel, Éric",
+      "gender": "M",
+      "party": "RE",
+      "district": "Côtes-d'Armor's 5th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mirallès, Patricia",
+      "gender": "F",
+      "party": "HOR",
+      "district": "Hérault's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Firmin Le Bodo, Agnès",
+      "gender": "F",
+      "party": "HOR",
+      "district": "Seine-Maritime's 7th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Fuchs, Bruno",
+      "gender": "M",
+      "party": "MoDem",
+      "district": "Haut-Rhin's 6th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Goulet, Perrine",
+      "gender": "F",
+      "party": "MoDem",
+      "district": "Nièvre's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Balanant, Erwan",
+      "gender": "M",
+      "party": "MoDem",
+      "district": "Finistère's 8th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bourlanges, Jean-Louis",
+      "gender": "M",
+      "party": "MoDem",
+      "district": "Hauts-de-Seine's 12th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Travert, Stéphane",
+      "gender": "M",
+      "party": "RE",
+      "district": "Manche's 3rd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Adam, Damien",
+      "gender": "M",
+      "party": "RE",
+      "district": "Seine-Maritime's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mazars, Stéphane",
+      "gender": "M",
+      "party": "MoDem",
+      "district": "Aveyron's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Khattabi, Fadila",
+      "gender": "F",
+      "party": "RE",
+      "district": "Côte-d'Or's 3rd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Boyard, Louis",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Val-de-Marne's 3rd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dufour, Alma",
+      "gender": "F",
+      "party": "LFI",
+      "district": "Seine-Maritime's 8th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Bilongo, Carlos Martens",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Val-d'Oise's 8th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Amiot, Ségolène",
+      "gender": "F",
+      "party": "LFI",
+      "district": "Loire-Atlantique's 3rd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Trouvé, Aurélie",
+      "gender": "F",
+      "party": "LFI",
+      "district": "Seine-Saint-Denis's 9th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Abomangoli, Nadège",
+      "gender": "F",
+      "party": "LFI",
+      "district": "Seine-Saint-Denis's 10th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Diaz, Edwige",
+      "gender": "F",
+      "party": "RN",
+      "district": "Gironde's 11th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ballard, Philippe",
+      "gender": "M",
+      "party": "RN",
+      "district": "Oise's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Parmentier, Caroline",
+      "gender": "F",
+      "party": "RN",
+      "district": "Pas-de-Calais's 9th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Tanguy, Jean-Philippe",
+      "gender": "M",
+      "party": "RN",
+      "district": "Somme's 4th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Taché de la Pagerie, Emmanuel",
+      "gender": "M",
+      "party": "RN",
+      "district": "Bouches-du-Rhône's 16th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Aviragnet, Joël",
+      "gender": "M",
+      "party": "PS",
+      "district": "Haute-Garonne's 8th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Delaporte, Arthur",
+      "gender": "M",
+      "party": "PS",
+      "district": "Calvados's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "El Aaraje, Lamia",
+      "gender": "F",
+      "party": "PS",
+      "district": "Paris's 15th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Habib, David",
+      "gender": "M",
+      "party": "PS",
+      "district": "Pyrénées-Atlantiques's 3rd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pirès Beaune, Christine",
+      "gender": "F",
+      "party": "PS",
+      "district": "Puy-de-Dôme's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Saulignac, Hervé",
+      "gender": "M",
+      "party": "PS",
+      "district": "Ardèche's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Echaniz, Inaki",
+      "gender": "M",
+      "party": "PS",
+      "district": "Pyrénées-Atlantiques's 4th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jourdan, Chantal",
+      "gender": "F",
+      "party": "PS",
+      "district": "Orne's 1st constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    }
+  ],
   "senate": [
     {
       "name": "Abbate, Angèle",
@@ -4834,6 +6025,36 @@
       "en": "National Rally",
       "range": 5,
       "color": "#003399"
+    },
+    "LFI": {
+      "name": "La France insoumise",
+      "en": "Unsubmissive France",
+      "range": 1,
+      "color": "#B1006B"
+    },
+    "EELV": {
+      "name": "Europe Écologie – Les Verts",
+      "en": "Europe Ecology – The Greens",
+      "range": 2,
+      "color": "#009E49"
+    },
+    "PCF": {
+      "name": "Parti communiste français",
+      "en": "French Communist Party",
+      "range": 1,
+      "color": "#CE0000"
+    },
+    "LIOT": {
+      "name": "Libertés, Indépendants, Outre-mer et Territoires",
+      "en": "Liberties, Independents, Overseas and Territories",
+      "range": 3,
+      "color": "#F5A623"
+    },
+    "DLF": {
+      "name": "Debout la France",
+      "en": "Stand Up France",
+      "range": 4,
+      "color": "#0C4DA2"
     }
   }
 }
