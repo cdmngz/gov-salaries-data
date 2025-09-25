@@ -289,24 +289,24 @@
       "budget": 0
     },
     "deputies": {
-      "quantity": 0
+      "quantity": 119
     },
     "senate": {
       "quantity": 470
     },
     "partyRangeStats": {
       "counts": {
-        "1": 0,
-        "2": 120,
-        "3": 0,
-        "4": 257,
-        "5": 0
+        "1": 29,
+        "2": 141,
+        "3": 11,
+        "4": 298,
+        "5": 17
       },
       "mostPopularRanges": [
         4
       ],
-      "mostPopularCount": 257,
-      "totalCountedOfficials": 377,
+      "mostPopularCount": 298,
+      "totalCountedOfficials": 496,
       "unaffiliatedCount": 0,
       "unmappedPartyCount": 105
     },
@@ -329,17 +329,17 @@
       },
       "rest": {
         "counts": {
-          "1": 0,
-          "2": 120,
-          "3": 0,
-          "4": 255,
-          "5": 0
+          "1": 29,
+          "2": 141,
+          "3": 11,
+          "4": 296,
+          "5": 17
         },
         "mostPopularRanges": [
           4
         ],
-        "mostPopularCount": 255,
-        "totalCountedOfficials": 375,
+        "mostPopularCount": 296,
+        "totalCountedOfficials": 494,
         "unaffiliatedCount": 0,
         "unmappedPartyCount": 105
       }
