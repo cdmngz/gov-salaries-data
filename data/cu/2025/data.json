@@ -1,0 +1,121 @@
+{
+  "baseCurrency": "USD",
+  "royalty": [],
+  "executive": [
+    {
+      "name": "Miguel Díaz-Canel Bermúdez",
+      "gender": "M",
+      "role": "President of the Republic of Cuba",
+      "party": "PCC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Salvador Valdés Mesa",
+      "gender": "M",
+      "role": "Vice President of the Republic of Cuba",
+      "party": "PCC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Manuel Marrero Cruz",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "PCC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Bruno Rodríguez Parrilla",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "PCC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "José Ángel Portal Miranda",
+      "gender": "M",
+      "role": "Minister of Public Health",
+      "party": "PCC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Esteban Lazo Hernández",
+      "gender": "M",
+      "party": "PCC",
+      "district": "President of the National Assembly",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Ana María Mari Machado",
+      "gender": "F",
+      "party": "PCC",
+      "district": "Vice President of the National Assembly",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Homero Acosta Álvarez",
+      "gender": "M",
+      "party": "PCC",
+      "district": "Secretary of the National Assembly",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "senate": [],
+  "officials": [
+    {
+      "name": "Joaquín Alonso Vázquez",
+      "gender": "M",
+      "role": "President of the Central Bank of Cuba",
+      "party": "PCC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Rubén Remigio Ferro",
+      "gender": "M",
+      "role": "President of the Supreme People's Court",
+      "party": "PCC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "parties": {
+    "PCC": {
+      "name": "Partido Comunista de Cuba",
+      "en": "Communist Party of Cuba",
+      "range": 1,
+      "color": "#CC0000"
+    }
+  }
+}
