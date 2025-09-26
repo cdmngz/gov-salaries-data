@@ -59,6 +59,7 @@ Each dataset is organized by:
 - 🇱🇺 Luxembourg (`/lu`)
 - 🇳🇵 Nepal (`/np`)
 - 🇲🇨 Monaco (`/mo`)
+- 🇲🇽 Mexico (`/mx`)
 - 🇳🇴 Norway (`/no`)
 - 🇷🇺 Russia (`/ru`)
 - 🇪🇸 Spain (`/es`)
