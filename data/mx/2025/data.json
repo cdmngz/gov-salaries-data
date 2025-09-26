@@ -1,0 +1,275 @@
+{
+  "baseCurrency": "USD",
+  "royalty": [],
+  "executive": [
+    {
+      "name": "Claudia Sheinbaum Pardo",
+      "gender": "F",
+      "role": "Presidenta de los Estados Unidos Mexicanos",
+      "party": "Morena",
+      "salary": {
+        "gross": 144144,
+        "net": 96096
+      },
+      "sources": [
+        {
+          "PEF 2025": "https://www.ppef.hacienda.gob.mx/es/PeF2025/tomoVIII/anexo_23"
+        },
+        {
+          "Notas": "Percepciones anuales para mandos superiores del Poder Ejecutivo"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Luisa María Alcalde Luján",
+      "gender": "F",
+      "role": "Secretaria de Gobernación",
+      "party": "Morena",
+      "salary": {
+        "gross": 121492.8,
+        "net": 81224
+      },
+      "sources": [
+        {
+          "Tabulador 2025": "https://www.gob.mx/shcp/documentos/tabuladores-de-remuneraciones-2025"
+        }
+      ]
+    },
+    {
+      "name": "Rogelio Ramírez de la O",
+      "gender": "M",
+      "role": "Secretario de Hacienda y Crédito Público",
+      "party": "Morena",
+      "salary": {
+        "gross": 121492.8,
+        "net": 81224
+      }
+    },
+    {
+      "name": "Alicia Bárcena Ibarra",
+      "gender": "F",
+      "role": "Secretaria de Relaciones Exteriores",
+      "party": "Morena",
+      "salary": {
+        "gross": 121492.8,
+        "net": 81224
+      }
+    },
+    {
+      "name": "Rosa Icela Rodríguez Velázquez",
+      "gender": "F",
+      "role": "Secretaria de Seguridad y Protección Ciudadana",
+      "party": "Morena",
+      "salary": {
+        "gross": 121492.8,
+        "net": 81224
+      }
+    },
+    {
+      "name": "Raquel Buenrostro Sánchez",
+      "gender": "F",
+      "role": "Secretaria de Economía",
+      "party": "Morena",
+      "salary": {
+        "gross": 121492.8,
+        "net": 81224
+      }
+    },
+    {
+      "name": "Leticia Ramírez Amaya",
+      "gender": "F",
+      "role": "Secretaria de Educación Pública",
+      "party": "Morena",
+      "salary": {
+        "gross": 121492.8,
+        "net": 81224
+      }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Ignacio Mier Velazco",
+      "gender": "M",
+      "party": "Morena",
+      "district": "Puebla 7º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Jorge Romero Herrera",
+      "gender": "M",
+      "party": "PAN",
+      "district": "Ciudad de México 9º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Rubén Moreira Valdez",
+      "gender": "M",
+      "party": "PRI",
+      "district": "Coahuila 1º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Alberto Anaya Gutiérrez",
+      "gender": "M",
+      "party": "PT",
+      "district": "Nuevo León 3º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Ivonne Ortega Pacheco",
+      "gender": "F",
+      "party": "MC",
+      "district": "Yucatán 4º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Karen Castrejón Trujillo",
+      "gender": "F",
+      "party": "PVEM",
+      "district": "Representación proporcional (Nacional)",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Ana Lilia Rivera Rivera",
+      "gender": "F",
+      "party": "Morena",
+      "district": "Tlaxcala",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Xóchitl Gálvez Ruiz",
+      "gender": "F",
+      "party": "PAN",
+      "district": "Ciudad de México",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Miguel Ángel Osorio Chong",
+      "gender": "M",
+      "party": "PRI",
+      "district": "Hidalgo",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Manuel Velasco Coello",
+      "gender": "M",
+      "party": "PVEM",
+      "district": "Chiapas",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Clemente Castañeda Hoeflich",
+      "gender": "M",
+      "party": "MC",
+      "district": "Jalisco",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Norma Lucía Piña Hernández",
+      "gender": "F",
+      "role": "Presidenta de la Suprema Corte de Justicia de la Nación",
+      "party": "Independiente",
+      "salary": {
+        "gross": 265980,
+        "net": 183040
+      }
+    },
+    {
+      "name": "Victoria Rodríguez Ceja",
+      "gender": "F",
+      "role": "Gobernadora del Banco de México",
+      "party": "Independiente",
+      "salary": {
+        "gross": 205920,
+        "net": 143000
+      }
+    },
+    {
+      "name": "Alejandro Gertz Manero",
+      "gender": "M",
+      "role": "Fiscal General de la República",
+      "party": "Independiente",
+      "salary": {
+        "gross": 180180,
+        "net": 120120
+      }
+    }
+  ],
+  "parties": {
+    "Morena": {
+      "name": "Movimiento Regeneración Nacional",
+      "en": "National Regeneration Movement",
+      "range": 1,
+      "color": "#97233F"
+    },
+    "PAN": {
+      "name": "Partido Acción Nacional",
+      "en": "National Action Party",
+      "range": 4,
+      "color": "#00529B"
+    },
+    "PRI": {
+      "name": "Partido Revolucionario Institucional",
+      "en": "Institutional Revolutionary Party",
+      "range": 3,
+      "color": "#006847"
+    },
+    "PVEM": {
+      "name": "Partido Verde Ecologista de México",
+      "en": "Ecologist Green Party of Mexico",
+      "range": 2,
+      "color": "#6CC24A"
+    },
+    "PT": {
+      "name": "Partido del Trabajo",
+      "en": "Labor Party",
+      "range": 1,
+      "color": "#CC092F"
+    },
+    "MC": {
+      "name": "Movimiento Ciudadano",
+      "en": "Citizens' Movement",
+      "range": 3,
+      "color": "#FF6D00"
+    }
+  }
+}
