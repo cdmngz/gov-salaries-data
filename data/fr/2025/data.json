@@ -1278,6 +1278,176 @@
         "gross": 73015,
         "net": 54761
       }
+    },
+    {
+      "name": "Bardella, Jordan",
+      "gender": "M",
+      "party": "RN",
+      "district": "Seine-Saint-Denis's 12th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Mélenchon, Jean-Luc",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Bouches-du-Rhône's 4th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Taché, Aurélien",
+      "gender": "M",
+      "party": "LIOT",
+      "district": "Val-d'Oise's 10th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Garrido, Raquel",
+      "gender": "F",
+      "party": "LFI",
+      "district": "Seine-Saint-Denis's 5th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Placé, Jean-Vincent",
+      "gender": "M",
+      "party": "EELV",
+      "district": "Essonne's 3rd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Panier-Runacher, Agnès",
+      "gender": "F",
+      "party": "RE",
+      "district": "Pas-de-Calais's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pompili, Barbara",
+      "gender": "F",
+      "party": "EELV",
+      "district": "Somme's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Corbière, Alexis",
+      "gender": "M",
+      "party": "LFI",
+      "district": "Seine-Saint-Denis's 7th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Castex, Jean",
+      "gender": "M",
+      "party": "HOR",
+      "district": "Pyrénées-Orientales's 3rd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Le Drian, Jean-Yves",
+      "gender": "M",
+      "party": "PS",
+      "district": "Morbihan's 5th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Retailleau, Bruno",
+      "gender": "M",
+      "party": "LR",
+      "district": "Vendée's 4th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Grégoire, Olivia",
+      "gender": "F",
+      "party": "RE",
+      "district": "Paris's 12th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ferrand, Richard",
+      "gender": "M",
+      "party": "RE",
+      "district": "Finistère's 6th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Gouffier-Cha, Guillaume",
+      "gender": "M",
+      "party": "RE",
+      "district": "Val-de-Marne's 6th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ndiaye, Pap",
+      "gender": "M",
+      "party": "RE",
+      "district": "Paris's 4th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Abadie, Christine",
+      "gender": "F",
+      "party": "PS",
+      "district": "Hautes-Pyrénées's 2nd constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Benbassa, Esther",
+      "gender": "F",
+      "party": "EELV",
+      "district": "Paris's 6th constituency",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
     }
   ],
   "senate": [
