@@ -1,0 +1,143 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Gustavo Petro",
+      "gender": "M",
+      "role": "President of the Republic of Colombia",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Francia Márquez",
+      "gender": "F",
+      "role": "Vice President of the Republic of Colombia",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Juan Fernando Cristo",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "PL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Luis Gilberto Murillo",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ricardo Bonilla",
+      "gender": "M",
+      "role": "Minister of Finance and Public Credit",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Iván Velásquez",
+      "gender": "M",
+      "role": "Minister of National Defense",
+      "party": "Ind",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Néstor Osuna",
+      "gender": "M",
+      "role": "Minister of Justice and Law",
+      "party": "PL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Guillermo Alfonso Jaramillo",
+      "gender": "M",
+      "role": "Minister of Health and Social Protection",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jhenifer Mojica",
+      "gender": "F",
+      "role": "Minister of Agriculture and Rural Development",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Andrés Camacho",
+      "gender": "M",
+      "role": "Minister of Mines and Energy",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Susana Muhamad",
+      "gender": "F",
+      "role": "Minister of Environment and Sustainable Development",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Catalina Velasco",
+      "gender": "F",
+      "role": "Minister of Housing, City and Territory",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gloria Inés Ramírez",
+      "gender": "F",
+      "role": "Minister of Labor",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yesenia Olaya",
+      "gender": "F",
+      "role": "Minister of Science, Technology and Innovation",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "legislature": {
+    "senate": [],
+    "house": []
+  },
+  "officials": [
+    {
+      "name": "Luz Adriana Camargo",
+      "gender": "F",
+      "role": "Attorney General of Colombia",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Carlos Hernán Rodríguez",
+      "gender": "M",
+      "role": "Comptroller General of the Republic",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "parties": {
+    "PH": {
+      "name": "Pacto Histórico",
+      "en": "Historic Pact",
+      "range": 2,
+      "color": "#004B8D"
+    },
+    "PL": {
+      "name": "Partido Liberal Colombiano",
+      "en": "Colombian Liberal Party",
+      "range": 3,
+      "color": "#D50032"
+    },
+    "Ind": {
+      "name": "Independiente",
+      "en": "Independent",
+      "range": 4,
+      "color": "#666666"
+    }
+  }
+}
