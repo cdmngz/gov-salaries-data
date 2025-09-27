@@ -68,6 +68,75 @@
       }
     }
   },
+  "co": {
+    "GDP": 360000000000,
+    "GDPPerCapita": 6900,
+    "GDPGrowthYoY": null,
+    "GDPPerCapitaGrowthYoY": null,
+    "minAnnualSalary": 3960,
+    "minAnnualSalaryGrowthYoY": null,
+    "ministersBudgetPctOfGDP": 0,
+    "ministers": {
+      "quantity": 12,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 0
+    },
+    "senate": {
+      "quantity": 0
+    },
+    "partyRangeStats": {
+      "counts": {
+        "1": 0,
+        "2": 11,
+        "3": 2,
+        "4": 1,
+        "5": 0
+      },
+      "mostPopularRanges": [
+        2
+      ],
+      "mostPopularCount": 11,
+      "totalCountedOfficials": 14,
+      "unaffiliatedCount": 2,
+      "unmappedPartyCount": 0
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 2,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 2,
+        "totalCountedOfficials": 2,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 9,
+          "3": 2,
+          "4": 1,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 9,
+        "totalCountedOfficials": 12,
+        "unaffiliatedCount": 2,
+        "unmappedPartyCount": 0
+      }
+    }
+  },
   "cu": {
     "GDP": 115000000000,
     "GDPPerCapita": 10000,
@@ -88,7 +157,7 @@
     },
     "partyRangeStats": {
       "counts": {
-        "1": 8,
+        "1": 10,
         "2": 0,
         "3": 0,
         "4": 0,
@@ -97,8 +166,8 @@
       "mostPopularRanges": [
         1
       ],
-      "mostPopularCount": 8,
-      "totalCountedOfficials": 8,
+      "mostPopularCount": 10,
+      "totalCountedOfficials": 10,
       "unaffiliatedCount": 0,
       "unmappedPartyCount": 0
     },
@@ -121,7 +190,7 @@
       },
       "rest": {
         "counts": {
-          "1": 6,
+          "1": 8,
           "2": 0,
           "3": 0,
           "4": 0,
@@ -130,8 +199,8 @@
         "mostPopularRanges": [
           1
         ],
-        "mostPopularCount": 6,
-        "totalCountedOfficials": 6,
+        "mostPopularCount": 8,
+        "totalCountedOfficials": 8,
         "unaffiliatedCount": 0,
         "unmappedPartyCount": 0
       }
