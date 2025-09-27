@@ -52,8 +52,9 @@ Each dataset is organized by:
 ## 🌍 Supported Countries
 
 - 🇦🇷 Argentina (`/ar`)
-- 🇫🇷 France (`/fr`)
+- 🇨🇴 Colombia (`/co`)
 - 🇪🇪 Estonia (`/ee`)
+- 🇫🇷 France (`/fr`)
 - 🇩🇪 Germany (`/de`)
 - 🇱🇮 Liechtenstein (`/li`)
 - 🇱🇺 Luxembourg (`/lu`)
