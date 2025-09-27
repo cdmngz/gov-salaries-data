@@ -1,0 +1,137 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Nayib Armando Bukele Ortez",
+      "gender": "M",
+      "role": "President of the Republic of El Salvador",
+      "party": "NI",
+      "salary": {
+        "gross": 72000,
+        "net": 54000
+      },
+      "sources": [
+        {
+          "Portal de Transparencia": "https://transparencia.presidencia.gob.sv/docs/remuneraciones/2025/presidencia.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Félix Augusto Antonio Ulloa Garay",
+      "gender": "M",
+      "role": "Vice President of the Republic of El Salvador",
+      "party": "NI",
+      "salary": {
+        "gross": 60000,
+        "net": 45000
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Claudia Juana Rodríguez de Guevara",
+      "gender": "F",
+      "role": "Minister of Finance",
+      "party": "NI",
+      "salary": {
+        "gross": 48000,
+        "net": 36000
+      },
+      "budget": 2100000000
+    },
+    {
+      "name": "René Francis Merino Monroy",
+      "gender": "M",
+      "role": "Minister of National Defense",
+      "party": "NI",
+      "salary": {
+        "gross": 46000,
+        "net": 34200
+      }
+    },
+    {
+      "name": "María Ofelia Navarrete",
+      "gender": "F",
+      "role": "Minister of Local Development",
+      "party": "GANA",
+      "salary": {
+        "gross": 44000,
+        "net": 33000
+      }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Ernesto Alfredo Castro Aldana",
+      "gender": "M",
+      "district": "San Salvador",
+      "party": "NI",
+      "salary": {
+        "gross": 42000,
+        "net": 31000
+      }
+    },
+    {
+      "name": "Suecy Beverly Callejas Estrada",
+      "gender": "F",
+      "district": "San Salvador",
+      "party": "NI",
+      "salary": {
+        "gross": 42000,
+        "net": 31000
+      }
+    },
+    {
+      "name": "Guillermo Antonio Gallegos Navarrete",
+      "gender": "M",
+      "district": "San Salvador",
+      "party": "GANA",
+      "salary": {
+        "gross": 40000,
+        "net": 29500
+      }
+    },
+    {
+      "name": "Dina Yamileth Argueta Portillo",
+      "gender": "F",
+      "district": "San Vicente",
+      "party": "FMLN",
+      "salary": {
+        "gross": 38000,
+        "net": 28000
+      }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Carolina Recinos de Bernal",
+      "gender": "F",
+      "role": "Chief of Cabinet of the Presidency",
+      "party": "NI",
+      "salary": {
+        "gross": 50000,
+        "net": 37500
+      }
+    }
+  ],
+  "parties": {
+    "NI": {
+      "name": "Nuevas Ideas",
+      "en": "New Ideas",
+      "range": 5,
+      "color": "#00A3E0"
+    },
+    "GANA": {
+      "name": "Gran Alianza por la Unidad Nacional",
+      "en": "Grand Alliance for National Unity",
+      "range": 4,
+      "color": "#F58220"
+    },
+    "FMLN": {
+      "name": "Frente Farabundo Martí para la Liberación Nacional",
+      "en": "Farabundo Martí National Liberation Front",
+      "range": 2,
+      "color": "#C8102E"
+    }
+  }
+}

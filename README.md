@@ -64,6 +64,7 @@ Each dataset is organized by:
 - 🇳🇴 Norway (`/no`)
 - 🇷🇺 Russia (`/ru`)
 - 🇪🇸 Spain (`/es`)
+- 🇸🇻 El Salvador (`/sv`)
 - 🇸🇪 Sweden (`/se`)
 - 🇬🇧 United Kingdom (`/gb`)
 - 🇺🇸 United States (`/us`)
