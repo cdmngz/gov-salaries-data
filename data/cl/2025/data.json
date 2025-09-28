@@ -1,8 +1,627 @@
 {
   "baseCurrency": "USD",
-  "executive": [],
-  "ministers": [],
+  "executive": [
+    {
+      "name": "Gabriel Boric Font",
+      "gender": "M",
+      "role": "President of the Republic of Chile",
+      "party": "CS",
+      "salary": { "gross": 124700, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Carolina Tohá Morales",
+      "gender": "F",
+      "role": "Minister of the Interior and Public Security",
+      "party": "PPD",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Alberto van Klaveren Stork",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "IND",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Maya Fernández Allende",
+      "gender": "F",
+      "role": "Minister of National Defense",
+      "party": "PS",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Mario Marcel Cullell",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "IND",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Álvaro Elizalde Soto",
+      "gender": "M",
+      "role": "Minister Secretary-General of the Presidency",
+      "party": "PS",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Camila Vallejo Dowling",
+      "gender": "F",
+      "role": "Minister Secretary-General of Government",
+      "party": "PCCh",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Luis Cordero Vega",
+      "gender": "M",
+      "role": "Minister of Justice and Human Rights",
+      "party": "IND",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Jeannette Jara Román",
+      "gender": "F",
+      "role": "Minister of Labor and Social Welfare",
+      "party": "PCCh",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Javiera Toro Cáceres",
+      "gender": "F",
+      "role": "Minister of Social Development and Family",
+      "party": "COM",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Carlos Montes Cisternas",
+      "gender": "M",
+      "role": "Minister of Housing and Urbanism",
+      "party": "PS",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Nicolás Grau Veloso",
+      "gender": "M",
+      "role": "Minister of Economy, Development and Tourism",
+      "party": "CS",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Ximena Aguilera Sanhueza",
+      "gender": "F",
+      "role": "Minister of Health",
+      "party": "IND",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Nicolás Cataldo Astorga",
+      "gender": "M",
+      "role": "Minister of Education",
+      "party": "PCCh",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Esteban Valenzuela Van Treek",
+      "gender": "M",
+      "role": "Minister of Agriculture",
+      "party": "FRVS",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Jessica López Saffie",
+      "gender": "F",
+      "role": "Minister of Public Works",
+      "party": "IND",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Juan Carlos Muñoz Abogabir",
+      "gender": "M",
+      "role": "Minister of Transport and Telecommunications",
+      "party": "IND",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Aurora Williams Baussa",
+      "gender": "F",
+      "role": "Minister of Mining",
+      "party": "PR",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Diego Pardow Lorenzo",
+      "gender": "M",
+      "role": "Minister of Energy",
+      "party": "CS",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Maisa Rojas Corradi",
+      "gender": "F",
+      "role": "Minister of the Environment",
+      "party": "IND",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Antonia Orellana Guarello",
+      "gender": "F",
+      "role": "Minister of Women and Gender Equity",
+      "party": "CS",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Carolina Arredondo Marzán",
+      "gender": "F",
+      "role": "Minister of Cultures, Arts and Heritage",
+      "party": "IND",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Aisén Etcheverry Belmonte",
+      "gender": "F",
+      "role": "Minister of Science, Technology, Knowledge and Innovation",
+      "party": "IND",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Jaime Pizarro Herrera",
+      "gender": "M",
+      "role": "Minister of Sports",
+      "party": "IND",
+      "salary": { "gross": 98770, "net": null }
+    },
+    {
+      "name": "Marcela Sandoval Osorio",
+      "gender": "F",
+      "role": "Minister of National Assets",
+      "party": "RD",
+      "salary": { "gross": 98770, "net": null }
+    }
+  ],
   "deputies": [],
-  "senate": [],
-  "parties": {}
+  "senate": [
+    {
+      "name": "José Miguel Insulza",
+      "gender": "M",
+      "district": "Arica y Parinacota",
+      "party": "PS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "José Miguel Durana",
+      "gender": "M",
+      "district": "Arica y Parinacota",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Jorge Soria Quiroga",
+      "gender": "M",
+      "district": "Tarapacá",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Luz Ebensperger Orrego",
+      "gender": "F",
+      "district": "Tarapacá",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Esteban Velásquez Núñez",
+      "gender": "M",
+      "district": "Antofagasta",
+      "party": "FRVS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Pedro Araya Guerrero",
+      "gender": "M",
+      "district": "Antofagasta",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Paulina Núñez Urrutia",
+      "gender": "F",
+      "district": "Antofagasta",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Yasna Provoste Campillay",
+      "gender": "F",
+      "district": "Atacama",
+      "party": "DC",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Rafael Prohens Espinosa",
+      "gender": "M",
+      "district": "Atacama",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Jorge Pizarro Soto",
+      "gender": "M",
+      "district": "Coquimbo",
+      "party": "DC",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Adriana Muñoz D'Albora",
+      "gender": "F",
+      "district": "Coquimbo",
+      "party": "PPD",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Daniel Núñez Arancibia",
+      "gender": "M",
+      "district": "Coquimbo",
+      "party": "PCCh",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Sergio Gahona Salazar",
+      "gender": "M",
+      "district": "Coquimbo",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Matías Walker Prieto",
+      "gender": "M",
+      "district": "Coquimbo",
+      "party": "DEM",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Isabel Allende Bussi",
+      "gender": "F",
+      "district": "Valparaíso",
+      "party": "PS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Ricardo Lagos Weber",
+      "gender": "M",
+      "district": "Valparaíso",
+      "party": "PPD",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Juan Ignacio Latorre Riveros",
+      "gender": "M",
+      "district": "Valparaíso",
+      "party": "RD",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Francisco Chahuán Chahuán",
+      "gender": "M",
+      "district": "Valparaíso",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Kenneth Pugh Olavarría",
+      "gender": "M",
+      "district": "Valparaíso",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Manuel José Ossandón Irarrázabal",
+      "gender": "M",
+      "district": "Región Metropolitana",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Fabiola Campillai Rojas",
+      "gender": "F",
+      "district": "Región Metropolitana",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Rojo Edwards Silva",
+      "gender": "M",
+      "district": "Región Metropolitana",
+      "party": "REP",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Claudia Pascual Grau",
+      "gender": "F",
+      "district": "Región Metropolitana",
+      "party": "PCCh",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Luciano Cruz-Coke Carvallo",
+      "gender": "M",
+      "district": "Región Metropolitana",
+      "party": "EVO",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Juan Luis Castro González",
+      "gender": "M",
+      "district": "O'Higgins",
+      "party": "PS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Alejandro García-Huidobro Sanfuentes",
+      "gender": "M",
+      "district": "O'Higgins",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Juan Antonio Coloma Correa",
+      "gender": "M",
+      "district": "Maule",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Rodrigo Galilea Vial",
+      "gender": "M",
+      "district": "Maule",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Juan Castro Prieto",
+      "gender": "M",
+      "district": "Maule",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Ximena Rincón González",
+      "gender": "F",
+      "district": "Maule",
+      "party": "DEM",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Paulina Vodanovic Prieto",
+      "gender": "F",
+      "district": "Maule",
+      "party": "PS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Loreto Carvajal Ambiado",
+      "gender": "F",
+      "district": "Ñuble",
+      "party": "PPD",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Gustavo Sanhueza Dueñas",
+      "gender": "M",
+      "district": "Ñuble",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Enrique van Rysselberghe Herrera",
+      "gender": "M",
+      "district": "Biobío",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Sebastián Keitel Bianchi",
+      "gender": "M",
+      "district": "Biobío",
+      "party": "EVO",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Gastón Saavedra Chandía",
+      "gender": "M",
+      "district": "Biobío",
+      "party": "PS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Felipe Kast Sommerhoff",
+      "gender": "M",
+      "district": "La Araucanía",
+      "party": "EVO",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "José García Ruminot",
+      "gender": "M",
+      "district": "La Araucanía",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Carmen Gloria Aravena Acuña",
+      "gender": "F",
+      "district": "La Araucanía",
+      "party": "REP",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Jaime Quintana Leal",
+      "gender": "M",
+      "district": "La Araucanía",
+      "party": "PPD",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Francisco Huenchumilla Jaramillo",
+      "gender": "M",
+      "district": "La Araucanía",
+      "party": "DC",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Alfonso De Urresti Longton",
+      "gender": "M",
+      "district": "Los Ríos",
+      "party": "PS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "María José Gatica Bertín",
+      "gender": "F",
+      "district": "Los Ríos",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Fidel Espinoza Sandoval",
+      "gender": "M",
+      "district": "Los Lagos",
+      "party": "PS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Iván Moreira Barros",
+      "gender": "M",
+      "district": "Los Lagos",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Carlos Kuschel Silva",
+      "gender": "M",
+      "district": "Los Lagos",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "David Sandoval Plaza",
+      "gender": "M",
+      "district": "Aysén",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Ximena Órdenes Neira",
+      "gender": "F",
+      "district": "Aysén",
+      "party": "PPD",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Karim Bianchi Retamales",
+      "gender": "M",
+      "district": "Magallanes",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Alejandro Kusanovic Glusevic",
+      "gender": "M",
+      "district": "Magallanes",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    }
+  ],
+  "parties": {
+    "CS": {
+      "name": "Convergencia Social",
+      "en": "Social Convergence",
+      "range": 2,
+      "color": "#FD5332"
+    },
+    "PPD": {
+      "name": "Partido por la Democracia",
+      "en": "Party for Democracy",
+      "range": 3,
+      "color": "#F9A01B"
+    },
+    "PS": {
+      "name": "Partido Socialista de Chile",
+      "en": "Socialist Party of Chile",
+      "range": 2,
+      "color": "#E10019"
+    },
+    "PCCh": {
+      "name": "Partido Comunista de Chile",
+      "en": "Communist Party of Chile",
+      "range": 1,
+      "color": "#C8102E"
+    },
+    "IND": {
+      "name": "Independiente",
+      "en": "Independent",
+      "range": 3,
+      "color": "#6E6E6E"
+    },
+    "COM": {
+      "name": "Comunes",
+      "en": "Commons",
+      "range": 2,
+      "color": "#A73489"
+    },
+    "FRVS": {
+      "name": "Federación Regionalista Verde Social",
+      "en": "Social Green Regionalist Federation",
+      "range": 2,
+      "color": "#6CC24A"
+    },
+    "PR": {
+      "name": "Partido Radical de Chile",
+      "en": "Radical Party of Chile",
+      "range": 3,
+      "color": "#8A1538"
+    },
+    "RD": {
+      "name": "Revolución Democrática",
+      "en": "Democratic Revolution",
+      "range": 2,
+      "color": "#47B5E7"
+    },
+    "UDI": {
+      "name": "Unión Demócrata Independiente",
+      "en": "Independent Democratic Union",
+      "range": 5,
+      "color": "#1B4E9B"
+    },
+    "RN": {
+      "name": "Renovación Nacional",
+      "en": "National Renewal",
+      "range": 4,
+      "color": "#00559F"
+    },
+    "DC": {
+      "name": "Partido Demócrata Cristiano",
+      "en": "Christian Democratic Party",
+      "range": 3,
+      "color": "#00923F"
+    },
+    "EVO": {
+      "name": "Evópoli",
+      "en": "Political Evolution",
+      "range": 4,
+      "color": "#00A7E3"
+    },
+    "REP": {
+      "name": "Partido Republicano de Chile",
+      "en": "Republican Party of Chile",
+      "range": 5,
+      "color": "#8B0000"
+    },
+    "DEM": {
+      "name": "Partido Demócratas",
+      "en": "Democrats Party",
+      "range": 3,
+      "color": "#005AA7"
+    }
+  }
 }
