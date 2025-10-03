@@ -119,6 +119,7 @@
       "name": "Karsten Wildberger",
       "gender": "M",
       "portfolio": "Minister of Digitalization and State Modernization",
+      "party": "FDP",
       "salary": { "gross": 215306, "net": null }
     },
     {
@@ -129,7 +130,106 @@
       "salary": { "gross": 215306, "net": null }
     }
   ],
-  "deputies": [],
+  "deputies": [
+    {
+      "name": "Yvonne Magwas",
+      "gender": "F",
+      "party": "CDU",
+      "district": "Chemnitzer Umland – Erzgebirgskreis II",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Thorsten Frei",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Rottweil – Tuttlingen",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Jens Spahn",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Steinfurt I – Borken I",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Rolf Mützenich",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Köln I",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Katja Mast",
+      "gender": "F",
+      "party": "SPD",
+      "district": "Baden-Württemberg (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Kevin Kühnert",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Berlin-Tempelhof-Schöneberg",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Katharina Dröge",
+      "gender": "F",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "Köln II",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Britta Haßelmann",
+      "gender": "F",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "Nordrhein-Westfalen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Christian Dürr",
+      "gender": "M",
+      "party": "FDP",
+      "district": "Niedersachsen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Marie-Agnes Strack-Zimmermann",
+      "gender": "F",
+      "party": "FDP",
+      "district": "Düsseldorf I",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Sahra Wagenknecht",
+      "gender": "F",
+      "party": "BSW",
+      "district": "Nordrhein-Westfalen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Amira Mohamed Ali",
+      "gender": "F",
+      "party": "BSW",
+      "district": "Niedersachsen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Dietmar Bartsch",
+      "gender": "M",
+      "party": "Die Linke",
+      "district": "Mecklenburgische Seenplatte I – Vorpommern-Greifswald II",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Caren Lay",
+      "gender": "F",
+      "party": "Die Linke",
+      "district": "Sachsen (List)",
+      "salary": { "gross": 127092, "net": null }
+    }
+  ],
   "senate": [
     {
       "name": "Doris Ahnen",
@@ -565,6 +665,36 @@
       "en": "Social Democratic Party of Germany",
       "range": 2,
       "color": "#E3000F"
+    },
+    "Bündnis 90/Die Grünen": {
+      "name": "Bündnis 90/Die Grünen",
+      "en": "Alliance 90/The Greens",
+      "range": 1,
+      "color": "#1C9B4C"
+    },
+    "FDP": {
+      "name": "Freie Demokratische Partei",
+      "en": "Free Democratic Party",
+      "range": 3,
+      "color": "#FFED00"
+    },
+    "Die Linke": {
+      "name": "Die Linke",
+      "en": "The Left",
+      "range": 1,
+      "color": "#BE3075"
+    },
+    "BSW": {
+      "name": "Bündnis Sahra Wagenknecht",
+      "en": "Sahra Wagenknecht Alliance",
+      "range": 1,
+      "color": "#009E9B"
+    },
+    "Freie Wähler": {
+      "name": "Freie Wähler",
+      "en": "Free Voters",
+      "range": 3,
+      "color": "#F28C00"
     }
   }
 }
