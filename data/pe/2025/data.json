@@ -201,48 +201,70 @@
       "district": "Lima",
       "party": "AvP",
       "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "Kelly Portalatino Ávalos",
+      "gender": "F",
+      "district": "Lima",
+      "party": "PL",
+      "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "Edward Málaga Trillo",
+      "gender": "M",
+      "district": "Lima",
+      "party": "IND",
+      "salary": { "gross": 64000, "net": 44800 }
     }
   ],
   "senate": [],
   "parties": {
     "APP": {
       "name": "Alianza para el Progreso",
+      "en": "Alliance for Progress",
       "range": 3,
       "color": "#0073CF"
     },
     "PL": {
       "name": "Perú Libre",
+      "en": "Free Peru",
       "range": 1,
       "color": "#E53935"
     },
     "FP": {
       "name": "Fuerza Popular",
+      "en": "Popular Force",
       "range": 4,
       "color": "#FF7F00"
     },
     "RP": {
       "name": "Renovación Popular",
+      "en": "Popular Renewal",
       "range": 5,
       "color": "#003F87"
     },
     "AP": {
       "name": "Acción Popular",
+      "en": "Popular Action",
       "range": 2,
       "color": "#FFD700"
     },
     "AvP": {
       "name": "Avanza País",
+      "en": "Forward Country",
       "range": 3,
       "color": "#009688"
     },
     "CD": {
       "name": "Cambio Democrático - Juntos por el Perú",
+      "en": "Democratic Change - Together for Peru",
       "range": 2,
       "color": "#7B1FA2"
     },
     "IND": {
-      "name": "Independent",
-      "range": 0,
+      "name": "Independiente",
+      "en": "Independent",
+      "range": 3,
       "color": "#666666"
     }
   }
