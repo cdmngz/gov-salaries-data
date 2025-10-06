@@ -102,10 +102,30 @@
       "salary": { "gross": null, "net": null }
     }
   ],
-  "legislature": {
-    "senate": [],
-    "house": []
-  },
+  "deputies": [
+    {
+      "name": "Juan Carlos Wills Ospina",
+      "gender": "M",
+      "party": "PC",
+      "district": "Bogotá D.C.",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Wilmer Carrillo Mendoza",
+      "gender": "M",
+      "party": "PU",
+      "district": "Norte de Santander",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Martha Alfonso Jurado",
+      "gender": "F",
+      "party": "AV",
+      "district": "Tolima",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "senate": [],
   "officials": [
     {
       "name": "Luz Adriana Camargo",
@@ -138,6 +158,24 @@
       "en": "Independent",
       "range": 4,
       "color": "#666666"
+    },
+    "PC": {
+      "name": "Partido Conservador Colombiano",
+      "en": "Colombian Conservative Party",
+      "range": 4,
+      "color": "#0033A0"
+    },
+    "PU": {
+      "name": "Partido de la U",
+      "en": "Social Party of National Unity",
+      "range": 3,
+      "color": "#F6A800"
+    },
+    "AV": {
+      "name": "Partido Alianza Verde",
+      "en": "Green Alliance Party",
+      "range": 2,
+      "color": "#6CC24A"
     }
   }
 }
