@@ -49,31 +49,6 @@ Each dataset is organized by:
 
 ---
 
-## 🌍 Supported Countries
-
-- 🇦🇷 Argentina (`/ar`)
-- 🇨🇴 Colombia (`/co`)
-- 🇪🇪 Estonia (`/ee`)
-- 🇫🇷 France (`/fr`)
-- 🇩🇪 Germany (`/de`)
-- 🇱🇮 Liechtenstein (`/li`)
-- 🇱🇺 Luxembourg (`/lu`)
-- 🇳🇵 Nepal (`/np`)
-- 🇲🇨 Monaco (`/mo`)
-- 🇲🇽 Mexico (`/mx`)
-- 🇳🇴 Norway (`/no`)
-- 🇷🇺 Russia (`/ru`)
-- 🇪🇸 Spain (`/es`)
-- 🇸🇻 El Salvador (`/sv`)
-- 🇸🇪 Sweden (`/se`)
-- 🇬🇧 United Kingdom (`/gb`)
-- 🇺🇸 United States (`/us`)
-- 🇺🇾 Uruguay (`/uy`)
-- 🇻🇪 Venezuela (`/ve`)
-- _(More can be added via pull requests)_
-
----
-
 ## 🤝 Contributing
 
 We welcome your help! To contribute:
