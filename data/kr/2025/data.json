@@ -1,0 +1,151 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Yoon Suk Yeol",
+      "gender": "M",
+      "role": "President of the Republic of Korea",
+      "party": "PPP",
+      "salary": { "gross": 185000, "net": 130000 }
+    },
+    {
+      "name": "Han Duck-soo",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "IND",
+      "salary": { "gross": 138000, "net": 98000 }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Choi Sang-mok",
+      "gender": "M",
+      "portfolio": "Minister of Economy and Finance",
+      "party": "IND",
+      "salary": { "gross": 108000, "net": 76000 },
+      "budget": 470000000000
+    },
+    {
+      "name": "Cho Tae-yul",
+      "gender": "M",
+      "portfolio": "Minister of Foreign Affairs",
+      "party": "PPP",
+      "salary": { "gross": 106000, "net": 74000 },
+      "budget": 6000000000
+    },
+    {
+      "name": "Shin Won-sik",
+      "gender": "M",
+      "portfolio": "Minister of National Defense",
+      "party": "PPP",
+      "salary": { "gross": 109000, "net": 77000 },
+      "budget": 52000000000
+    },
+    {
+      "name": "Ahn Duk-geun",
+      "gender": "M",
+      "portfolio": "Minister of Trade, Industry and Energy",
+      "party": "PPP",
+      "salary": { "gross": 105000, "net": 73000 },
+      "budget": 19000000000
+    },
+    {
+      "name": "Oh Young-joo",
+      "gender": "F",
+      "portfolio": "Minister of SMEs and Startups",
+      "party": "PPP",
+      "salary": { "gross": 102000, "net": 71000 },
+      "budget": 8500000000
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Woo Won-shik",
+      "gender": "M",
+      "role": "Speaker of the National Assembly",
+      "party": "DPK",
+      "district": "Seoul Nowon-B",
+      "salary": { "gross": 140000, "net": 96000 }
+    },
+    {
+      "name": "Yun Jae-ok",
+      "gender": "M",
+      "role": "Floor Leader, People Power Party",
+      "party": "PPP",
+      "district": "Daegu Dalseo",
+      "salary": { "gross": 128000, "net": 88000 }
+    },
+    {
+      "name": "Hong Ihk-pyo",
+      "gender": "M",
+      "role": "Floor Leader, Democratic Party",
+      "party": "DPK",
+      "district": "Seoul Seongdong-B",
+      "salary": { "gross": 128000, "net": 88000 }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Cho Hee-dae",
+      "gender": "M",
+      "role": "Chief Justice of the Supreme Court",
+      "party": "IND",
+      "salary": { "gross": 210000, "net": 145000 }
+    },
+    {
+      "name": "Lee One-seok",
+      "gender": "M",
+      "role": "Chief Prosecutor, Supreme Prosecutors' Office",
+      "party": "IND",
+      "salary": { "gross": 172000, "net": 118000 }
+    },
+    {
+      "name": "Ko Eun-jeong",
+      "gender": "F",
+      "role": "Justice of the Constitutional Court",
+      "party": "IND",
+      "salary": { "gross": 165000, "net": 113000 }
+    },
+    {
+      "name": "Rhee Chang-yong",
+      "gender": "M",
+      "role": "Governor, Bank of Korea",
+      "party": "IND",
+      "salary": { "gross": 250000, "net": 170000 }
+    },
+    {
+      "name": "Yoon Tae-sik",
+      "gender": "M",
+      "role": "Commissioner, Korea Customs Service",
+      "party": "IND",
+      "salary": { "gross": 98000, "net": 68000 }
+    },
+    {
+      "name": "Lee Seong-ho",
+      "gender": "M",
+      "role": "Administrator, National Tax Service",
+      "party": "IND",
+      "salary": { "gross": 112000, "net": 78000 }
+    }
+  ],
+  "parties": {
+    "PPP": {
+      "name": "국민의힘",
+      "en": "People Power Party",
+      "range": 4,
+      "color": "#E61E2B"
+    },
+    "DPK": {
+      "name": "더불어민주당",
+      "en": "Democratic Party of Korea",
+      "range": 2,
+      "color": "#00A4E4"
+    },
+    "IND": {
+      "name": "무소속",
+      "en": "Independent",
+      "range": 3,
+      "color": "#808080"
+    }
+  }
+}
