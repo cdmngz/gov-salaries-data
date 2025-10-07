@@ -1,0 +1,167 @@
+{
+  "baseCurrency": "AED",
+  "royalty": [
+    {
+      "name": "Mohammed bin Rashid Al Maktoum",
+      "gender": "M",
+      "role": "Ruler of Dubai; Vice President and Prime Minister of the UAE",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Hamdan bin Mohammed bin Rashid Al Maktoum",
+      "gender": "M",
+      "role": "Crown Prince of Dubai; Chairman of the Executive Council",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Maktoum bin Mohammed bin Rashid Al Maktoum",
+      "gender": "M",
+      "role": "First Deputy Ruler of Dubai; Deputy Prime Minister and Minister of Finance of the UAE",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Ahmed bin Mohammed bin Rashid Al Maktoum",
+      "gender": "M",
+      "role": "Second Deputy Ruler of Dubai; Chairman of the Dubai Media Council",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "executive": [
+    {
+      "name": "Abdulla Mohammed Al Basti",
+      "gender": "M",
+      "role": "Secretary General of the Executive Council of Dubai",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Sheikh Mansoor bin Mohammed bin Rashid Al Maktoum",
+      "gender": "M",
+      "role": "Chairman of the Dubai Sports Council; Member of the Executive Council",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Mattar Mohammed Al Tayer",
+      "gender": "M",
+      "portfolio": "Dubai Roads and Transport Authority",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Lieutenant General Abdullah Khalifa Al Marri",
+      "gender": "M",
+      "portfolio": "Dubai Police",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Talal Humaid Belhoul Al Falasi",
+      "gender": "M",
+      "portfolio": "Dubai State Security Department",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Dawood Abdulrahman Al Hajri",
+      "gender": "M",
+      "portfolio": "Dubai Municipality",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Helal Saeed Al Marri",
+      "gender": "M",
+      "portfolio": "Dubai Department of Economy and Tourism",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Mona Ghanem Al Marri",
+      "gender": "F",
+      "portfolio": "Dubai Government Media Office",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [
+    {
+      "name": "Ahmed bin Saeed Al Maktoum",
+      "gender": "M",
+      "role": "President of the Dubai Civil Aviation Authority; Chairman of Emirates Group",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Hessa bint Essa Buhumaid",
+      "gender": "F",
+      "role": "Director General of the Community Development Authority",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Saeed Mohammed Al Tayer",
+      "gender": "M",
+      "role": "Managing Director and CEO of Dubai Electricity and Water Authority",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "parties": {
+    "IND": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 3,
+      "color": "#808080"
+    }
+  }
+}
