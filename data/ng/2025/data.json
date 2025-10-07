@@ -1,0 +1,136 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Bola Ahmed Tinubu",
+      "gender": "M",
+      "role": "President of the Federal Republic of Nigeria",
+      "party": "APC",
+      "salary": {
+        "gross": 15620.91
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Kashim Shettima",
+      "gender": "M",
+      "role": "Vice President of the Federal Republic of Nigeria",
+      "party": "APC",
+      "salary": {
+        "gross": 13473.66
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Wale Edun",
+      "gender": "M",
+      "role": "Minister of Finance and Coordinating Minister of the Economy",
+      "party": "APC",
+      "salary": {
+        "gross": 8668.49
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Yusuf Maitama Tuggar",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "APC",
+      "salary": {
+        "gross": 8668.49
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Olubunmi Tunji-Ojo",
+      "gender": "M",
+      "role": "Minister of Interior",
+      "party": "APC",
+      "salary": {
+        "gross": 8668.49
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Muhammad Ali Pate",
+      "gender": "M",
+      "role": "Coordinating Minister of Health and Social Welfare",
+      "party": "APC",
+      "salary": {
+        "gross": 8668.49
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Tahir Mamman",
+      "gender": "M",
+      "role": "Minister of Education",
+      "party": "APC",
+      "salary": {
+        "gross": 8668.49
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "APC": {
+      "name": "All Progressives Congress",
+      "en": "All Progressives Congress",
+      "range": 1,
+      "color": "#0A5D2A"
+    }
+  }
+}
