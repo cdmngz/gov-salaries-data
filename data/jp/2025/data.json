@@ -1,0 +1,177 @@
+{
+  "baseCurrency": "JPY",
+  "executive": [
+    {
+      "name": "Fumio Kishida",
+      "gender": "M",
+      "role": "Prime Minister of Japan",
+      "party": "LDP",
+      "salary": { "gross": 40650000, "net": 30600000 }
+    },
+    {
+      "name": "Taro Aso",
+      "gender": "M",
+      "role": "Deputy Prime Minister of Japan",
+      "party": "LDP",
+      "salary": { "gross": 39300000, "net": 29500000 }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Yoko Kamikawa",
+      "gender": "F",
+      "role": "Minister for Foreign Affairs",
+      "party": "LDP",
+      "salary": { "gross": 29900000, "net": 23000000 }
+    },
+    {
+      "name": "Shunichi Suzuki",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "LDP",
+      "salary": { "gross": 29900000, "net": 23000000 }
+    },
+    {
+      "name": "Ken Saito",
+      "gender": "M",
+      "role": "Minister of Economy, Trade and Industry",
+      "party": "LDP",
+      "salary": { "gross": 29900000, "net": 23000000 }
+    },
+    {
+      "name": "Sanae Takaichi",
+      "gender": "F",
+      "role": "Minister in charge of Economic Security",
+      "party": "LDP",
+      "salary": { "gross": 29900000, "net": 23000000 }
+    },
+    {
+      "name": "Keiko Nagaoka",
+      "gender": "F",
+      "role": "Minister of Education, Culture, Sports, Science and Technology",
+      "party": "LDP",
+      "salary": { "gross": 29900000, "net": 23000000 }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Hiroyuki Hosoda",
+      "gender": "M",
+      "district": "Shimane 1st District",
+      "party": "LDP",
+      "salary": { "gross": 20500000, "net": 15500000 }
+    },
+    {
+      "name": "Kenta Izumi",
+      "gender": "M",
+      "district": "Kyoto 3rd District",
+      "party": "CDP",
+      "salary": { "gross": 20500000, "net": 15500000 }
+    },
+    {
+      "name": "Natsuo Yamaguchi",
+      "gender": "M",
+      "district": "Nationwide Proportional Representation",
+      "party": "Komeito",
+      "salary": { "gross": 20500000, "net": 15500000 }
+    },
+    {
+      "name": "Akiko Kamei",
+      "gender": "F",
+      "district": "Tottori 1st District",
+      "party": "CDP",
+      "salary": { "gross": 20500000, "net": 15500000 }
+    },
+    {
+      "name": "Daishiro Yamagiwa",
+      "gender": "M",
+      "district": "Kanagawa 18th District",
+      "party": "LDP",
+      "salary": { "gross": 20500000, "net": 15500000 }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Hiroshige Seko",
+      "gender": "M",
+      "prefecture": "Wakayama at-large",
+      "party": "LDP",
+      "salary": { "gross": 20500000, "net": 15500000 }
+    },
+    {
+      "name": "Renho Murata",
+      "gender": "F",
+      "prefecture": "Tokyo at-large",
+      "party": "CDP",
+      "salary": { "gross": 20500000, "net": 15500000 }
+    },
+    {
+      "name": "Mitsuo Matayoshi",
+      "gender": "M",
+      "prefecture": "Okinawa at-large",
+      "party": "Okinawa",
+      "salary": { "gross": 20500000, "net": 15500000 }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Yoshimasa Hayashi",
+      "gender": "M",
+      "role": "Chief Cabinet Secretary",
+      "party": "LDP",
+      "salary": { "gross": 32000000, "net": 24000000 }
+    },
+    {
+      "name": "Tarō Kōno",
+      "gender": "M",
+      "role": "Minister for Digital Transformation",
+      "party": "LDP",
+      "salary": { "gross": 29900000, "net": 23000000 }
+    },
+    {
+      "name": "Seiko Noda",
+      "gender": "F",
+      "role": "Special Advisor to the Prime Minister",
+      "party": "LDP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "parties": {
+    "LDP": {
+      "name": "Liberal Democratic Party",
+      "en": "Liberal Democratic Party",
+      "range": 4,
+      "color": "#006E3A"
+    },
+    "Komeito": {
+      "name": "Komeito",
+      "en": "Komeito",
+      "range": 3,
+      "color": "#1E88E5"
+    },
+    "CDP": {
+      "name": "Rikken Minshutō",
+      "en": "Constitutional Democratic Party of Japan",
+      "range": 2,
+      "color": "#004098"
+    },
+    "JCP": {
+      "name": "Nihon Kyōsantō",
+      "en": "Japanese Communist Party",
+      "range": 1,
+      "color": "#C60026"
+    },
+    "Ishin": {
+      "name": "Nippon Ishin no Kai",
+      "en": "Japan Innovation Party",
+      "range": 3,
+      "color": "#009B3A"
+    },
+    "Okinawa": {
+      "name": "Shimagurumi Kaigi",
+      "en": "All-Okinawa Coalition",
+      "range": 2,
+      "color": "#FF8C00"
+    }
+  }
+}
