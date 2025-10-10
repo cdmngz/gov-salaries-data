@@ -1,0 +1,172 @@
+{
+  "baseCurrency": "USD",
+  "royalty": [
+    {
+      "name": "Charles III",
+      "gender": "M",
+      "role": "King of New Zealand",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "New Zealand Government – Governor-General": "https://gg.govt.nz/role/governor-general"
+        }
+      ]
+    }
+  ],
+  "executive": [
+    {
+      "name": "Christopher Luxon",
+      "gender": "M",
+      "role": "Prime Minister of New Zealand",
+      "party": "National",
+      "salary": {
+        "gross": 290771,
+        "net": null
+      },
+      "sources": [
+        {
+          "Remuneration Authority – Parliamentary Salaries and Allowances Determination 2023": "https://www.legislation.govt.nz/regulation/public/2023/0250/latest/whole.html"
+        },
+        {
+          "Reserve Bank of New Zealand – Daily Exchange Rates (2 January 2025)": "https://www.rbnz.govt.nz/statistics/series/exchange-and-interest-rates/b1/daily-exchange-rates"
+        }
+      ]
+    },
+    {
+      "name": "Winston Peters",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Foreign Affairs",
+      "party": "NZFirst",
+      "salary": {
+        "gross": 206626,
+        "net": null
+      },
+      "sources": [
+        {
+          "Remuneration Authority – Parliamentary Salaries and Allowances Determination 2023": "https://www.legislation.govt.nz/regulation/public/2023/0250/latest/whole.html"
+        },
+        {
+          "Reserve Bank of New Zealand – Daily Exchange Rates (2 January 2025)": "https://www.rbnz.govt.nz/statistics/series/exchange-and-interest-rates/b1/daily-exchange-rates"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Nicola Willis",
+      "gender": "F",
+      "role": "Minister of Finance",
+      "party": "National",
+      "salary": {
+        "gross": 182720,
+        "net": null
+      },
+      "sources": [
+        {
+          "Remuneration Authority – Parliamentary Salaries and Allowances Determination 2023": "https://www.legislation.govt.nz/regulation/public/2023/0250/latest/whole.html"
+        },
+        {
+          "Reserve Bank of New Zealand – Daily Exchange Rates (2 January 2025)": "https://www.rbnz.govt.nz/statistics/series/exchange-and-interest-rates/b1/daily-exchange-rates"
+        }
+      ]
+    },
+    {
+      "name": "David Seymour",
+      "gender": "M",
+      "role": "Minister for Regulation",
+      "party": "ACT",
+      "salary": {
+        "gross": 182720,
+        "net": null
+      },
+      "sources": [
+        {
+          "Remuneration Authority – Parliamentary Salaries and Allowances Determination 2023": "https://www.legislation.govt.nz/regulation/public/2023/0250/latest/whole.html"
+        },
+        {
+          "Reserve Bank of New Zealand – Daily Exchange Rates (2 January 2025)": "https://www.rbnz.govt.nz/statistics/series/exchange-and-interest-rates/b1/daily-exchange-rates"
+        }
+      ]
+    },
+    {
+      "name": "Judith Collins",
+      "gender": "F",
+      "role": "Attorney-General",
+      "party": "National",
+      "salary": {
+        "gross": 182720,
+        "net": null
+      },
+      "sources": [
+        {
+          "Remuneration Authority – Parliamentary Salaries and Allowances Determination 2023": "https://www.legislation.govt.nz/regulation/public/2023/0250/latest/whole.html"
+        },
+        {
+          "Reserve Bank of New Zealand – Daily Exchange Rates (2 January 2025)": "https://www.rbnz.govt.nz/statistics/series/exchange-and-interest-rates/b1/daily-exchange-rates"
+        }
+      ]
+    },
+    {
+      "name": "Shane Jones",
+      "gender": "M",
+      "role": "Minister for Regional Development",
+      "party": "NZFirst",
+      "salary": {
+        "gross": 182720,
+        "net": null
+      },
+      "sources": [
+        {
+          "Remuneration Authority – Parliamentary Salaries and Allowances Determination 2023": "https://www.legislation.govt.nz/regulation/public/2023/0250/latest/whole.html"
+        },
+        {
+          "Reserve Bank of New Zealand – Daily Exchange Rates (2 January 2025)": "https://www.rbnz.govt.nz/statistics/series/exchange-and-interest-rates/b1/daily-exchange-rates"
+        }
+      ]
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "National": {
+      "name": "New Zealand National Party",
+      "en": "National Party",
+      "range": 2,
+      "color": "#00529F"
+    },
+    "Labour": {
+      "name": "New Zealand Labour Party",
+      "en": "Labour Party",
+      "range": 2,
+      "color": "#D82A20"
+    },
+    "ACT": {
+      "name": "ACT New Zealand",
+      "en": "ACT New Zealand",
+      "range": 3,
+      "color": "#FFD100"
+    },
+    "NZFirst": {
+      "name": "New Zealand First",
+      "en": "New Zealand First",
+      "range": 1,
+      "color": "#000000"
+    },
+    "Green": {
+      "name": "Green Party of Aotearoa New Zealand",
+      "en": "Green Party",
+      "range": 1,
+      "color": "#098137"
+    },
+    "TPM": {
+      "name": "Te Pāti Māori",
+      "en": "Māori Party",
+      "range": 1,
+      "color": "#E30022"
+    }
+  }
+}
