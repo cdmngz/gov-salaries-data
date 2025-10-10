@@ -1,0 +1,21 @@
+{
+  "baseCurrency": "USD",
+  "GDP": 31450000000,
+  "GDPPerCapita": 1640,
+  "minAnnualSalary": 1280,
+  "timestamp": "2025-08-10T00:00:00Z",
+  "rates": {
+    "XOF": 603.15,
+    "XAF": 603.15,
+    "EUR": 0.91,
+    "GBP": 0.78,
+    "CAD": 1.34,
+    "CNY": 7.12,
+    "JPY": 148.2,
+    "AUD": 1.5,
+    "ZAR": 17.6,
+    "NGN": 1530.0,
+    "GHS": 15.2,
+    "MAD": 9.8
+  }
+}
