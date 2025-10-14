@@ -1,0 +1,119 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Emmerson Dambudzo Mnangagwa",
+      "gender": "M",
+      "role": "President of the Republic of Zimbabwe",
+      "party": "ZANU-PF",
+      "salary": { "gross": null }
+    },
+    {
+      "name": "Constantino Guveya Dominic Nyikadzino Chiwenga",
+      "gender": "M",
+      "role": "Vice President of Zimbabwe",
+      "party": "ZANU-PF",
+      "salary": { "gross": null }
+    },
+    {
+      "name": "Kembo Dugish Campbell Mohadi",
+      "gender": "M",
+      "role": "Vice President of Zimbabwe",
+      "party": "ZANU-PF",
+      "salary": { "gross": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Mthuli Ncube",
+      "gender": "M",
+      "role": "Minister of Finance and Investment Promotion",
+      "party": "ZANU-PF",
+      "salary": { "gross": null }
+    },
+    {
+      "name": "Frederick Makamure Shava",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs and International Trade",
+      "party": "ZANU-PF",
+      "salary": { "gross": null }
+    },
+    {
+      "name": "Oppah Muchinguri-Kashiri",
+      "gender": "F",
+      "role": "Minister of Defence",
+      "party": "ZANU-PF",
+      "salary": { "gross": null }
+    },
+    {
+      "name": "Kazembe Raymond Kazembe",
+      "gender": "M",
+      "role": "Minister of Home Affairs and Cultural Heritage",
+      "party": "ZANU-PF",
+      "salary": { "gross": null }
+    },
+    {
+      "name": "July Moyo",
+      "gender": "M",
+      "role": "Minister of Local Government and Public Works",
+      "party": "ZANU-PF",
+      "salary": { "gross": null }
+    },
+    {
+      "name": "Douglas Mombeshora",
+      "gender": "M",
+      "role": "Minister of Health and Child Care",
+      "party": "ZANU-PF",
+      "salary": { "gross": null }
+    },
+    {
+      "name": "Sithembiso Nyoni",
+      "gender": "F",
+      "role": "Minister of Industry and Commerce",
+      "party": "ZANU-PF",
+      "salary": { "gross": null }
+    },
+    {
+      "name": "Zhemu Soda",
+      "gender": "M",
+      "role": "Minister of Energy and Power Development",
+      "party": "ZANU-PF",
+      "salary": { "gross": null }
+    },
+    {
+      "name": "Torerai Moyo",
+      "gender": "M",
+      "role": "Minister of Primary and Secondary Education",
+      "party": "ZANU-PF",
+      "salary": { "gross": null }
+    },
+    {
+      "name": "Amon Murwira",
+      "gender": "M",
+      "role": "Minister of Higher and Tertiary Education, Innovation, Science and Technology Development",
+      "party": "ZANU-PF",
+      "salary": { "gross": null }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Mabel Chinomona",
+      "gender": "F",
+      "role": "President of the Senate",
+      "party": "ZANU-PF",
+      "salary": { "gross": null }
+    }
+  ],
+  "parties": {
+    "ZANU-PF": {
+      "name": "Zimbabwe African National Union – Patriotic Front",
+      "range": 1,
+      "color": "#006400"
+    },
+    "CCC": {
+      "name": "Citizens Coalition for Change",
+      "range": 3,
+      "color": "#FFD200"
+    }
+  }
+}
