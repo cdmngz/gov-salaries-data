@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: Government salary API
-  version: 1.2.0
+  version: 1.2.1
 
 tags:
   - name: Country
@@ -31,6 +31,13 @@ paths:
       responses:
         "200":
           description: OK
+          headers:
+            ETag:
+              description: Entity tag for caching.
+              schema: { type: string }
+            Cache-Control:
+              description: Cache hints from CDN.
+              schema: { type: string }
           content:
             application/json:
               schema:
@@ -66,7 +73,7 @@ paths:
               description: Entity tag for caching.
               schema: { type: string }
             Cache-Control:
-              description: Cache hints from Pages/CDN.
+              description: Cache hints from CDN.
               schema: { type: string }
           content:
             application/json:
@@ -172,8 +179,199 @@ paths:
 
 components:
   schemas:
+    Rank:
+      type: integer
+      enum: [1, 2, 3, 4, 5]
+
+    PartyRangeCounts:
+      type: object
+      additionalProperties: false
+      properties:
+        "1": { type: integer, minimum: 0 }
+        "2": { type: integer, minimum: 0 }
+        "3": { type: integer, minimum: 0 }
+        "4": { type: integer, minimum: 0 }
+        "5": { type: integer, minimum: 0 }
+      required: ["1", "2", "3", "4", "5"]
+
+    PartyRangeStats:
+      type: object
+      description: Popularity of party political ranges (1=left to 5=right) among officials with a mapped party.
+      additionalProperties: false
+      properties:
+        counts:
+          $ref: "#/components/schemas/PartyRangeCounts"
+        mostPopularRanges:
+          type: array
+          items: { $ref: "#/components/schemas/Rank" }
+          uniqueItems: true
+        mostPopularCount:
+          type: integer
+          minimum: 0
+        totalCountedOfficials:
+          type: integer
+          minimum: 0
+          description: Officials that contributed to the 1..5 tally.
+        unaffiliatedCount:
+          type: integer
+          minimum: 0
+        unmappedPartyCount:
+          type: integer
+          minimum: 0
+      required:
+        - counts
+        - mostPopularRanges
+        - mostPopularCount
+        - totalCountedOfficials
+        - unaffiliatedCount
+        - unmappedPartyCount
+
+    PartyRangeSplitStats:
+      type: object
+      description: Party-range popularity split into executive vs the rest (ministers, senate, deputies, officials).
+      additionalProperties: false
+      properties:
+        executive:
+          $ref: "#/components/schemas/PartyRangeStats"
+        rest:
+          $ref: "#/components/schemas/PartyRangeStats"
+      required: [executive, rest]
+      example:
+        executive:
+          counts: { "1": 1, "2": 4, "3": 2, "4": 0, "5": 0 }
+          mostPopularRanges: [2]
+          mostPopularCount: 4
+          totalCountedOfficials: 7
+          unaffiliatedCount: 0
+          unmappedPartyCount: 1
+        rest:
+          counts: { "1": 3, "2": 12, "3": 7, "4": 2, "5": 0 }
+          mostPopularRanges: [2]
+          mostPopularCount: 12
+          totalCountedOfficials: 24
+          unaffiliatedCount: 2
+          unmappedPartyCount: 3
+
+    MinistersBlock:
+      type: object
+      additionalProperties: false
+      properties:
+        quantity:
+          type: integer
+          minimum: 0
+          description: Number of ministers.
+        budget:
+          type: number
+          minimum: 0
+          description: Annual ministerial budget converted to USD.
+      required: [quantity, budget]
+
+    ChamberBlock:
+      type: object
+      additionalProperties: false
+      properties:
+        quantity:
+          type: integer
+          minimum: 0
+          description: Number of seats.
+      required: [quantity]
+
+    Salary:
+      type: object
+      additionalProperties: false
+      properties:
+        gross:
+          type: number
+          description: Gross annual salary (same currency as net).
+        net:
+          type: number
+          description: Net annual salary.
+
+    Source:
+      type: object
+      description: Single source entry with exactly one label → value mapping.
+      minProperties: 1
+      maxProperties: 1
+      additionalProperties:
+        anyOf:
+          - type: number
+          - type: string
+          - type: string
+            format: uri
+      example:
+        pdf: https://example.com/file.pdf
+
+    Sources:
+      type: array
+      items: { $ref: "#/components/schemas/Source" }
+      example:
+        - pdf: https://example.com/salary.pdf
+        - bonus: 1200
+        - notes: "Declared report"
+
+    Official:
+      type: object
+      additionalProperties: false
+      properties:
+        name: { type: string }
+        gender:
+          type: string
+          enum: [M, F, X]
+        role: { type: string }
+        budget:
+          type: number
+          description: Annual ministerial budget.
+        district:
+          type: string
+          description: Localized/common district name.
+        party:
+          type: string
+          description: Optional party code; refers to an entry in `CountryData.parties`.
+        salary:
+          $ref: "#/components/schemas/Salary"
+        sources:
+          $ref: "#/components/schemas/Sources"
+      required: [name]
+
+    Parties:
+      type: object
+      description: Map of party code → metadata.
+      additionalProperties:
+        $ref: "#/components/schemas/Party"
+      example:
+        SPD:
+          name: Sozialdemokratische Partei
+          en: Social Democratic Party
+          range: 2
+          color: "#FF0000"
+        CDU:
+          name: Christlich Demokratische Union
+          en: Christian Democratic Union
+          range: 4
+          color: "#000000"
+
+    Party:
+      type: object
+      additionalProperties: false
+      required: [name, range, color]
+      properties:
+        name:
+          type: string
+          description: Localized/common name.
+        en:
+          type: string
+          description: English display name.
+        range:
+          $ref: "#/components/schemas/Rank"
+          description: Political wing level (1 → 5). 1 is the most left, 5 is the most right.
+        color:
+          type: string
+          description: Hex color code.
+          pattern: "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$"
+
     CountryData:
       type: object
+      additionalProperties: false
       required: [baseCurrency]
       properties:
         baseCurrency:
@@ -204,16 +402,15 @@ components:
     Rates:
       type: object
       description: Snapshot of currency exchange rates and macro figures for the base currency.
+      additionalProperties: false
       properties:
         baseCurrency:
           type: string
           description: ISO 4217 code or ticker symbol of the base currency (e.g., USD, EUR, BTC).
           pattern: "^[A-Z0-9]{3,5}$"
-          example: USD
         GDP:
           type: number
           description: Nominal GDP (last full year) for the base economy.
-          example: 1230000000000
         GDPPerCapita:
           type: number
           description: Nominal GDP per capita (last full year).
@@ -221,40 +418,19 @@ components:
           type: number
           description: Nominal gross minimum annual salary amount in the base currency's economy.
           minimum: 0
-          example: 15080
         timestamp:
           type: string
           format: date-time
           description: ISO 8601 timestamp when the snapshot was recorded.
-          example: "2025-07-31T00:00:00Z"
         rates:
           type: object
           description: Mapping of target currency code to its exchange rate per 1 unit of the base currency.
+          additionalProperties: false
           patternProperties:
             "^[A-Z0-9]{3,5}$":
               type: number
               description: Units of the target currency per 1 base currency unit.
-          additionalProperties: false
-          example:
-            AUD: 1.51
-            BRL: 5.2
-            BTC: 0.000016
-            CAD: 1.34
-            CHF: 0.89
-            CNY: 7.25
-            ETH: 0.00025
-            EUR: 0.91
-            GBP: 0.78
-            INR: 83.1
-            JPY: 140.32
-            KRW: 1300.5
-            MXN: 17.1
-            RUB: 80.0
-            ZAR: 18.4
-      required:
-        - baseCurrency
-        - timestamp
-        - rates
+      required: [baseCurrency, timestamp, rates]
       example:
         baseCurrency: USD
         GDP: 1370000000000
@@ -280,6 +456,7 @@ components:
 
     CountryStats:
       type: object
+      additionalProperties: false
       properties:
         GDP:
           type: number
@@ -293,218 +470,33 @@ components:
           type: number
           nullable: true
           description: Year-over-year growth of GDP (percent).
-          example: 2.34
         GDPPerCapitaGrowthYoY:
           type: number
           nullable: true
           description: Year-over-year growth of GDP per capita (percent).
-          example: 1.12
         minAnnualSalary:
           type: number
           description: Minimum annual salary converted to USD.
           minimum: 0
-          example: 15000
         minAnnualSalaryGrowthYoY:
           type: number
           nullable: true
           description: Year-over-year growth of minimum annual salary (percent).
-          example: 3.2
         ministersBudgetPctOfGDP:
           type: number
           nullable: true
           description: Ministerial budget as a percentage of GDP.
-          example: 0.87
         ministers:
           $ref: "#/components/schemas/MinistersBlock"
         deputies:
           $ref: "#/components/schemas/ChamberBlock"
         senate:
           $ref: "#/components/schemas/ChamberBlock"
+        partyRangeStats:
+          $ref: "#/components/schemas/PartyRangeStats"
         partyRangeStatsSplit:
           $ref: "#/components/schemas/PartyRangeSplitStats"
       required: [GDP, GDPPerCapita, ministers, deputies, senate]
-      additionalProperties: false
-
-    PartyRangeStats:
-      type: object
-      description: Popularity of party political ranges (1=left to 5=right) among officials with a mapped party.
-      properties:
-        counts:
-          type: object
-          additionalProperties: false
-          properties:
-            "1": { type: integer, minimum: 0 }
-            "2": { type: integer, minimum: 0 }
-            "3": { type: integer, minimum: 0 }
-            "4": { type: integer, minimum: 0 }
-            "5": { type: integer, minimum: 0 }
-          required: ["1", "2", "3", "4", "5"]
-          example: { "1": 3, "2": 12, "3": 7, "4": 9, "5": 4 }
-        mostPopularRanges:
-          type: array
-          items:
-            type: integer
-            minimum: 1
-            maximum: 5
-          description: One or more range values if there is a tie.
-          example: [2]
-        mostPopularCount:
-          type: integer
-          minimum: 0
-          description: Count of officials in the winning range(s).
-          example: 12
-        totalCountedOfficials:
-          type: integer
-          minimum: 0
-          description: Officials that contributed to the 1..5 tally (i.e., had a party mapped to a valid range).
-          example: 35
-        unaffiliatedCount:
-          type: integer
-          minimum: 0
-          description: Officials without a party.
-          example: 6
-        unmappedPartyCount:
-          type: integer
-          minimum: 0
-          description: Officials with a party that lacks a valid 1..5 range in the party map.
-          example: 2
-      required:
-        - counts
-        - mostPopularRanges
-        - mostPopularCount
-        - totalCountedOfficials
-        - unaffiliatedCount
-        - unmappedPartyCount
-      additionalProperties: false
-
-    PartyRangeSplitStats:
-      type: object
-      description: Party-range popularity split into executive vs the rest (ministers, senate, deputies, officials).
-      properties:
-        executive:
-          $ref: "#/components/schemas/PartyRangeStats"
-        rest:
-          $ref: "#/components/schemas/PartyRangeStats"
-      required: [executive, rest]
-      additionalProperties: false
-      example:
-        executive:
-          counts: { "1": 1, "2": 4, "3": 2, "4": 0, "5": 0 }
-          mostPopularRanges: [2]
-          mostPopularCount: 4
-          totalCountedOfficials: 7
-          unaffiliatedCount: 0
-          unmappedPartyCount: 1
-        rest:
-          counts: { "1": 3, "2": 12, "3": 7, "4": 2, "5": 0 }
-          mostPopularRanges: [2]
-          mostPopularCount: 12
-          totalCountedOfficials: 24
-          unaffiliatedCount: 2
-          unmappedPartyCount: 3
-
-    MinistersBlock:
-      type: object
-      properties:
-        quantity:
-          type: integer
-          minimum: 0
-          description: Number of ministers.
-        budget:
-          type: number
-          minimum: 0
-          description: Annual ministerial budget converted to USD.
-      required: [quantity, budget]
-      additionalProperties: false
-
-    ChamberBlock:
-      type: object
-      properties:
-        quantity:
-          type: integer
-          minimum: 0
-          description: Number of seats.
-      required: [quantity]
-      additionalProperties: false
-
-    Salary:
-      type: object
-      properties:
-        gross:
-          type: number
-          description: Gross annual salary (same currency as net).
-          example: 67866
-        net:
-          type: number
-          description: Net annual salary.
-          example: 52928
-
-    Source:
-      type: object
-      description: Single source entry with exactly one label → value mapping.
-      minProperties: 1
-      maxProperties: 1
-      additionalProperties:
-        anyOf:
-          - type: number
-          - type: string # plain text
-          - type: string # URL
-            format: uri
-      example:
-        pdf: https://example.com/file.pdf
-
-    Sources:
-      type: array
-      description: Array of source entries.
-      items:
-        $ref: "#/components/schemas/Source"
-      example:
-        - pdf: https://example.com/salary.pdf
-        - bonus: 1200
-        - notes: "Declared report"
-
-    Official:
-      type: object
-      properties:
-        name:
-          type: string
-          example: Ariel Doe
-        gender:
-          type: string
-          enum: [M, F, X]
-        role:
-          type: string
-          example: Minister of Economy
-        budget:
-          type: number
-          description: Annual ministerial budget.
-        district:
-          type: string
-          description: Localized/common district name.
-          example: Central State
-        party:
-          type: string
-          description: Optional party code; when present, it refers to an entry in `CountryData.parties`.
-          example: RE
-        salary:
-          $ref: "#/components/schemas/Salary"
-        sources:
-          $ref: "#/components/schemas/Sources"
-      required: [name]
-      example:
-        name: Ariel Doe
-        gender: F
-        role: Minister of Economy
-        district: Central State
-        party: RE
-        salary:
-          gross: 67866
-          net: 52928
-        sources:
-          - pdf: https://example.com/salary.pdf
-          - bonus: 1200
-          - notes: "Declared in 2024 official report"
-        budget: 12000000
 
     CountriesYears:
       type: object
@@ -528,47 +520,6 @@ components:
       minItems: 1
       uniqueItems: true
       example: [2025, 2024, 2023]
-
-    Parties:
-      type: object
-      description: Map of party code → metadata.
-      additionalProperties:
-        $ref: "#/components/schemas/Party"
-      example:
-        SPD:
-          name: Sozialdemokratische Partei
-          en: Social Democratic Party
-          range: 2
-          color: "#FF0000"
-        CDU:
-          name: Christlich Demokratische Union
-          en: Christian Democratic Union
-          range: 4
-          color: "#000000"
-
-    Party:
-      type: object
-      required: [name, range, color]
-      properties:
-        name:
-          type: string
-          description: Localized/common name.
-          example: Sozialdemokratische Partei
-        en:
-          type: string
-          description: English display name.
-          example: Social Democratic Party
-        range:
-          type: integer
-          description: Political wing level (1 → 5). 1 is the most left, 5 is the most right.
-          minimum: 1
-          maximum: 5
-          example: 2
-        color:
-          type: string
-          description: Hex color code.
-          pattern: "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$"
-          example: "#FF0000"
 
     WorldData:
       type: object
