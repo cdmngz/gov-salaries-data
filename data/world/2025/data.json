@@ -25,7 +25,9 @@
         "4": 10,
         "5": 0
       },
-      "mostPopularRanges": [4],
+      "mostPopularRanges": [
+        4
+      ],
       "mostPopularCount": 10,
       "totalCountedOfficials": 13,
       "unaffiliatedCount": 2,
@@ -40,7 +42,9 @@
           "4": 2,
           "5": 0
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -54,7 +58,9 @@
           "4": 8,
           "5": 0
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 8,
         "totalCountedOfficials": 11,
         "unaffiliatedCount": 0,
@@ -63,11 +69,11 @@
     }
   },
   "ae": {
-    "GDP": 133424098026,
-    "GDPPerCapita": 46290,
+    "GDP": 490000000000,
+    "GDPPerCapita": 170000,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
-    "minAnnualSalary": 6535,
+    "minAnnualSalary": 24000,
     "minAnnualSalaryGrowthYoY": null,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
@@ -88,7 +94,9 @@
         "4": 0,
         "5": 0
       },
-      "mostPopularRanges": [3],
+      "mostPopularRanges": [
+        3
+      ],
       "mostPopularCount": 11,
       "totalCountedOfficials": 11,
       "unaffiliatedCount": 4,
@@ -103,7 +111,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [3],
+        "mostPopularRanges": [
+          3
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -117,7 +127,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [3],
+        "mostPopularRanges": [
+          3
+        ],
         "mostPopularCount": 9,
         "totalCountedOfficials": 9,
         "unaffiliatedCount": 0,
@@ -151,7 +163,9 @@
         "4": 85,
         "5": 59
       },
-      "mostPopularRanges": [2],
+      "mostPopularRanges": [
+        2
+      ],
       "mostPopularCount": 148,
       "totalCountedOfficials": 339,
       "unaffiliatedCount": 0,
@@ -166,7 +180,9 @@
           "4": 0,
           "5": 2
         },
-        "mostPopularRanges": [5],
+        "mostPopularRanges": [
+          5
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -180,7 +196,9 @@
           "4": 85,
           "5": 57
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 148,
         "totalCountedOfficials": 337,
         "unaffiliatedCount": 0,
@@ -214,7 +232,9 @@
         "4": 12,
         "5": 11
       },
-      "mostPopularRanges": [3],
+      "mostPopularRanges": [
+        3
+      ],
       "mostPopularCount": 28,
       "totalCountedOfficials": 75,
       "unaffiliatedCount": 0,
@@ -229,7 +249,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 1,
         "totalCountedOfficials": 1,
         "unaffiliatedCount": 0,
@@ -243,7 +265,9 @@
           "4": 12,
           "5": 11
         },
-        "mostPopularRanges": [3],
+        "mostPopularRanges": [
+          3
+        ],
         "mostPopularCount": 28,
         "totalCountedOfficials": 74,
         "unaffiliatedCount": 0,
@@ -277,7 +301,9 @@
         "4": 0,
         "5": 0
       },
-      "mostPopularRanges": [1],
+      "mostPopularRanges": [
+        1
+      ],
       "mostPopularCount": 18,
       "totalCountedOfficials": 21,
       "unaffiliatedCount": 0,
@@ -292,7 +318,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 3,
         "totalCountedOfficials": 3,
         "unaffiliatedCount": 0,
@@ -306,7 +334,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 15,
         "totalCountedOfficials": 18,
         "unaffiliatedCount": 0,
@@ -340,7 +370,9 @@
         "4": 2,
         "5": 0
       },
-      "mostPopularRanges": [2],
+      "mostPopularRanges": [
+        2
+      ],
       "mostPopularCount": 12,
       "totalCountedOfficials": 17,
       "unaffiliatedCount": 2,
@@ -355,7 +387,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -369,7 +403,9 @@
           "4": 2,
           "5": 0
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 10,
         "totalCountedOfficials": 15,
         "unaffiliatedCount": 2,
@@ -403,7 +439,9 @@
         "4": 0,
         "5": 0
       },
-      "mostPopularRanges": [1],
+      "mostPopularRanges": [
+        1
+      ],
       "mostPopularCount": 10,
       "totalCountedOfficials": 10,
       "unaffiliatedCount": 0,
@@ -418,7 +456,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -432,7 +472,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 8,
         "totalCountedOfficials": 8,
         "unaffiliatedCount": 0,
@@ -466,7 +508,10 @@
         "4": 36,
         "5": 0
       },
-      "mostPopularRanges": [2, 4],
+      "mostPopularRanges": [
+        2,
+        4
+      ],
       "mostPopularCount": 36,
       "totalCountedOfficials": 101,
       "unaffiliatedCount": 0,
@@ -481,7 +526,9 @@
           "4": 1,
           "5": 0
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 1,
         "totalCountedOfficials": 1,
         "unaffiliatedCount": 0,
@@ -495,7 +542,9 @@
           "4": 35,
           "5": 0
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 36,
         "totalCountedOfficials": 100,
         "unaffiliatedCount": 0,
@@ -529,7 +578,9 @@
         "4": 37,
         "5": 16
       },
-      "mostPopularRanges": [4],
+      "mostPopularRanges": [
+        4
+      ],
       "mostPopularCount": 37,
       "totalCountedOfficials": 92,
       "unaffiliatedCount": 15,
@@ -544,7 +595,9 @@
           "4": 1,
           "5": 0
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 1,
         "totalCountedOfficials": 1,
         "unaffiliatedCount": 0,
@@ -558,7 +611,9 @@
           "4": 36,
           "5": 16
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 36,
         "totalCountedOfficials": 91,
         "unaffiliatedCount": 15,
@@ -592,7 +647,9 @@
         "4": 295,
         "5": 36
       },
-      "mostPopularRanges": [4],
+      "mostPopularRanges": [
+        4
+      ],
       "mostPopularCount": 295,
       "totalCountedOfficials": 634,
       "unaffiliatedCount": 6,
@@ -607,7 +664,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -621,7 +680,9 @@
           "4": 295,
           "5": 36
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 295,
         "totalCountedOfficials": 632,
         "unaffiliatedCount": 4,
@@ -655,7 +716,9 @@
         "4": 305,
         "5": 17
       },
-      "mostPopularRanges": [4],
+      "mostPopularRanges": [
+        4
+      ],
       "mostPopularCount": 305,
       "totalCountedOfficials": 512,
       "unaffiliatedCount": 0,
@@ -670,7 +733,9 @@
           "4": 2,
           "5": 0
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -684,7 +749,9 @@
           "4": 303,
           "5": 17
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 303,
         "totalCountedOfficials": 510,
         "unaffiliatedCount": 0,
@@ -718,7 +785,9 @@
         "4": 0,
         "5": 0
       },
-      "mostPopularRanges": [2],
+      "mostPopularRanges": [
+        2
+      ],
       "mostPopularCount": 5,
       "totalCountedOfficials": 5,
       "unaffiliatedCount": 4,
@@ -733,7 +802,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 1,
         "totalCountedOfficials": 1,
         "unaffiliatedCount": 0,
@@ -747,7 +818,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 4,
         "totalCountedOfficials": 4,
         "unaffiliatedCount": 0,
@@ -781,7 +854,9 @@
         "4": 0,
         "5": 0
       },
-      "mostPopularRanges": [1],
+      "mostPopularRanges": [
+        1
+      ],
       "mostPopularCount": 5,
       "totalCountedOfficials": 5,
       "unaffiliatedCount": 0,
@@ -796,7 +871,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 1,
         "totalCountedOfficials": 1,
         "unaffiliatedCount": 0,
@@ -810,7 +887,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 4,
         "totalCountedOfficials": 4,
         "unaffiliatedCount": 0,
@@ -844,7 +923,9 @@
         "4": 13,
         "5": 0
       },
-      "mostPopularRanges": [4],
+      "mostPopularRanges": [
+        4
+      ],
       "mostPopularCount": 13,
       "totalCountedOfficials": 18,
       "unaffiliatedCount": 0,
@@ -859,7 +940,9 @@
           "4": 2,
           "5": 0
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -873,7 +956,9 @@
           "4": 11,
           "5": 0
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 11,
         "totalCountedOfficials": 16,
         "unaffiliatedCount": 0,
@@ -907,7 +992,9 @@
         "4": 6,
         "5": 0
       },
-      "mostPopularRanges": [3],
+      "mostPopularRanges": [
+        3
+      ],
       "mostPopularCount": 8,
       "totalCountedOfficials": 16,
       "unaffiliatedCount": 0,
@@ -922,7 +1009,10 @@
           "4": 1,
           "5": 0
         },
-        "mostPopularRanges": [3, 4],
+        "mostPopularRanges": [
+          3,
+          4
+        ],
         "mostPopularCount": 1,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -936,7 +1026,9 @@
           "4": 5,
           "5": 0
         },
-        "mostPopularRanges": [3],
+        "mostPopularRanges": [
+          3
+        ],
         "mostPopularCount": 7,
         "totalCountedOfficials": 14,
         "unaffiliatedCount": 0,
@@ -970,7 +1062,9 @@
         "4": 25,
         "5": 0
       },
-      "mostPopularRanges": [4],
+      "mostPopularRanges": [
+        4
+      ],
       "mostPopularCount": 25,
       "totalCountedOfficials": 26,
       "unaffiliatedCount": 2,
@@ -985,7 +1079,9 @@
           "4": 1,
           "5": 0
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 1,
         "totalCountedOfficials": 1,
         "unaffiliatedCount": 0,
@@ -999,7 +1095,9 @@
           "4": 24,
           "5": 0
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 24,
         "totalCountedOfficials": 25,
         "unaffiliatedCount": 0,
@@ -1033,7 +1131,9 @@
         "4": 33,
         "5": 0
       },
-      "mostPopularRanges": [4],
+      "mostPopularRanges": [
+        4
+      ],
       "mostPopularCount": 33,
       "totalCountedOfficials": 61,
       "unaffiliatedCount": 4,
@@ -1048,7 +1148,10 @@
           "4": 1,
           "5": 0
         },
-        "mostPopularRanges": [3, 4],
+        "mostPopularRanges": [
+          3,
+          4
+        ],
         "mostPopularCount": 1,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -1062,7 +1165,9 @@
           "4": 32,
           "5": 0
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 32,
         "totalCountedOfficials": 59,
         "unaffiliatedCount": 0,
@@ -1096,7 +1201,9 @@
         "4": 1,
         "5": 0
       },
-      "mostPopularRanges": [3],
+      "mostPopularRanges": [
+        3
+      ],
       "mostPopularCount": 6,
       "totalCountedOfficials": 9,
       "unaffiliatedCount": 0,
@@ -1111,7 +1218,10 @@
           "4": 1,
           "5": 0
         },
-        "mostPopularRanges": [2, 4],
+        "mostPopularRanges": [
+          2,
+          4
+        ],
         "mostPopularCount": 1,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -1125,7 +1235,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [3],
+        "mostPopularRanges": [
+          3
+        ],
         "mostPopularCount": 6,
         "totalCountedOfficials": 7,
         "unaffiliatedCount": 0,
@@ -1159,7 +1271,9 @@
         "4": 24,
         "5": 0
       },
-      "mostPopularRanges": [4],
+      "mostPopularRanges": [
+        4
+      ],
       "mostPopularCount": 24,
       "totalCountedOfficials": 24,
       "unaffiliatedCount": 10,
@@ -1188,7 +1302,9 @@
           "4": 24,
           "5": 0
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 24,
         "totalCountedOfficials": 24,
         "unaffiliatedCount": 5,
@@ -1222,7 +1338,9 @@
         "4": 2,
         "5": 0
       },
-      "mostPopularRanges": [1],
+      "mostPopularRanges": [
+        1
+      ],
       "mostPopularCount": 10,
       "totalCountedOfficials": 18,
       "unaffiliatedCount": 0,
@@ -1237,7 +1355,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 1,
         "totalCountedOfficials": 1,
         "unaffiliatedCount": 0,
@@ -1251,7 +1371,9 @@
           "4": 2,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 9,
         "totalCountedOfficials": 17,
         "unaffiliatedCount": 0,
@@ -1285,7 +1407,9 @@
         "4": 0,
         "5": 0
       },
-      "mostPopularRanges": [1],
+      "mostPopularRanges": [
+        1
+      ],
       "mostPopularCount": 7,
       "totalCountedOfficials": 7,
       "unaffiliatedCount": 0,
@@ -1300,7 +1424,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -1314,7 +1440,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 5,
         "totalCountedOfficials": 5,
         "unaffiliatedCount": 0,
@@ -1348,7 +1476,9 @@
         "4": 0,
         "5": 0
       },
-      "mostPopularRanges": [1],
+      "mostPopularRanges": [
+        1
+      ],
       "mostPopularCount": 7,
       "totalCountedOfficials": 7,
       "unaffiliatedCount": 0,
@@ -1363,7 +1493,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -1377,7 +1509,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 5,
         "totalCountedOfficials": 5,
         "unaffiliatedCount": 0,
@@ -1411,7 +1545,9 @@
         "4": 0,
         "5": 0
       },
-      "mostPopularRanges": [2],
+      "mostPopularRanges": [
+        2
+      ],
       "mostPopularCount": 20,
       "totalCountedOfficials": 20,
       "unaffiliatedCount": 4,
@@ -1426,7 +1562,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 1,
         "totalCountedOfficials": 1,
         "unaffiliatedCount": 0,
@@ -1440,7 +1578,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 19,
         "totalCountedOfficials": 19,
         "unaffiliatedCount": 0,
@@ -1474,7 +1614,9 @@
         "4": 24,
         "5": 0
       },
-      "mostPopularRanges": [3],
+      "mostPopularRanges": [
+        3
+      ],
       "mostPopularCount": 85,
       "totalCountedOfficials": 246,
       "unaffiliatedCount": 0,
@@ -1489,7 +1631,10 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [2, 3],
+        "mostPopularRanges": [
+          2,
+          3
+        ],
         "mostPopularCount": 1,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -1503,7 +1648,9 @@
           "4": 24,
           "5": 0
         },
-        "mostPopularRanges": [3],
+        "mostPopularRanges": [
+          3
+        ],
         "mostPopularCount": 84,
         "totalCountedOfficials": 244,
         "unaffiliatedCount": 0,
@@ -1537,7 +1684,9 @@
         "4": 0,
         "5": 0
       },
-      "mostPopularRanges": [2],
+      "mostPopularRanges": [
+        2
+      ],
       "mostPopularCount": 3,
       "totalCountedOfficials": 6,
       "unaffiliatedCount": 1,
@@ -1552,7 +1701,10 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1, 2],
+        "mostPopularRanges": [
+          1,
+          2
+        ],
         "mostPopularCount": 1,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -1566,7 +1718,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 4,
         "unaffiliatedCount": 0,
@@ -1600,7 +1754,9 @@
         "4": 1,
         "5": 1
       },
-      "mostPopularRanges": [3],
+      "mostPopularRanges": [
+        3
+      ],
       "mostPopularCount": 17,
       "totalCountedOfficials": 25,
       "unaffiliatedCount": 0,
@@ -1615,7 +1771,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [3],
+        "mostPopularRanges": [
+          3
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -1629,7 +1787,9 @@
           "4": 1,
           "5": 1
         },
-        "mostPopularRanges": [3],
+        "mostPopularRanges": [
+          3
+        ],
         "mostPopularCount": 15,
         "totalCountedOfficials": 23,
         "unaffiliatedCount": 0,
@@ -1663,7 +1823,9 @@
         "4": 0,
         "5": 0
       },
-      "mostPopularRanges": [3],
+      "mostPopularRanges": [
+        3
+      ],
       "mostPopularCount": 6,
       "totalCountedOfficials": 6,
       "unaffiliatedCount": 6,
@@ -1678,7 +1840,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [3],
+        "mostPopularRanges": [
+          3
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -1692,7 +1856,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [3],
+        "mostPopularRanges": [
+          3
+        ],
         "mostPopularCount": 4,
         "totalCountedOfficials": 4,
         "unaffiliatedCount": 6,
@@ -1726,7 +1892,9 @@
         "4": 9,
         "5": 0
       },
-      "mostPopularRanges": [4],
+      "mostPopularRanges": [
+        4
+      ],
       "mostPopularCount": 9,
       "totalCountedOfficials": 10,
       "unaffiliatedCount": 0,
@@ -1741,7 +1909,9 @@
           "4": 1,
           "5": 0
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 1,
         "totalCountedOfficials": 1,
         "unaffiliatedCount": 0,
@@ -1755,7 +1925,9 @@
           "4": 8,
           "5": 0
         },
-        "mostPopularRanges": [4],
+        "mostPopularRanges": [
+          4
+        ],
         "mostPopularCount": 8,
         "totalCountedOfficials": 9,
         "unaffiliatedCount": 0,
@@ -1789,7 +1961,9 @@
         "4": 0,
         "5": 0
       },
-      "mostPopularRanges": [2],
+      "mostPopularRanges": [
+        2
+      ],
       "mostPopularCount": 6,
       "totalCountedOfficials": 6,
       "unaffiliatedCount": 0,
@@ -1804,7 +1978,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -1818,7 +1994,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 4,
         "totalCountedOfficials": 4,
         "unaffiliatedCount": 0,
@@ -1852,7 +2030,9 @@
         "4": 2,
         "5": 7
       },
-      "mostPopularRanges": [5],
+      "mostPopularRanges": [
+        5
+      ],
       "mostPopularCount": 7,
       "totalCountedOfficials": 10,
       "unaffiliatedCount": 0,
@@ -1867,7 +2047,9 @@
           "4": 0,
           "5": 2
         },
-        "mostPopularRanges": [5],
+        "mostPopularRanges": [
+          5
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -1881,7 +2063,9 @@
           "4": 2,
           "5": 5
         },
-        "mostPopularRanges": [5],
+        "mostPopularRanges": [
+          5
+        ],
         "mostPopularCount": 5,
         "totalCountedOfficials": 8,
         "unaffiliatedCount": 0,
@@ -1915,7 +2099,9 @@
         "4": 0,
         "5": 217
       },
-      "mostPopularRanges": [5],
+      "mostPopularRanges": [
+        5
+      ],
       "mostPopularCount": 217,
       "totalCountedOfficials": 433,
       "unaffiliatedCount": 3,
@@ -1930,7 +2116,9 @@
           "4": 0,
           "5": 2
         },
-        "mostPopularRanges": [5],
+        "mostPopularRanges": [
+          5
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -1944,7 +2132,9 @@
           "4": 0,
           "5": 215
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 216,
         "totalCountedOfficials": 431,
         "unaffiliatedCount": 3,
@@ -1978,7 +2168,9 @@
         "4": 43,
         "5": 2
       },
-      "mostPopularRanges": [2],
+      "mostPopularRanges": [
+        2
+      ],
       "mostPopularCount": 62,
       "totalCountedOfficials": 124,
       "unaffiliatedCount": 1,
@@ -1993,7 +2185,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -2007,7 +2201,9 @@
           "4": 43,
           "5": 2
         },
-        "mostPopularRanges": [2],
+        "mostPopularRanges": [
+          2
+        ],
         "mostPopularCount": 60,
         "totalCountedOfficials": 122,
         "unaffiliatedCount": 1,
@@ -2041,7 +2237,9 @@
         "4": 0,
         "5": 0
       },
-      "mostPopularRanges": [1],
+      "mostPopularRanges": [
+        1
+      ],
       "mostPopularCount": 35,
       "totalCountedOfficials": 35,
       "unaffiliatedCount": 0,
@@ -2056,7 +2254,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
@@ -2070,7 +2270,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 33,
         "totalCountedOfficials": 33,
         "unaffiliatedCount": 0,
@@ -2104,7 +2306,9 @@
         "4": 0,
         "5": 0
       },
-      "mostPopularRanges": [1],
+      "mostPopularRanges": [
+        1
+      ],
       "mostPopularCount": 14,
       "totalCountedOfficials": 14,
       "unaffiliatedCount": 0,
@@ -2119,7 +2323,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 3,
         "totalCountedOfficials": 3,
         "unaffiliatedCount": 0,
@@ -2133,7 +2339,9 @@
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [1],
+        "mostPopularRanges": [
+          1
+        ],
         "mostPopularCount": 11,
         "totalCountedOfficials": 11,
         "unaffiliatedCount": 0,
