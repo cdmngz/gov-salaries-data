@@ -179,7 +179,7 @@ paths:
 
 components:
   schemas:
-    Rank:
+    PartyRange:
       type: integer
       enum: [1, 2, 3, 4, 5]
 
@@ -203,7 +203,7 @@ components:
           $ref: "#/components/schemas/PartyRangeCounts"
         mostPopularRanges:
           type: array
-          items: { $ref: "#/components/schemas/Rank" }
+          items: { $ref: "#/components/schemas/PartyRange" }
           uniqueItems: true
         mostPopularCount:
           type: integer
@@ -362,7 +362,7 @@ components:
           type: string
           description: English display name.
         range:
-          $ref: "#/components/schemas/Rank"
+          $ref: "#/components/schemas/PartyRange"
           description: Political wing level (1 → 5). 1 is the most left, 5 is the most right.
         color:
           type: string
@@ -399,60 +399,41 @@ components:
         parties:
           $ref: "#/components/schemas/Parties"
 
+    CoreCurrencyCode:
+      type: string
+      enum: [USD, EUR, JPY, GBP, CHF, CNY, INR, BRL, MXN, AUD, BTC, ETH]
+
     Rates:
       type: object
-      description: Snapshot of currency exchange rates and macro figures for the base currency.
+      description: Snapshot of exchange rates for the 12-core currencies.
       additionalProperties: false
       properties:
         baseCurrency:
           type: string
-          description: ISO 4217 code or ticker symbol of the base currency (e.g., USD, EUR, BTC).
-          pattern: "^[A-Z0-9]{3,5}$"
-        GDP:
-          type: number
-          description: Nominal GDP (last full year) for the base economy.
-        GDPPerCapita:
-          type: number
-          description: Nominal GDP per capita (last full year).
-        minAnnualSalary:
-          type: number
-          description: Nominal gross minimum annual salary amount in the base currency's economy.
-          minimum: 0
+          description: ISO 4217 or ticker symbol of the base currency.
+          example: USD
         timestamp:
           type: string
           format: date-time
-          description: ISO 8601 timestamp when the snapshot was recorded.
+          example: "2025-07-31T00:00:00Z"
         rates:
           type: object
-          description: Mapping of target currency code to its exchange rate per 1 unit of the base currency.
           additionalProperties: false
-          patternProperties:
-            "^[A-Z0-9]{3,5}$":
-              type: number
-              description: Units of the target currency per 1 base currency unit.
+          properties:
+            USD: { type: number, example: 1 }
+            EUR: { type: number, example: 0.91 }
+            JPY: { type: number, example: 140.3 }
+            GBP: { type: number, example: 0.78 }
+            CHF: { type: number, example: 0.89 }
+            CNY: { type: number, example: 7.25 }
+            INR: { type: number, example: 83.1 }
+            BRL: { type: number, example: 5.2 }
+            MXN: { type: number, example: 17.1 }
+            AUD: { type: number, example: 1.51 }
+            BTC: { type: number, example: 0.000016 }
+            ETH: { type: number, example: 0.00025 }
+          required: [USD, EUR, JPY, GBP, CHF, CNY, INR, BRL, MXN, AUD, BTC, ETH]
       required: [baseCurrency, timestamp, rates]
-      example:
-        baseCurrency: USD
-        GDP: 1370000000000
-        GDPPerCapita: 28562
-        minAnnualSalary: 15000
-        timestamp: "2025-07-31T00:00:00Z"
-        rates:
-          AUD: 1.51
-          BRL: 5.2
-          BTC: 0.000016
-          CAD: 1.34
-          CHF: 0.89
-          CNY: 7.25
-          ETH: 0.00025
-          EUR: 0.91
-          GBP: 0.78
-          INR: 83.1
-          JPY: 140.32
-          KRW: 1300.5
-          MXN: 17.1
-          RUB: 80.0
-          ZAR: 18.4
 
     CountryStats:
       type: object
@@ -467,24 +448,20 @@ components:
           description: Nominal GDP per capita converted to USD.
           minimum: 0
         GDPGrowthYoY:
-          type: number
-          nullable: true
+          type: [number, "null"]
           description: Year-over-year growth of GDP (percent).
         GDPPerCapitaGrowthYoY:
-          type: number
-          nullable: true
+          type: [number, "null"]
           description: Year-over-year growth of GDP per capita (percent).
         minAnnualSalary:
           type: number
           description: Minimum annual salary converted to USD.
           minimum: 0
         minAnnualSalaryGrowthYoY:
-          type: number
-          nullable: true
+          type: [number, "null"]
           description: Year-over-year growth of minimum annual salary (percent).
         ministersBudgetPctOfGDP:
-          type: number
-          nullable: true
+          type: [number, "null"]
           description: Ministerial budget as a percentage of GDP.
         ministers:
           $ref: "#/components/schemas/MinistersBlock"

@@ -16,6 +16,21 @@ const { countPartyRanges, countPartyRangesSplit } = require("./stats");
 const dataDir = path.join(__dirname, "..", "..", "data");
 const worldDir = path.join(dataDir, "world");
 
+const CORE_CURRENCIES = [
+  "USD",
+  "EUR",
+  "JPY",
+  "GBP",
+  "CHF",
+  "CNY",
+  "INR",
+  "BRL",
+  "MXN",
+  "AUD",
+  "BTC",
+  "ETH",
+];
+
 function pctGrowth(curr, prev) {
   const c = toNumber(curr),
     p = toNumber(prev);
@@ -28,6 +43,41 @@ function safePct(numerator, denominator) {
     d = toNumber(denominator);
   if (d === 0) return null;
   return Number(((n / d) * 100).toFixed(2));
+}
+
+function normalizeWorldRates(worldRates) {
+  if (!worldRates || typeof worldRates !== "object") return null;
+  const baseCurrency =
+    typeof worldRates.baseCurrency === "string"
+      ? worldRates.baseCurrency
+      : "USD";
+  const timestamp = worldRates.timestamp || null;
+  const srcRates =
+    worldRates.rates && typeof worldRates.rates === "object"
+      ? worldRates.rates
+      : {};
+  const rates = {};
+  for (const code of CORE_CURRENCIES) {
+    if (code === baseCurrency) {
+      rates[code] = 1;
+    } else if (typeof srcRates[code] === "number") {
+      rates[code] = srcRates[code];
+    }
+  }
+  return {
+    baseCurrency,
+    timestamp,
+    GDP: typeof worldRates.GDP === "number" ? worldRates.GDP : undefined,
+    GDPPerCapita:
+      typeof worldRates.GDPPerCapita === "number"
+        ? worldRates.GDPPerCapita
+        : undefined,
+    minAnnualSalary:
+      typeof worldRates.minAnnualSalary === "number"
+        ? worldRates.minAnnualSalary
+        : undefined,
+    rates,
+  };
 }
 
 function buildWorldEntry(dataPath, ratesPath, worldRates, prevCountryEntry) {
@@ -63,7 +113,6 @@ function buildWorldEntry(dataPath, ratesPath, worldRates, prevCountryEntry) {
     localCurrency,
     worldRates
   );
-
   const minAnnualSalary = amountToUSDInteger(
     rates.minAnnualSalary,
     localCurrency,
@@ -103,12 +152,15 @@ function buildWorldForYear(year) {
   const worldYearDir = path.join(worldDir, String(year));
   const worldYearFile = path.join(worldYearDir, "data.json");
   const worldRatesFile = path.join(worldYearDir, "rates.json");
-  const worldRates = readJSON(worldRatesFile) || null;
+
+  const rawWorldRates = readJSON(worldRatesFile) || null;
+  const worldRates = normalizeWorldRates(rawWorldRates);
+  if (worldRates) writeJSON(worldRatesFile, worldRates);
+
   const prevWorld =
     readJSON(path.join(worldDir, String(year - 1), "data.json")) || {};
   const next = {};
 
-  // iterate countries/years
   const countries = fs
     .readdirSync(dataDir)
     .filter((cc) => /^[a-z]{2}$/i.test(cc))
@@ -121,14 +173,11 @@ function buildWorldForYear(year) {
 
     const prevEntry =
       prevWorld && typeof prevWorld === "object" ? prevWorld[country] : null;
-
     next[country] = buildWorldEntry(dataPath, ratesPath, worldRates, prevEntry);
   });
 
-  // Write the year file and update world/index.json
   writeJSON(worldYearFile, next);
 
-  // Update index (sorted)
   const worldIndexPath = path.join(worldDir, "index.json");
   const existingYears = readJSON(worldIndexPath) || [];
   const yearsSet = new Set(existingYears.concat([Number(year)]));
