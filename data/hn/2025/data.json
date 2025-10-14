@@ -1,0 +1,108 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Iris Xiomara Castro Sarmiento",
+      "gender": "F",
+      "role": "Presidenta de la República de Honduras",
+      "party": "LIBRE",
+      "salary": {
+        "gross": 60911.53
+      },
+      "sources": [
+        {
+          "Presupuesto General 2025 - Tomo II, Secretaría de Finanzas": "https://www.sefin.gob.hn/wp-content/uploads/2024/09/Proyecto-PGIE-2025-Tomo-II.pdf"
+        },
+        {
+          "Tipo de cambio de referencia 2025, Banco Central de Honduras": "https://www.bch.hn/estadisticas/tipo_cambio.php"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Marlon Jesús Ochoa Trejo",
+      "gender": "M",
+      "role": "Secretario de Estado en el Despacho de Finanzas",
+      "party": "LIBRE",
+      "salary": {
+        "gross": 49889.02
+      },
+      "sources": [
+        {
+          "Presupuesto General 2025 - Tomo II, Secretaría de Finanzas": "https://www.sefin.gob.hn/wp-content/uploads/2024/09/Proyecto-PGIE-2025-Tomo-II.pdf"
+        },
+        {
+          "Tipo de cambio de referencia 2025, Banco Central de Honduras": "https://www.bch.hn/estadisticas/tipo_cambio.php"
+        }
+      ]
+    },
+    {
+      "name": "Eduardo Enrique Reina García",
+      "gender": "M",
+      "role": "Secretario de Estado en el Despacho de Relaciones Exteriores y Cooperación Internacional",
+      "party": "LIBRE",
+      "salary": {
+        "gross": 49889.02
+      },
+      "sources": [
+        {
+          "Presupuesto General 2025 - Tomo II, Secretaría de Finanzas": "https://www.sefin.gob.hn/wp-content/uploads/2024/09/Proyecto-PGIE-2025-Tomo-II.pdf"
+        },
+        {
+          "Tipo de cambio de referencia 2025, Banco Central de Honduras": "https://www.bch.hn/estadisticas/tipo_cambio.php"
+        }
+      ]
+    },
+    {
+      "name": "José Manuel Matheu",
+      "gender": "M",
+      "role": "Secretario de Estado en el Despacho de Salud",
+      "party": "PSH",
+      "salary": {
+        "gross": 49889.02
+      },
+      "sources": [
+        {
+          "Presupuesto General 2025 - Tomo II, Secretaría de Finanzas": "https://www.sefin.gob.hn/wp-content/uploads/2024/09/Proyecto-PGIE-2025-Tomo-II.pdf"
+        },
+        {
+          "Tipo de cambio de referencia 2025, Banco Central de Honduras": "https://www.bch.hn/estadisticas/tipo_cambio.php"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Sponda Portillo",
+      "gender": "M",
+      "role": "Secretario de Estado en el Despacho de Educación",
+      "party": "LIBRE",
+      "salary": {
+        "gross": 49889.02
+      },
+      "sources": [
+        {
+          "Presupuesto General 2025 - Tomo II, Secretaría de Finanzas": "https://www.sefin.gob.hn/wp-content/uploads/2024/09/Proyecto-PGIE-2025-Tomo-II.pdf"
+        },
+        {
+          "Tipo de cambio de referencia 2025, Banco Central de Honduras": "https://www.bch.hn/estadisticas/tipo_cambio.php"
+        }
+      ]
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "LIBRE": {
+      "name": "Libertad y Refundación",
+      "en": "Liberty and Refoundation",
+      "range": 1,
+      "color": "#D40A28"
+    },
+    "PSH": {
+      "name": "Partido Salvador de Honduras",
+      "en": "Savior Party of Honduras",
+      "range": 1,
+      "color": "#1E2E82"
+    }
+  }
+}
