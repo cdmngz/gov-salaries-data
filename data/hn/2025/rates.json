@@ -1,0 +1,25 @@
+{
+  "baseCurrency": "USD",
+  "GDP": 31500000000,
+  "GDPPerCapita": 3300,
+  "minAnnualSalary": 6480,
+  "timestamp": "2025-08-10T00:00:00Z",
+  "rates": {
+    "AED": 3.6725,
+    "AUD": 1.47,
+    "BRL": 5.05,
+    "BTC": 0.0000148,
+    "CAD": 1.33,
+    "CHF": 0.83,
+    "CNY": 7.1,
+    "COP": 4050.0,
+    "ETH": 0.00023,
+    "EUR": 0.92,
+    "GBP": 0.79,
+    "HNL": 24.6,
+    "JPY": 143.0,
+    "KRW": 1335.0,
+    "MXN": 17.0,
+    "ZAR": 18.0
+  }
+}
