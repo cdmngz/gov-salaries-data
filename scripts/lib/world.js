@@ -13,7 +13,9 @@ const {
 } = require("../lib/io");
 const { countPartyRanges, countPartyRangesSplit } = require("./stats");
 
-const dataDir = path.join(__dirname, "..", "..", "data");
+const dataDir = process.env.GOV_SALARIES_DATA_DIR
+  ? path.resolve(process.env.GOV_SALARIES_DATA_DIR)
+  : path.join(__dirname, "..", "..", "data");
 const worldDir = path.join(dataDir, "world");
 
 const CORE_CURRENCIES = [
