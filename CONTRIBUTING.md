@@ -12,14 +12,14 @@ All data is organized by **country** and **year** in the **data** folder, the on
 
 ```
 /data/<country>/<year>/data.json
-/data/<country>/<year>/rates.json
+/data/<country>/<year>/economics.json
 ```
 
 ✅ Example:
 
 ```
 /data/es/2025/data.json
-/data/es/2025/rates.json
+/data/es/2025/economics.json
 ```
 
 ---

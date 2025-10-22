@@ -19,14 +19,14 @@ const worldDir = path.join(dataDir, "world");
 const CORE_CURRENCIES = [
   "USD",
   "EUR",
-  "JPY",
   "GBP",
-  "CHF",
+  "JPY",
   "CNY",
-  "INR",
-  "BRL",
+  "AED",
+  "RUB",
+  "SEK",
   "MXN",
-  "AUD",
+  "BRL",
   "BTC",
   "ETH",
 ];
@@ -80,9 +80,14 @@ function normalizeWorldRates(worldRates) {
   };
 }
 
-function buildWorldEntry(dataPath, ratesPath, worldRates, prevCountryEntry) {
+function buildWorldEntry(
+  dataPath,
+  economicsPath,
+  worldRates,
+  prevCountryEntry
+) {
   const data = readJSON(dataPath) || {};
-  const rates = readJSON(ratesPath) || {};
+  const economics = readJSON(economicsPath) || {};
 
   const partyRangeStats = countPartyRanges(data);
   const partyRangeStatsSplit = countPartyRangesSplit(data);
@@ -92,7 +97,9 @@ function buildWorldEntry(dataPath, ratesPath, worldRates, prevCountryEntry) {
   const senateArr = Array.isArray(data.senate) ? data.senate : [];
 
   const localCurrency =
-    typeof rates.baseCurrency === "string" ? rates.baseCurrency : "USD";
+    typeof economics.baseCurrency === "string"
+      ? economics.baseCurrency
+      : "USD";
 
   const totalBudgetLocal = ministersArr.reduce((sum, m) => {
     const b =
@@ -102,9 +109,9 @@ function buildWorldEntry(dataPath, ratesPath, worldRates, prevCountryEntry) {
     return sum + b;
   }, 0);
 
-  const GDP = amountToUSDInteger(rates.GDP, localCurrency, worldRates);
+  const GDP = amountToUSDInteger(economics.GDP, localCurrency, worldRates);
   const GDPPerCapita = amountToUSDInteger(
-    rates.GDPPerCapita,
+    economics.GDPPerCapita,
     localCurrency,
     worldRates
   );
@@ -114,7 +121,7 @@ function buildWorldEntry(dataPath, ratesPath, worldRates, prevCountryEntry) {
     worldRates
   );
   const minAnnualSalary = amountToUSDInteger(
-    rates.minAnnualSalary,
+    economics.minAnnualSalary,
     localCurrency,
     worldRates
   );
@@ -168,12 +175,22 @@ function buildWorldForYear(year) {
 
   countries.forEach((country) => {
     const dataPath = path.join(dataDir, country, String(year), "data.json");
-    const ratesPath = path.join(dataDir, country, String(year), "rates.json");
-    if (!isFile(dataPath) || !isFile(ratesPath)) return;
+    const economicsPath = path.join(
+      dataDir,
+      country,
+      String(year),
+      "economics.json"
+    );
+    if (!isFile(dataPath) || !isFile(economicsPath)) return;
 
     const prevEntry =
       prevWorld && typeof prevWorld === "object" ? prevWorld[country] : null;
-    next[country] = buildWorldEntry(dataPath, ratesPath, worldRates, prevEntry);
+    next[country] = buildWorldEntry(
+      dataPath,
+      economicsPath,
+      worldRates,
+      prevEntry
+    );
   });
 
   writeJSON(worldYearFile, next);

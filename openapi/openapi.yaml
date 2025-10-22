@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: Government salary API
-  version: 1.2.1
+  version: 1.3.0
 
 tags:
   - name: Country
@@ -45,10 +45,10 @@ paths:
         "404":
           description: Not Found
 
-  /data/{code}/{year}/rates.json:
+  /data/{code}/{year}/economics.json:
     get:
       tags: [Country]
-      summary: Get rates by country and year
+      summary: Get macroeconomic indicators by country and year
       parameters:
         - name: code
           in: path
@@ -78,7 +78,7 @@ paths:
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/Rates"
+                $ref: "#/components/schemas/EconomicsSnapshot"
         "404":
           description: Not Found
 
@@ -173,7 +173,7 @@ paths:
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/Rates"
+                $ref: "#/components/schemas/WorldRates"
         "404":
           description: Not Found
 
@@ -401,9 +401,37 @@ components:
 
     CoreCurrencyCode:
       type: string
-      enum: [USD, EUR, JPY, GBP, CHF, CNY, INR, BRL, MXN, AUD, BTC, ETH]
+      enum: [USD, EUR, GBP, JPY, CNY, AED, RUB, SEK, MXN, BRL, BTC, ETH]
 
-    Rates:
+    EconomicsSnapshot:
+      type: object
+      description: Country-level macro indicators stored in local currency.
+      additionalProperties: false
+      properties:
+        baseCurrency:
+          type: string
+          description: ISO 4217 currency code for the economic figures.
+          example: EUR
+        GDP:
+          type: number
+          description: Nominal gross domestic product in the local currency.
+          minimum: 0
+        GDPPerCapita:
+          type: number
+          description: Nominal GDP per capita in the local currency.
+          minimum: 0
+        minAnnualSalary:
+          type: number
+          description: Minimum annual salary in the local currency.
+          minimum: 0
+        timestamp:
+          type: string
+          format: date-time
+          description: ISO timestamp for when the indicators were last refreshed.
+          example: "2025-07-31T00:00:00Z"
+      required: [baseCurrency, GDP, GDPPerCapita, minAnnualSalary, timestamp]
+
+    WorldRates:
       type: object
       description: Snapshot of exchange rates for the 12-core currencies.
       additionalProperties: false
@@ -422,17 +450,18 @@ components:
           properties:
             USD: { type: number, example: 1 }
             EUR: { type: number, example: 0.91 }
-            JPY: { type: number, example: 140.3 }
             GBP: { type: number, example: 0.78 }
-            CHF: { type: number, example: 0.89 }
+            JPY: { type: number, example: 140.3 }
             CNY: { type: number, example: 7.25 }
-            INR: { type: number, example: 83.1 }
-            BRL: { type: number, example: 5.2 }
+            AED: { type: number, example: 3.95 }
+            RUB: { type: number, example: 95 }
+            SEK: { type: number, example: 10.6 }
             MXN: { type: number, example: 17.1 }
-            AUD: { type: number, example: 1.51 }
+            BRL: { type: number, example: 5.2 }
             BTC: { type: number, example: 0.000016 }
             ETH: { type: number, example: 0.00025 }
-          required: [USD, EUR, JPY, GBP, CHF, CNY, INR, BRL, MXN, AUD, BTC, ETH]
+          required:
+            [USD, EUR, GBP, JPY, CNY, AED, RUB, SEK, MXN, BRL, BTC, ETH]
       required: [baseCurrency, timestamp, rates]
 
     CountryStats:

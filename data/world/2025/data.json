@@ -69,11 +69,11 @@
     }
   },
   "ae": {
-    "GDP": 490000000000,
-    "GDPPerCapita": 170000,
+    "GDP": 124050632911,
+    "GDPPerCapita": 43038,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
-    "minAnnualSalary": 24000,
+    "minAnnualSalary": 6076,
     "minAnnualSalaryGrowthYoY": null,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
@@ -201,6 +201,76 @@
         ],
         "mostPopularCount": 148,
         "totalCountedOfficials": 337,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      }
+    }
+  },
+  "ch": {
+    "GDP": 901098901099,
+    "GDPPerCapita": 104396,
+    "GDPGrowthYoY": null,
+    "GDPPerCapitaGrowthYoY": null,
+    "minAnnualSalary": 46154,
+    "minAnnualSalaryGrowthYoY": null,
+    "ministersBudgetPctOfGDP": 0,
+    "ministers": {
+      "quantity": 7,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 6
+    },
+    "senate": {
+      "quantity": 0
+    },
+    "partyRangeStats": {
+      "counts": {
+        "1": 1,
+        "2": 4,
+        "3": 4,
+        "4": 6,
+        "5": 3
+      },
+      "mostPopularRanges": [
+        4
+      ],
+      "mostPopularCount": 6,
+      "totalCountedOfficials": 18,
+      "unaffiliatedCount": 0,
+      "unmappedPartyCount": 0
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 1,
+          "3": 0,
+          "4": 1,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2,
+          4
+        ],
+        "mostPopularCount": 1,
+        "totalCountedOfficials": 2,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 1,
+          "2": 3,
+          "3": 4,
+          "4": 5,
+          "5": 3
+        },
+        "mostPopularRanges": [
+          4
+        ],
+        "mostPopularCount": 5,
+        "totalCountedOfficials": 16,
         "unaffiliatedCount": 0,
         "unmappedPartyCount": 0
       }
@@ -1175,6 +1245,73 @@
       }
     }
   },
+  "mc": {
+    "GDP": 10153846154,
+    "GDPPerCapita": 281957,
+    "GDPGrowthYoY": null,
+    "GDPPerCapitaGrowthYoY": null,
+    "minAnnualSalary": 25963,
+    "minAnnualSalaryGrowthYoY": null,
+    "ministersBudgetPctOfGDP": 0,
+    "ministers": {
+      "quantity": 5,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 24
+    },
+    "senate": {
+      "quantity": 0
+    },
+    "partyRangeStats": {
+      "counts": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 24,
+        "5": 0
+      },
+      "mostPopularRanges": [
+        4
+      ],
+      "mostPopularCount": 24,
+      "totalCountedOfficials": 24,
+      "unaffiliatedCount": 10,
+      "unmappedPartyCount": 0
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [],
+        "mostPopularCount": 0,
+        "totalCountedOfficials": 0,
+        "unaffiliatedCount": 1,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 24,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          4
+        ],
+        "mostPopularCount": 24,
+        "totalCountedOfficials": 24,
+        "unaffiliatedCount": 5,
+        "unmappedPartyCount": 0
+      }
+    }
+  },
   "mg": {
     "GDP": 15000000000,
     "GDPPerCapita": 530,
@@ -1241,73 +1378,6 @@
         "mostPopularCount": 6,
         "totalCountedOfficials": 7,
         "unaffiliatedCount": 0,
-        "unmappedPartyCount": 0
-      }
-    }
-  },
-  "mc": {
-    "GDP": 10153846154,
-    "GDPPerCapita": 281957,
-    "GDPGrowthYoY": null,
-    "GDPPerCapitaGrowthYoY": null,
-    "minAnnualSalary": 25963,
-    "minAnnualSalaryGrowthYoY": null,
-    "ministersBudgetPctOfGDP": 0,
-    "ministers": {
-      "quantity": 5,
-      "budget": 0
-    },
-    "deputies": {
-      "quantity": 24
-    },
-    "senate": {
-      "quantity": 0
-    },
-    "partyRangeStats": {
-      "counts": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 24,
-        "5": 0
-      },
-      "mostPopularRanges": [
-        4
-      ],
-      "mostPopularCount": 24,
-      "totalCountedOfficials": 24,
-      "unaffiliatedCount": 10,
-      "unmappedPartyCount": 0
-    },
-    "partyRangeStatsSplit": {
-      "executive": {
-        "counts": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 0,
-          "5": 0
-        },
-        "mostPopularRanges": [],
-        "mostPopularCount": 0,
-        "totalCountedOfficials": 0,
-        "unaffiliatedCount": 1,
-        "unmappedPartyCount": 0
-      },
-      "rest": {
-        "counts": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 24,
-          "5": 0
-        },
-        "mostPopularRanges": [
-          4
-        ],
-        "mostPopularCount": 24,
-        "totalCountedOfficials": 24,
-        "unaffiliatedCount": 5,
         "unmappedPartyCount": 0
       }
     }
@@ -1798,11 +1868,11 @@
     }
   },
   "ru": {
-    "GDP": 200000000000000,
-    "GDPPerCapita": 1370000,
+    "GDP": 2173913043478,
+    "GDPPerCapita": 14891,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
-    "minAnnualSalary": 269280,
+    "minAnnualSalary": 2927,
     "minAnnualSalaryGrowthYoY": null,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
@@ -1867,11 +1937,11 @@
     }
   },
   "se": {
-    "GDP": 6140000000000,
-    "GDPPerCapita": 578672,
+    "GDP": 573831775701,
+    "GDPPerCapita": 54081,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
-    "minAnnualSalary": 300000,
+    "minAnnualSalary": 28037,
     "minAnnualSalaryGrowthYoY": null,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {

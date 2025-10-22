@@ -23,7 +23,7 @@ function buildIndexes() {
         (y) =>
           // keep only years that actually have both files
           isFile(path.join(countryPath, y, "data.json")) &&
-          isFile(path.join(countryPath, y, "rates.json"))
+          isFile(path.join(countryPath, y, "economics.json"))
       )
       .map(Number)
       .sort((a, b) => a - b);
