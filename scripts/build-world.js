@@ -5,7 +5,9 @@ const fs = require("fs");
 const { isDirectory } = require("./lib/io");
 const { buildWorldForYear } = require("./lib/world");
 
-const dataDir = path.join(__dirname, "..", "data");
+const dataDir = process.env.GOV_SALARIES_DATA_DIR
+  ? path.resolve(process.env.GOV_SALARIES_DATA_DIR)
+  : path.join(__dirname, "..", "data");
 
 if (require.main === module) {
   // Back-compat default: build all years
