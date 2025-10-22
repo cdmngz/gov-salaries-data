@@ -1,0 +1,162 @@
+{
+  "baseCurrency": "USD",
+  "royalty": [
+    {
+      "name": "Charles III",
+      "gender": "M",
+      "role": "King of Canada",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Government of Canada — Constitutional Monarchy": "https://www.canada.ca/en/canadian-heritage/services/royal-family/canadian-crown.html"
+        }
+      ]
+    }
+  ],
+  "executive": [
+    {
+      "name": "Mary Simon",
+      "gender": "F",
+      "role": "Governor General of Canada",
+      "salary": {
+        "gross": 342100,
+        "net": null
+      },
+      "sources": [
+        {
+          "Rideau Hall — Governor General remuneration": "https://www.gg.ca/en/contact-us/employment/governor-general-remuneration"
+        }
+      ]
+    },
+    {
+      "name": "Justin Trudeau",
+      "gender": "M",
+      "role": "Prime Minister of Canada",
+      "party": "LPC",
+      "salary": {
+        "gross": 406200,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Canada — Parliamentary compensation": "https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ParliamentaryCompensation"
+        }
+      ]
+    },
+    {
+      "name": "Chrystia Freeland",
+      "gender": "F",
+      "role": "Deputy Prime Minister and Minister of Finance",
+      "party": "LPC",
+      "salary": {
+        "gross": 301600,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Canada — Parliamentary compensation": "https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ParliamentaryCompensation"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Mélanie Joly",
+      "gender": "F",
+      "portfolio": "Minister of Foreign Affairs",
+      "party": "LPC",
+      "salary": {
+        "gross": 301600,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Canada — Parliamentary compensation": "https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ParliamentaryCompensation"
+        }
+      ]
+    },
+    {
+      "name": "Bill Blair",
+      "gender": "M",
+      "portfolio": "Minister of National Defence",
+      "party": "LPC",
+      "salary": {
+        "gross": 301600,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Canada — Parliamentary compensation": "https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ParliamentaryCompensation"
+        }
+      ]
+    },
+    {
+      "name": "Dominic LeBlanc",
+      "gender": "M",
+      "portfolio": "Minister of Public Safety",
+      "party": "LPC",
+      "salary": {
+        "gross": 301600,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Canada — Parliamentary compensation": "https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ParliamentaryCompensation"
+        }
+      ]
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [
+    {
+      "name": "Richard Wagner",
+      "gender": "M",
+      "role": "Chief Justice of Canada",
+      "salary": {
+        "gross": 450800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Office of the Commissioner for Federal Judicial Affairs — Judicial salaries": "https://www.fja-cmf.gc.ca/appointments-nominations/salar-eng.html"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "LPC": {
+      "name": "Liberal Party of Canada",
+      "en": "Liberal Party",
+      "range": 2,
+      "color": "#D71920"
+    },
+    "CPC": {
+      "name": "Conservative Party of Canada",
+      "en": "Conservative Party",
+      "range": 4,
+      "color": "#0C499C"
+    },
+    "NDP": {
+      "name": "New Democratic Party",
+      "en": "New Democratic Party",
+      "range": 1,
+      "color": "#F58220"
+    },
+    "Bloc": {
+      "name": "Bloc Québécois",
+      "en": "Bloc Québécois",
+      "range": 1,
+      "color": "#00AEEF"
+    },
+    "Green": {
+      "name": "Green Party of Canada",
+      "en": "Green Party",
+      "range": 1,
+      "color": "#3D9B35"
+    }
+  }
+}
