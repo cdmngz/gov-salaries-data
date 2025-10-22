@@ -206,6 +206,145 @@
       }
     }
   },
+  "br": {
+    "GDP": 2259615384615,
+    "GDPPerCapita": 10538,
+    "GDPGrowthYoY": null,
+    "GDPPerCapitaGrowthYoY": null,
+    "minAnnualSalary": 3489,
+    "minAnnualSalaryGrowthYoY": null,
+    "ministersBudgetPctOfGDP": 0,
+    "ministers": {
+      "quantity": 4,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 0
+    },
+    "senate": {
+      "quantity": 0
+    },
+    "partyRangeStats": {
+      "counts": {
+        "1": 0,
+        "2": 4,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      },
+      "mostPopularRanges": [
+        2
+      ],
+      "mostPopularCount": 4,
+      "totalCountedOfficials": 6,
+      "unaffiliatedCount": 0,
+      "unmappedPartyCount": 0
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2,
+          3
+        ],
+        "mostPopularCount": 1,
+        "totalCountedOfficials": 2,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 3,
+          "3": 1,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 3,
+        "totalCountedOfficials": 4,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      }
+    }
+  },
+  "ca": {
+    "GDP": 2420000000000,
+    "GDPPerCapita": 61800,
+    "GDPGrowthYoY": null,
+    "GDPPerCapitaGrowthYoY": null,
+    "minAnnualSalary": 34632,
+    "minAnnualSalaryGrowthYoY": null,
+    "ministersBudgetPctOfGDP": 0,
+    "ministers": {
+      "quantity": 3,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 0
+    },
+    "senate": {
+      "quantity": 0
+    },
+    "partyRangeStats": {
+      "counts": {
+        "1": 0,
+        "2": 5,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "mostPopularRanges": [
+        2
+      ],
+      "mostPopularCount": 5,
+      "totalCountedOfficials": 5,
+      "unaffiliatedCount": 3,
+      "unmappedPartyCount": 0
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 2,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 2,
+        "totalCountedOfficials": 2,
+        "unaffiliatedCount": 1,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 3,
+          "3": 0,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          2
+        ],
+        "mostPopularCount": 3,
+        "totalCountedOfficials": 3,
+        "unaffiliatedCount": 1,
+        "unmappedPartyCount": 0
+      }
+    }
+  },
   "ch": {
     "GDP": 901098901099,
     "GDPPerCapita": 104396,
