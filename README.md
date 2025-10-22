@@ -15,7 +15,7 @@ All JSON data is publicly available at:
 ### Example URLs:
 
 - [`/es/2025/data.json`](https://cdmngz.github.io/gov-salaries-data/data/es/2025/data.json) – officials, parties, base currency, etc.
-- [`/es/2025/rates.json`](https://cdmngz.github.io/gov-salaries-data/data/es/2025/rates.json) – exchange rates for currency conversion
+- [`/es/2025/economics.json`](https://cdmngz.github.io/gov-salaries-data/data/es/2025/economics.json) – macro indicators for the local currency
 - [`/es/index.json`](https://cdmngz.github.io/gov-salaries-data/data/es/index.json) – available years per country
 - [`/index.json`](https://cdmngz.github.io/gov-salaries-data/data/index.json) – all available countries years
 
@@ -26,26 +26,23 @@ All JSON data is publicly available at:
 Each dataset is organized by:
 
 `/<country>/<year>/data.json`
-`/<country>/<year>/rates.json`
+`/<country>/<year>/economics.json`
 
 ### Example:
 
 `/es/2025/data.json`
-`/es/2025/rates.json`
+`/es/2025/economics.json`
 
 - `data.json` contains official records, metadata, and the country `baseCurrency` field.
-- `rates.json` contains conversion rates **relative to that baseCurrency**, including both fiat and selected cryptocurrencies.
+- `economics.json` stores macroeconomic indicators (GDP, GDP per capita, minimum annual salary, timestamp) in the local `baseCurrency`.
 
 ---
 
 ## 💱 Currency & Rates
 
-- Every `data.json` includes a `baseCurrency` (e.g. `"USD"`)
-- Each `rates.json` provides conversion rates for:
-  - Major world currencies (EUR, GBP, JPY, etc.)
-  - Cryptocurrencies (BTC, ETH)
-- Currencies are expressed as:  
-  `1 baseCurrency = X targetCurrency`
+- Every `data.json` includes a `baseCurrency` (e.g. `"USD"`).
+- Each country's macro data is stored in `economics.json`; conversions are normalized through the shared world file at `/data/world/<year>/rates.json`, which lists 12 core currencies.
+- Currency conversions are performed relative to the `baseCurrency` using the world rates during the build step.
 
 ---
 
@@ -55,7 +52,7 @@ We welcome your help! To contribute:
 
 1. **Fork the repo**
 2. **Add or update a `data.json` file** in the correct folder (`/data/<country>/<year>/data.json`)
-3. **Add or update a `rates.json` file** in the correct folder (`/data/<country>/<year>/rates.json`)
+3. **Add or update an `economics.json` file** in the correct folder (`/data/<country>/<year>/economics.json`)
 4. **Follow the expected JSON format** — see the template below
 5. **Submit a Pull Request**
 
@@ -65,11 +62,11 @@ We welcome your help! To contribute:
 
 ## 🧾 Data Template
 
-Please make sure your `data.json` and `rates.json` files follows the structure shown in:
+Please make sure your `data.json` and `economics.json` files follows the structure shown in:
 
 ➡️ [`templates/data-template.json`](templates/data-template.json)
 
-➡️ [`templates/rates-template.json`](templates/rates-template.json)
+➡️ [`templates/economics-template.json`](templates/economics-template.json)
 
 ---
 
