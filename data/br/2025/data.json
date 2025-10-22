@@ -1,0 +1,113 @@
+{
+  "baseCurrency": "BRL",
+  "executive": [
+    {
+      "name": "Luiz Inácio Lula da Silva",
+      "gender": "M",
+      "role": "President of the Federative Republic of Brazil",
+      "party": "PT",
+      "salary": {
+        "gross": 44008.52
+      },
+      "sources": [
+        {
+          "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        }
+      ]
+    },
+    {
+      "name": "Geraldo Alckmin",
+      "gender": "M",
+      "role": "Vice President of the Federative Republic of Brazil",
+      "party": "PSB",
+      "salary": {
+        "gross": 44008.52
+      },
+      "sources": [
+        {
+          "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Fernando Haddad",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "PT",
+      "salary": {
+        "gross": 44008.52
+      },
+      "sources": [
+        {
+          "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        }
+      ]
+    },
+    {
+      "name": "Rui Costa",
+      "gender": "M",
+      "role": "Chief of Staff of the Presidency",
+      "party": "PT",
+      "salary": {
+        "gross": 44008.52
+      },
+      "sources": [
+        {
+          "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        }
+      ]
+    },
+    {
+      "name": "Nísia Trindade Lima",
+      "gender": "F",
+      "role": "Minister of Health",
+      "party": "Independent",
+      "salary": {
+        "gross": 44008.52
+      },
+      "sources": [
+        {
+          "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        }
+      ]
+    },
+    {
+      "name": "Camilo Santana",
+      "gender": "M",
+      "role": "Minister of Education",
+      "party": "PT",
+      "salary": {
+        "gross": 44008.52
+      },
+      "sources": [
+        {
+          "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        }
+      ]
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "PT": {
+      "name": "Partido dos Trabalhadores",
+      "en": "Workers' Party",
+      "range": 2,
+      "color": "#CC0000"
+    },
+    "PSB": {
+      "name": "Partido Socialista Brasileiro",
+      "en": "Brazilian Socialist Party",
+      "range": 3,
+      "color": "#FFCC00"
+    },
+    "Independent": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 3,
+      "color": "#666666"
+    }
+  }
+}
