@@ -1,0 +1,304 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Santiago Peña Palacios",
+      "gender": "M",
+      "role": "President of the Republic of Paraguay",
+      "party": "ANR",
+      "salary": {
+        "gross": 63243.24
+      },
+      "sources": [
+        {
+          "ABC Color – Santiago Peña reduce su salario a G. 39 millones": "https://www.abc.com.py/nacionales/2023/08/22/santiago-pena-reduce-su-salario/"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "Pedro Alliana Rodríguez",
+      "gender": "M",
+      "role": "Vice President of the Republic of Paraguay",
+      "party": "ANR",
+      "salary": {
+        "gross": 50270.27
+      },
+      "sources": [
+        {
+          "ABC Color – Santiago Peña reduce su salario a G. 39 millones": "https://www.abc.com.py/nacionales/2023/08/22/santiago-pena-reduce-su-salario/"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Rubén Ramírez Lezcano",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "Enrique Riera Escudero",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "Óscar González Segovia",
+      "gender": "M",
+      "role": "Minister of National Defense",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "Carlos Fernández Valdovinos",
+      "gender": "M",
+      "role": "Minister of Economy and Finance",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "Javier Giménez Benítez",
+      "gender": "M",
+      "role": "Minister of Industry and Commerce",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "Carlos Giménez Cuevas",
+      "gender": "M",
+      "role": "Minister of Agriculture and Livestock",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "María Teresa Barán Wasilchuk",
+      "gender": "F",
+      "role": "Minister of Public Health and Social Welfare",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "Luis Ramírez Romero",
+      "gender": "M",
+      "role": "Minister of Education and Sciences",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "Claudia Centurión",
+      "gender": "F",
+      "role": "Minister of Public Works and Communications",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "Juan Carlos Baruja",
+      "gender": "M",
+      "role": "Minister of Urbanism, Housing and Habitat",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "Rolando de Barros Barreto",
+      "gender": "M",
+      "role": "Minister of Environment and Sustainable Development",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "Mónica Recalde",
+      "gender": "F",
+      "role": "Minister of Labor, Employment and Social Security",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "Tadeo Rojas",
+      "gender": "M",
+      "role": "Minister of Social Development",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "Cynthia Figueredo",
+      "gender": "F",
+      "role": "Minister for Women",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    },
+    {
+      "name": "Gustavo Villate",
+      "gender": "M",
+      "role": "Minister of Information and Communication Technologies",
+      "party": "ANR",
+      "salary": {
+        "gross": 45405.41
+      },
+      "sources": [
+        {
+          "Decreto Nº 45/2023 – Designación de Ministros": "https://www.presidencia.gov.py/documentos/decreto-45-2023.pdf"
+        },
+        {
+          "Banco Central del Paraguay – Tipo de cambio de referencia (2 de enero de 2025)": "https://www.bcp.gov.py/tipo-de-cambio-mn--i724"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "ANR": {
+      "name": "Asociación Nacional Republicana",
+      "en": "National Republican Association – Colorado Party",
+      "range": 2,
+      "color": "#C8102E"
+    }
+  }
+}
