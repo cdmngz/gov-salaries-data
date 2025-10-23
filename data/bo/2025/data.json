@@ -1,0 +1,87 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Luis Alberto Arce Catacora",
+      "gender": "M",
+      "role": "President of the Plurinational State of Bolivia",
+      "party": "MAS-IPSP",
+      "salary": {
+        "gross": 3514.64
+      },
+      "sources": [
+        {
+          "La Razón - Arce reduce su salario a Bs 24.251": "https://www.la-razon.com/economia/2020/11/09/arce-reduce-su-salario-a-bs-24-251-y-el-de-sus-ministros-a-bs-22-904/"
+        }
+      ]
+    },
+    {
+      "name": "David Choquehuanca Céspedes",
+      "gender": "M",
+      "role": "Vice President of the Plurinational State of Bolivia",
+      "party": "MAS-IPSP",
+      "salary": {
+        "gross": 3514.64
+      },
+      "sources": [
+        {
+          "La Razón - Arce reduce su salario a Bs 24.251": "https://www.la-razon.com/economia/2020/11/09/arce-reduce-su-salario-a-bs-24-251-y-el-de-sus-ministros-a-bs-22-904/"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Marcelo Alejandro Montenegro Gómez García",
+      "gender": "M",
+      "role": "Minister of Economy and Public Finance",
+      "party": "MAS-IPSP",
+      "salary": {
+        "gross": 3319.42
+      },
+      "sources": [
+        {
+          "La Razón - Arce reduce su salario a Bs 24.251": "https://www.la-razon.com/economia/2020/11/09/arce-reduce-su-salario-a-bs-24-251-y-el-de-sus-ministros-a-bs-22-904/"
+        }
+      ]
+    },
+    {
+      "name": "María Renée Castro Cusicanqui",
+      "gender": "F",
+      "role": "Minister of Health and Sports",
+      "party": "MAS-IPSP",
+      "salary": {
+        "gross": 3319.42
+      },
+      "sources": [
+        {
+          "La Razón - Arce reduce su salario a Bs 24.251": "https://www.la-razon.com/economia/2020/11/09/arce-reduce-su-salario-a-bs-24-251-y-el-de-sus-ministros-a-bs-22-904/"
+        }
+      ]
+    },
+    {
+      "name": "Édgar Pari Sandoval",
+      "gender": "M",
+      "role": "Minister of Education",
+      "party": "MAS-IPSP",
+      "salary": {
+        "gross": 3319.42
+      },
+      "sources": [
+        {
+          "La Razón - Arce reduce su salario a Bs 24.251": "https://www.la-razon.com/economia/2020/11/09/arce-reduce-su-salario-a-bs-24-251-y-el-de-sus-ministros-a-bs-22-904/"
+        }
+      ]
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "MAS-IPSP": {
+      "name": "Movimiento al Socialismo – Instrumento Político por la Soberanía de los Pueblos",
+      "en": "Movement for Socialism – Political Instrument for the Sovereignty of the Peoples",
+      "range": 2,
+      "color": "#0B4FA0"
+    }
+  }
+}

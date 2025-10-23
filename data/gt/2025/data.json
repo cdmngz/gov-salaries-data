@@ -1,0 +1,87 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Bernardo Arévalo",
+      "gender": "M",
+      "role": "President of the Republic of Guatemala",
+      "party": "SEMILLA",
+      "salary": {
+        "gross": 18839.74
+      },
+      "sources": [
+        {
+          "Prensa Libre - ¿Cuánto ganan el presidente y vicepresidenta de Guatemala?": "https://www.prensalibre.com/guatemala/politica/cuanto-ganan-el-presidente-y-vicepresidenta-de-guatemala/"
+        }
+      ]
+    },
+    {
+      "name": "Karin Herrera",
+      "gender": "F",
+      "role": "Vice President of the Republic of Guatemala",
+      "party": "SEMILLA",
+      "salary": {
+        "gross": 18839.74
+      },
+      "sources": [
+        {
+          "Prensa Libre - ¿Cuánto ganan el presidente y vicepresidenta de Guatemala?": "https://www.prensalibre.com/guatemala/politica/cuanto-ganan-el-presidente-y-vicepresidenta-de-guatemala/"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Jonathan Menkos Zeissig",
+      "gender": "M",
+      "role": "Minister of Public Finance",
+      "party": "SEMILLA",
+      "salary": {
+        "gross": 6089.74
+      },
+      "sources": [
+        {
+          "Prensa Libre - ¿Cuánto ganan el presidente y vicepresidenta de Guatemala?": "https://www.prensalibre.com/guatemala/politica/cuanto-ganan-el-presidente-y-vicepresidenta-de-guatemala/"
+        }
+      ]
+    },
+    {
+      "name": "Anabella Giracca",
+      "gender": "F",
+      "role": "Minister of Education",
+      "party": "SEMILLA",
+      "salary": {
+        "gross": 6089.74
+      },
+      "sources": [
+        {
+          "Prensa Libre - ¿Cuánto ganan el presidente y vicepresidenta de Guatemala?": "https://www.prensalibre.com/guatemala/politica/cuanto-ganan-el-presidente-y-vicepresidenta-de-guatemala/"
+        }
+      ]
+    },
+    {
+      "name": "Mónica Figueroa",
+      "gender": "F",
+      "role": "Minister of Public Health and Social Assistance",
+      "party": "SEMILLA",
+      "salary": {
+        "gross": 6089.74
+      },
+      "sources": [
+        {
+          "Prensa Libre - ¿Cuánto ganan el presidente y vicepresidenta de Guatemala?": "https://www.prensalibre.com/guatemala/politica/cuanto-ganan-el-presidente-y-vicepresidenta-de-guatemala/"
+        }
+      ]
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "SEMILLA": {
+      "name": "Movimiento Semilla",
+      "en": "Seed Movement",
+      "range": 3,
+      "color": "#4CAF50"
+    }
+  }
+}

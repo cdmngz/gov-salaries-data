@@ -1,0 +1,73 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Juan Antonio \"John\" Briceño",
+      "gender": "M",
+      "role": "Prime Minister of Belize",
+      "party": "PUP",
+      "salary": {
+        "gross": 3825
+      },
+      "sources": [
+        {
+          "Members of the National Assembly (Salaries and Allowances) Act": "https://www.belizelaw.org/web/lawadmin/PDF%20files/cap008.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Cordel Hyde",
+      "gender": "M",
+      "role": "Deputy Prime Minister of Belize",
+      "party": "PUP",
+      "salary": {
+        "gross": 3333.34
+      },
+      "sources": [
+        {
+          "Members of the National Assembly (Salaries and Allowances) Act": "https://www.belizelaw.org/web/lawadmin/PDF%20files/cap008.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Francis Fonseca",
+      "gender": "M",
+      "role": "Minister of Education, Culture, Science and Technology",
+      "party": "PUP",
+      "salary": {
+        "gross": 2916.67
+      },
+      "sources": [
+        {
+          "Members of the National Assembly (Salaries and Allowances) Act": "https://www.belizelaw.org/web/lawadmin/PDF%20files/cap008.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Kevin Bernard",
+      "gender": "M",
+      "role": "Minister of Health and Wellness",
+      "party": "PUP",
+      "salary": {
+        "gross": 2916.67
+      },
+      "sources": [
+        {
+          "Members of the National Assembly (Salaries and Allowances) Act": "https://www.belizelaw.org/web/lawadmin/PDF%20files/cap008.pdf"
+        }
+      ]
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "PUP": {
+      "name": "People's United Party",
+      "en": "People's United Party",
+      "range": 2,
+      "color": "#1B5E20"
+    }
+  }
+}
