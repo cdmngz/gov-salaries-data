@@ -1,5 +1,5 @@
 {
-  "baseCurrency": "BRL",
+  "baseCurrency": "USD",
   "executive": [
     {
       "name": "Luiz Inácio Lula da Silva",
@@ -7,11 +7,14 @@
       "role": "President of the Federative Republic of Brazil",
       "party": "PT",
       "salary": {
-        "gross": 44008.52
+        "gross": 8801.7
       },
       "sources": [
         {
           "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        },
+        {
+          "Conversion BRL/USD Jan-2025": 5.0
         }
       ]
     },
@@ -21,11 +24,14 @@
       "role": "Vice President of the Federative Republic of Brazil",
       "party": "PSB",
       "salary": {
-        "gross": 44008.52
+        "gross": 8801.7
       },
       "sources": [
         {
           "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        },
+        {
+          "Conversion BRL/USD Jan-2025": 5.0
         }
       ]
     }
@@ -37,11 +43,14 @@
       "role": "Minister of Finance",
       "party": "PT",
       "salary": {
-        "gross": 44008.52
+        "gross": 8801.7
       },
       "sources": [
         {
           "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        },
+        {
+          "Conversion BRL/USD Jan-2025": 5.0
         }
       ]
     },
@@ -51,11 +60,14 @@
       "role": "Chief of Staff of the Presidency",
       "party": "PT",
       "salary": {
-        "gross": 44008.52
+        "gross": 8801.7
       },
       "sources": [
         {
           "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        },
+        {
+          "Conversion BRL/USD Jan-2025": 5.0
         }
       ]
     },
@@ -65,11 +77,14 @@
       "role": "Minister of Health",
       "party": "Independent",
       "salary": {
-        "gross": 44008.52
+        "gross": 8801.7
       },
       "sources": [
         {
           "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        },
+        {
+          "Conversion BRL/USD Jan-2025": 5.0
         }
       ]
     },
@@ -79,11 +94,14 @@
       "role": "Minister of Education",
       "party": "PT",
       "salary": {
-        "gross": 44008.52
+        "gross": 8801.7
       },
       "sources": [
         {
           "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        },
+        {
+          "Conversion BRL/USD Jan-2025": 5.0
         }
       ]
     }

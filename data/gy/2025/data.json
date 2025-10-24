@@ -1,0 +1,125 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Mohamed Irfaan Ali",
+      "gender": "M",
+      "role": "President of the Co-operative Republic of Guyana",
+      "party": "PPP/C",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Mark Anthony Phillips",
+      "gender": "M",
+      "role": "Prime Minister of the Co-operative Republic of Guyana",
+      "party": "PPP/C",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Hugh Todd",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs and International Cooperation",
+      "party": "PPP/C",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Robeson Benn",
+      "gender": "M",
+      "role": "Minister of Home Affairs",
+      "party": "PPP/C",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Anand Persaud",
+      "gender": "M",
+      "role": "Minister of Local Government and Regional Development",
+      "party": "PPP/C",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Dr. Ashni Kumar Singh",
+      "gender": "M",
+      "role": "Senior Minister in the Office of the President with responsibility for Finance",
+      "party": "PPP/C",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Vickram Bharrat",
+      "gender": "M",
+      "role": "Minister of Natural Resources",
+      "party": "PPP/C",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Manzoor Nadir",
+      "gender": "M",
+      "district": "Region 4",
+      "party": "PPP/C",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Raphael Trotman",
+      "gender": "M",
+      "district": "Region 10",
+      "party": "APNU+AFC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "senate": [],
+  "officials": [
+    {
+      "name": "Dame Justice Yonette Cummings-Edwards",
+      "gender": "F",
+      "role": "Chancellor of the Judiciary",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "parties": {
+    "PPP/C": {
+      "name": "People's Progressive Party/Civic",
+      "en": "People's Progressive Party/Civic",
+      "range": 2,
+      "color": "#E31837"
+    },
+    "APNU+AFC": {
+      "name": "A Partnership for National Unity + Alliance For Change",
+      "en": "A Partnership for National Unity + Alliance For Change",
+      "range": 3,
+      "color": "#1F7F3D"
+    }
+  }
+}
