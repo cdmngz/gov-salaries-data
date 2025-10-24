@@ -1,7 +1,7 @@
 {
-  "baseCurrency": "BRL",
-  "GDP": 11750000000000,
-  "GDPPerCapita": 54800,
-  "minAnnualSalary": 18144,
+  "baseCurrency": "USD",
+  "GDP": 2350000000000.0,
+  "GDPPerCapita": 10960.0,
+  "minAnnualSalary": 3628.8,
   "timestamp": "2025-01-01T00:00:00Z"
 }
