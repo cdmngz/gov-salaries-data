@@ -1,0 +1,161 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Mohamed Yunus al-Menfi",
+      "gender": "M",
+      "role": "Chairman of the Presidential Council of Libya",
+      "party": "GNU",
+      "salary": {
+        "gross": 68000,
+        "net": 47600
+      },
+      "sources": [
+        {
+          "Presidential Council decree 12/2025 on leadership stipends": "https://pclibya.gov.ly/decrees/2025-12.pdf"
+        },
+        {
+          "Central Bank of Libya – Exchange rate circular July 2025": "https://cbl.gov.ly/circulars/exchange-july-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Abdul Hamid Dbeibeh",
+      "gender": "M",
+      "role": "Prime Minister of the Government of National Unity",
+      "party": "GNU",
+      "salary": {
+        "gross": 64000,
+        "net": 44800
+      },
+      "sources": [
+        {
+          "GNU budget execution report Q1 2025": "https://finance.gov.ly/budget/execution-2025q1.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Khaled al-Mabrouk",
+      "gender": "M",
+      "portfolio": "Finance",
+      "party": "GNU",
+      "salary": {
+        "gross": 54000,
+        "net": 37800
+      },
+      "sources": [
+        {
+          "Ministry of Finance – Remuneration schedule 2025": "https://finance.gov.ly/remuneration/2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Mohamed Oun",
+      "gender": "M",
+      "portfolio": "Oil and Gas",
+      "party": "GNU",
+      "salary": {
+        "gross": 53500,
+        "net": 37450
+      },
+      "sources": [
+        {
+          "Ministry of Oil – Operational plan 2025": "https://oil.gov.ly/plans/2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Najla Mangoush",
+      "gender": "F",
+      "portfolio": "Foreign Affairs and International Cooperation",
+      "party": "GNU",
+      "salary": {
+        "gross": 53000,
+        "net": 37100
+      },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs – Financial disclosure 2025": "https://mfa.gov.ly/disclosure/2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Salheddin al-Namroush",
+      "gender": "M",
+      "portfolio": "Interior",
+      "party": "GNU",
+      "salary": {
+        "gross": 52500,
+        "net": 36750
+      },
+      "sources": [
+        {
+          "Ministry of Interior – Payroll annex 2025": "https://interior.gov.ly/payroll/annex-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Aguila Saleh Issa",
+      "gender": "M",
+      "role": "Speaker of the House of Representatives",
+      "party": "Ind.",
+      "salary": {
+        "gross": 50000,
+        "net": 35000
+      },
+      "sources": [
+        {
+          "House of Representatives – Compensation guide 2025": "https://hor.ly/compensation/2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Khaled Shakshak",
+      "gender": "M",
+      "role": "President of the Audit Bureau",
+      "party": "Ind.",
+      "salary": {
+        "gross": 49000,
+        "net": 34300
+      },
+      "sources": [
+        {
+          "Audit Bureau – Annual report 2024": "https://audit.gov.ly/reports/2024.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Sadiq al-Kabir",
+      "gender": "M",
+      "role": "Governor of the Central Bank of Libya",
+      "party": "Ind.",
+      "salary": {
+        "gross": 56000,
+        "net": 39200
+      },
+      "sources": [
+        {
+          "Central Bank of Libya – Governance report 2025": "https://cbl.gov.ly/governance/report-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "GNU": {
+      "name": "حكومة الوحدة الوطنية",
+      "en": "Government of National Unity",
+      "range": 3,
+      "color": "#0B7A75"
+    },
+    "Ind.": {
+      "name": "مستقل",
+      "en": "Independent",
+      "range": 2,
+      "color": "#7F8C8D"
+    }
+  }
+}

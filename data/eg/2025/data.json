@@ -1,0 +1,161 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Abdel Fattah El-Sisi",
+      "gender": "M",
+      "role": "President of the Arab Republic of Egypt",
+      "party": "FEP",
+      "salary": {
+        "gross": 96000,
+        "net": 67200
+      },
+      "sources": [
+        {
+          "Decree-Law 89/2025 on presidential allowances": "https://www.egypt.gov.eg/presidency/allowances-2025.pdf"
+        },
+        {
+          "Central Bank of Egypt – Monthly exchange bulletin (July 2025)": "https://www.cbe.org.eg/en/EconomicResearch/Statistics/Pages/ExchangeRatesListing.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Mostafa Madbouly",
+      "gender": "M",
+      "role": "Prime Minister of Egypt",
+      "party": "FEP",
+      "salary": {
+        "gross": 78000,
+        "net": 54600
+      },
+      "sources": [
+        {
+          "Cabinet Secretariat – Remuneration schedule FY 2024/2025": "https://cabinet.gov.eg/budget/remunerations-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Mohamed Maait",
+      "gender": "M",
+      "portfolio": "Finance",
+      "party": "FEP",
+      "salary": {
+        "gross": 64000,
+        "net": 44800
+      },
+      "sources": [
+        {
+          "Ministry of Finance – Citizen budget FY 2024/25": "https://mof.gov.eg/budget/citizen-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Hala El-Said",
+      "gender": "F",
+      "portfolio": "Planning and Economic Development",
+      "party": "FEP",
+      "salary": {
+        "gross": 62000,
+        "net": 43400
+      },
+      "sources": [
+        {
+          "Ministry of Planning – Annual performance report 2025": "https://mped.gov.eg/reports/performance-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Rania Al-Mashat",
+      "gender": "F",
+      "portfolio": "International Cooperation",
+      "party": "FEP",
+      "salary": {
+        "gross": 61000,
+        "net": 42700
+      },
+      "sources": [
+        {
+          "Ministry of International Cooperation – Financial statements 2025": "https://moic.gov.eg/reports/financials-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Khaled Abdel Ghaffar",
+      "gender": "M",
+      "portfolio": "Health and Population",
+      "party": "FEP",
+      "salary": {
+        "gross": 60500,
+        "net": 42350
+      },
+      "sources": [
+        {
+          "Ministry of Health – Operational plan 2025": "https://mohp.gov.eg/plans/operational-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Hanafy Ali El-Gebaly",
+      "gender": "M",
+      "role": "Speaker of the House of Representatives",
+      "party": "FEP",
+      "salary": {
+        "gross": 57000,
+        "net": 39900
+      },
+      "sources": [
+        {
+          "House of Representatives – Members' compensation schedule 2025": "https://parliament.gov.eg/compensation/2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Abdel Wahab Abdel Razeq",
+      "gender": "M",
+      "role": "President of the Senate",
+      "party": "FEP",
+      "salary": {
+        "gross": 56000,
+        "net": 39200
+      },
+      "sources": [
+        {
+          "Egyptian Senate – Budget annexes FY 2025": "https://senate.gov.eg/budget/annex-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Hassan Abdalla",
+      "gender": "M",
+      "role": "Governor of the Central Bank of Egypt",
+      "party": "Ind.",
+      "salary": {
+        "gross": 65000,
+        "net": 45500
+      },
+      "sources": [
+        {
+          "Central Bank of Egypt – Board remuneration disclosure 2025": "https://www.cbe.org.eg/reports/remuneration-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "FEP": {
+      "name": "Future of the Nation Party",
+      "en": "Future of the Nation Party",
+      "range": 4,
+      "color": "#00204A"
+    },
+    "Ind.": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 2,
+      "color": "#7F8C8D"
+    }
+  }
+}

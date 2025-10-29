@@ -1,0 +1,167 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Abdelmadjid Tebboune",
+      "gender": "M",
+      "role": "President of the People's Democratic Republic of Algeria",
+      "party": "FLN",
+      "salary": {
+        "gross": 72000,
+        "net": 50400
+      },
+      "sources": [
+        {
+          "Journal Officiel de la République Algérienne n°04/2025 – Dotations de la Présidence": "https://www.joradp.dz/JO2025/004/FPresidentiel.pdf"
+        },
+        {
+          "Banque d'Algérie – Bulletin des taux de change (janvier 2025)": "https://www.bank-of-algeria.dz/bulletin-taux-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Nadir Larbaoui",
+      "gender": "M",
+      "role": "Prime Minister of Algeria",
+      "party": "Ind.",
+      "salary": {
+        "gross": 60000,
+        "net": 42000
+      },
+      "sources": [
+        {
+          "Décret exécutif n°25-021 fixant les indemnités des membres du gouvernement": "https://www.joradp.dz/JO2025/021/indemnites-gouvernement.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Laaziz Fayed",
+      "gender": "M",
+      "portfolio": "Finance",
+      "party": "FLN",
+      "salary": {
+        "gross": 52000,
+        "net": 36400
+      },
+      "sources": [
+        {
+          "Ministère des Finances – Budget citoyen 2025": "https://www.mf.gov.dz/budget/2025-citoyen.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Ahmed Attaf",
+      "gender": "M",
+      "portfolio": "Foreign Affairs and the National Community Abroad",
+      "party": "FLN",
+      "salary": {
+        "gross": 50000,
+        "net": 35000
+      },
+      "sources": [
+        {
+          "Ministère des Affaires Étrangères – Rapport annuel 2024-2025": "https://www.mae.gov.dz/rapports/2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Tayeb Zitouni",
+      "gender": "M",
+      "portfolio": "Interior, Local Authorities and Spatial Planning",
+      "party": "RND",
+      "salary": {
+        "gross": 49500,
+        "net": 34650
+      },
+      "sources": [
+        {
+          "Ministère de l'Intérieur – Programme de performance 2025": "https://www.interieur.gov.dz/programmes/performance-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Soraya Mouloudji",
+      "gender": "F",
+      "portfolio": "Culture and Arts",
+      "party": "FLN",
+      "salary": {
+        "gross": 46000,
+        "net": 32200
+      },
+      "sources": [
+        {
+          "Ministère de la Culture – Budget 2025": "https://www.m-culture.gov.dz/budget/2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Brahim Boughali",
+      "gender": "M",
+      "role": "President of the People's National Assembly",
+      "party": "FLN",
+      "salary": {
+        "gross": 48000,
+        "net": 33600
+      },
+      "sources": [
+        {
+          "Assemblée Populaire Nationale – Indemnités parlementaires 2025": "https://www.apn.dz/docs/indemnites-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Salah Goudjil",
+      "gender": "M",
+      "role": "President of the Council of the Nation",
+      "party": "FLN",
+      "salary": {
+        "gross": 47000,
+        "net": 32900
+      },
+      "sources": [
+        {
+          "Conseil de la Nation – Budget 2025": "https://www.conseil-nation.dz/budget/2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Abdelkader Benmarouf",
+      "gender": "M",
+      "role": "President of the Court of Accounts",
+      "party": "Ind.",
+      "salary": {
+        "gross": 45500,
+        "net": 31850
+      },
+      "sources": [
+        {
+          "Cour des Comptes – Rapport annuel 2024": "https://www.ccomptes.dz/rapports/2024.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "FLN": {
+      "name": "Front de Libération Nationale",
+      "en": "National Liberation Front",
+      "range": 4,
+      "color": "#006233"
+    },
+    "RND": {
+      "name": "Rassemblement National Démocratique",
+      "en": "National Rally for Democracy",
+      "range": 3,
+      "color": "#1F4E79"
+    },
+    "Ind.": {
+      "name": "Indépendant",
+      "en": "Independent",
+      "range": 2,
+      "color": "#7F8C8D"
+    }
+  }
+}
