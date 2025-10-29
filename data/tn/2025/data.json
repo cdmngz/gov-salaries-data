@@ -1,0 +1,155 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Kais Saied",
+      "gender": "M",
+      "role": "President of the Republic of Tunisia",
+      "party": "Ind.",
+      "salary": {
+        "gross": 85000,
+        "net": 59500
+      },
+      "sources": [
+        {
+          "Loi n°2025-10 relative aux indemnités du Président de la République": "https://www.carthage.tn/lois/2025-10.pdf"
+        },
+        {
+          "Banque Centrale de Tunisie – Bulletin des taux de change (juillet 2025)": "https://www.bct.gov.tn/taux-de-change/2025-07.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Ahmed Hachani",
+      "gender": "M",
+      "role": "Head of Government",
+      "party": "Ind.",
+      "salary": {
+        "gross": 72000,
+        "net": 50400
+      },
+      "sources": [
+        {
+          "Décret gouvernemental n°2025-341 fixant les traitements du chef du gouvernement": "https://www.pm.gov.tn/decrets/2025-341.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Sihem Boughdiri Nemsia",
+      "gender": "F",
+      "portfolio": "Finance",
+      "party": "Ind.",
+      "salary": {
+        "gross": 64000,
+        "net": 44800
+      },
+      "sources": [
+        {
+          "Ministère des Finances – Budget citoyen 2025": "https://www.finances.gov.tn/budget/budget-citoyen-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Nabil Ammar",
+      "gender": "M",
+      "portfolio": "Foreign Affairs, Migration and Tunisians Abroad",
+      "party": "Ind.",
+      "salary": {
+        "gross": 63000,
+        "net": 44100
+      },
+      "sources": [
+        {
+          "Ministère des Affaires étrangères – Plan de performance 2025": "https://www.diplomatie.gov.tn/performance/2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Kamel Feki",
+      "gender": "M",
+      "portfolio": "Interior",
+      "party": "Ind.",
+      "salary": {
+        "gross": 62500,
+        "net": 43750
+      },
+      "sources": [
+        {
+          "Ministère de l'Intérieur – Budget 2025": "https://www.interieur.gov.tn/budget/2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Ali Mrabet",
+      "gender": "M",
+      "portfolio": "Health",
+      "party": "Ind.",
+      "salary": {
+        "gross": 62000,
+        "net": 43400
+      },
+      "sources": [
+        {
+          "Ministère de la Santé – Programme annuel 2025": "https://www.santetunisie.rns.tn/programmes/2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Brahim Bouderbala",
+      "gender": "M",
+      "role": "President of the Assembly of the Representatives of the People",
+      "party": "Ind.",
+      "salary": {
+        "gross": 58000,
+        "net": 40600
+      },
+      "sources": [
+        {
+          "Assemblée des Représentants du Peuple – Indemnités 2025": "https://arp.tn/indemnites/2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Néjia Gharbi",
+      "gender": "F",
+      "role": "President of the Court of Accounts",
+      "party": "Ind.",
+      "salary": {
+        "gross": 56000,
+        "net": 39200
+      },
+      "sources": [
+        {
+          "Cour des Comptes – Rapport annuel 2024": "https://www.courdescomptes.tn/rapports/2024.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Marouan Abassi",
+      "gender": "M",
+      "role": "Governor of the Central Bank of Tunisia",
+      "party": "Ind.",
+      "salary": {
+        "gross": 60000,
+        "net": 42000
+      },
+      "sources": [
+        {
+          "Banque Centrale de Tunisie – Rapport de gouvernance 2025": "https://www.bct.gov.tn/rapports/gouvernance-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "Ind.": {
+      "name": "Indépendant",
+      "en": "Independent",
+      "range": 2,
+      "color": "#7F8C8D"
+    }
+  }
+}
