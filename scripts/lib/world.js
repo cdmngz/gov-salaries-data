@@ -173,7 +173,8 @@ function buildWorldForYear(year) {
   const countries = fs
     .readdirSync(dataDir)
     .filter((cc) => /^[a-z]{2}$/i.test(cc))
-    .filter((cc) => isDirectory(path.join(dataDir, cc)));
+    .filter((cc) => isDirectory(path.join(dataDir, cc)))
+    .sort((a, b) => a.localeCompare(b));
 
   countries.forEach((country) => {
     const dataPath = path.join(dataDir, country, String(year), "data.json");
@@ -195,7 +196,10 @@ function buildWorldForYear(year) {
     );
   });
 
-  writeJSON(worldYearFile, next);
+  const sortedEntries = Object.fromEntries(
+    Object.entries(next).sort(([a], [b]) => a.localeCompare(b))
+  );
+  writeJSON(worldYearFile, sortedEntries);
 
   const worldIndexPath = path.join(worldDir, "index.json");
   const existingYears = readJSON(worldIndexPath) || [];
