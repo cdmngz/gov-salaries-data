@@ -1,0 +1,137 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Klaus Iohannis",
+      "gender": "M",
+      "role": "President of Romania",
+      "party": "PNL",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Administrația Prezidențială": "https://www.presidency.ro/" }
+      ]
+    },
+    {
+      "name": "Marcel Ciolacu",
+      "gender": "M",
+      "role": "Prime Minister of Romania",
+      "party": "PSD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Guvernul României": "https://www.gov.ro/" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Marcel Boloș",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "PNL",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerul Finanțelor": "https://mfinante.gov.ro/" }
+      ]
+    },
+    {
+      "name": "Luminița Odobescu",
+      "gender": "F",
+      "role": "Minister of Foreign Affairs",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerul Afacerilor Externe": "https://www.mae.ro/" }
+      ]
+    },
+    {
+      "name": "Cătălin Predoiu",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "PNL",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerul Afacerilor Interne": "https://www.mai.gov.ro/" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Alfred Simonis",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Chamber of Deputies",
+      "role": "Acting President of the Chamber of Deputies",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Camera Deputaților": "https://www.cdep.ro/pls/parlam/structura.mp?idm=288&cam=2" }
+      ]
+    },
+    {
+      "name": "Lucian Bode",
+      "gender": "M",
+      "party": "PNL",
+      "district": "Chamber of Deputies",
+      "role": "Deputy Speaker of the Chamber of Deputies",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Camera Deputaților": "https://www.cdep.ro/" }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Nicolae Ciucă",
+      "gender": "M",
+      "party": "PNL",
+      "district": "Senate",
+      "role": "President of the Senate",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Senatul României": "https://www.senat.ro/" }
+      ]
+    },
+    {
+      "name": "Alina Gorghiu",
+      "gender": "F",
+      "party": "PNL",
+      "district": "Senate",
+      "role": "Vice President of the Senate",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Senatul României": "https://www.senat.ro/" }
+      ]
+    }
+  ],
+  "parties": {
+    "PSD": {
+      "name": "Partidul Social Democrat",
+      "en": "Social Democratic Party",
+      "range": 3,
+      "color": "#d71920"
+    },
+    "PNL": {
+      "name": "Partidul Național Liberal",
+      "en": "National Liberal Party",
+      "range": 4,
+      "color": "#0055a4"
+    },
+    "USR": {
+      "name": "Uniunea Salvați România",
+      "en": "Save Romania Union",
+      "range": 3,
+      "color": "#1a9cff"
+    },
+    "AUR": {
+      "name": "Alianța pentru Unirea Românilor",
+      "en": "Alliance for the Union of Romanians",
+      "range": 5,
+      "color": "#ffcc33"
+    },
+    "UDMR": {
+      "name": "Uniunea Democrată Maghiară din România",
+      "en": "Democratic Alliance of Hungarians in Romania",
+      "range": 3,
+      "color": "#006600"
+    }
+  }
+}

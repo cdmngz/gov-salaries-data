@@ -1,0 +1,149 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Karl Nehammer",
+      "gender": "M",
+      "role": "Federal Chancellor of Austria",
+      "party": "OVP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Bundeskanzleramt Österreich – Regierungsmitglieder": "https://www.bundeskanzleramt.gv.at/themen/die-bundesregierung.html"
+        }
+      ]
+    },
+    {
+      "name": "Werner Kogler",
+      "gender": "M",
+      "role": "Vice-Chancellor and Minister for Arts, Culture, the Civil Service and Sport",
+      "party": "GRE",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport": "https://www.bmkoes.gv.at/Ueber-uns/werner-kogler.html"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Magnus Brunner",
+      "gender": "M",
+      "role": "Federal Minister of Finance",
+      "party": "OVP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Bundesministerium für Finanzen": "https://www.bmf.gv.at/" }
+      ]
+    },
+    {
+      "name": "Alexander Schallenberg",
+      "gender": "M",
+      "role": "Federal Minister for European and International Affairs",
+      "party": "OVP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Bundesministerium für europäische und internationale Angelegenheiten": "https://www.bmeia.gv.at/" }
+      ]
+    },
+    {
+      "name": "Gerhard Karner",
+      "gender": "M",
+      "role": "Federal Minister of the Interior",
+      "party": "OVP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Bundesministerium für Inneres": "https://www.bmi.gv.at/" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Wolfgang Sobotka",
+      "gender": "M",
+      "party": "OVP",
+      "district": "National Council",
+      "role": "President of the National Council",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Parlament Österreich": "https://www.parlament.gv.at/personen/praesident-innen/praesident-des-nationalrates"
+        }
+      ]
+    },
+    {
+      "name": "Doris Bures",
+      "gender": "F",
+      "party": "SPO",
+      "district": "National Council",
+      "role": "Second President of the National Council",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Parlament Österreich": "https://www.parlament.gv.at/personen/praesident-innen/zweite-praesidentin"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Margit Göll",
+      "gender": "F",
+      "party": "OVP",
+      "district": "Federal Council",
+      "role": "President of the Federal Council",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Bundesrat Österreich": "https://www.parlament.gv.at/organe/bundesrat/praesidium"
+        }
+      ]
+    },
+    {
+      "name": "Edith Mühlberghuber",
+      "gender": "F",
+      "party": "FPO",
+      "district": "Federal Council",
+      "role": "Vice-President of the Federal Council",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Bundesrat Österreich": "https://www.parlament.gv.at/organe/bundesrat"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "OVP": {
+      "name": "Österreichische Volkspartei",
+      "en": "Austrian People's Party",
+      "range": 4,
+      "color": "#1e5aa8"
+    },
+    "SPO": {
+      "name": "Sozialdemokratische Partei Österreichs",
+      "en": "Social Democratic Party of Austria",
+      "range": 2,
+      "color": "#e2001a"
+    },
+    "GRE": {
+      "name": "Die Grünen – Die Grüne Alternative",
+      "en": "The Greens",
+      "range": 2,
+      "color": "#6ab023"
+    },
+    "FPO": {
+      "name": "Freiheitliche Partei Österreichs",
+      "en": "Freedom Party of Austria",
+      "range": 5,
+      "color": "#0f4aa3"
+    },
+    "NEOS": {
+      "name": "NEOS – Das Neue Österreich",
+      "en": "NEOS",
+      "range": 3,
+      "color": "#e31c79"
+    }
+  }
+}

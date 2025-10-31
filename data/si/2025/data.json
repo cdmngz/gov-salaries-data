@@ -1,0 +1,137 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Nataša Pirc Musar",
+      "gender": "F",
+      "role": "President of the Republic of Slovenia",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Urad predsednice Republike Slovenije": "https://www.predsednica.si/" }
+      ]
+    },
+    {
+      "name": "Robert Golob",
+      "gender": "M",
+      "role": "Prime Minister of Slovenia",
+      "party": "GS",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Vlada Republike Slovenije": "https://www.gov.si/drzavni-organi/vlada/" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Klemen Boštjančič",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "GS",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministrstvo za finance": "https://www.gov.si/drzavni-organi/ministrstva/ministrstvo-za-finance/" }
+      ]
+    },
+    {
+      "name": "Tanja Fajon",
+      "gender": "F",
+      "role": "Minister of Foreign and European Affairs",
+      "party": "SD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministrstvo za zunanje in evropske zadeve": "https://www.gov.si/drzavni-organi/ministrstva/mzez/" }
+      ]
+    },
+    {
+      "name": "Boštjan Poklukar",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "GS",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministrstvo za notranje zadeve": "https://www.gov.si/drzavni-organi/ministrstva/mnz/" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Urška Klakočar Zupančič",
+      "gender": "F",
+      "party": "GS",
+      "district": "National Assembly",
+      "role": "President of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Državni zbor": "https://www.dz-rs.si/wps/portal/Home/ODrzavnemZboru/Predsednik" }
+      ]
+    },
+    {
+      "name": "Danijel Krivec",
+      "gender": "M",
+      "party": "SDS",
+      "district": "National Assembly",
+      "role": "Deputy Speaker of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Državni zbor": "https://www.dz-rs.si/" }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Marko Lotrič",
+      "gender": "M",
+      "party": "IND",
+      "district": "National Council",
+      "role": "President of the National Council",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Državni svet": "https://www.ds-rs.si/" }
+      ]
+    },
+    {
+      "name": "Dušan Strnad",
+      "gender": "M",
+      "party": "IND",
+      "district": "National Council",
+      "role": "Deputy President of the National Council",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Državni svet": "https://www.ds-rs.si/" }
+      ]
+    }
+  ],
+  "parties": {
+    "GS": {
+      "name": "Gibanje Svoboda",
+      "en": "Freedom Movement",
+      "range": 3,
+      "color": "#4cb5ab"
+    },
+    "SD": {
+      "name": "Socialni demokrati",
+      "en": "Social Democrats",
+      "range": 2,
+      "color": "#e2001a"
+    },
+    "SDS": {
+      "name": "Slovenska demokratska stranka",
+      "en": "Slovenian Democratic Party",
+      "range": 4,
+      "color": "#0050a0"
+    },
+    "NSI": {
+      "name": "Nova Slovenija",
+      "en": "New Slovenia",
+      "range": 4,
+      "color": "#0d6b2f"
+    },
+    "LEVICA": {
+      "name": "Levica",
+      "en": "The Left",
+      "range": 1,
+      "color": "#c8102e"
+    }
+  }
+}

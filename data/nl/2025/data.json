@@ -1,0 +1,137 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Dick Schoof",
+      "gender": "M",
+      "role": "Prime Minister of the Netherlands",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Rijksoverheid": "https://www.rijksoverheid.nl/regering/bewindspersonen/dick-schoof" }
+      ]
+    },
+    {
+      "name": "Mona Keijzer",
+      "gender": "F",
+      "role": "Deputy Prime Minister and Minister for Public Administration and Kingdom Relations",
+      "party": "BBB",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Rijksoverheid": "https://www.rijksoverheid.nl/ministerraad" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Eelco Heinen",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "VVD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerie van Financiën": "https://www.rijksoverheid.nl/ministeries/ministerie-van-financien" }
+      ]
+    },
+    {
+      "name": "Caspar Veldkamp",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "NSC",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerie van Buitenlandse Zaken": "https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken" }
+      ]
+    },
+    {
+      "name": "Marjolein Faber",
+      "gender": "F",
+      "role": "Minister for Asylum and Migration",
+      "party": "PVV",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerraad": "https://www.rijksoverheid.nl/regering/leden-van-het-kabinet" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Martin Bosma",
+      "gender": "M",
+      "party": "PVV",
+      "district": "House of Representatives",
+      "role": "Speaker of the House of Representatives",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Tweede Kamer": "https://www.tweedekamer.nl/kamerleden_en_commissies/presidium" }
+      ]
+    },
+    {
+      "name": "Roelien Kamminga",
+      "gender": "F",
+      "party": "VVD",
+      "district": "House of Representatives",
+      "role": "Deputy Speaker of the House of Representatives",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Tweede Kamer": "https://www.tweedekamer.nl/" }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Jan Anthonie Bruijn",
+      "gender": "M",
+      "party": "VVD",
+      "district": "Senate",
+      "role": "President of the Senate",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Eerste Kamer": "https://www.eerstekamer.nl/persoon/dr_j_a_j_bruijn_vvd" }
+      ]
+    },
+    {
+      "name": "Tiny Kox",
+      "gender": "M",
+      "party": "SP",
+      "district": "Senate",
+      "role": "Vice President of the Senate",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Eerste Kamer": "https://www.eerstekamer.nl/" }
+      ]
+    }
+  ],
+  "parties": {
+    "PVV": {
+      "name": "Partij voor de Vrijheid",
+      "en": "Party for Freedom",
+      "range": 5,
+      "color": "#003067"
+    },
+    "VVD": {
+      "name": "Volkspartij voor Vrijheid en Democratie",
+      "en": "People's Party for Freedom and Democracy",
+      "range": 4,
+      "color": "#FF8F00"
+    },
+    "NSC": {
+      "name": "Nieuw Sociaal Contract",
+      "en": "New Social Contract",
+      "range": 3,
+      "color": "#1f4b99"
+    },
+    "BBB": {
+      "name": "BoerBurgerBeweging",
+      "en": "Farmer–Citizen Movement",
+      "range": 3,
+      "color": "#3d9c3d"
+    },
+    "SP": {
+      "name": "Socialistische Partij",
+      "en": "Socialist Party",
+      "range": 1,
+      "color": "#c8102e"
+    }
+  }
+}

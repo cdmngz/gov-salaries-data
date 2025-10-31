@@ -1,0 +1,114 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Katerina Sakellaropoulou",
+      "gender": "F",
+      "role": "President of the Hellenic Republic",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Presidency of the Hellenic Republic": "https://www.presidency.gr/" }
+      ]
+    },
+    {
+      "name": "Kyriakos Mitsotakis",
+      "gender": "M",
+      "role": "Prime Minister of Greece",
+      "party": "ND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Hellenic Government": "https://primeminister.gr/en" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Kostis Hatzidakis",
+      "gender": "M",
+      "role": "Minister of National Economy and Finance",
+      "party": "ND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Υπουργείο Εθνικής Οικονομίας και Οικονομικών": "https://www.mnec.gr/" }
+      ]
+    },
+    {
+      "name": "Giorgos Gerapetritis",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "ND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Υπουργείο Εξωτερικών": "https://www.mfa.gr/" }
+      ]
+    },
+    {
+      "name": "Michalis Chrisochoidis",
+      "gender": "M",
+      "role": "Minister for Citizen Protection",
+      "party": "ND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Υπουργείο Προστασίας του Πολίτη": "https://www.mopocp.gov.gr/" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Konstantinos Tasoulas",
+      "gender": "M",
+      "party": "ND",
+      "district": "Hellenic Parliament",
+      "role": "Speaker of the Hellenic Parliament",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Hellenic Parliament": "https://www.hellenicparliament.gr/en/The-Former-Presidents/" }
+      ]
+    },
+    {
+      "name": "Odysseas Konstantinopoulos",
+      "gender": "M",
+      "party": "PASOK",
+      "district": "Hellenic Parliament",
+      "role": "Deputy Speaker of the Hellenic Parliament",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Hellenic Parliament": "https://www.hellenicparliament.gr/" }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "ND": {
+      "name": "Νέα Δημοκρατία",
+      "en": "New Democracy",
+      "range": 4,
+      "color": "#0b62a4"
+    },
+    "SYR": {
+      "name": "Συνασπισμός Ριζοσπαστικής Αριστεράς",
+      "en": "Coalition of the Radical Left",
+      "range": 1,
+      "color": "#d50032"
+    },
+    "PASOK": {
+      "name": "Πανελλήνιο Σοσιαλιστικό Κίνημα",
+      "en": "Panhellenic Socialist Movement",
+      "range": 2,
+      "color": "#008f4c"
+    },
+    "KKE": {
+      "name": "Κομμουνιστικό Κόμμα Ελλάδας",
+      "en": "Communist Party of Greece",
+      "range": 1,
+      "color": "#e2001a"
+    },
+    "EL": {
+      "name": "Ελληνική Λύση",
+      "en": "Greek Solution",
+      "range": 5,
+      "color": "#014c9d"
+    }
+  }
+}

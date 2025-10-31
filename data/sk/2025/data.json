@@ -1,0 +1,114 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Peter Pellegrini",
+      "gender": "M",
+      "role": "President of the Slovak Republic",
+      "party": "HLAS",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Prezident Slovenskej republiky": "https://www.prezident.sk/" }
+      ]
+    },
+    {
+      "name": "Robert Fico",
+      "gender": "M",
+      "role": "Prime Minister of Slovakia",
+      "party": "SMER",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Úrad vlády Slovenskej republiky": "https://www.vlada.gov.sk/" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ladislav Kamenický",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "SMER",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerstvo financií": "https://www.mfsr.sk/" }
+      ]
+    },
+    {
+      "name": "Juraj Blanár",
+      "gender": "M",
+      "role": "Minister of Foreign and European Affairs",
+      "party": "SMER",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerstvo zahraničných vecí a európskych záležitostí": "https://www.mzv.sk/" }
+      ]
+    },
+    {
+      "name": "Matúš Šutaj Eštok",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "HLAS",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerstvo vnútra": "https://www.minv.sk/" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Erik Tomáš",
+      "gender": "M",
+      "party": "HLAS",
+      "district": "National Council",
+      "role": "Speaker of the National Council",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Národná rada Slovenskej republiky": "https://www.nrsr.sk/web/?sid=podpredseda" }
+      ]
+    },
+    {
+      "name": "Andrej Danko",
+      "gender": "M",
+      "party": "SNS",
+      "district": "National Council",
+      "role": "Deputy Speaker of the National Council",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Národná rada Slovenskej republiky": "https://www.nrsr.sk/" }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "SMER": {
+      "name": "Smer – sociálna demokracia",
+      "en": "Direction – Social Democracy",
+      "range": 2,
+      "color": "#d71920"
+    },
+    "HLAS": {
+      "name": "Hlas – sociálna demokracia",
+      "en": "Voice – Social Democracy",
+      "range": 3,
+      "color": "#da4453"
+    },
+    "SNS": {
+      "name": "Slovenská národná strana",
+      "en": "Slovak National Party",
+      "range": 4,
+      "color": "#0055a4"
+    },
+    "PS": {
+      "name": "Progresívne Slovensko",
+      "en": "Progressive Slovakia",
+      "range": 2,
+      "color": "#00a0df"
+    },
+    "KDH": {
+      "name": "Kresťanskodemokratické hnutie",
+      "en": "Christian Democratic Movement",
+      "range": 3,
+      "color": "#003366"
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Michael D. Higgins",
+      "gender": "M",
+      "role": "President of Ireland",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Áras an Uachtaráin": "https://president.ie/en/the-president" }
+      ]
+    },
+    {
+      "name": "Simon Harris",
+      "gender": "M",
+      "role": "Taoiseach (Prime Minister)",
+      "party": "FG",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Government of Ireland": "https://www.gov.ie/en/biography/3d275-taoiseach-simon-harris/" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Michael McGrath",
+      "gender": "M",
+      "role": "Minister for Finance",
+      "party": "FF",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Department of Finance": "https://www.gov.ie/en/organisation/department-of-finance/" }
+      ]
+    },
+    {
+      "name": "Micheál Martin",
+      "gender": "M",
+      "role": "Tánaiste and Minister for Foreign Affairs",
+      "party": "FF",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Department of Foreign Affairs": "https://www.dfa.ie/" }
+      ]
+    },
+    {
+      "name": "Helen McEntee",
+      "gender": "F",
+      "role": "Minister for Justice",
+      "party": "FG",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Department of Justice": "https://www.justice.ie/" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Seán Ó Fearghaíl",
+      "gender": "M",
+      "party": "FF",
+      "district": "Dáil Éireann",
+      "role": "Ceann Comhairle of Dáil Éireann",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Se%C3%A1n-%C3%93-Feargha%C3%ADl.D.2002-06-06/" }
+      ]
+    },
+    {
+      "name": "Catherine Connolly",
+      "gender": "F",
+      "party": "IND",
+      "district": "Dáil Éireann",
+      "role": "Leas-Cheann Comhairle of Dáil Éireann",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/" }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Jerry Buttimer",
+      "gender": "M",
+      "party": "FG",
+      "district": "Seanad Éireann",
+      "role": "Cathaoirleach of Seanad Éireann",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Jerry-Buttimer.S.2011-05-25/" }
+      ]
+    },
+    {
+      "name": "Mark Daly",
+      "gender": "M",
+      "party": "FF",
+      "district": "Seanad Éireann",
+      "role": "Leader of Seanad Éireann",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/" }
+      ]
+    }
+  ],
+  "parties": {
+    "FG": {
+      "name": "Fine Gael",
+      "en": "Fine Gael",
+      "range": 4,
+      "color": "#0047bb"
+    },
+    "FF": {
+      "name": "Fianna Fáil",
+      "en": "Fianna Fáil",
+      "range": 3,
+      "color": "#4caf50"
+    },
+    "SF": {
+      "name": "Sinn Féin",
+      "en": "Sinn Féin",
+      "range": 1,
+      "color": "#006b3f"
+    },
+    "LAB": {
+      "name": "Labour Party",
+      "en": "Labour Party",
+      "range": 2,
+      "color": "#d10000"
+    },
+    "GP": {
+      "name": "Green Party",
+      "en": "Green Party",
+      "range": 2,
+      "color": "#4ba23f"
+    }
+  }
+}

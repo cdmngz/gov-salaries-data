@@ -1,0 +1,143 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Andrzej Duda",
+      "gender": "M",
+      "role": "President of the Republic of Poland",
+      "party": "PIS",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Kancelaria Prezydenta": "https://www.prezydent.pl/" }
+      ]
+    },
+    {
+      "name": "Donald Tusk",
+      "gender": "M",
+      "role": "Prime Minister of Poland",
+      "party": "KO",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Kancelaria Prezesa Rady Ministrów": "https://www.gov.pl/web/premier" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Andrzej Domański",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "KO",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerstwo Finansów": "https://www.gov.pl/web/finanse" }
+      ]
+    },
+    {
+      "name": "Radosław Sikorski",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "KO",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerstwo Spraw Zagranicznych": "https://www.gov.pl/web/dyplomacja" }
+      ]
+    },
+    {
+      "name": "Marcin Kierwiński",
+      "gender": "M",
+      "role": "Minister of the Interior and Administration",
+      "party": "KO",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerstwo Spraw Wewnętrznych i Administracji": "https://www.gov.pl/web/mswia" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Szymon Hołownia",
+      "gender": "M",
+      "party": "PL2050",
+      "district": "Sejm",
+      "role": "Marshal of the Sejm",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Sejm Rzeczypospolitej Polskiej": "https://www.sejm.gov.pl/Sejm10.nsf/page.xsp/marszalek" }
+      ]
+    },
+    {
+      "name": "Dorota Niedziela",
+      "gender": "F",
+      "party": "KO",
+      "district": "Sejm",
+      "role": "Deputy Marshal of the Sejm",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Sejm Rzeczypospolitej Polskiej": "https://www.sejm.gov.pl/" }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Małgorzata Kidawa-Błońska",
+      "gender": "F",
+      "party": "KO",
+      "district": "Senate",
+      "role": "Marshal of the Senate",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Senat Rzeczypospolitej Polskiej": "https://www.senat.gov.pl/" }
+      ]
+    },
+    {
+      "name": "Michał Kamiński",
+      "gender": "M",
+      "party": "PSL",
+      "district": "Senate",
+      "role": "Deputy Marshal of the Senate",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Senat Rzeczypospolitej Polskiej": "https://www.senat.gov.pl/" }
+      ]
+    }
+  ],
+  "parties": {
+    "KO": {
+      "name": "Koalicja Obywatelska",
+      "en": "Civic Coalition",
+      "range": 3,
+      "color": "#0039a6"
+    },
+    "PIS": {
+      "name": "Prawo i Sprawiedliwość",
+      "en": "Law and Justice",
+      "range": 4,
+      "color": "#9f1a30"
+    },
+    "PSL": {
+      "name": "Polskie Stronnictwo Ludowe",
+      "en": "Polish People's Party",
+      "range": 3,
+      "color": "#006748"
+    },
+    "PL2050": {
+      "name": "Polska 2050",
+      "en": "Poland 2050",
+      "range": 3,
+      "color": "#f6aa1c"
+    },
+    "LEW": {
+      "name": "Lewica",
+      "en": "The Left",
+      "range": 2,
+      "color": "#d4213d"
+    },
+    "KONF": {
+      "name": "Konfederacja",
+      "en": "Confederation",
+      "range": 5,
+      "color": "#002f6c"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Mette Frederiksen",
+      "gender": "F",
+      "role": "Prime Minister of Denmark",
+      "party": "SD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Statsministeriet": "https://www.stm.dk/ministeriet/statsminister-mette-frederiksen/" }
+      ]
+    },
+    {
+      "name": "Troels Lund Poulsen",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Defence",
+      "party": "V",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Forsvarsministeriet": "https://www.fmn.dk/" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Nicolai Wammen",
+      "gender": "M",
+      "role": "Minister for Finance",
+      "party": "SD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Finansministeriet": "https://fm.dk/" }
+      ]
+    },
+    {
+      "name": "Lars Løkke Rasmussen",
+      "gender": "M",
+      "role": "Minister for Foreign Affairs",
+      "party": "M",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Udenrigsministeriet": "https://um.dk/" }
+      ]
+    },
+    {
+      "name": "Peter Hummelgaard",
+      "gender": "M",
+      "role": "Minister of Justice",
+      "party": "SD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Justitsministeriet": "https://www.justitsministeriet.dk/" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Søren Gade",
+      "gender": "M",
+      "party": "V",
+      "district": "Folketing",
+      "role": "Speaker of the Folketing",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Folketinget": "https://www.ft.dk/da/folketinget/folketingets-formand" }
+      ]
+    },
+    {
+      "name": "Trine Bramsen",
+      "gender": "F",
+      "party": "SD",
+      "district": "Folketing",
+      "role": "Deputy Speaker of the Folketing",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Folketinget": "https://www.ft.dk/" }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "SD": {
+      "name": "Socialdemokratiet",
+      "en": "Social Democrats",
+      "range": 2,
+      "color": "#c8102e"
+    },
+    "V": {
+      "name": "Venstre",
+      "en": "The Liberal Party",
+      "range": 4,
+      "color": "#005bbb"
+    },
+    "M": {
+      "name": "Moderaterne",
+      "en": "The Moderates",
+      "range": 3,
+      "color": "#ff8f1c"
+    },
+    "SF": {
+      "name": "Socialistisk Folkeparti",
+      "en": "Socialist People's Party",
+      "range": 1,
+      "color": "#d4002a"
+    },
+    "DF": {
+      "name": "Dansk Folkeparti",
+      "en": "Danish People's Party",
+      "range": 5,
+      "color": "#003366"
+    }
+  }
+}
