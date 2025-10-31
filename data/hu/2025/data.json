@@ -1,0 +1,114 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Tamás Sulyok",
+      "gender": "M",
+      "role": "President of Hungary",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Köztársasági Elnöki Hivatal": "https://www.keh.hu/" }
+      ]
+    },
+    {
+      "name": "Viktor Orbán",
+      "gender": "M",
+      "role": "Prime Minister of Hungary",
+      "party": "FIDESZ",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Miniszterelnöki Kabinetiroda": "https://miniszterelnok.hu/" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Mihály Varga",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "FIDESZ",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Pénzügyminisztérium": "https://www.penzugyminiszterium.hu/" }
+      ]
+    },
+    {
+      "name": "Péter Szijjártó",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs and Trade",
+      "party": "FIDESZ",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Külgazdasági és Külügyminisztérium": "https://www.kormany.hu/kormanyzat/kulgazdasagi-es-kulugyminiszterium" }
+      ]
+    },
+    {
+      "name": "Sándor Pintér",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "FIDESZ",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Belügyminisztérium": "https://www.kormany.hu/belugyminiszterium" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "László Kövér",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "National Assembly",
+      "role": "Speaker of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/en" }
+      ]
+    },
+    {
+      "name": "István Jakab",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "National Assembly",
+      "role": "Deputy Speaker of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "FIDESZ": {
+      "name": "Fidesz – Magyar Polgári Szövetség",
+      "en": "Fidesz – Hungarian Civic Alliance",
+      "range": 4,
+      "color": "#ff6a00"
+    },
+    "KDNP": {
+      "name": "Kereszténydemokrata Néppárt",
+      "en": "Christian Democratic People's Party",
+      "range": 4,
+      "color": "#0b4ea2"
+    },
+    "DK": {
+      "name": "Demokratikus Koalíció",
+      "en": "Democratic Coalition",
+      "range": 2,
+      "color": "#1c74bc"
+    },
+    "MOMENT": {
+      "name": "Momentum Mozgalom",
+      "en": "Momentum Movement",
+      "range": 3,
+      "color": "#6c247e"
+    },
+    "JOBBIK": {
+      "name": "Jobbik Magyarországért Mozgalom",
+      "en": "Jobbik",
+      "range": 5,
+      "color": "#0f6f3d"
+    }
+  }
+}

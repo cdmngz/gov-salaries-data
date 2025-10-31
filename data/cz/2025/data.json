@@ -1,0 +1,145 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Petr Pavel",
+      "gender": "M",
+      "role": "President of the Czech Republic",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Pražský hrad": "https://www.hrad.cz/cs/president-of-the-czech-republic" }
+      ]
+    },
+    {
+      "name": "Petr Fiala",
+      "gender": "M",
+      "role": "Prime Minister of the Czech Republic",
+      "party": "ODS",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Vláda České republiky": "https://www.vlada.cz/en/clenove-vlady/premier/" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Zbyněk Stanjura",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "ODS",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerstvo financí": "https://www.mfcr.cz/" }
+      ]
+    },
+    {
+      "name": "Jan Lipavský",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "PIR",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerstvo zahraničních věcí": "https://www.mzv.cz/" }
+      ]
+    },
+    {
+      "name": "Vít Rakušan",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "STAN",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministerstvo vnitra": "https://www.mvcr.cz/" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Markéta Pekarová Adamová",
+      "gender": "F",
+      "party": "TOP09",
+      "district": "Chamber of Deputies",
+      "role": "Speaker of the Chamber of Deputies",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1300" }
+      ]
+    },
+    {
+      "name": "Jan Bartošek",
+      "gender": "M",
+      "party": "KDU",
+      "district": "Chamber of Deputies",
+      "role": "Deputy Speaker of the Chamber of Deputies",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1301" }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Miloš Vystrčil",
+      "gender": "M",
+      "party": "ODS",
+      "district": "Senate",
+      "role": "President of the Senate",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=cz&ke_dni=0"
+        }
+      ]
+    },
+    {
+      "name": "Jiří Drahoš",
+      "gender": "M",
+      "party": "STAN",
+      "district": "Senate",
+      "role": "Vice-President of the Senate",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/" }
+      ]
+    }
+  ],
+  "parties": {
+    "ODS": {
+      "name": "Občanská demokratická strana",
+      "en": "Civic Democratic Party",
+      "range": 4,
+      "color": "#0054a6"
+    },
+    "STAN": {
+      "name": "Starostové a nezávislí",
+      "en": "Mayors and Independents",
+      "range": 3,
+      "color": "#00a2e1"
+    },
+    "PIR": {
+      "name": "Česká pirátská strana",
+      "en": "Czech Pirate Party",
+      "range": 2,
+      "color": "#000000"
+    },
+    "TOP09": {
+      "name": "Tradice Odpovědnost Prosperita 09",
+      "en": "Tradition Responsibility Prosperity 09",
+      "range": 4,
+      "color": "#e4002b"
+    },
+    "KDU": {
+      "name": "Křesťanská a demokratická unie – Československá strana lidová",
+      "en": "Christian and Democratic Union – Czechoslovak People's Party",
+      "range": 3,
+      "color": "#ffd800"
+    },
+    "ANO": {
+      "name": "Akce nespokojených občanů 2011",
+      "en": "YES 2011",
+      "range": 3,
+      "color": "#253270"
+    }
+  }
+}

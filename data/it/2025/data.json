@@ -1,0 +1,137 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Sergio Mattarella",
+      "gender": "M",
+      "role": "President of the Italian Republic",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Presidenza della Repubblica": "https://www.quirinale.it/" }
+      ]
+    },
+    {
+      "name": "Giorgia Meloni",
+      "gender": "F",
+      "role": "President of the Council of Ministers",
+      "party": "FDI",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Presidenza del Consiglio dei Ministri": "https://www.governo.it/it/il-presidente" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Giancarlo Giorgetti",
+      "gender": "M",
+      "role": "Minister of Economy and Finance",
+      "party": "LEGA",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministero dell'Economia e delle Finanze": "https://www.mef.gov.it/" }
+      ]
+    },
+    {
+      "name": "Antonio Tajani",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs and International Cooperation",
+      "party": "FI",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministero degli Affari Esteri": "https://www.esteri.it/" }
+      ]
+    },
+    {
+      "name": "Matteo Piantedosi",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministero dell'Interno": "https://www.interno.gov.it/" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Lorenzo Fontana",
+      "gender": "M",
+      "party": "LEGA",
+      "district": "Camera dei deputati",
+      "role": "President of the Chamber of Deputies",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Camera dei deputati": "https://www.camera.it/leg19/1" }
+      ]
+    },
+    {
+      "name": "Giorgio Mulè",
+      "gender": "M",
+      "party": "FI",
+      "district": "Camera dei deputati",
+      "role": "Vice President of the Chamber of Deputies",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Camera dei deputati": "https://www.camera.it/" }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Ignazio La Russa",
+      "gender": "M",
+      "party": "FDI",
+      "district": "Senato della Repubblica",
+      "role": "President of the Senate",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" }
+      ]
+    },
+    {
+      "name": "Anna Rossomando",
+      "gender": "F",
+      "party": "PD",
+      "district": "Senato della Repubblica",
+      "role": "Vice President of the Senate",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" }
+      ]
+    }
+  ],
+  "parties": {
+    "FDI": {
+      "name": "Fratelli d'Italia",
+      "en": "Brothers of Italy",
+      "range": 5,
+      "color": "#00285b"
+    },
+    "LEGA": {
+      "name": "Lega per Salvini Premier",
+      "en": "League",
+      "range": 5,
+      "color": "#347c2c"
+    },
+    "FI": {
+      "name": "Forza Italia",
+      "en": "Forward Italy",
+      "range": 4,
+      "color": "#0093d0"
+    },
+    "PD": {
+      "name": "Partito Democratico",
+      "en": "Democratic Party",
+      "range": 2,
+      "color": "#e6007e"
+    },
+    "M5S": {
+      "name": "Movimento 5 Stelle",
+      "en": "Five Star Movement",
+      "range": 2,
+      "color": "#f6b40e"
+    }
+  }
+}

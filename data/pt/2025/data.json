@@ -1,0 +1,120 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Marcelo Rebelo de Sousa",
+      "gender": "M",
+      "role": "President of the Portuguese Republic",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Presidência da República": "https://www.presidencia.pt/" }
+      ]
+    },
+    {
+      "name": "Luís Montenegro",
+      "gender": "M",
+      "role": "Prime Minister of Portugal",
+      "party": "PSD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Joaquim Miranda Sarmento",
+      "gender": "M",
+      "role": "Minister of State and Finance",
+      "party": "PSD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministério das Finanças": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/financas" }
+      ]
+    },
+    {
+      "name": "Paulo Rangel",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "PSD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministério dos Negócios Estrangeiros": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/negocios-estrangeiros" }
+      ]
+    },
+    {
+      "name": "Margarida Blasco",
+      "gender": "F",
+      "role": "Minister of Internal Administration",
+      "party": "PSD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministério da Administração Interna": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/administracao-interna" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "José Pedro Aguiar-Branco",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Assembly of the Republic",
+      "role": "President of the Assembly of the Republic",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1938" }
+      ]
+    },
+    {
+      "name": "Inês de Sousa Real",
+      "gender": "F",
+      "party": "PAN",
+      "district": "Assembly of the Republic",
+      "role": "Deputy Secretary of the Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Assembleia da República": "https://www.parlamento.pt/" }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "PSD": {
+      "name": "Partido Social Democrata",
+      "en": "Social Democratic Party",
+      "range": 4,
+      "color": "#f58220"
+    },
+    "PS": {
+      "name": "Partido Socialista",
+      "en": "Socialist Party",
+      "range": 2,
+      "color": "#ff3366"
+    },
+    "CHEGA": {
+      "name": "Chega",
+      "en": "Enough",
+      "range": 5,
+      "color": "#002554"
+    },
+    "IL": {
+      "name": "Iniciativa Liberal",
+      "en": "Liberal Initiative",
+      "range": 4,
+      "color": "#00a9e0"
+    },
+    "BE": {
+      "name": "Bloco de Esquerda",
+      "en": "Left Bloc",
+      "range": 1,
+      "color": "#d71920"
+    },
+    "PAN": {
+      "name": "Pessoas-Animais-Natureza",
+      "en": "People-Animals-Nature",
+      "range": 2,
+      "color": "#00a79d"
+    }
+  }
+}
