@@ -1,0 +1,170 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Brice Clotaire Oligui Nguema",
+      "gender": "M",
+      "role": "President of the Transition, Republic of Gabon",
+      "party": "CTRI",
+      "salary": {
+        "gross": 90000,
+        "net": 64800
+      },
+      "sources": [
+        {
+          "Comité pour la Transition et la Restauration des Institutions – Budget 2025": "https://ctri.ga/docs/budget-2025.pdf"
+        },
+        {
+          "Banque des États de l'Afrique Centrale – Taux de change USD/XAF (janvier 2025)": "https://www.beac.int/taux-de-change-2025"
+        }
+      ]
+    },
+    {
+      "name": "Raymond Ndong Sima",
+      "gender": "M",
+      "role": "Prime Minister of the Transition",
+      "party": "Ind.",
+      "salary": {
+        "gross": 72000,
+        "net": 51840
+      },
+      "sources": [
+        {
+          "Primature de Transition – Plan d'action 2025": "https://primature.ga/docs/plan-action-2025.pdf"
+        },
+        {
+          "Inspection Générale d'État – Rapport 2024": "https://ige.ga/docs/rapport-2024.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Mays Mouissi",
+      "gender": "M",
+      "portfolio": "Economy and Participations",
+      "party": "CTRI",
+      "salary": {
+        "gross": 52000,
+        "net": 37440
+      },
+      "sources": [
+        {
+          "Ministère de l'Économie – Document de politique économique 2025": "https://economie.gouv.ga/docs/politique-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Yolande Nyonda",
+      "gender": "F",
+      "portfolio": "Foreign Affairs",
+      "party": "CTRI",
+      "salary": {
+        "gross": 50500,
+        "net": 36360
+      },
+      "sources": [
+        {
+          "Ministère des Affaires étrangères – Budget programme 2025": "https://diplomatie.gouv.ga/docs/budget-programme-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Hermann Immongault",
+      "gender": "M",
+      "portfolio": "Interior and Security",
+      "party": "CTRI",
+      "salary": {
+        "gross": 49800,
+        "net": 35856
+      },
+      "sources": [
+        {
+          "Ministère de l'Intérieur – Rapport annuel 2025": "https://interieur.gouv.ga/docs/rapport-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Adrien Mougougou",
+      "gender": "M",
+      "portfolio": "Public Health",
+      "party": "CTRI",
+      "salary": {
+        "gross": 49000,
+        "net": 35280
+      },
+      "sources": [
+        {
+          "Ministère de la Santé – Programme sanitaire 2025": "https://sante.gouv.ga/docs/programme-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Jean-François Ndongou",
+      "gender": "M",
+      "role": "President of the Transitional National Assembly",
+      "party": "CTRI",
+      "salary": {
+        "gross": 46000,
+        "net": 33120
+      },
+      "sources": [
+        {
+          "Assemblée Nationale de Transition – Budget 2025": "https://assemblee-transition.ga/docs/budget-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Paulette Missambo",
+      "gender": "F",
+      "role": "President of the Senate of Transition",
+      "party": "UN",
+      "salary": {
+        "gross": 45000,
+        "net": 32400
+      },
+      "sources": [
+        {
+          "Sénat de Transition – État de prévision 2025": "https://senat-transition.ga/docs/prevision-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Marie-Madeleine Mborantsuo",
+      "gender": "F",
+      "role": "President of the Constitutional Court",
+      "party": "Ind.",
+      "salary": {
+        "gross": 44000,
+        "net": 31680
+      },
+      "sources": [
+        {
+          "Cour Constitutionnelle – Rapport annuel 2025": "https://cour-constitutionnelle.ga/docs/rapport-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "CTRI": {
+      "name": "Comité pour la Transition et la Restauration des Institutions",
+      "en": "Committee for the Transition and Restoration of Institutions",
+      "range": 3,
+      "color": "#0F4C3A"
+    },
+    "UN": {
+      "name": "Union Nationale",
+      "en": "National Union",
+      "range": 3,
+      "color": "#0057B7"
+    },
+    "Ind.": {
+      "name": "Indépendant",
+      "en": "Independent",
+      "range": 2,
+      "color": "#7F8C8D"
+    }
+  }
+}

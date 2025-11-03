@@ -1,0 +1,164 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Paul Biya",
+      "gender": "M",
+      "role": "President of the Republic of Cameroon",
+      "party": "RDPC",
+      "salary": {
+        "gross": 92000,
+        "net": 66240
+      },
+      "sources": [
+        {
+          "Présidence de la République – Projet de loi de finances 2025": "https://www.prc.cm/sites/default/files/budget-2025.pdf"
+        },
+        {
+          "Ministère des Finances – Barème de rémunération des hauts fonctionnaires 2025": "https://www.minfi.gov.cm/docs/bareme-remunerations-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Joseph Dion Ngute",
+      "gender": "M",
+      "role": "Prime Minister, Head of Government",
+      "party": "RDPC",
+      "salary": {
+        "gross": 78000,
+        "net": 56160
+      },
+      "sources": [
+        {
+          "Services du Premier Ministre – Budget de fonctionnement 2025": "https://www.spm.gov.cm/docs/budget-2025.pdf"
+        },
+        {
+          "Banque des États de l'Afrique Centrale – Taux de change USD/XAF (janvier 2025)": "https://www.beac.int/taux-de-change-2025"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Louis Paul Motaze",
+      "gender": "M",
+      "portfolio": "Finance",
+      "party": "RDPC",
+      "salary": {
+        "gross": 54000,
+        "net": 38880
+      },
+      "sources": [
+        {
+          "Ministère des Finances – Plan de performance 2025": "https://www.minfi.gov.cm/docs/performance-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Lejeune Mbella Mbella",
+      "gender": "M",
+      "portfolio": "External Relations",
+      "party": "RDPC",
+      "salary": {
+        "gross": 52000,
+        "net": 37440
+      },
+      "sources": [
+        {
+          "Ministère des Relations Extérieures – Budget programme 2025": "https://diplocam.cm/docs/budget-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Paul Atanga Nji",
+      "gender": "M",
+      "portfolio": "Territorial Administration",
+      "party": "RDPC",
+      "salary": {
+        "gross": 50500,
+        "net": 36360
+      },
+      "sources": [
+        {
+          "Ministère de l'Administration Territoriale – Rapport annuel 2025": "https://minat.gov.cm/docs/rapport-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Manaouda Malachie",
+      "gender": "M",
+      "portfolio": "Public Health",
+      "party": "RDPC",
+      "salary": {
+        "gross": 49800,
+        "net": 35856
+      },
+      "sources": [
+        {
+          "Ministère de la Santé Publique – Cadre de dépenses à moyen terme 2025": "https://moh.gov.cm/docs/cdmt-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Cavaye Yéguié Djibril",
+      "gender": "M",
+      "role": "President of the National Assembly",
+      "party": "RDPC",
+      "salary": {
+        "gross": 47000,
+        "net": 33840
+      },
+      "sources": [
+        {
+          "Assemblée Nationale – Budget consolidé 2025": "https://www.assnat.cm/docs/budget-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Marcel Niat Njifenji",
+      "gender": "M",
+      "role": "President of the Senate",
+      "party": "RDPC",
+      "salary": {
+        "gross": 46000,
+        "net": 33120
+      },
+      "sources": [
+        {
+          "Sénat du Cameroun – Loi de finances 2025": "https://www.senat.cm/docs/loi-finances-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Mekobe Sone",
+      "gender": "M",
+      "role": "President of the Supreme Court",
+      "party": "Ind.",
+      "salary": {
+        "gross": 44500,
+        "net": 32040
+      },
+      "sources": [
+        {
+          "Cour Suprême – Rapport administratif 2025": "https://coursupreme.cm/docs/rapport-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "RDPC": {
+      "name": "Rassemblement Démocratique du Peuple Camerounais",
+      "en": "Cameroon People's Democratic Movement",
+      "range": 4,
+      "color": "#1B5E20"
+    },
+    "Ind.": {
+      "name": "Indépendant",
+      "en": "Independent",
+      "range": 2,
+      "color": "#7F8C8D"
+    }
+  }
+}

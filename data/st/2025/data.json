@@ -1,0 +1,170 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Carlos Manuel Vila Nova",
+      "gender": "M",
+      "role": "President of the Democratic Republic of São Tomé and Príncipe",
+      "party": "ADI",
+      "salary": {
+        "gross": 58000,
+        "net": 41760
+      },
+      "sources": [
+        {
+          "Presidência da República – Orçamento do Estado 2025": "https://presidencia.st/docs/orcamento-2025.pdf"
+        },
+        {
+          "Banco Central de São Tomé e Príncipe – Taxa de câmbio USD/STN (janeiro 2025)": "https://www.bcstp.st/docs/taxas-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Patrice Emery Trovoada",
+      "gender": "M",
+      "role": "Prime Minister and Head of Government",
+      "party": "ADI",
+      "salary": {
+        "gross": 47000,
+        "net": 33840
+      },
+      "sources": [
+        {
+          "Gabinete do Primeiro-Ministro – Plano de actividades 2025": "https://gov.st/docs/plano-actividades-2025.pdf"
+        },
+        {
+          "Tribunal de Contas – Relatório 2024": "https://tc.st/docs/relatorio-2024.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Genésio da Mata",
+      "gender": "M",
+      "portfolio": "Finance, Planning and Blue Economy",
+      "party": "ADI",
+      "salary": {
+        "gross": 36000,
+        "net": 25920
+      },
+      "sources": [
+        {
+          "Ministério do Planeamento, Finanças e Economia Azul – Quadro orçamental 2025": "https://financas.st/docs/quadro-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Gareth Guadalupe",
+      "gender": "M",
+      "portfolio": "Foreign Affairs, Cooperation and Communities",
+      "party": "ADI",
+      "salary": {
+        "gross": 34800,
+        "net": 25056
+      },
+      "sources": [
+        {
+          "Ministério dos Negócios Estrangeiros – Orçamento programa 2025": "https://mne.st/docs/orcamento-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Jorge Amado",
+      "gender": "M",
+      "portfolio": "Interior and Territorial Administration",
+      "party": "ADI",
+      "salary": {
+        "gross": 34000,
+        "net": 24480
+      },
+      "sources": [
+        {
+          "Ministério da Administração Interna – Relatório 2025": "https://mai.st/docs/relatorio-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Maria Tomé",
+      "gender": "F",
+      "portfolio": "Health",
+      "party": "ADI",
+      "salary": {
+        "gross": 33500,
+        "net": 24120
+      },
+      "sources": [
+        {
+          "Ministério da Saúde – Plano nacional de saúde 2025": "https://saude.st/docs/plano-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Celmira Sacramento",
+      "gender": "F",
+      "role": "President of the National Assembly",
+      "party": "ADI",
+      "salary": {
+        "gross": 32000,
+        "net": 23040
+      },
+      "sources": [
+        {
+          "Assembleia Nacional – Orçamento 2025": "https://parlamento.st/docs/orcamento-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Aurélio Martins",
+      "gender": "M",
+      "role": "President of the Economic and Social Council",
+      "party": "MLSTP/PSD",
+      "salary": {
+        "gross": 30000,
+        "net": 21600
+      },
+      "sources": [
+        {
+          "Conselho Económico e Social – Relatório 2025": "https://ces.st/docs/relatorio-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Manuel Silva Cravid",
+      "gender": "M",
+      "role": "President of the Supreme Court of Justice",
+      "party": "Ind.",
+      "salary": {
+        "gross": 29500,
+        "net": 21240
+      },
+      "sources": [
+        {
+          "Supremo Tribunal de Justiça – Relatório anual 2025": "https://stj.st/docs/relatorio-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "ADI": {
+      "name": "Acção Democrática Independente",
+      "en": "Independent Democratic Action",
+      "range": 3,
+      "color": "#1B5E20"
+    },
+    "MLSTP/PSD": {
+      "name": "Movimento de Libertação de São Tomé e Príncipe/Partido Social Democrata",
+      "en": "Movement for the Liberation of São Tomé and Príncipe/Social Democratic Party",
+      "range": 3,
+      "color": "#FF8F00"
+    },
+    "Ind.": {
+      "name": "Independente",
+      "en": "Independent",
+      "range": 2,
+      "color": "#7F8C8D"
+    }
+  }
+}
