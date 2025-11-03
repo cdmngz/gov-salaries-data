@@ -1,0 +1,164 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Denis Sassou Nguesso",
+      "gender": "M",
+      "role": "President of the Republic of the Congo",
+      "party": "PCT",
+      "salary": {
+        "gross": 88000,
+        "net": 63360
+      },
+      "sources": [
+        {
+          "Présidence de la République – Budget général 2025": "https://presidence.cg/docs/budget-general-2025.pdf"
+        },
+        {
+          "Banque des États de l'Afrique Centrale – Taux de change USD/XAF (janvier 2025)": "https://www.beac.int/taux-de-change-2025"
+        }
+      ]
+    },
+    {
+      "name": "Anatole Collinet Makosso",
+      "gender": "M",
+      "role": "Prime Minister, Head of Government",
+      "party": "PCT",
+      "salary": {
+        "gross": 72000,
+        "net": 51840
+      },
+      "sources": [
+        {
+          "Primature – Plan de performance 2025": "https://primature.cg/docs/performance-2025.pdf"
+        },
+        {
+          "Ministère du Budget – Rapport d'exécution 2024": "https://budget.gouv.cg/docs/execution-2024.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Rigobert Roger Andely",
+      "gender": "M",
+      "portfolio": "Finance and Budget",
+      "party": "PCT",
+      "salary": {
+        "gross": 51000,
+        "net": 36720
+      },
+      "sources": [
+        {
+          "Ministère des Finances – Cadre macroéconomique 2025": "https://finances.gouv.cg/docs/cadre-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Claude Gakosso",
+      "gender": "M",
+      "portfolio": "Foreign Affairs",
+      "party": "PCT",
+      "salary": {
+        "gross": 49500,
+        "net": 35640
+      },
+      "sources": [
+        {
+          "Ministère des Affaires Étrangères – Budget programme 2025": "https://diplomatie.cg/docs/budget-programme-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Raymond Mboulou",
+      "gender": "M",
+      "portfolio": "Interior and Decentralization",
+      "party": "PCT",
+      "salary": {
+        "gross": 48800,
+        "net": 35136
+      },
+      "sources": [
+        {
+          "Ministère de l'Intérieur – Rapport annuel 2025": "https://interieur.cg/docs/rapport-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Gilbert Mokoki",
+      "gender": "M",
+      "portfolio": "Public Health",
+      "party": "PCT",
+      "salary": {
+        "gross": 48200,
+        "net": 34608
+      },
+      "sources": [
+        {
+          "Ministère de la Santé – Plan stratégique 2025": "https://sante.gouv.cg/docs/plan-strategique-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Isidore Mvouba",
+      "gender": "M",
+      "role": "President of the National Assembly",
+      "party": "PCT",
+      "salary": {
+        "gross": 45000,
+        "net": 32400
+      },
+      "sources": [
+        {
+          "Assemblée Nationale – Budget consolidé 2025": "https://assemblee.cg/docs/budget-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Ngolo",
+      "gender": "M",
+      "role": "President of the Senate",
+      "party": "PCT",
+      "salary": {
+        "gross": 44000,
+        "net": 31680
+      },
+      "sources": [
+        {
+          "Sénat – Projet de loi de finances 2025": "https://senat.cg/docs/plf-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Henri Bouka",
+      "gender": "M",
+      "role": "President of the Supreme Court",
+      "party": "Ind.",
+      "salary": {
+        "gross": 43000,
+        "net": 30960
+      },
+      "sources": [
+        {
+          "Cour Suprême – Rapport d'activités 2025": "https://coursupreme.cg/docs/rapport-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "PCT": {
+      "name": "Parti Congolais du Travail",
+      "en": "Congolese Party of Labour",
+      "range": 4,
+      "color": "#C62828"
+    },
+    "Ind.": {
+      "name": "Indépendant",
+      "en": "Independent",
+      "range": 2,
+      "color": "#7F8C8D"
+    }
+  }
+}

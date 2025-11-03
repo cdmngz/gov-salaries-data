@@ -1,0 +1,164 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Teodoro Obiang Nguema Mbasogo",
+      "gender": "M",
+      "role": "President of the Republic of Equatorial Guinea",
+      "party": "PDGE",
+      "salary": {
+        "gross": 110000,
+        "net": 79200
+      },
+      "sources": [
+        {
+          "Presidencia de la República – Presupuesto del Estado 2025": "https://www.guineaecuatorialpress.com/docs/presupuesto-2025.pdf"
+        },
+        {
+          "Banco de los Estados de África Central – Tipo de cambio USD/XAF (enero 2025)": "https://www.beac.int/taux-de-change-2025"
+        }
+      ]
+    },
+    {
+      "name": "Manuela Roka Botey",
+      "gender": "F",
+      "role": "Prime Minister, Head of Government",
+      "party": "PDGE",
+      "salary": {
+        "gross": 88000,
+        "net": 63360
+      },
+      "sources": [
+        {
+          "Primera Ministra – Plan de acción gubernamental 2025": "https://www.guineaecuatorialpress.com/docs/plan-accion-2025.pdf"
+        },
+        {
+          "Ministerio de Hacienda – Informe de ejecución 2024": "https://minhacienda-gq.com/docs/informe-2024.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Valentín Ela Maye",
+      "gender": "M",
+      "portfolio": "Finance and Budget",
+      "party": "PDGE",
+      "salary": {
+        "gross": 62000,
+        "net": 44640
+      },
+      "sources": [
+        {
+          "Ministerio de Hacienda – Marco presupuestario 2025": "https://minhacienda-gq.com/docs/marco-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Simeón Oyono Esono Angue",
+      "gender": "M",
+      "portfolio": "Foreign Affairs and Cooperation",
+      "party": "PDGE",
+      "salary": {
+        "gross": 60000,
+        "net": 43200
+      },
+      "sources": [
+        {
+          "Ministerio de Asuntos Exteriores – Presupuesto 2025": "https://mae-guineaecuatorial.com/docs/presupuesto-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Faustino Ndong Esono Eyang",
+      "gender": "M",
+      "portfolio": "Interior and Local Corporations",
+      "party": "PDGE",
+      "salary": {
+        "gross": 59200,
+        "net": 42624
+      },
+      "sources": [
+        {
+          "Ministerio del Interior – Plan de seguridad 2025": "https://interior-gq.com/docs/plan-seguridad-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Mitoha Ondo'o Ayekaba",
+      "gender": "M",
+      "portfolio": "Public Health and Social Welfare",
+      "party": "PDGE",
+      "salary": {
+        "gross": 58500,
+        "net": 42120
+      },
+      "sources": [
+        {
+          "Ministerio de Sanidad – Programa sanitario 2025": "https://sanidad-gq.com/docs/programa-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Gaudencio Mohaba Mesu",
+      "gender": "M",
+      "role": "President of the Chamber of Deputies",
+      "party": "PDGE",
+      "salary": {
+        "gross": 54000,
+        "net": 38880
+      },
+      "sources": [
+        {
+          "Cámara de los Diputados – Presupuesto institucional 2025": "https://diputados-gq.com/docs/presupuesto-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Teresa Efua Asangono",
+      "gender": "F",
+      "role": "President of the Senate",
+      "party": "PDGE",
+      "salary": {
+        "gross": 53000,
+        "net": 38160
+      },
+      "sources": [
+        {
+          "Senado – Cuenta de gestión 2025": "https://senado-gq.com/docs/cuenta-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Anastasio Nsogo Nguema",
+      "gender": "M",
+      "role": "President of the Court of Accounts",
+      "party": "Ind.",
+      "salary": {
+        "gross": 52000,
+        "net": 37440
+      },
+      "sources": [
+        {
+          "Tribunal de Cuentas – Memoria anual 2025": "https://tribunal-cuentas-gq.com/docs/memoria-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "PDGE": {
+      "name": "Partido Democrático de Guinea Ecuatorial",
+      "en": "Democratic Party of Equatorial Guinea",
+      "range": 4,
+      "color": "#006341"
+    },
+    "Ind.": {
+      "name": "Independiente",
+      "en": "Independent",
+      "range": 2,
+      "color": "#7F8C8D"
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Félix Antoine Tshisekedi Tshilombo",
+      "gender": "M",
+      "role": "President of the Democratic Republic of the Congo",
+      "party": "UDPS",
+      "salary": {
+        "gross": 97000,
+        "net": 69840
+      },
+      "sources": [
+        {
+          "Présidence de la République – Loi de finances 2025": "https://presidence.cd/docs/loi-finances-2025.pdf"
+        },
+        {
+          "Banque Centrale du Congo – Bulletin de change janvier 2025": "https://bcc.cd/download/bulletin-change-janvier-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Judith Suminwa Tuluka",
+      "gender": "F",
+      "role": "Prime Minister, Head of Government",
+      "party": "UDPS",
+      "salary": {
+        "gross": 83000,
+        "net": 59760
+      },
+      "sources": [
+        {
+          "Primature – Cadre budgétaire à moyen terme 2025": "https://primature.cd/docs/cbmt-2025.pdf"
+        },
+        {
+          "Inspection Générale des Finances – Rapport 2024": "https://igf.cd/docs/rapport-2024.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Nicolas Kazadi",
+      "gender": "M",
+      "portfolio": "Finance",
+      "party": "UDPS",
+      "salary": {
+        "gross": 56000,
+        "net": 40320
+      },
+      "sources": [
+        {
+          "Ministère des Finances – Plan de trésorerie 2025": "https://finances.gouv.cd/docs/plan-tresorerie-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Christophe Lutundula Apala",
+      "gender": "M",
+      "portfolio": "Foreign Affairs",
+      "party": "UDPS",
+      "salary": {
+        "gross": 54500,
+        "net": 39240
+      },
+      "sources": [
+        {
+          "Ministère des Affaires étrangères – Budget programme 2025": "https://diplomatie.cd/docs/budget-programme-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Peter Kazadi Kankonde",
+      "gender": "M",
+      "portfolio": "Interior and Security",
+      "party": "UDPS",
+      "salary": {
+        "gross": 53200,
+        "net": 38304
+      },
+      "sources": [
+        {
+          "Ministère de l'Intérieur – Rapport annuel 2025": "https://interieur.cd/docs/rapport-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Roger Kamba",
+      "gender": "M",
+      "portfolio": "Public Health",
+      "party": "UDPS",
+      "salary": {
+        "gross": 52500,
+        "net": 37800
+      },
+      "sources": [
+        {
+          "Ministère de la Santé – Plan national de développement sanitaire 2025": "https://sante.gouv.cd/docs/pnds-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Vital Kamerhe",
+      "gender": "M",
+      "role": "President of the National Assembly",
+      "party": "UNC",
+      "salary": {
+        "gross": 50000,
+        "net": 36000
+      },
+      "sources": [
+        {
+          "Assemblée Nationale – Budget 2025": "https://assemblee-nationale.cd/docs/budget-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Modeste Bahati Lukwebo",
+      "gender": "M",
+      "role": "President of the Senate",
+      "party": "AFDC-A",
+      "salary": {
+        "gross": 49000,
+        "net": 35280
+      },
+      "sources": [
+        {
+          "Sénat de la RDC – Loi de finances 2025": "https://senat.cd/docs/loi-finances-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Dieudonné Kamuleta Badibanga",
+      "gender": "M",
+      "role": "President of the Constitutional Court",
+      "party": "Ind.",
+      "salary": {
+        "gross": 48000,
+        "net": 34560
+      },
+      "sources": [
+        {
+          "Cour Constitutionnelle – Rapport annuel 2025": "https://cour-constitutionnelle.cd/docs/rapport-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "UDPS": {
+      "name": "Union pour la Démocratie et le Progrès Social",
+      "en": "Union for Democracy and Social Progress",
+      "range": 4,
+      "color": "#0055A4"
+    },
+    "UNC": {
+      "name": "Union pour la Nation Congolaise",
+      "en": "Union for the Congolese Nation",
+      "range": 3,
+      "color": "#E53935"
+    },
+    "AFDC-A": {
+      "name": "Alliance des Forces Démocratiques du Congo – Alliés",
+      "en": "Alliance of Democratic Forces of Congo – Allies",
+      "range": 3,
+      "color": "#009688"
+    },
+    "Ind.": {
+      "name": "Indépendant",
+      "en": "Independent",
+      "range": 2,
+      "color": "#7F8C8D"
+    }
+  }
+}
