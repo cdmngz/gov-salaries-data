@@ -1,0 +1,21 @@
+{
+  "baseCurrency": "USD",
+  "GDP": 1720000000000,
+  "GDPPerCapita": 68000,
+  "minAnnualSalary": 31906,
+  "timestamp": "2025-08-23T00:00:00Z",
+  "sources": [
+    {
+      "World Bank — Australia GDP (current US$)": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AU"
+    },
+    {
+      "World Bank — Australia GDP per capita (current US$)": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AU"
+    },
+    {
+      "Fair Work Ombudsman — National minimum wage": "https://www.fairwork.gov.au/pay/minimum-wages/national-minimum-wage"
+    },
+    {
+      "Reserve Bank of Australia — Exchange rates (2 January 2025)": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html"
+    }
+  ]
+}
