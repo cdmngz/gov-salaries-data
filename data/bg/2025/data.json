@@ -1,0 +1,79 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Rumen Radev",
+      "gender": "M",
+      "role": "President of the Republic",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dimitar Glavchev",
+      "gender": "M",
+      "role": "Caretaker Prime Minister",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Mariya Gabriel",
+      "gender": "F",
+      "role": "Deputy Prime Minister and Minister of Foreign Affairs",
+      "party": "GERB",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kalin Stoyanov",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lyudmila Petkova",
+      "gender": "F",
+      "role": "Minister of Finance",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Julian Popov",
+      "gender": "M",
+      "role": "Minister of Environment and Water",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Vladimir Malinov",
+      "gender": "M",
+      "role": "Minister of Energy",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Atanas Slavov",
+      "gender": "M",
+      "role": "Minister of Justice",
+      "party": "GERB",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "GERB": {
+      "name": "Граждани за европейско развитие на България",
+      "en": "Citizens for European Development of Bulgaria",
+      "range": 4,
+      "color": "#005BAC"
+    },
+    "IND": {
+      "name": "Независим",
+      "en": "Independent",
+      "range": 3,
+      "color": "#9C9C9C"
+    }
+  }
+}

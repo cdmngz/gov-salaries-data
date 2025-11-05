@@ -1,0 +1,73 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Maia Sandu",
+      "gender": "F",
+      "role": "President of the Republic",
+      "party": "PAS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dorin Recean",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "PAS",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Mihai Popșoi",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Foreign Affairs",
+      "party": "PAS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Anatolie Nosatîi",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "PAS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Petru Rotaru",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "PAS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Adrian Efros",
+      "gender": "M",
+      "role": "Minister of Internal Affairs",
+      "party": "PAS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Andrei Spînu",
+      "gender": "M",
+      "role": "Minister of Infrastructure and Regional Development",
+      "party": "PAS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ala Nemerenco",
+      "gender": "F",
+      "role": "Minister of Health",
+      "party": "PAS",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "PAS": {
+      "name": "Partidul Acțiune și Solidaritate",
+      "en": "Party of Action and Solidarity",
+      "range": 3,
+      "color": "#FFD200"
+    }
+  }
+}

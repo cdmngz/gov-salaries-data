@@ -1,0 +1,123 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Denis Bećirović",
+      "gender": "M",
+      "role": "Bosniak Member of the Presidency",
+      "party": "SDP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Željko Komšić",
+      "gender": "M",
+      "role": "Croat Member of the Presidency",
+      "party": "DF",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Željka Cvijanović",
+      "gender": "F",
+      "role": "Serb Member of the Presidency",
+      "party": "SNSD",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Borjana Krišto",
+      "gender": "F",
+      "role": "Chair of the Council of Ministers",
+      "party": "HDZBIH",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Elmedin Konaković",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "NIP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Zukan Helez",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "SDP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Srđan Amidžić",
+      "gender": "M",
+      "role": "Minister of Finance and Treasury",
+      "party": "SNSD",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nenad Nešić",
+      "gender": "M",
+      "role": "Minister of Security",
+      "party": "DNS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Edin Forto",
+      "gender": "M",
+      "role": "Minister of Communications and Transport",
+      "party": "NS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dubravka Bošnjak",
+      "gender": "F",
+      "role": "Minister of Civil Affairs",
+      "party": "HDZBIH",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "SDP": {
+      "name": "Socijaldemokratska partija Bosne i Hercegovine",
+      "en": "Social Democratic Party of Bosnia and Herzegovina",
+      "range": 2,
+      "color": "#E5001B"
+    },
+    "DF": {
+      "name": "Demokratska fronta",
+      "en": "Democratic Front",
+      "range": 2,
+      "color": "#FF6A00"
+    },
+    "SNSD": {
+      "name": "Savez nezavisnih socijaldemokrata",
+      "en": "Alliance of Independent Social Democrats",
+      "range": 4,
+      "color": "#C00024"
+    },
+    "HDZBIH": {
+      "name": "Hrvatska demokratska zajednica Bosne i Hercegovine",
+      "en": "Croatian Democratic Union of Bosnia and Herzegovina",
+      "range": 4,
+      "color": "#0057B8"
+    },
+    "NIP": {
+      "name": "Narod i Pravda",
+      "en": "People and Justice Party",
+      "range": 3,
+      "color": "#1D4F91"
+    },
+    "NS": {
+      "name": "Naša stranka",
+      "en": "Our Party",
+      "range": 2,
+      "color": "#F26522"
+    },
+    "DNS": {
+      "name": "Demokratski narodni savez",
+      "en": "Democratic People's Alliance",
+      "range": 4,
+      "color": "#005500"
+    }
+  }
+}
