@@ -1,0 +1,113 @@
+{
+  "baseCurrency": "RUB",
+  "executive": [
+    {
+      "name": "Alexander Lukashenko",
+      "gender": "M",
+      "role": "President of the Republic",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Roman Golovchenko",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Natalya Kochanova",
+      "gender": "F",
+      "role": "Chair of the Council of the Republic",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Sergei Aleinik",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Viktor Khrenin",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Ivan Kubrakov",
+      "gender": "M",
+      "role": "Minister of Internal Affairs",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Yuri Nazarov",
+      "gender": "M",
+      "role": "Deputy Prime Minister for Industry",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Alexander Chervyakov",
+      "gender": "M",
+      "role": "Minister of Economy",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Yuri Seliverstov",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "BR": {
+      "name": "Белая Русь",
+      "en": "Belaya Rus",
+      "range": 4,
+      "color": "#0C5F2D"
+    },
+    "IND": {
+      "name": "Независимый",
+      "en": "Independent",
+      "range": 3,
+      "color": "#B3B3B3"
+    }
+  }
+}

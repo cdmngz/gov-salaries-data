@@ -1,0 +1,79 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Myriam Spiteri Debono",
+      "gender": "F",
+      "role": "President of Malta",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Robert Abela",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "PL",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Chris Fearne",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister for Health",
+      "party": "PL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ian Borg",
+      "gender": "M",
+      "role": "Minister for Foreign and European Affairs and Trade",
+      "party": "PL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Clyde Caruana",
+      "gender": "M",
+      "role": "Minister for Finance and Employment",
+      "party": "PL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Byron Camilleri",
+      "gender": "M",
+      "role": "Minister for Home Affairs, Security, Reforms and Equality",
+      "party": "PL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jonathan Attard",
+      "gender": "M",
+      "role": "Minister for Justice",
+      "party": "PL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Miriam Dalli",
+      "gender": "F",
+      "role": "Minister for the Environment, Energy and Enterprise",
+      "party": "PL",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "PL": {
+      "name": "Partit Laburista",
+      "en": "Labour Party",
+      "range": 2,
+      "color": "#E4002B"
+    },
+    "IND": {
+      "name": "Indipendenti",
+      "en": "Independent",
+      "range": 3,
+      "color": "#B0B0B0"
+    }
+  }
+}

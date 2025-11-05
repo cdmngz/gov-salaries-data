@@ -1,0 +1,79 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Bajram Begaj",
+      "gender": "M",
+      "role": "President of the Republic",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Edi Rama",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "PS",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Belinda Balluku",
+      "gender": "F",
+      "role": "Deputy Prime Minister and Minister of Infrastructure and Energy",
+      "party": "PS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Igli Hasani",
+      "gender": "M",
+      "role": "Minister for Europe and Foreign Affairs",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ervin Mete",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "PS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Taulant Balla",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "PS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Niko Peleshi",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "PS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ogerta Manastirliu",
+      "gender": "F",
+      "role": "Minister of Education and Sports",
+      "party": "PS",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "PS": {
+      "name": "Partia Socialiste e Shqipërisë",
+      "en": "Socialist Party of Albania",
+      "range": 2,
+      "color": "#F0001C"
+    },
+    "IND": {
+      "name": "I pavarur",
+      "en": "Independent",
+      "range": 3,
+      "color": "#A0A0A0"
+    }
+  }
+}

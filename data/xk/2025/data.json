@@ -1,0 +1,79 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Vjosa Osmani",
+      "gender": "F",
+      "role": "President of Kosovo",
+      "party": "GUXO",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Albin Kurti",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "VV",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Besnik Bislimi",
+      "gender": "M",
+      "role": "First Deputy Prime Minister for European Integration",
+      "party": "VV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Donika Gërvalla-Schwarz",
+      "gender": "F",
+      "role": "Deputy Prime Minister and Minister of Foreign Affairs",
+      "party": "GUXO",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hekuran Murati",
+      "gender": "M",
+      "role": "Minister of Finance, Labour and Transfers",
+      "party": "VV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ejup Maqedonci",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "VV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Xhelal Sveçla",
+      "gender": "M",
+      "role": "Minister of Internal Affairs",
+      "party": "VV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Albulena Haxhiu",
+      "gender": "F",
+      "role": "Minister of Justice",
+      "party": "VV",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "GUXO": {
+      "name": "Guxo!",
+      "en": "Dare!",
+      "range": 3,
+      "color": "#8A2BE2"
+    },
+    "VV": {
+      "name": "Lëvizja Vetëvendosje!",
+      "en": "Self-Determination Movement",
+      "range": 2,
+      "color": "#C8102E"
+    }
+  }
+}

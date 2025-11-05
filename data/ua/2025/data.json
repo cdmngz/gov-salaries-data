@@ -1,0 +1,73 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Volodymyr Zelenskyy",
+      "gender": "M",
+      "role": "President of Ukraine",
+      "party": "SN",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Denys Shmyhal",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "SN",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Yulia Svyrydenko",
+      "gender": "F",
+      "role": "First Deputy Prime Minister and Minister of Economy",
+      "party": "SN",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dmytro Kuleba",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "SN",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Rustem Umerov",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "SN",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ihor Klymenko",
+      "gender": "M",
+      "role": "Minister of Internal Affairs",
+      "party": "SN",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Serhiy Marchenko",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "SN",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Viktor Liashko",
+      "gender": "M",
+      "role": "Minister of Health",
+      "party": "SN",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "SN": {
+      "name": "Слуга народу",
+      "en": "Servant of the People",
+      "range": 3,
+      "color": "#1EB53A"
+    }
+  }
+}

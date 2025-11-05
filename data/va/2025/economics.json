@@ -1,0 +1,7 @@
+{
+  "baseCurrency": "EUR",
+  "GDP": 1100000000,
+  "GDPPerCapita": 50000,
+  "minAnnualSalary": 25000,
+  "timestamp": "2025-01-01T00:00:00Z"
+}

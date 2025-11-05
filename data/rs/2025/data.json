@@ -1,0 +1,79 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Aleksandar Vučić",
+      "gender": "M",
+      "role": "President of the Republic",
+      "party": "SNS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Miloš Vučević",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "SNS",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ivica Dačić",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of the Interior",
+      "party": "SPS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Marko Đurić",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "SNS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Siniša Mali",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "SNS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Goran Vesić",
+      "gender": "M",
+      "role": "Minister of Construction, Transport and Infrastructure",
+      "party": "SNS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Irena Vujović",
+      "gender": "F",
+      "role": "Minister of Environmental Protection",
+      "party": "SNS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dubravka Đedović Handanović",
+      "gender": "F",
+      "role": "Minister of Mining and Energy",
+      "party": "SNS",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "SNS": {
+      "name": "Српска напредна странка",
+      "en": "Serbian Progressive Party",
+      "range": 4,
+      "color": "#003078"
+    },
+    "SPS": {
+      "name": "Социјалистичка партија Србије",
+      "en": "Socialist Party of Serbia",
+      "range": 2,
+      "color": "#D40000"
+    }
+  }
+}

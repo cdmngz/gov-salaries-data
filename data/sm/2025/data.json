@@ -1,0 +1,85 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Filippo Tamagnini",
+      "gender": "M",
+      "role": "Captain Regent (April–October 2024)",
+      "party": "PDCS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gaetano Troina",
+      "gender": "M",
+      "role": "Captain Regent (April–October 2024)",
+      "party": "RETE",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Luca Beccari",
+      "gender": "M",
+      "role": "Secretary of State for Foreign Affairs",
+      "party": "PDCS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Marco Gatti",
+      "gender": "M",
+      "role": "Secretary of State for Finance and Budget",
+      "party": "PDCS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Adele Tonnini",
+      "gender": "F",
+      "role": "Secretary of State for Internal Affairs and Civil Service",
+      "party": "RETE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Teodoro Lonfernini",
+      "gender": "M",
+      "role": "Secretary of State for Labour, Economic Planning and Sport",
+      "party": "PDCS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Stefano Canti",
+      "gender": "M",
+      "role": "Secretary of State for Territory and Environment",
+      "party": "PDCS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Fabio Righi",
+      "gender": "M",
+      "role": "Secretary of State for Industry, Crafts and Trade",
+      "party": "DML",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "PDCS": {
+      "name": "Partito Democratico Cristiano Sammarinese",
+      "en": "Sammarinese Christian Democratic Party",
+      "range": 4,
+      "color": "#004A8D"
+    },
+    "RETE": {
+      "name": "Movimento Civico R.E.T.E.",
+      "en": "Civic Movement R.E.T.E.",
+      "range": 2,
+      "color": "#F68B1F"
+    },
+    "DML": {
+      "name": "Domani – Motus Liberi",
+      "en": "Tomorrow – Free Movement",
+      "range": 3,
+      "color": "#7A1E82"
+    }
+  }
+}

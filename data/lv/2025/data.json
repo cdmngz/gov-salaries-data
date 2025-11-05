@@ -1,0 +1,91 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Edgars Rinkēvičs",
+      "gender": "M",
+      "role": "President of Latvia",
+      "party": "JV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Evika Siliņa",
+      "gender": "F",
+      "role": "Prime Minister",
+      "party": "JV",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Viktors Valainis",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister for Economy",
+      "party": "ZZS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Baiba Braže",
+      "gender": "F",
+      "role": "Minister of Foreign Affairs",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Andris Sprūds",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "PRO",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Rihards Kozlovskis",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "JV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Arvils Ašeradens",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "JV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Uldis Augulis",
+      "gender": "M",
+      "role": "Minister of Transport",
+      "party": "ZZS",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "JV": {
+      "name": "Jaunā Vienotība",
+      "en": "New Unity",
+      "range": 3,
+      "color": "#0072CE"
+    },
+    "ZZS": {
+      "name": "Zaļo un Zemnieku savienība",
+      "en": "Union of Greens and Farmers",
+      "range": 3,
+      "color": "#367C2B"
+    },
+    "PRO": {
+      "name": "Progresīvie",
+      "en": "The Progressives",
+      "range": 2,
+      "color": "#E5007D"
+    },
+    "IND": {
+      "name": "Neatkarīgie",
+      "en": "Independent",
+      "range": 3,
+      "color": "#B5B5B5"
+    }
+  }
+}
