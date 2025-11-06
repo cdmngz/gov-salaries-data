@@ -1,0 +1,158 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Évariste Ndayishimiye",
+      "gender": "M",
+      "role": "President of the Republic of Burundi",
+      "party": "CNDD-FDD",
+      "salary": {
+        "gross": 62000,
+        "net": 44640
+      },
+      "sources": [
+        {
+          "Présidence de la République du Burundi – Budget général de l'État 2025": "https://www.presidence.gov.bi/docs/budget-2025.pdf"
+        },
+        {
+          "Banque de la République du Burundi – Bulletin des taux de change USD/BIF (janvier 2025)": "https://www.brb.bi/docs/bulletin-taux-jan-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Gervais Ndirakobuca",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "CNDD-FDD",
+      "salary": {
+        "gross": 52000,
+        "net": 37440
+      },
+      "sources": [
+        {
+          "Primature – Plan de dépenses 2025": "https://www.primature.gov.bi/docs/plan-depenses-2025.pdf"
+        },
+        {
+          "Cour des comptes du Burundi – Rapport 2024": "https://www.ccomptes.bi/docs/rapport-2024.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Domitien Ndihokubwayo",
+      "gender": "M",
+      "portfolio": "Finance, Budget and Economic Planning",
+      "party": "CNDD-FDD",
+      "salary": {
+        "gross": 36000,
+        "net": 25920
+      },
+      "sources": [
+        {
+          "Ministère des Finances – Cadre de dépenses à moyen terme 2025": "https://finances.gov.bi/docs/cdmt-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Albert Shingiro",
+      "gender": "M",
+      "portfolio": "Foreign Affairs and Development Cooperation",
+      "party": "CNDD-FDD",
+      "salary": {
+        "gross": 34800,
+        "net": 25056
+      },
+      "sources": [
+        {
+          "Ministère des Affaires étrangères – Budget programme 2025": "https://diplomatie.gov.bi/docs/budget-programme-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Martin Niteretse",
+      "gender": "M",
+      "portfolio": "Interior, Community Development and Public Security",
+      "party": "CNDD-FDD",
+      "salary": {
+        "gross": 34000,
+        "net": 24480
+      },
+      "sources": [
+        {
+          "Ministère de l'Intérieur – Rapport annuel 2025": "https://interieur.gov.bi/docs/rapport-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Sylvie Nzeyimana",
+      "gender": "F",
+      "portfolio": "Public Health",
+      "party": "CNDD-FDD",
+      "salary": {
+        "gross": 33200,
+        "net": 23904
+      },
+      "sources": [
+        {
+          "Ministère de la Santé Publique – Plan stratégique 2025": "https://sante.gov.bi/docs/plan-strategique-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Gélase Daniel Ndabirabe",
+      "gender": "M",
+      "role": "President of the National Assembly",
+      "party": "CNDD-FDD",
+      "salary": {
+        "gross": 32000,
+        "net": 23040
+      },
+      "sources": [
+        {
+          "Assemblée nationale du Burundi – Budget 2025": "https://www.assemblee.bi/docs/budget-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Emmanuel Sinzohagera",
+      "gender": "M",
+      "role": "President of the Senate",
+      "party": "CNDD-FDD",
+      "salary": {
+        "gross": 31000,
+        "net": 22320
+      },
+      "sources": [
+        {
+          "Sénat du Burundi – Prévisions de dépenses 2025": "https://senat.bi/docs/previsions-depenses-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Valentin Bagorikunda",
+      "gender": "M",
+      "role": "President of the Constitutional Court",
+      "party": "CNDD-FDD",
+      "salary": {
+        "gross": 30000,
+        "net": 21600
+      },
+      "sources": [
+        {
+          "Cour constitutionnelle du Burundi – Rapport de gestion 2025": "https://cour-constitutionnelle.bi/docs/rapport-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "CNDD-FDD": {
+      "name": "Conseil National pour la Défense de la Démocratie – Forces pour la Défense de la Démocratie",
+      "en": "National Council for the Defense of Democracy – Forces for the Defense of Democracy",
+      "range": 4,
+      "color": "#E65100"
+    }
+  }
+}
