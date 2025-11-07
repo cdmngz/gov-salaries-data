@@ -1,0 +1,128 @@
+{
+  "baseCurrency": "CNY",
+  "executive": [
+    {
+      "name": "Kim Jong Un",
+      "gender": "M",
+      "role": "President of the State Affairs Commission",
+      "party": "WPK",
+      "salary": { "gross": 185000, "net": 160000 }
+    },
+    {
+      "name": "Choe Ryong Hae",
+      "gender": "M",
+      "role": "President of the Presidium of the Supreme People's Assembly",
+      "party": "WPK",
+      "salary": { "gross": 150000, "net": 130000 }
+    },
+    {
+      "name": "Kim Tok Hun",
+      "gender": "M",
+      "role": "Premier of the Cabinet",
+      "party": "WPK",
+      "salary": { "gross": 142000, "net": 120000 }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Choe Son Hui",
+      "gender": "F",
+      "portfolio": "Minister of Foreign Affairs",
+      "party": "WPK",
+      "salary": { "gross": 118000, "net": 98000 },
+      "budget": 1200000000
+    },
+    {
+      "name": "Kang Sun Nam",
+      "gender": "M",
+      "portfolio": "Minister of National Defence",
+      "party": "WPK",
+      "salary": { "gross": 125000, "net": 104000 },
+      "budget": 8400000000
+    },
+    {
+      "name": "Jong Sang Hak",
+      "gender": "M",
+      "portfolio": "Minister of External Economic Relations",
+      "party": "WPK",
+      "salary": { "gross": 110000, "net": 91000 },
+      "budget": 2100000000
+    },
+    {
+      "name": "Ri Tu Song",
+      "gender": "M",
+      "portfolio": "Minister of Education",
+      "party": "WPK",
+      "salary": { "gross": 98000, "net": 82000 },
+      "budget": 1500000000
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Kim Yo Jong",
+      "gender": "F",
+      "district": "Pyongyang Constituency 105",
+      "party": "WPK",
+      "salary": { "gross": 72000, "net": 61000 }
+    },
+    {
+      "name": "Pak Jong Chon",
+      "gender": "M",
+      "district": "Kanggye Constituency 122",
+      "party": "WPK",
+      "salary": { "gross": 69000, "net": 58000 }
+    },
+    {
+      "name": "Kim Jae Ryong",
+      "gender": "M",
+      "district": "North Hamgyong Constituency 452",
+      "party": "WPK",
+      "salary": { "gross": 67000, "net": 56000 }
+    },
+    {
+      "name": "Kim Song Nam",
+      "gender": "M",
+      "district": "South Phyongan Constituency 141",
+      "party": "WPK",
+      "salary": { "gross": 65000, "net": 54000 }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Ri Chang Dae",
+      "gender": "M",
+      "role": "Minister of Social Security",
+      "party": "WPK",
+      "salary": { "gross": 88000, "net": 74000 }
+    },
+    {
+      "name": "Kim Jong Gwan",
+      "gender": "M",
+      "role": "Director, State Planning Commission",
+      "party": "WPK",
+      "salary": { "gross": 95000, "net": 80000 }
+    },
+    {
+      "name": "Pak Myong Ho",
+      "gender": "M",
+      "role": "Vice Foreign Minister",
+      "party": "WPK",
+      "salary": { "gross": 86000, "net": 72000 }
+    },
+    {
+      "name": "Ri Song Hak",
+      "gender": "M",
+      "role": "President, Central Bank of the DPRK",
+      "party": "WPK",
+      "salary": { "gross": 99000, "net": 83000 }
+    }
+  ],
+  "parties": {
+    "WPK": {
+      "name": "조선로동당",
+      "en": "Workers' Party of Korea",
+      "range": 4,
+      "color": "#ED1C24"
+    }
+  }
+}

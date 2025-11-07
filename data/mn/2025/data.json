@@ -1,0 +1,147 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Ukhnaagiin Khürelsükh",
+      "gender": "M",
+      "role": "President of Mongolia",
+      "party": "MPP",
+      "salary": { "gross": 98000, "net": 72000 }
+    },
+    {
+      "name": "Luvsannamsrain Oyun-Erdene",
+      "gender": "M",
+      "role": "Prime Minister of Mongolia",
+      "party": "MPP",
+      "salary": { "gross": 92000, "net": 68000 }
+    },
+    {
+      "name": "Amarbayasgalan Dashzegve",
+      "gender": "M",
+      "role": "Chief Cabinet Secretary",
+      "party": "MPP",
+      "salary": { "gross": 78000, "net": 57000 }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Javkhlan Bold",
+      "gender": "M",
+      "portfolio": "Minister of Finance",
+      "party": "MPP",
+      "salary": { "gross": 76000, "net": 56000 },
+      "budget": 2600000000
+    },
+    {
+      "name": "Batsetseg Batmunkh",
+      "gender": "F",
+      "portfolio": "Minister of Foreign Affairs",
+      "party": "MPP",
+      "salary": { "gross": 73000, "net": 54000 },
+      "budget": 420000000
+    },
+    {
+      "name": "Bumtsendyn Sandagdorj",
+      "gender": "M",
+      "portfolio": "Minister of Defence",
+      "party": "MPP",
+      "salary": { "gross": 75000, "net": 55000 },
+      "budget": 520000000
+    },
+    {
+      "name": "Byambatsogt Sandag",
+      "gender": "M",
+      "portfolio": "Minister of Justice and Internal Affairs",
+      "party": "MPP",
+      "salary": { "gross": 72000, "net": 52000 },
+      "budget": 380000000
+    },
+    {
+      "name": "Tserenbat Namsrai",
+      "gender": "M",
+      "portfolio": "Minister of Education and Science",
+      "party": "MPP",
+      "salary": { "gross": 70000, "net": 51000 },
+      "budget": 960000000
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Gombojavyn Zandanshatar",
+      "gender": "M",
+      "district": "Arkhangai",
+      "party": "MPP",
+      "salary": { "gross": 58000, "net": 43000 }
+    },
+    {
+      "name": "Dorjdamba Damba-Ochir",
+      "gender": "M",
+      "district": "Övörkhangai",
+      "party": "MPP",
+      "salary": { "gross": 56000, "net": 41000 }
+    },
+    {
+      "name": "Sodnomzundui Erdene",
+      "gender": "M",
+      "district": "Sükhbaatar",
+      "party": "DP",
+      "salary": { "gross": 54000, "net": 40000 }
+    },
+    {
+      "name": "Togmid Dorjkhand",
+      "gender": "M",
+      "district": "Songinokhairkhan",
+      "party": "HUN",
+      "salary": { "gross": 55000, "net": 40500 }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Dambiin Gankhuyag",
+      "gender": "M",
+      "role": "Governor of the Bank of Mongolia",
+      "party": "IND",
+      "salary": { "gross": 82000, "net": 60000 }
+    },
+    {
+      "name": "Tserendash Oidov",
+      "gender": "M",
+      "role": "Chief Justice of the Supreme Court",
+      "party": "IND",
+      "salary": { "gross": 85000, "net": 62000 }
+    },
+    {
+      "name": "Nyambaatar Khishgee",
+      "gender": "M",
+      "role": "Mayor of Ulaanbaatar",
+      "party": "MPP",
+      "salary": { "gross": 68000, "net": 50000 }
+    }
+  ],
+  "parties": {
+    "MPP": {
+      "name": "Монгол Ардын Нам",
+      "en": "Mongolian People's Party",
+      "range": 4,
+      "color": "#D50032"
+    },
+    "DP": {
+      "name": "Ардчилсан нам",
+      "en": "Democratic Party",
+      "range": 2,
+      "color": "#0055A5"
+    },
+    "HUN": {
+      "name": "ХҮН нам",
+      "en": "HUN Party",
+      "range": 2,
+      "color": "#FFB81C"
+    },
+    "IND": {
+      "name": "Бие даагч",
+      "en": "Independent",
+      "range": 1,
+      "color": "#7A7A7A"
+    }
+  }
+}

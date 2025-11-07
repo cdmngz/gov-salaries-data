@@ -1,0 +1,161 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Lai Ching-te",
+      "gender": "M",
+      "role": "President of the Republic of China (Taiwan)",
+      "party": "DPP",
+      "salary": { "gross": 210000, "net": 150000 }
+    },
+    {
+      "name": "Hsiao Bi-khim",
+      "gender": "F",
+      "role": "Vice President of the Republic of China (Taiwan)",
+      "party": "DPP",
+      "salary": { "gross": 185000, "net": 132000 }
+    },
+    {
+      "name": "Cho Jung-tai",
+      "gender": "M",
+      "role": "Premier of the Executive Yuan",
+      "party": "DPP",
+      "salary": { "gross": 178000, "net": 126000 }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Joseph Wu Jaushieh",
+      "gender": "M",
+      "portfolio": "Minister of Foreign Affairs",
+      "party": "DPP",
+      "salary": { "gross": 145000, "net": 104000 },
+      "budget": 2400000000
+    },
+    {
+      "name": "Wellington Koo",
+      "gender": "M",
+      "portfolio": "Minister of National Defense",
+      "party": "DPP",
+      "salary": { "gross": 152000, "net": 109000 },
+      "budget": 13500000000
+    },
+    {
+      "name": "Chuang Tsui-yun",
+      "gender": "F",
+      "portfolio": "Minister of Finance",
+      "party": "DPP",
+      "salary": { "gross": 140000, "net": 100000 },
+      "budget": 10500000000
+    },
+    {
+      "name": "Kuo Mei-ling",
+      "gender": "F",
+      "portfolio": "Minister of Economic Affairs",
+      "party": "DPP",
+      "salary": { "gross": 136000, "net": 97000 },
+      "budget": 12500000000
+    },
+    {
+      "name": "Chiu Tai-san",
+      "gender": "M",
+      "portfolio": "Minister of Justice",
+      "party": "DPP",
+      "salary": { "gross": 132000, "net": 94000 },
+      "budget": 2300000000
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Han Kuo-yu",
+      "gender": "M",
+      "district": "Kaohsiung City",
+      "party": "KMT",
+      "salary": { "gross": 125000, "net": 89000 }
+    },
+    {
+      "name": "Tsai Chi-chang",
+      "gender": "M",
+      "district": "Taichung City",
+      "party": "DPP",
+      "salary": { "gross": 120000, "net": 86000 }
+    },
+    {
+      "name": "Ker Chien-ming",
+      "gender": "M",
+      "district": "Hsinchu City",
+      "party": "DPP",
+      "salary": { "gross": 118000, "net": 84000 }
+    },
+    {
+      "name": "Huang Kuo-chang",
+      "gender": "M",
+      "district": "New Taipei City",
+      "party": "TPP",
+      "salary": { "gross": 116000, "net": 82000 }
+    },
+    {
+      "name": "Wang Mei-hui",
+      "gender": "F",
+      "district": "Chiayi County",
+      "party": "DPP",
+      "salary": { "gross": 115000, "net": 81000 }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Chen Chu",
+      "gender": "F",
+      "role": "President of the Control Yuan",
+      "party": "DPP",
+      "salary": { "gross": 138000, "net": 98000 }
+    },
+    {
+      "name": "Yang Chin-long",
+      "gender": "M",
+      "role": "Governor of the Central Bank of the Republic of China (Taiwan)",
+      "party": "IND",
+      "salary": { "gross": 160000, "net": 112000 }
+    },
+    {
+      "name": "Hsu Kuo-yung",
+      "gender": "M",
+      "role": "Chairperson, Central Election Commission",
+      "party": "DPP",
+      "salary": { "gross": 124000, "net": 87000 }
+    },
+    {
+      "name": "Huang Jui-min",
+      "gender": "M",
+      "role": "Auditor-General, National Audit Office",
+      "party": "IND",
+      "salary": { "gross": 122000, "net": 86000 }
+    }
+  ],
+  "parties": {
+    "DPP": {
+      "name": "民主進步黨",
+      "en": "Democratic Progressive Party",
+      "range": 4,
+      "color": "#1E8F3C"
+    },
+    "KMT": {
+      "name": "中國國民黨",
+      "en": "Kuomintang",
+      "range": 3,
+      "color": "#1C4598"
+    },
+    "TPP": {
+      "name": "台灣民眾黨",
+      "en": "Taiwan People's Party",
+      "range": 2,
+      "color": "#00C1DE"
+    },
+    "IND": {
+      "name": "無黨籍",
+      "en": "Independent",
+      "range": 1,
+      "color": "#8A8A8A"
+    }
+  }
+}
