@@ -1,0 +1,97 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Srettha Thavisin",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "Pheu Thai",
+      "salary": {
+        "gross": 35714,
+        "net": 25714
+      },
+      "sources": [
+        {
+          "Cabinet Resolution": "https://www.thaigov.go.th/"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Pichai Chunhavajira",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "Pheu Thai",
+      "salary": {
+        "gross": 27429,
+        "net": 19200
+      },
+      "budget": 100571428571
+    },
+    {
+      "name": "Pannpree Bahiddha-Nukara",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "Pheu Thai",
+      "salary": {
+        "gross": 24000,
+        "net": 16800
+      }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Paetongtarn Shinawatra",
+      "gender": "F",
+      "party": "Pheu Thai",
+      "district": "Party-list",
+      "salary": {
+        "gross": 20571,
+        "net": 14400
+      }
+    },
+    {
+      "name": "Cholnan Srikaew",
+      "gender": "M",
+      "party": "Pheu Thai",
+      "district": "Nan 1",
+      "salary": {
+        "gross": 20571,
+        "net": 14400
+      }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Pornpetch Wichitcholchai",
+      "gender": "M",
+      "party": "Independent",
+      "district": "Senate",
+      "salary": {
+        "gross": 22286,
+        "net": 15600
+      }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Prommin Lertsuridej",
+      "gender": "M",
+      "role": "Secretary-General to the Prime Minister",
+      "party": "Pheu Thai",
+      "salary": {
+        "gross": 19429,
+        "net": 13600
+      }
+    }
+  ],
+  "parties": {
+    "Pheu Thai": {
+      "name": "เพื่อไทย",
+      "en": "Pheu Thai Party",
+      "range": 4,
+      "color": "#DA2128"
+    }
+  }
+}

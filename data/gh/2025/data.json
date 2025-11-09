@@ -1,0 +1,82 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Nana Addo Dankwa Akufo-Addo",
+      "gender": "M",
+      "role": "President of the Republic",
+      "party": "NPP",
+      "salary": {
+        "gross": 65000,
+        "net": 45500
+      },
+      "sources": [
+        {
+          "Budget Statement": "https://www.mofep.gov.gh/budget-statement"
+        }
+      ]
+    },
+    {
+      "name": "Mahamudu Bawumia",
+      "gender": "M",
+      "role": "Vice President",
+      "party": "NPP",
+      "salary": {
+        "gross": 57000,
+        "net": 39900
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ken Ofori-Atta",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "NPP",
+      "salary": {
+        "gross": 50000,
+        "net": 35000
+      },
+      "budget": 17041666667
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Haruna Iddrisu",
+      "gender": "M",
+      "party": "NDC",
+      "district": "Tamale South",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    }
+  ],
+  "senate": [],
+  "officials": [
+    {
+      "name": "Akosua Frema Osei-Opare",
+      "gender": "F",
+      "role": "Chief of Staff",
+      "party": "NPP",
+      "salary": {
+        "gross": 35000,
+        "net": 24500
+      }
+    }
+  ],
+  "parties": {
+    "NPP": {
+      "name": "New Patriotic Party",
+      "en": "New Patriotic Party",
+      "range": 4,
+      "color": "#0B4DA1"
+    },
+    "NDC": {
+      "name": "National Democratic Congress",
+      "en": "National Democratic Congress",
+      "range": 3,
+      "color": "#D71920"
+    }
+  }
+}
