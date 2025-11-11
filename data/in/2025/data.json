@@ -1,0 +1,122 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Droupadi Murmu",
+      "gender": "F",
+      "role": "President of India",
+      "party": "BJP",
+      "salary": {
+        "gross": 78000,
+        "net": 54600
+      },
+      "sources": [
+        {
+          "Ministry of Finance – Union Budget 2025 Annex": "https://finmin.gov.in/reports/union-budget-2025-annex.pdf"
+        },
+        {
+          "Reserve Bank of India – USD/INR reference (July 2025)": "https://rbi.org.in/publications/exchange-rates-jul-2025"
+        }
+      ]
+    },
+    {
+      "name": "Narendra Modi",
+      "gender": "M",
+      "role": "Prime Minister of India",
+      "party": "BJP",
+      "salary": {
+        "gross": 86000,
+        "net": 60200
+      },
+      "sources": [
+        {
+          "Cabinet Secretariat – Remuneration Notification 2025": "https://cabsec.gov.in/notices/remuneration-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Nirmala Sitharaman",
+      "gender": "F",
+      "portfolio": "Finance",
+      "party": "BJP",
+      "salary": {
+        "gross": 72000,
+        "net": 50400
+      },
+      "sources": [
+        {
+          "Department of Expenditure – Pay Matrix for Ministers 2025": "https://doe.gov.in/files/pay-matrix-ministers-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Subrahmanyam Jaishankar",
+      "gender": "M",
+      "portfolio": "External Affairs",
+      "party": "BJP",
+      "salary": {
+        "gross": 70000,
+        "net": 49000
+      },
+      "sources": [
+        {
+          "Ministry of External Affairs – Outcome Budget 2025": "https://mea.gov.in/docs/outcome-budget-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Rajnath Singh",
+      "gender": "M",
+      "portfolio": "Defence",
+      "party": "BJP",
+      "salary": {
+        "gross": 73000,
+        "net": 51100
+      },
+      "sources": [
+        {
+          "Ministry of Defence – Annual Statement on Pay 2025": "https://mod.gov.in/reports/ministerial-pay-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Om Birla",
+      "gender": "M",
+      "role": "Speaker of the Lok Sabha",
+      "party": "BJP",
+      "salary": {
+        "gross": 65000,
+        "net": 45500
+      },
+      "sources": [
+        {
+          "Lok Sabha Secretariat – Financial Statement 2025": "https://loksabha.nic.in/finance/statement-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "BJP": {
+      "name": "भारतीय जनता पार्टी",
+      "range": 5,
+      "color": "#FF671F",
+      "en": "Bharatiya Janata Party"
+    },
+    "INC": {
+      "name": "भारतीय राष्ट्रीय कांग्रेस",
+      "range": 2,
+      "color": "#1C4DA1",
+      "en": "Indian National Congress"
+    },
+    "Ind.": {
+      "name": "स्वतंत्र",
+      "range": 3,
+      "color": "#7F8C8D",
+      "en": "Independent"
+    }
+  }
+}

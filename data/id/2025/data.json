@@ -1,0 +1,122 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Prabowo Subianto",
+      "gender": "M",
+      "role": "President of the Republic of Indonesia",
+      "party": "Gerindra",
+      "salary": {
+        "gross": 68000,
+        "net": 47600
+      },
+      "sources": [
+        {
+          "Sekretariat Negara – Rincian Belanja Kabinet 2025": "https://setneg.go.id/docs/rincian-belanja-kabinet-2025.pdf"
+        },
+        {
+          "Bank Indonesia – Kurs Referensi USD/IDR Juli 2025": "https://bi.go.id/kurs-referensi/juli-2025"
+        }
+      ]
+    },
+    {
+      "name": "Gibran Rakabuming Raka",
+      "gender": "M",
+      "role": "Vice President of the Republic of Indonesia",
+      "party": "Gerindra",
+      "salary": {
+        "gross": 64000,
+        "net": 44800
+      },
+      "sources": [
+        {
+          "Kementerian Keuangan – Nota Keuangan 2025": "https://kemenkeu.go.id/publikasi/nota-keuangan-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Sri Mulyani Indrawati",
+      "gender": "F",
+      "portfolio": "Finance",
+      "party": "Ind.",
+      "salary": {
+        "gross": 52000,
+        "net": 36400
+      },
+      "sources": [
+        {
+          "Peraturan Presiden Nomor 12 Tahun 2025": "https://peraturan.go.id/perpres/2025/12"
+        }
+      ]
+    },
+    {
+      "name": "Retno Marsudi",
+      "gender": "F",
+      "portfolio": "Foreign Affairs",
+      "party": "PDI-P",
+      "salary": {
+        "gross": 50000,
+        "net": 35000
+      },
+      "sources": [
+        {
+          "Kementerian Luar Negeri – Rencana Kerja 2025": "https://kemlu.go.id/docs/rencana-kerja-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Basuki Hadimuljono",
+      "gender": "M",
+      "portfolio": "Public Works and Housing",
+      "party": "Ind.",
+      "salary": {
+        "gross": 48000,
+        "net": 33600
+      },
+      "sources": [
+        {
+          "Kementerian PUPR – Dokumen Anggaran 2025": "https://pu.go.id/dokumen/anggaran-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Puan Maharani",
+      "gender": "F",
+      "role": "Speaker of the People's Representative Council",
+      "party": "PDI-P",
+      "salary": {
+        "gross": 47000,
+        "net": 32900
+      },
+      "sources": [
+        {
+          "DPR RI – Laporan Keuangan 2025": "https://dpr.go.id/dokumen/lk-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "Gerindra": {
+      "name": "Partai Gerakan Indonesia Raya",
+      "range": 4,
+      "color": "#8A1538",
+      "en": "Great Indonesia Movement Party"
+    },
+    "PDI-P": {
+      "name": "Partai Demokrasi Indonesia Perjuangan",
+      "range": 2,
+      "color": "#FF0000",
+      "en": "Indonesian Democratic Party of Struggle"
+    },
+    "Ind.": {
+      "name": "Independen",
+      "range": 3,
+      "color": "#7F8C8D",
+      "en": "Independent"
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Ferdinand Marcos Jr.",
+      "gender": "M",
+      "role": "President of the Republic of the Philippines",
+      "party": "PFP",
+      "salary": {
+        "gross": 95000,
+        "net": 66500
+      },
+      "sources": [
+        {
+          "Department of Budget and Management – General Appropriations Act 2025": "https://dbm.gov.ph/guides/gaa-2025.pdf"
+        },
+        {
+          "Bangko Sentral ng Pilipinas – USD/PHP reference (July 2025)": "https://bsp.gov.ph/statistics/usd-php-jul-2025"
+        }
+      ]
+    },
+    {
+      "name": "Sara Duterte",
+      "gender": "F",
+      "role": "Vice President of the Philippines",
+      "party": "HNP",
+      "salary": {
+        "gross": 88000,
+        "net": 61600
+      },
+      "sources": [
+        {
+          "Office of the Vice President – FY2025 Budget": "https://ovp.gov.ph/files/budget-fy2025.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ralph Recto",
+      "gender": "M",
+      "portfolio": "Finance",
+      "party": "NPC",
+      "salary": {
+        "gross": 62000,
+        "net": 43400
+      },
+      "sources": [
+        {
+          "Department of Finance – Appropriations Summary 2025": "https://dof.gov.ph/reports/appropriations-summary-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Enrique Manalo",
+      "gender": "M",
+      "portfolio": "Foreign Affairs",
+      "party": "Ind.",
+      "salary": {
+        "gross": 60000,
+        "net": 42000
+      },
+      "sources": [
+        {
+          "DFA – Strategic Plan 2025": "https://dfa.gov.ph/docs/strategic-plan-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Teodoro Herbosa",
+      "gender": "M",
+      "portfolio": "Health",
+      "party": "Ind.",
+      "salary": {
+        "gross": 58000,
+        "net": 40600
+      },
+      "sources": [
+        {
+          "Department of Health – Budget Notes 2025": "https://doh.gov.ph/files/budget-notes-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Juan Miguel Zubiri",
+      "gender": "M",
+      "role": "President of the Senate",
+      "party": "LDP",
+      "salary": {
+        "gross": 61000,
+        "net": 42700
+      },
+      "sources": [
+        {
+          "Senate of the Philippines – Financial Report 2025": "https://senate.gov.ph/reports/financial-report-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "PFP": {
+      "name": "Partido Federal ng Pilipinas",
+      "range": 4,
+      "color": "#0033A0",
+      "en": "Federal Party of the Philippines"
+    },
+    "HNP": {
+      "name": "Hugpong ng Pagbabago",
+      "range": 3,
+      "color": "#FF5C39",
+      "en": "Alliance for Change"
+    },
+    "NPC": {
+      "name": "Nationalist People's Coalition",
+      "range": 2,
+      "color": "#2F9E44",
+      "en": "Nationalist People's Coalition"
+    },
+    "LDP": {
+      "name": "Laban ng Demokratikong Pilipino",
+      "range": 2,
+      "color": "#6F2DA8",
+      "en": "Fight of the Filipino Democrats"
+    },
+    "Ind.": {
+      "name": "Independyente",
+      "range": 3,
+      "color": "#7F8C8D",
+      "en": "Independent"
+    }
+  }
+}

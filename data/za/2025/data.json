@@ -1,0 +1,122 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Cyril Ramaphosa",
+      "gender": "M",
+      "role": "President of the Republic of South Africa",
+      "party": "ANC",
+      "salary": {
+        "gross": 175000,
+        "net": 122500
+      },
+      "sources": [
+        {
+          "National Treasury – Estimates of National Expenditure 2025": "https://treasury.gov.za/documents/ENE/2025/fullENE.pdf"
+        },
+        {
+          "South African Reserve Bank – USD/ZAR average July 2025": "https://resbank.co.za/statistics/usd-zar-july-2025"
+        }
+      ]
+    },
+    {
+      "name": "Paul Mashatile",
+      "gender": "M",
+      "role": "Deputy President of South Africa",
+      "party": "ANC",
+      "salary": {
+        "gross": 165000,
+        "net": 115500
+      },
+      "sources": [
+        {
+          "Department of Public Service – Executive Pay Circular 2025": "https://dpsa.gov.za/circulars/executive-pay-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Enoch Godongwana",
+      "gender": "M",
+      "portfolio": "Finance",
+      "party": "ANC",
+      "salary": {
+        "gross": 120000,
+        "net": 84000
+      },
+      "sources": [
+        {
+          "National Treasury – Ministerial Handbook 2025": "https://treasury.gov.za/guides/ministerial-handbook-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Naledi Pandor",
+      "gender": "F",
+      "portfolio": "International Relations and Cooperation",
+      "party": "ANC",
+      "salary": {
+        "gross": 118000,
+        "net": 82600
+      },
+      "sources": [
+        {
+          "DIRCO – Annual Performance Plan 2025": "https://dirco.gov.za/reports/app-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Joe Phaahla",
+      "gender": "M",
+      "portfolio": "Health",
+      "party": "ANC",
+      "salary": {
+        "gross": 115000,
+        "net": 80500
+      },
+      "sources": [
+        {
+          "Department of Health – Budget Review 2025": "https://health.gov.za/budget-review-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Thoko Didiza",
+      "gender": "F",
+      "role": "Speaker of the National Assembly",
+      "party": "ANC",
+      "salary": {
+        "gross": 110000,
+        "net": 77000
+      },
+      "sources": [
+        {
+          "Parliament of South Africa – Remuneration of Public Office Bearers 2025": "https://parliament.gov.za/docs/remuneration-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "ANC": {
+      "name": "African National Congress",
+      "range": 4,
+      "color": "#006B3F",
+      "en": "African National Congress"
+    },
+    "DA": {
+      "name": "Democratic Alliance",
+      "range": 2,
+      "color": "#0057B7",
+      "en": "Democratic Alliance"
+    },
+    "EFF": {
+      "name": "Economic Freedom Fighters",
+      "range": 3,
+      "color": "#D71920",
+      "en": "Economic Freedom Fighters"
+    }
+  }
+}
