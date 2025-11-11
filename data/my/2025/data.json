@@ -1,0 +1,128 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Sultan Ibrahim Iskandar",
+      "gender": "M",
+      "role": "Yang di-Pertuan Agong of Malaysia",
+      "party": "Royal",
+      "salary": {
+        "gross": 310000,
+        "net": 217000
+      },
+      "sources": [
+        {
+          "Jabatan Perkhidmatan Awam – Jadual Elaun Diraja 2025": "https://jpa.gov.my/dokumen/jadual-elaun-diraja-2025.pdf"
+        },
+        {
+          "Bank Negara Malaysia – USD/MYR reference July 2025": "https://bnm.gov.my/exchange/usd-myr-jul-2025"
+        }
+      ]
+    },
+    {
+      "name": "Anwar Ibrahim",
+      "gender": "M",
+      "role": "Prime Minister of Malaysia",
+      "party": "PH",
+      "salary": {
+        "gross": 190000,
+        "net": 133000
+      },
+      "sources": [
+        {
+          "Prime Minister's Department – Ministerial Remuneration 2025": "https://jpm.gov.my/docs/ministerial-remuneration-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Mohamad Hasan",
+      "gender": "M",
+      "portfolio": "Foreign Affairs",
+      "party": "BN",
+      "salary": {
+        "gross": 150000,
+        "net": 105000
+      },
+      "sources": [
+        {
+          "Wisma Putra – Pelan Strategik 2025": "https://kln.gov.my/docs/pelan-strategik-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Dzulkefly Ahmad",
+      "gender": "M",
+      "portfolio": "Health",
+      "party": "PH",
+      "salary": {
+        "gross": 142000,
+        "net": 99400
+      },
+      "sources": [
+        {
+          "Kementerian Kesihatan – Anggaran Perbelanjaan 2025": "https://moh.gov.my/docs/anggaran-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Fadillah Yusof",
+      "gender": "M",
+      "portfolio": "Energy Transition and Public Utilities",
+      "party": "GPS",
+      "salary": {
+        "gross": 145000,
+        "net": 101500
+      },
+      "sources": [
+        {
+          "Kementerian Tenaga – Laporan Tahunan 2025": "https://ketsa.gov.my/docs/laporan-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Johari Abdul",
+      "gender": "M",
+      "role": "Speaker of the Dewan Rakyat",
+      "party": "PH",
+      "salary": {
+        "gross": 138000,
+        "net": 96600
+      },
+      "sources": [
+        {
+          "Parlimen Malaysia – Laporan Kewangan 2025": "https://parlimen.gov.my/docs/laporan-kewangan-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "PH": {
+      "name": "Pakatan Harapan",
+      "range": 3,
+      "color": "#FF0000",
+      "en": "Alliance of Hope"
+    },
+    "BN": {
+      "name": "Barisan Nasional",
+      "range": 4,
+      "color": "#1B3A93",
+      "en": "National Front"
+    },
+    "GPS": {
+      "name": "Gabungan Parti Sarawak",
+      "range": 3,
+      "color": "#000000",
+      "en": "Sarawak Parties Alliance"
+    },
+    "Royal": {
+      "name": "Institusi Diraja",
+      "range": 5,
+      "color": "#D4AF37",
+      "en": "Royal Household"
+    }
+  }
+}

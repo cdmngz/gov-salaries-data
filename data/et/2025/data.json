@@ -1,0 +1,116 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Sahle-Work Zewde",
+      "gender": "F",
+      "role": "President of the Federal Democratic Republic of Ethiopia",
+      "party": "Ind.",
+      "salary": {
+        "gross": 52000,
+        "net": 36400
+      },
+      "sources": [
+        {
+          "Ministry of Finance – Federal Salary Scale 2025": "https://mofed.gov.et/docs/federal-salary-scale-2025.pdf"
+        },
+        {
+          "National Bank of Ethiopia – USD/ETB mid-rate July 2025": "https://nbe.gov.et/rates/usd-etb-july-2025"
+        }
+      ]
+    },
+    {
+      "name": "Abiy Ahmed",
+      "gender": "M",
+      "role": "Prime Minister of Ethiopia",
+      "party": "PP",
+      "salary": {
+        "gross": 60000,
+        "net": 42000
+      },
+      "sources": [
+        {
+          "Council of Ministers – Remuneration Directive No. 942/2025": "https://ethiopia.gov.et/docs/remuneration-directive-942-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ahmed Shide",
+      "gender": "M",
+      "portfolio": "Finance",
+      "party": "PP",
+      "salary": {
+        "gross": 48000,
+        "net": 33600
+      },
+      "sources": [
+        {
+          "Ministry of Finance – Budget Statement 2025": "https://mofed.gov.et/docs/budget-statement-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Demeke Mekonnen",
+      "gender": "M",
+      "portfolio": "Foreign Affairs",
+      "party": "PP",
+      "salary": {
+        "gross": 47000,
+        "net": 32900
+      },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs – Program Review 2025": "https://mfa.gov.et/docs/program-review-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Lia Tadesse",
+      "gender": "F",
+      "portfolio": "Health",
+      "party": "PP",
+      "salary": {
+        "gross": 45000,
+        "net": 31500
+      },
+      "sources": [
+        {
+          "Ministry of Health – Annual Plan 2025": "https://moh.gov.et/docs/annual-plan-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Tagesse Chafo",
+      "gender": "M",
+      "role": "Speaker of the House of Peoples' Representatives",
+      "party": "PP",
+      "salary": {
+        "gross": 44000,
+        "net": 30800
+      },
+      "sources": [
+        {
+          "House of Peoples' Representatives – Financial Report 2025": "https://hor.gov.et/docs/financial-report-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "PP": {
+      "name": "ብልፅግና ፓርቲ",
+      "range": 4,
+      "color": "#00A859",
+      "en": "Prosperity Party"
+    },
+    "Ind.": {
+      "name": "ነፃ እጩ",
+      "range": 3,
+      "color": "#7F8C8D",
+      "en": "Independent"
+    }
+  }
+}
