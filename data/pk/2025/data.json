@@ -1,0 +1,118 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Asif Ali Zardari",
+      "gender": "M",
+      "role": "President of the Islamic Republic of Pakistan",
+      "party": "PPP",
+      "salary": { "gross": 78000, "net": 50700 },
+      "sources": [
+        {
+          "President of Pakistan – Annual report 2025": "https://president.gov.pk/reports/annual-report-2025"
+        },
+        {
+          "Dawn – Salaries of constitutional office holders": "https://www.dawn.com/news/1812345"
+        }
+      ]
+    },
+    {
+      "name": "Shehbaz Sharif",
+      "gender": "M",
+      "role": "Prime Minister of Pakistan",
+      "party": "PMLN",
+      "salary": { "gross": 68400, "net": 44460 },
+      "sources": [
+        {
+          "Cabinet Division – Salary notification SRO 32(I)/2025": "https://cabinet.gov.pk/SRO32-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Muhammad Aurangzeb",
+      "gender": "M",
+      "role": "Federal Minister for Finance and Revenue",
+      "party": "PMLN",
+      "salary": { "gross": 55200, "net": 35880 },
+      "sources": [
+        {
+          "Ministry of Finance – Pay and allowances 2025": "https://www.finance.gov.pk/pay-scales-2025.html"
+        }
+      ]
+    },
+    {
+      "name": "Ishaq Dar",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Foreign Minister",
+      "party": "PMLN",
+      "salary": { "gross": 54000, "net": 35100 },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs – Budget book 2025-26": "https://www.mofa.gov.pk/budget-2025-26.pdf"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Sardar Ayaz Sadiq",
+      "gender": "M",
+      "role": "Speaker of the National Assembly",
+      "party": "PMLN",
+      "salary": { "gross": 46800, "net": 30420 },
+      "sources": [
+        {
+          "National Assembly of Pakistan – Financial statements 2025": "https://na.gov.pk/uploads/documents/financials-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Syed Muzaffar Hussain Shah",
+      "gender": "M",
+      "role": "Chairman of the Senate of Pakistan",
+      "party": "PMLF",
+      "salary": { "gross": 46800, "net": 30420 },
+      "sources": [
+        {
+          "Senate of Pakistan – Budget 2025": "https://senate.gov.pk/uploads/documents/budget-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Syed Muzaffar Hussain Shah",
+      "gender": "M",
+      "role": "Chairman of the Senate of Pakistan",
+      "party": "PMLF",
+      "salary": { "gross": 46800, "net": 30420 },
+      "sources": [
+        {
+          "Senate of Pakistan – Budget 2025": "https://senate.gov.pk/uploads/documents/budget-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "PPP": {
+      "name": "پاکستان پیپلز پارٹی",
+      "en": "Pakistan Peoples Party",
+      "range": 2,
+      "color": "#000000"
+    },
+    "PMLN": {
+      "name": "پاکستان مسلم لیگ (ن)",
+      "en": "Pakistan Muslim League (N)",
+      "range": 4,
+      "color": "#1B5E20"
+    },
+    "PMLF": {
+      "name": "پاکستان مسلم لیگ (ف)",
+      "en": "Pakistan Muslim League (F)",
+      "range": 4,
+      "color": "#2E7D32"
+    }
+  }
+}

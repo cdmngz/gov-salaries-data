@@ -1,0 +1,81 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Assimi Goïta",
+      "gender": "M",
+      "role": "President of the Transition, Head of State",
+      "party": "TRANS",
+      "salary": { "gross": 62400, "net": 40560 },
+      "sources": [
+        {
+          "Présidence de la République du Mali – Budget citoyen 2025": "https://www.presidence.ml/budget-citoyen-2025.pdf"
+        },
+        {
+          "RFI – Mali: les indemnités des autorités de transition": "https://www.rfi.fr/fr/afrique/20250312-indemnites-transition-mali"
+        }
+      ]
+    },
+    {
+      "name": "Choguel Kokalla Maïga",
+      "gender": "M",
+      "role": "Prime Minister of the Transition",
+      "party": "TRANS",
+      "salary": { "gross": 55200, "net": 35880 },
+      "sources": [
+        {
+          "Primature du Mali – Décret n°2025-012": "https://primature.ml/decret-2025-012.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Alousséni Sanou",
+      "gender": "M",
+      "role": "Minister of Economy and Finance",
+      "party": "TRANS",
+      "salary": { "gross": 49200, "net": 31980 },
+      "sources": [
+        {
+          "Ministère de l'Économie et des Finances – Loi de finances 2025": "https://www.finances.gouv.ml/loi-finances-2025"
+        }
+      ]
+    },
+    {
+      "name": "Abdoulaye Diop",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs and International Cooperation",
+      "party": "TRANS",
+      "salary": { "gross": 48000, "net": 31200 },
+      "sources": [
+        {
+          "Ministère des Affaires étrangères – Rapport financier": "https://diplomatie.ml/rapport-financier-2025"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Malick Diaw",
+      "gender": "M",
+      "role": "President of the National Transitional Council",
+      "party": "TRANS",
+      "salary": { "gross": 42000, "net": 27300 },
+      "sources": [
+        {
+          "Conseil National de Transition – Budget 2025": "https://cnt.ml/budget-2025"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "TRANS": {
+      "name": "Autorités de la transition",
+      "en": "Transition Authorities",
+      "range": 4,
+      "color": "#6B4C9A"
+    }
+  }
+}

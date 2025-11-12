@@ -1,0 +1,81 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Emomali Rahmon",
+      "gender": "M",
+      "role": "President of the Republic of Tajikistan",
+      "party": "PDPT",
+      "salary": { "gross": 60000, "net": 39000 },
+      "sources": [
+        {
+          "Presidential Executive Office – Budget 2025": "https://president.tj/en/budget-2025"
+        },
+        {
+          "Asia-Plus – Salaries of top officials disclosed": "https://asiaplustj.info/en/news/2025/03/05/salaries-of-top-officials"
+        }
+      ]
+    },
+    {
+      "name": "Kokhir Rasulzoda",
+      "gender": "M",
+      "role": "Prime Minister of Tajikistan",
+      "party": "PDPT",
+      "salary": { "gross": 55200, "net": 35880 },
+      "sources": [
+        {
+          "Government of Tajikistan – Financial transparency": "https://www.gov.tj/en/transparency"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Faiziddin Kahhorzoda",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "PDPT",
+      "salary": { "gross": 46800, "net": 30420 },
+      "sources": [
+        {
+          "Ministry of Finance – Budget report 2025": "https://minfin.tj/en/budget-report-2025"
+        }
+      ]
+    },
+    {
+      "name": "Sirojiddin Muhriddin",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "PDPT",
+      "salary": { "gross": 45600, "net": 29640 },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs – Financial disclosure": "https://mfa.tj/en/financial-disclosure"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Mahmadtoir Zokirzoda",
+      "gender": "M",
+      "role": "Chairman of the Assembly of Representatives",
+      "party": "PDPT",
+      "salary": { "gross": 43200, "net": 28080 },
+      "sources": [
+        {
+          "Majlisi Namoyandagon – Budget 2025": "https://parlament.tj/en/budget-2025"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "PDPT": {
+      "name": "Ҳизби Халқии Демократии Тоҷикистон",
+      "en": "People's Democratic Party of Tajikistan",
+      "range": 4,
+      "color": "#0057A0"
+    }
+  }
+}

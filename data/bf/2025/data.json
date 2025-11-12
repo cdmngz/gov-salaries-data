@@ -1,0 +1,84 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Ibrahim Traoré",
+      "gender": "M",
+      "role": "Président de la Transition du Burkina Faso",
+      "party": "MPSR",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Présidence du Faso – Biographie du Président": "https://www.presidencedufaso.bf/biographie-du-president"
+        },
+        {
+          "Reuters – Burkina Faso junta leader promises election by 2025": "https://www.reuters.com/world/africa/burkina-fasos-traore-promises-election-2025-04-12/"
+        }
+      ]
+    },
+    {
+      "name": "Apollinaire Joachimson Kyélem de Tambèla",
+      "gender": "M",
+      "role": "Premier ministre de la Transition",
+      "party": "MPSR",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Primature du Burkina Faso – Le Premier ministre": "https://www.gouvernement.gov.bf/accueil/le-premier-ministre"
+        },
+        {
+          "Jeune Afrique – Burkina : le gouvernement de Kyélem de Tambèla reconduit": "https://www.jeuneafrique.com/1545639/politique/burkina-le-gouvernement-de-kyelem-de-tambela-reconduit/"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Aboubakar Nacanabo",
+      "gender": "M",
+      "role": "Ministre de l'Économie, des Finances et de la Prospective",
+      "party": "MPSR",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministère de l'Économie, des Finances et de la Prospective": "https://www.finances.gov.bf/ministere/organisation"
+        }
+      ]
+    },
+    {
+      "name": "Olivia Rouamba",
+      "gender": "F",
+      "role": "Ministre des Affaires étrangères, de la Coopération régionale et des Burkinabè de l'Extérieur",
+      "party": "MPSR",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministère des Affaires étrangères – Membres du gouvernement": "https://www.mae.gov.bf/membres-du-gouvernement"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Ousmane Bougouma",
+      "gender": "M",
+      "role": "Président de l'Assemblée législative de transition",
+      "party": "MPSR",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Assemblée législative de transition – Bureau": "https://alt.bf/bureau"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "MPSR": {
+      "name": "Mouvement patriotique pour la sauvegarde et la restauration",
+      "en": "Patriotic Movement for Safeguard and Restoration",
+      "range": 4,
+      "color": "#9C1414"
+    }
+  }
+}
