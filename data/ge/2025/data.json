@@ -1,0 +1,90 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Salome Zourabichvili",
+      "gender": "F",
+      "role": "President of Georgia",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Administration of the President of Georgia": "https://president.ge/en/"
+        },
+        {
+          "Agenda.ge – President outlines 2025 priorities": "https://agenda.ge/en/news/2025/1025"
+        }
+      ]
+    },
+    {
+      "name": "Irakli Kobakhidze",
+      "gender": "M",
+      "role": "Prime Minister of Georgia",
+      "party": "GD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Government of Georgia – Prime Minister": "https://www.gov.ge/en/page/prime-minister"
+        },
+        {
+          "Reuters – Georgia's PM sets 2025 reform plan": "https://www.reuters.com/world/europe/georgias-pm-sets-2025-reform-plan-2025-03-18/"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Lasha Khutsishvili",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "GD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministry of Finance of Georgia": "https://mof.ge/en/minister"
+        }
+      ]
+    },
+    {
+      "name": "Ilia Darchiashvili",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "GD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs of Georgia": "https://mfa.gov.ge/en/Ministry/Minister"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Shalva Papuashvili",
+      "gender": "M",
+      "role": "Chairperson of the Parliament of Georgia",
+      "party": "GD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Parliament of Georgia – Chairperson": "https://parliament.ge/en/parliament-chairperson"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "IND": {
+      "name": "დამოუკიდებელი",
+      "en": "Independent",
+      "range": 2,
+      "color": "#808080"
+    },
+    "GD": {
+      "name": "ქართული ოცნება – დემოკრატიული საქართველო",
+      "en": "Georgian Dream – Democratic Georgia",
+      "range": 4,
+      "color": "#1C4BA0"
+    }
+  }
+}

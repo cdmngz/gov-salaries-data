@@ -1,0 +1,97 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "King Mswati III",
+      "gender": "M",
+      "role": "Ngwenyama of the Kingdom of Eswatini",
+      "party": "ROY",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Government of Eswatini – The Monarchy": "https://www.gov.sz/index.php/monarchy/the-king"
+        },
+        {
+          "BBC News – King Mswati III calls for unity": "https://www.bbc.com/news/world-africa-14191468"
+        }
+      ]
+    },
+    {
+      "name": "Russell Mmiso Dlamini",
+      "gender": "M",
+      "role": "Prime Minister of Eswatini",
+      "party": "ROY",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Government of Eswatini – Prime Minister": "https://www.gov.sz/index.php/office-of-the-prime-minister"
+        },
+        {
+          "Times of Eswatini – Russell Dlamini sets 2025 agenda": "https://www.times.co.sz/news/119887-russell-dlamini-sets-2025-agenda.html"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Neal Rijkenberg",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "ROY",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Government of Eswatini – Ministry of Finance": "https://www.gov.sz/index.php/ministries-departments/ministry-of-finance"
+        }
+      ]
+    },
+    {
+      "name": "Pholile Shakantu",
+      "gender": "F",
+      "role": "Minister of Foreign Affairs and International Cooperation",
+      "party": "ROY",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Government of Eswatini – Ministry of Foreign Affairs": "https://www.gov.sz/index.php/ministries-departments/ministry-of-foreign-affairs"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Jabulani Clement Mabuza",
+      "gender": "M",
+      "role": "Speaker of the House of Assembly",
+      "party": "ROY",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Parliament of Eswatini – Speaker": "https://www.parliament.gov.sz/house-of-assembly/speaker"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Lindiwe Dlamini",
+      "gender": "F",
+      "role": "President of the Senate of Eswatini",
+      "party": "ROY",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Parliament of Eswatini – Senate": "https://www.parliament.gov.sz/senate/president"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "ROY": {
+      "name": "Umbuso weSwatini",
+      "en": "Monarchy of Eswatini",
+      "range": 5,
+      "color": "#003DA5"
+    }
+  }
+}

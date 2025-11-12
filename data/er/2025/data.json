@@ -1,0 +1,56 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Isaias Afwerki",
+      "gender": "M",
+      "role": "President of the State of Eritrea",
+      "party": "PFDJ",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Shabait – President Isaias Afwerki New Year Message": "https://shabait.com/2025/01/01/president-isaias-afwerki-new-year-message/"
+        },
+        {
+          "African Union – Eritrea": "https://au.int/en/memberstates/eritrea"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Berhane Habtemariam",
+      "gender": "M",
+      "role": "Minister of Finance and National Development",
+      "party": "PFDJ",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministry of Information Eritrea – Cabinet of Ministers": "https://shabait.com/category/cabinet-of-ministers/"
+        }
+      ]
+    },
+    {
+      "name": "Osman Saleh Mohammed",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "PFDJ",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs of Eritrea": "https://mfa.gov.er/minister/"
+        }
+      ]
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "PFDJ": {
+      "name": "ህዝባዊ ግንባር ንዲሞክራስን ፍትሕን",
+      "en": "People's Front for Democracy and Justice",
+      "range": 5,
+      "color": "#006B3F"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Ilham Aliyev",
+      "gender": "M",
+      "role": "President of the Republic of Azerbaijan",
+      "party": "YAP",
+      "salary": { "gross": 132000, "net": 92400 },
+      "sources": [
+        {
+          "Presidential Administration of Azerbaijan – 2025 Budget": "https://president.az/articles/2025-budget"
+        },
+        {
+          "APA News – Salaries of top officials increased": "https://apa.az/en/economy/salaries-of-top-officials-increased-2025"
+        }
+      ]
+    },
+    {
+      "name": "Ali Asadov",
+      "gender": "M",
+      "role": "Prime Minister of Azerbaijan",
+      "party": "YAP",
+      "salary": { "gross": 110400, "net": 77280 },
+      "sources": [
+        {
+          "Cabinet of Ministers – Transparency portal": "https://cabmin.gov.az/en/transparency"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Samir Sharifov",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "YAP",
+      "salary": { "gross": 86400, "net": 60480 },
+      "sources": [
+        {
+          "Ministry of Finance – Budget statement 2025": "https://maliyye.gov.az/en/page/budget-2025"
+        }
+      ]
+    },
+    {
+      "name": "Jeyhun Bayramov",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "YAP",
+      "salary": { "gross": 85200, "net": 59640 },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs – Financial disclosure": "https://mfa.gov.az/en/page/financial-disclosure"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Sahiba Gafarova",
+      "gender": "F",
+      "role": "Speaker of the Milli Majlis",
+      "party": "YAP",
+      "salary": { "gross": 72000, "net": 50400 },
+      "sources": [
+        {
+          "Milli Majlis – 2025 payroll statement": "https://meclis.gov.az/en/payroll-2025"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "YAP": {
+      "name": "Yeni Azərbaycan Partiyası",
+      "en": "New Azerbaijan Party",
+      "range": 4,
+      "color": "#0095D9"
+    }
+  }
+}

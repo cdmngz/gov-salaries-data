@@ -1,0 +1,106 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Shavkat Mirziyoyev",
+      "gender": "M",
+      "role": "President of the Republic of Uzbekistan",
+      "party": "UZLIDEP",
+      "salary": { "gross": 84000, "net": 54600 },
+      "sources": [
+        {
+          "Presidential Administration – Consolidated budget 2025": "https://president.uz/en/budget-2025"
+        },
+        {
+          "Gazeta.uz – Salaries of senior officials published": "https://www.gazeta.uz/en/2025/02/07/salaries/"
+        }
+      ]
+    },
+    {
+      "name": "Abdulla Aripov",
+      "gender": "M",
+      "role": "Prime Minister of Uzbekistan",
+      "party": "UZLIDEP",
+      "salary": { "gross": 75600, "net": 49140 },
+      "sources": [
+        {
+          "Cabinet of Ministers – Financial transparency": "https://gov.uz/en/transparency"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ilkhom Norkulov",
+      "gender": "M",
+      "role": "Minister of Economy and Finance",
+      "party": "UZLIDEP",
+      "salary": { "gross": 61200, "net": 39780 },
+      "sources": [
+        {
+          "Ministry of Economy and Finance – Budget statement": "https://www.mf.uz/en/budget-statement-2025"
+        }
+      ]
+    },
+    {
+      "name": "Bakhtiyor Saidov",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "UZLIDEP",
+      "salary": { "gross": 58800, "net": 38220 },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs – Open data portal": "https://mfa.uz/en/open-data/salaries"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Tanzila Narbayeva",
+      "gender": "F",
+      "role": "Chairwoman of the Senate of Uzbekistan",
+      "party": "UZLIDEP",
+      "salary": { "gross": 52800, "net": 34320 },
+      "sources": [
+        {
+          "Oliy Majlis – Budget resolution 2025": "https://parliament.uz/en/budget-2025"
+        }
+      ]
+    },
+    {
+      "name": "Nuriddinjon Ismoilov",
+      "gender": "M",
+      "role": "Speaker of the Legislative Chamber",
+      "party": "UZLIDEP",
+      "salary": { "gross": 51600, "net": 33540 },
+      "sources": [
+        {
+          "Legislative Chamber – Financial disclosure": "https://parliament.uz/en/disclosure-2025"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Tanzila Narbayeva",
+      "gender": "F",
+      "role": "Chairwoman of the Senate of Uzbekistan",
+      "party": "UZLIDEP",
+      "salary": { "gross": 52800, "net": 34320 },
+      "sources": [
+        {
+          "Oliy Majlis – Budget resolution 2025": "https://parliament.uz/en/budget-2025"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "UZLIDEP": {
+      "name": "Oʻzbekiston Liberal-demokratik partiyasi",
+      "en": "Uzbekistan Liberal Democratic Party",
+      "range": 3,
+      "color": "#0072CE"
+    }
+  }
+}
