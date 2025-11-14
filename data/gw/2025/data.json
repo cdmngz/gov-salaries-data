@@ -1,0 +1,59 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Umaro Sissoco Embaló",
+      "gender": "M",
+      "role": "President of Guinea-Bissau",
+      "party": "MADEM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Geraldo Martins",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "PAIGC",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Carlos Pinto Pereira",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs, International Cooperation and Communities",
+      "party": "PAIGC",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Suleimane Seidi",
+      "gender": "M",
+      "role": "Minister of Economy and Finance",
+      "party": "PAIGC",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Agueda Landim",
+      "gender": "F",
+      "role": "Minister of National Education",
+      "party": "PAIGC",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "MADEM": {
+      "name": "Movimento para Alternância Democrática - Grupo dos 15",
+      "en": "Movement for Democratic Alternation - Group of 15",
+      "range": 4,
+      "color": "#006633"
+    },
+    "PAIGC": {
+      "name": "Partido Africano da Independência da Guiné e Cabo Verde",
+      "en": "African Party for the Independence of Guinea and Cape Verde",
+      "range": 1,
+      "color": "#FF0000"
+    }
+  }
+}

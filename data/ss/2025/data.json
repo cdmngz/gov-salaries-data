@@ -1,0 +1,59 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Salva Kiir Mayardit",
+      "gender": "M",
+      "role": "President of South Sudan",
+      "party": "SPLM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Riek Machar Teny",
+      "gender": "M",
+      "role": "First Vice President",
+      "party": "SPLMIO",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "James Pitia Morgan",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs and International Cooperation",
+      "party": "SPLM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Awow Daniel Chuang",
+      "gender": "M",
+      "role": "Minister of Finance and Planning",
+      "party": "SPLM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Awut Deng Acuil",
+      "gender": "F",
+      "role": "Minister of General Education and Instruction",
+      "party": "SPLM",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "SPLM": {
+      "name": "Sudan People's Liberation Movement",
+      "en": "Sudan People's Liberation Movement",
+      "range": 1,
+      "color": "#D2232A"
+    },
+    "SPLMIO": {
+      "name": "Sudan People's Liberation Movement-In Opposition",
+      "en": "Sudan People's Liberation Movement-In Opposition",
+      "range": 1,
+      "color": "#1F4E79"
+    }
+  }
+}

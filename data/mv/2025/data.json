@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Mohamed Muizzu",
+      "gender": "M",
+      "role": "President of the Maldives",
+      "party": "PNC",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hussain Mohamed Latheef",
+      "gender": "M",
+      "role": "Vice President",
+      "party": "PNC",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Moosa Zameer",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "PNC",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohamed Shafeeq",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "PNC",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ismail Shafeeu",
+      "gender": "M",
+      "role": "Minister of Education",
+      "party": "PNC",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "PNC": {
+      "name": "ޕީޕަލްސް ނޭޝަނަލް ކޮންގްރެސް",
+      "en": "People's National Congress",
+      "range": 4,
+      "color": "#0A7BC2"
+    }
+  }
+}

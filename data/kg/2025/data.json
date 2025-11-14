@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Sadyr Japarov",
+      "gender": "M",
+      "role": "President of the Kyrgyz Republic",
+      "party": "MEK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Akylbek Japarov",
+      "gender": "M",
+      "role": "Chairman of the Cabinet of Ministers",
+      "party": "MEK",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Jeenbek Kulubaev",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "MEK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Baktybek Bekbolotov",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "MEK",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Almaz Baketaev",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "MEK",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "MEK": {
+      "name": "Мекенчил",
+      "en": "Patriotic Party",
+      "range": 3,
+      "color": "#C1272D"
+    }
+  }
+}

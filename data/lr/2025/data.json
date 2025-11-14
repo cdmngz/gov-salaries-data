@@ -1,0 +1,59 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Joseph Nyuma Boakai",
+      "gender": "M",
+      "role": "President of Liberia",
+      "party": "UP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jeremiah Kpan Koung",
+      "gender": "M",
+      "role": "Vice President",
+      "party": "MDR",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Sarah Beysolow Nyanti",
+      "gender": "F",
+      "role": "Minister of Foreign Affairs",
+      "party": "UP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Prince C. Johnson III",
+      "gender": "M",
+      "role": "Minister of National Defence",
+      "party": "UP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Boima S. Kamara",
+      "gender": "M",
+      "role": "Minister of Finance and Development Planning",
+      "party": "UP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "UP": {
+      "name": "Unity Party",
+      "en": "Unity Party",
+      "range": 3,
+      "color": "#10387A"
+    },
+    "MDR": {
+      "name": "Movement for Democracy and Reconstruction",
+      "en": "Movement for Democracy and Reconstruction",
+      "range": 2,
+      "color": "#F9B234"
+    }
+  }
+}

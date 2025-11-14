@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Hassanal Bolkiah",
+      "gender": "M",
+      "role": "Sultan and Prime Minister",
+      "party": "MON",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Crown Prince Haji Al-Muhtadee Billah",
+      "gender": "M",
+      "role": "Senior Minister at the Prime Minister's Office",
+      "party": "MON",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Dato Erywan Pehin Yusof",
+      "gender": "M",
+      "role": "Second Minister of Foreign Affairs",
+      "party": "MON",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dato Seri Setia Dr. Awang Haji Mohd Amin Liew",
+      "gender": "M",
+      "role": "Minister at the Prime Minister's Office and Minister of Finance and Economy II",
+      "party": "MON",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dato Seri Setia Awang Halbi Mohd Yussof",
+      "gender": "M",
+      "role": "Minister of Defence II",
+      "party": "MON",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "MON": {
+      "name": "Kerajaan Brunei Darussalam",
+      "en": "Government of Brunei Darussalam",
+      "range": 3,
+      "color": "#006B3F"
+    }
+  }
+}

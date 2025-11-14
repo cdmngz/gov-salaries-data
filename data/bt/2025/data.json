@@ -1,0 +1,59 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Tshering Tobgay",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "PDP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jigme Khesar Namgyel Wangchuck",
+      "gender": "M",
+      "role": "Druk Gyalpo",
+      "party": "MON",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "D.N. Dhungyel",
+      "gender": "M",
+      "role": "Minister for Foreign Affairs and External Trade",
+      "party": "PDP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lyonpo Lekey Dorji",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "PDP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lyonpo Gem Tshering",
+      "gender": "M",
+      "role": "Minister for Energy and Natural Resources",
+      "party": "PDP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "PDP": {
+      "name": "དམངས་གཙོ་འཐུས་མིང་ཚོགས་པ",
+      "en": "People's Democratic Party",
+      "range": 3,
+      "color": "#005AA7"
+    },
+    "MON": {
+      "name": "འབྲུག་རྒྱལ་པོ",
+      "en": "Druk Gyalpo Institution",
+      "range": 1,
+      "color": "#FFB81C"
+    }
+  }
+}

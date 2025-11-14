@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Hakainde Hichilema",
+      "gender": "M",
+      "role": "President of Zambia",
+      "party": "UPND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mutale Nalumango",
+      "gender": "F",
+      "role": "Vice President",
+      "party": "UPND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Mulambo Haimbe",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs and International Cooperation",
+      "party": "UPND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ambrose Lufuma",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "UPND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Situmbeko Musokotwane",
+      "gender": "M",
+      "role": "Minister of Finance and National Planning",
+      "party": "UPND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "UPND": {
+      "name": "United Party for National Development",
+      "en": "United Party for National Development",
+      "range": 4,
+      "color": "#E10019"
+    }
+  }
+}

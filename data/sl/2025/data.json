@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Julius Maada Bio",
+      "gender": "M",
+      "role": "President of Sierra Leone",
+      "party": "SLPP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohamed Juldeh Jalloh",
+      "gender": "M",
+      "role": "Vice President",
+      "party": "SLPP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Timothy Musa Kabba",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs and International Cooperation",
+      "party": "SLPP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kellie Hassan Conteh",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "SLPP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Sheku Ahmed Fantamadi Bangura",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "SLPP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "SLPP": {
+      "name": "Sierra Leone People's Party",
+      "en": "Sierra Leone People's Party",
+      "range": 4,
+      "color": "#1B5E20"
+    }
+  }
+}

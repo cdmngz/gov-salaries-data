@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Nangolo Mbumba",
+      "gender": "M",
+      "role": "President of Namibia",
+      "party": "SWAPO",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Saara Kuugongelwa-Amadhila",
+      "gender": "F",
+      "role": "Prime Minister",
+      "party": "SWAPO",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Netumbo Nandi-Ndaitwah",
+      "gender": "F",
+      "role": "Deputy Prime Minister and Minister of International Relations and Cooperation",
+      "party": "SWAPO",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Frans Kapofi",
+      "gender": "M",
+      "role": "Minister of Defence and Veterans Affairs",
+      "party": "SWAPO",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Iipumbu Shiimi",
+      "gender": "M",
+      "role": "Minister of Finance and Public Enterprises",
+      "party": "SWAPO",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "SWAPO": {
+      "name": "SWAPO",
+      "en": "South West Africa People's Organization",
+      "range": 4,
+      "color": "#003366"
+    }
+  }
+}

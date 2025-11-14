@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Faure Essozimna Gnassingbé",
+      "gender": "M",
+      "role": "President of Togo",
+      "party": "UNIR",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Victoire Tomegah Dogbé",
+      "gender": "F",
+      "role": "Prime Minister",
+      "party": "UNIR",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Robert Dussey",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs, Regional Integration and Togolese Abroad",
+      "party": "UNIR",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Essozimna Marguerite Gnakade",
+      "gender": "F",
+      "role": "Minister of the Armed Forces",
+      "party": "UNIR",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Sani Yaya",
+      "gender": "M",
+      "role": "Minister of Economy and Finance",
+      "party": "UNIR",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "UNIR": {
+      "name": "Union pour la République",
+      "en": "Union for the Republic",
+      "range": 4,
+      "color": "#1E4C9A"
+    }
+  }
+}

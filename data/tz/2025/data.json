@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Samia Suluhu Hassan",
+      "gender": "F",
+      "role": "President of the United Republic of Tanzania",
+      "party": "CCM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kassim Majaliwa",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "CCM",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "January Makamba",
+      "gender": "M",
+      "role": "Minister for Foreign Affairs and East African Cooperation",
+      "party": "CCM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Stergomena Lawrence Tax",
+      "gender": "F",
+      "role": "Minister for Defence and National Service",
+      "party": "CCM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mwigulu Nchemba",
+      "gender": "M",
+      "role": "Minister for Finance and Planning",
+      "party": "CCM",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "CCM": {
+      "name": "Chama Cha Mapinduzi",
+      "en": "Party of the Revolution",
+      "range": 4,
+      "color": "#006400"
+    }
+  }
+}
