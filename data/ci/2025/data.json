@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Alassane Ouattara",
+      "gender": "M",
+      "role": "President of the Republic",
+      "party": "RHDP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Robert Beugré Mambé",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "RHDP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Kandia Camara",
+      "gender": "F",
+      "role": "Minister of State, Minister of Foreign Affairs, African Integration and the Diaspora",
+      "party": "RHDP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Téné Birahima Ouattara",
+      "gender": "M",
+      "role": "Minister of State, Minister of Defence",
+      "party": "RHDP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Adama Coulibaly",
+      "gender": "M",
+      "role": "Minister of Economy and Finance",
+      "party": "RHDP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "RHDP": {
+      "name": "Rassemblement des Houphouëtistes pour la Démocratie et la Paix",
+      "en": "Rally of Houphouëtists for Democracy and Peace",
+      "range": 4,
+      "color": "#F36C21"
+    }
+  }
+}

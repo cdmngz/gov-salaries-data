@@ -1,0 +1,67 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II",
+      "gender": "M",
+      "role": "O le Ao o le Malo",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Fiamē Naomi Mataʻafa",
+      "gender": "F",
+      "role": "Prime Minister",
+      "party": "FAST",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Fiamē Naomi Mataʻafa",
+      "gender": "F",
+      "role": "Minister of Foreign Affairs and Trade",
+      "party": "FAST",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mulipola Anarosa Ale Molio'o",
+      "gender": "F",
+      "role": "Minister of Finance",
+      "party": "FAST",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Seuula Ioane",
+      "gender": "M",
+      "role": "Minister of Education and Culture",
+      "party": "FAST",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Tuala Iosefo Ponifasio",
+      "gender": "M",
+      "role": "Deputy Prime Minister",
+      "party": "FAST",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "FAST": {
+      "name": "Faʻatuatua i le Atua Samoa ua Tasi",
+      "en": "Faith in the One True God of Samoa",
+      "range": 3,
+      "color": "#002D62"
+    },
+    "IND": {
+      "name": "Tutoʻatasi",
+      "en": "Independent",
+      "range": 3,
+      "color": "#777777"
+    }
+  }
+}

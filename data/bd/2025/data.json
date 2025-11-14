@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Sheikh Hasina",
+      "gender": "F",
+      "role": "Prime Minister",
+      "party": "AL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohammed Shahabuddin",
+      "gender": "M",
+      "role": "President of Bangladesh",
+      "party": "AL",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Hasan Mahmud",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "AL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohammad Ali Arafat",
+      "gender": "M",
+      "role": "Minister of Education",
+      "party": "AL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Abul Hassan Mahmood Ali",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "AL",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "AL": {
+      "name": "বাংলাদেশ আওয়ামী লীগ",
+      "en": "Bangladesh Awami League",
+      "range": 4,
+      "color": "#006A4E"
+    }
+  }
+}

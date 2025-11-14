@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Abdourahamane Tiani",
+      "gender": "M",
+      "role": "President of the National Council for the Safeguard of the Homeland",
+      "party": "CNSP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ali Mahaman Lamine Zeine",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "CNSP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Bakary Yaou Sangaré",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs, Cooperation and Nigeriens Abroad",
+      "party": "CNSP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Salifou Modi",
+      "gender": "M",
+      "role": "Minister of National Defence",
+      "party": "CNSP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mahaman Sani Laouali",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "CNSP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "CNSP": {
+      "name": "Conseil national pour la sauvegarde de la patrie",
+      "en": "National Council for the Safeguard of the Homeland",
+      "range": 4,
+      "color": "#F4A300"
+    }
+  }
+}

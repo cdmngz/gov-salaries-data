@@ -1,0 +1,67 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Sir David Vunagi",
+      "gender": "M",
+      "role": "Governor-General of Solomon Islands",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jeremiah Manele",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "OUR",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Peter Shanel Agovaka",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs and External Trade",
+      "party": "OUR",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Manasseh Sogavare",
+      "gender": "M",
+      "role": "Minister of Finance and Treasury",
+      "party": "OUR",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lanelle Tanangada",
+      "gender": "F",
+      "role": "Minister of Education and Human Resources Development",
+      "party": "OUR",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Manasseh Maelanga",
+      "gender": "M",
+      "role": "Deputy Prime Minister",
+      "party": "OUR",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "OUR": {
+      "name": "Ownership, Unity and Responsibility",
+      "en": "Ownership, Unity and Responsibility Party",
+      "range": 4,
+      "color": "#1F4F82"
+    },
+    "IND": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 3,
+      "color": "#777777"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Yoweri Kaguta Museveni",
+      "gender": "M",
+      "role": "President of Uganda",
+      "party": "NRM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Robinah Nabbanja",
+      "gender": "F",
+      "role": "Prime Minister",
+      "party": "NRM",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Jeje Odongo",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "NRM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Matia Kasaija",
+      "gender": "M",
+      "role": "Minister of Finance, Planning and Economic Development",
+      "party": "NRM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Janet Kataaha Museveni",
+      "gender": "F",
+      "role": "Minister of Education and Sports",
+      "party": "NRM",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "NRM": {
+      "name": "National Resistance Movement",
+      "en": "National Resistance Movement",
+      "range": 2,
+      "color": "#FFD100"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Tupou VI",
+      "gender": "M",
+      "role": "King of Tonga",
+      "party": "ROYAL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Siaosi Sovaleni",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "PEOPLES",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Fekitamoeloa 'Utoikamanu",
+      "gender": "F",
+      "role": "Minister of Foreign Affairs and Tourism",
+      "party": "PEOPLES",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Tiofilusi Tiueti",
+      "gender": "M",
+      "role": "Minister for Finance and National Planning",
+      "party": "PEOPLES",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Siaosi Sovaleni",
+      "gender": "M",
+      "role": "Minister of Education and Training",
+      "party": "PEOPLES",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "PEOPLES": {
+      "name": "Paati 'a e Kakai",
+      "en": "People's Party",
+      "range": 3,
+      "color": "#002868"
+    },
+    "ROYAL": {
+      "name": "Fāmili fakatuʻi 'o Tonga",
+      "en": "Tongan Royal Household",
+      "range": 0,
+      "color": "#C8102E"
+    }
+  }
+}

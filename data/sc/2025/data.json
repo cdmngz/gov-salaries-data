@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Wavel Ramkalawan",
+      "gender": "M",
+      "role": "President of Seychelles",
+      "party": "LDS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ahmed Afif",
+      "gender": "M",
+      "role": "Vice President",
+      "party": "LDS",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Sylvestre Radegonde",
+      "gender": "M",
+      "role": "Minister for Foreign Affairs and Tourism",
+      "party": "LDS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Errol Fonseka",
+      "gender": "M",
+      "role": "Minister for Internal Affairs",
+      "party": "LDS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Naadir Hassan",
+      "gender": "M",
+      "role": "Minister for Finance, National Planning and Trade",
+      "party": "LDS",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "LDS": {
+      "name": "Linyon Demokratik Seselwa",
+      "en": "Seychellois Democratic Union",
+      "range": 4,
+      "color": "#1B75BC"
+    }
+  }
+}

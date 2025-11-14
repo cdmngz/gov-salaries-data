@@ -1,0 +1,59 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Lazarus McCarthy Chakwera",
+      "gender": "M",
+      "role": "President of Malawi",
+      "party": "MCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Michael Usi",
+      "gender": "M",
+      "role": "Vice President",
+      "party": "UTM",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Nancy Tembo",
+      "gender": "F",
+      "role": "Minister of Foreign Affairs",
+      "party": "MCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Harry Mkandawire",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "MCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Simplex Chithyola Banda",
+      "gender": "M",
+      "role": "Minister of Finance and Economic Affairs",
+      "party": "MCP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "MCP": {
+      "name": "Malawi Congress Party",
+      "en": "Malawi Congress Party",
+      "range": 3,
+      "color": "#C1121C"
+    },
+    "UTM": {
+      "name": "United Transformation Movement",
+      "en": "United Transformation Movement",
+      "range": 2,
+      "color": "#FDD835"
+    }
+  }
+}

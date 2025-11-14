@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Masoud Pezeshkian",
+      "gender": "M",
+      "role": "President of the Islamic Republic of Iran",
+      "party": "IRP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ali Khamenei",
+      "gender": "M",
+      "role": "Supreme Leader",
+      "party": "IRP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Hossein Amir-Abdollahian",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "IRP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohammad Reza Ashtiani",
+      "gender": "M",
+      "role": "Minister of Defence and Armed Forces Logistics",
+      "party": "IRP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ehsan Khandouzi",
+      "gender": "M",
+      "role": "Minister of Economic Affairs and Finance",
+      "party": "IRP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "IRP": {
+      "name": "جمهوری اسلامی ایران",
+      "en": "Islamic Republic Leadership",
+      "range": 4,
+      "color": "#239F40"
+    }
+  }
+}
