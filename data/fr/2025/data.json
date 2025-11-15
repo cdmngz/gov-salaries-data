@@ -6215,6 +6215,42 @@
       "en": "Stand Up France",
       "range": 4,
       "color": "#0C4DA2"
+    },
+    "CRCE-K": {
+      "name": "Communiste, Républicain, Citoyen et Écologiste – Kanaky",
+      "en": "Communist, Republican, Citizen and Ecologist – Kanaky",
+      "range": 1,
+      "color": "#CE2725"
+    },
+    "GEST": {
+      "name": "Groupe écologiste – Solidarité et territoires",
+      "en": "Ecologist Group – Solidarity and Territories",
+      "range": 2,
+      "color": "#78BE21"
+    },
+    "LIRT": {
+      "name": "Les Indépendants – République et Territoires",
+      "en": "The Independents – Republic and Territories",
+      "range": 4,
+      "color": "#005AA5"
+    },
+    "RASNAG": {
+      "name": "Rassemblement des sénateurs non inscrits et apparentés de gauche",
+      "en": "Assembly of unaffiliated and allied left senators",
+      "range": 2,
+      "color": "#6C6C6C"
+    },
+    "RDPI": {
+      "name": "Rassemblement des démocrates, progressistes et indépendants",
+      "en": "Rally of Democrats, Progressives and Independents",
+      "range": 4,
+      "color": "#FFB612"
+    },
+    "RDSE": {
+      "name": "Rassemblement Démocratique et Social Européen",
+      "en": "European Democratic and Social Rally",
+      "range": 3,
+      "color": "#8E2B88"
     }
   }
 }

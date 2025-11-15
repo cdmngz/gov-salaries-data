@@ -123,9 +123,52 @@
       "party": "AV",
       "district": "Tolima",
       "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Katherine Miranda Peña",
+      "gender": "F",
+      "party": "AV",
+      "district": "Bogotá D.C.",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hernán Cadavid Márquez",
+      "gender": "M",
+      "party": "CD",
+      "district": "Antioquia",
+      "salary": { "gross": null, "net": null }
     }
   ],
-  "senate": [],
+  "senate": [
+    {
+      "name": "María José Pizarro Rodríguez",
+      "gender": "F",
+      "party": "PH",
+      "district": "Bogotá D.C.",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lidio Arturo García Turbay",
+      "gender": "M",
+      "party": "PL",
+      "district": "Bolívar",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Paloma Susana Valencia Laserna",
+      "gender": "F",
+      "party": "CD",
+      "district": "Antioquia",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "David Alejandro Luna Sánchez",
+      "gender": "M",
+      "party": "CR",
+      "district": "Bogotá D.C.",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
   "officials": [
     {
       "name": "Luz Adriana Camargo",
@@ -165,11 +208,23 @@
       "range": 4,
       "color": "#0033A0"
     },
+    "CD": {
+      "name": "Centro Democrático",
+      "en": "Democratic Center",
+      "range": 4,
+      "color": "#002664"
+    },
     "PU": {
       "name": "Partido de la U",
       "en": "Social Party of National Unity",
       "range": 3,
       "color": "#F6A800"
+    },
+    "CR": {
+      "name": "Cambio Radical",
+      "en": "Radical Change",
+      "range": 3,
+      "color": "#E6222A"
     },
     "AV": {
       "name": "Partido Alianza Verde",

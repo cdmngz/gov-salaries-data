@@ -132,6 +132,12 @@
       "en": "Democratic Alliance of Hungarians in Romania",
       "range": 3,
       "color": "#006600"
+    },
+    "IND": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 1,
+      "color": "#808080"
     }
   }
 }

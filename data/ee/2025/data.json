@@ -712,6 +712,12 @@
       "range": 5,
       "color": "#003DA5"
     },
+    "Isamaa": {
+      "name": "Isamaa",
+      "en": "Fatherland",
+      "range": 5,
+      "color": "#003DA5"
+    },
     "EKRE": {
       "name": "Eesti Konservatiivne Rahvaerakond",
       "en": "Conservative People's Party of Estonia",
@@ -723,6 +729,12 @@
       "en": "Centre Party",
       "range": 3,
       "color": "#009F3C"
+    },
+    "Non-affiliated": {
+      "name": "Erakondlikult sõltumatu",
+      "en": "Non-affiliated",
+      "range": 1,
+      "color": "#7A7A7A"
     }
   }
 }

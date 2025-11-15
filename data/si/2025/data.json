@@ -132,6 +132,12 @@
       "en": "The Left",
       "range": 1,
       "color": "#c8102e"
+    },
+    "IND": {
+      "name": "Neodvisen",
+      "en": "Independent",
+      "range": 1,
+      "color": "#808080"
     }
   }
 }

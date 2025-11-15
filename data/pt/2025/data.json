@@ -115,6 +115,12 @@
       "en": "People-Animals-Nature",
       "range": 2,
       "color": "#00a79d"
+    },
+    "IND": {
+      "name": "Independente",
+      "en": "Independent",
+      "range": 1,
+      "color": "#808080"
     }
   }
 }

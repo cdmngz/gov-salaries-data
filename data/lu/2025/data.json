@@ -586,6 +586,12 @@
       "range": 2,
       "color": "#00A859"
     },
+    "déi gréng": {
+      "name": "déi gréng",
+      "en": "The Greens",
+      "range": 2,
+      "color": "#00A859"
+    },
     "ADR": {
       "name": "Alternativ Demokratesch Reformpartei",
       "en": "Alternative Democratic Reform Party",
@@ -598,7 +604,19 @@
       "range": 3,
       "color": "#000000"
     },
+    "Piratepartei": {
+      "name": "Piratepartei Lëtzebuerg",
+      "en": "Pirate Party",
+      "range": 3,
+      "color": "#000000"
+    },
     "DL": {
+      "name": "déi Lénk",
+      "en": "The Left",
+      "range": 1,
+      "color": "#C8102E"
+    },
+    "déi Lénk": {
       "name": "déi Lénk",
       "en": "The Left",
       "range": 1,

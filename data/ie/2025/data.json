@@ -132,6 +132,12 @@
       "en": "Green Party",
       "range": 2,
       "color": "#4ba23f"
+    },
+    "IND": {
+      "name": "Neamhspleách",
+      "en": "Independent",
+      "range": 1,
+      "color": "#808080"
     }
   }
 }

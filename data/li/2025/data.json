@@ -223,6 +223,12 @@
       "en": "The Independents",
       "range": 3,
       "color": "#999999"
+    },
+    "DpL": {
+      "name": "Demokraten pro Liechtenstein",
+      "en": "Democrats for Liechtenstein",
+      "range": 3,
+      "color": "#0054A6"
     }
   }
 }
