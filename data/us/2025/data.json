@@ -2704,6 +2704,7 @@
       "name": "Angus King",
       "gender": "M",
       "district": "Maine",
+      "party": "I",
       "salary": { "gross": 174000, "net": 113100 }
     },
     {
@@ -3060,6 +3061,7 @@
       "name": "Bernie Sanders",
       "gender": "M",
       "district": "Vermont",
+      "party": "I",
       "salary": { "gross": 174000, "net": 113100 }
     },
     {
@@ -3148,6 +3150,11 @@
       "name": "Republican Party",
       "range": 5,
       "color": "#E81A23"
+    },
+    "I": {
+      "name": "Independent",
+      "range": 1,
+      "color": "#6C757D"
     }
   }
 }

@@ -132,6 +132,12 @@
       "en": "Five Star Movement",
       "range": 2,
       "color": "#f6b40e"
+    },
+    "IND": {
+      "name": "Indipendente",
+      "en": "Independent",
+      "range": 1,
+      "color": "#808080"
     }
   }
 }

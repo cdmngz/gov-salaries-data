@@ -109,6 +109,12 @@
       "en": "Jobbik",
       "range": 5,
       "color": "#0f6f3d"
+    },
+    "IND": {
+      "name": "Független",
+      "en": "Independent",
+      "range": 1,
+      "color": "#808080"
     }
   }
 }

@@ -109,6 +109,12 @@
       "en": "Greek Solution",
       "range": 5,
       "color": "#014c9d"
+    },
+    "IND": {
+      "name": "Ανεξάρτητος",
+      "en": "Independent",
+      "range": 1,
+      "color": "#808080"
     }
   }
 }

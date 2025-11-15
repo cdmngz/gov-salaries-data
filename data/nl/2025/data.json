@@ -132,6 +132,12 @@
       "en": "Socialist Party",
       "range": 1,
       "color": "#c8102e"
+    },
+    "IND": {
+      "name": "Onafhankelijk",
+      "en": "Independent",
+      "range": 1,
+      "color": "#808080"
     }
   }
 }

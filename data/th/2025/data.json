@@ -92,6 +92,12 @@
       "en": "Pheu Thai Party",
       "range": 4,
       "color": "#DA2128"
+    },
+    "Independent": {
+      "name": "อิสระ",
+      "en": "Independent",
+      "range": 1,
+      "color": "#777777"
     }
   }
 }

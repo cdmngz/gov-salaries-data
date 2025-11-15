@@ -140,6 +140,12 @@
       "en": "YES 2011",
       "range": 3,
       "color": "#253270"
+    },
+    "IND": {
+      "name": "Nezávislý",
+      "en": "Independent",
+      "range": 1,
+      "color": "#808080"
     }
   }
 }
