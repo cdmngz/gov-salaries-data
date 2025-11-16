@@ -145,7 +145,148 @@
       ]
     }
   ],
-  "deputies": [],
+  "deputies": [
+    {
+      "name": "Tanya Plibersek",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Sydney",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Tony Burke",
+      "gender": "M",
+      "party": "ALP",
+      "district": "Watson",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Linda Burney",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Barton",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Jason Clare",
+      "gender": "M",
+      "party": "ALP",
+      "district": "Blaxland",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Bill Shorten",
+      "gender": "M",
+      "party": "ALP",
+      "district": "Maribyrnong",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Catherine King",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Ballarat",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Clare O'Neil",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Hotham",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Andrew Leigh",
+      "gender": "M",
+      "party": "ALP",
+      "district": "Fenner",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Pat Conroy",
+      "gender": "M",
+      "party": "ALP",
+      "district": "Shortland",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Julie Collins",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Franklin",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Madeleine King",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Brand",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Michelle Rowland",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Greenway",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Mark Butler",
+      "gender": "M",
+      "party": "ALP",
+      "district": "Hindmarsh",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Chris Bowen",
+      "gender": "M",
+      "party": "ALP",
+      "district": "McMahon",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Amanda Rishworth",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Kingston",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Anika Wells",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Lilley",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Peter Dutton",
+      "gender": "M",
+      "party": "LIB",
+      "district": "Dickson",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Sussan Ley",
+      "gender": "F",
+      "party": "LIB",
+      "district": "Farrer",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Angus Taylor",
+      "gender": "M",
+      "party": "LIB",
+      "district": "Hume",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "David Littleproud",
+      "gender": "M",
+      "party": "NAT",
+      "district": "Maranoa",
+      "salary": { "gross": 145430, "net": null }
+    }
+  ],
   "senate": [],
   "officials": [
     {

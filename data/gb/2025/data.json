@@ -77,7 +77,148 @@
       "salary": { "gross": 152084, "net": null }
     }
   ],
-  "deputies": [],
+  "deputies": [
+    {
+      "name": "Angela Rayner",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Ashton-under-Lyne",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Wes Streeting",
+      "gender": "M",
+      "party": "Labour",
+      "district": "Ilford North",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Bridget Phillipson",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Houghton and Sunderland South",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Louise Haigh",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Sheffield Heeley",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Jess Phillips",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Birmingham Yardley",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Peter Kyle",
+      "gender": "M",
+      "party": "Labour",
+      "district": "Hove",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Jonathan Ashworth",
+      "gender": "M",
+      "party": "Labour",
+      "district": "Leicester South",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Lucy Powell",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Manchester Central",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Pat McFadden",
+      "gender": "M",
+      "party": "Labour",
+      "district": "Wolverhampton South East",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Dan Jarvis",
+      "gender": "M",
+      "party": "Labour",
+      "district": "Barnsley Central",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Rishi Sunak",
+      "gender": "M",
+      "party": "Conservative",
+      "district": "Richmond and Northallerton",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Jeremy Hunt",
+      "gender": "M",
+      "party": "Conservative",
+      "district": "Godalming and Ash",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Kemi Badenoch",
+      "gender": "F",
+      "party": "Conservative",
+      "district": "Saffron Walden",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Penny Mordaunt",
+      "gender": "F",
+      "party": "Conservative",
+      "district": "Portsmouth North",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Suella Braverman",
+      "gender": "F",
+      "party": "Conservative",
+      "district": "Fareham and Waterlooville",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Ed Davey",
+      "gender": "M",
+      "party": "LibDem",
+      "district": "Kingston and Surbiton",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Layla Moran",
+      "gender": "F",
+      "party": "LibDem",
+      "district": "Oxford West and Abingdon",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Sarah Olney",
+      "gender": "F",
+      "party": "LibDem",
+      "district": "Richmond Park",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Stephen Flynn",
+      "gender": "M",
+      "party": "SNP",
+      "district": "Aberdeen South",
+      "salary": { "gross": 91346, "net": null }
+    },
+    {
+      "name": "Sian Berry",
+      "gender": "F",
+      "party": "Green",
+      "district": "Brighton Pavilion",
+      "salary": { "gross": 91346, "net": null }
+    }
+  ],
   "senate": [],
   "officials": [],
   "parties": {
