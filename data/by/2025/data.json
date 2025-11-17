@@ -30,6 +30,56 @@
         "gross": null,
         "net": null
       }
+    },
+    {
+      "name": "Nikolai Snopkov",
+      "gender": "M",
+      "role": "First Deputy Prime Minister",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Igor Petrishenko",
+      "gender": "M",
+      "role": "Deputy Prime Minister for Integration",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Piotr Parkhomchik",
+      "gender": "M",
+      "role": "Deputy Prime Minister for Industry",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Leonid Zayats",
+      "gender": "M",
+      "role": "Deputy Prime Minister for Agriculture",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Anatoly Sivak",
+      "gender": "M",
+      "role": "Deputy Prime Minister for Construction",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
     }
   ],
   "ministers": [
@@ -64,16 +114,6 @@
       }
     },
     {
-      "name": "Yuri Nazarov",
-      "gender": "M",
-      "role": "Deputy Prime Minister for Industry",
-      "party": "BR",
-      "salary": {
-        "gross": null,
-        "net": null
-      }
-    },
-    {
       "name": "Alexander Chervyakov",
       "gender": "M",
       "role": "Minister of Economy",
@@ -88,6 +128,86 @@
       "gender": "M",
       "role": "Minister of Finance",
       "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Dmitry Pinevich",
+      "gender": "M",
+      "role": "Minister of Health",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Andrei Ivanets",
+      "gender": "M",
+      "role": "Minister of Education",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Sergei Bartosh",
+      "gender": "M",
+      "role": "Minister of Agriculture and Food",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Vladimir Pertsov",
+      "gender": "M",
+      "role": "Minister of Information",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Vadim Sinyavsky",
+      "gender": "M",
+      "role": "Minister for Emergency Situations",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Andrei Khudyk",
+      "gender": "M",
+      "role": "Minister of Natural Resources and Environmental Protection",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Alexei Lyakhnovich",
+      "gender": "M",
+      "role": "Minister of Transport and Communications",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Oleg Slizhevsky",
+      "gender": "M",
+      "role": "Minister of Justice",
+      "party": "BR",
       "salary": {
         "gross": null,
         "net": null
