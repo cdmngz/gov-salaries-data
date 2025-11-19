@@ -2965,25 +2965,24 @@
       "budget": 0
     },
     "deputies": {
-      "quantity": 14
+      "quantity": 35
     },
     "senate": {
       "quantity": 69
     },
     "partyRangeStats": {
       "counts": {
-        "1": 22,
-        "2": 36,
-        "3": 7,
-        "4": 36,
-        "5": 0
+        "1": 28,
+        "2": 39,
+        "3": 11,
+        "4": 40,
+        "5": 5
       },
       "mostPopularRanges": [
-        2,
         4
       ],
-      "mostPopularCount": 36,
-      "totalCountedOfficials": 101,
+      "mostPopularCount": 40,
+      "totalCountedOfficials": 123,
       "unaffiliatedCount": 0,
       "unmappedPartyCount": 0
     },
@@ -3006,17 +3005,18 @@
       },
       "rest": {
         "counts": {
-          "1": 22,
-          "2": 36,
-          "3": 7,
-          "4": 35,
-          "5": 0
+          "1": 28,
+          "2": 39,
+          "3": 11,
+          "4": 39,
+          "5": 5
         },
         "mostPopularRanges": [
-          2
+          2,
+          4
         ],
-        "mostPopularCount": 36,
-        "totalCountedOfficials": 100,
+        "mostPopularCount": 39,
+        "totalCountedOfficials": 122,
         "unaffiliatedCount": 0,
         "unmappedPartyCount": 0
       }
@@ -3988,24 +3988,24 @@
       "budget": 0
     },
     "deputies": {
-      "quantity": 135
+      "quantity": 39
     },
     "senate": {
-      "quantity": 470
+      "quantity": 26
     },
     "partyRangeStats": {
       "counts": {
-        "1": 47,
-        "2": 200,
-        "3": 24,
-        "4": 329,
-        "5": 17
+        "1": 8,
+        "2": 13,
+        "3": 7,
+        "4": 46,
+        "5": 6
       },
       "mostPopularRanges": [
         4
       ],
-      "mostPopularCount": 329,
-      "totalCountedOfficials": 617,
+      "mostPopularCount": 46,
+      "totalCountedOfficials": 80,
       "unaffiliatedCount": 0,
       "unmappedPartyCount": 0
     },
@@ -4028,17 +4028,17 @@
       },
       "rest": {
         "counts": {
-          "1": 47,
-          "2": 200,
-          "3": 24,
-          "4": 327,
-          "5": 17
+          "1": 8,
+          "2": 13,
+          "3": 7,
+          "4": 44,
+          "5": 6
         },
         "mostPopularRanges": [
           4
         ],
-        "mostPopularCount": 327,
-        "totalCountedOfficials": 615,
+        "mostPopularCount": 44,
+        "totalCountedOfficials": 78,
         "unaffiliatedCount": 0,
         "unmappedPartyCount": 0
       }
