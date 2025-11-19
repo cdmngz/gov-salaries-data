@@ -148,6 +148,246 @@
         "gross": 93808,
         "net": 61776
       }
+    },
+    {
+      "name": "Sergio Gutiérrez Luna",
+      "gender": "M",
+      "party": "Morena",
+      "district": "Veracruz 3º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Santiago Creel Miranda",
+      "gender": "M",
+      "party": "PAN",
+      "district": "Representación proporcional (Ciudad de México)",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Edna Díaz Acevedo",
+      "gender": "F",
+      "party": "PRD",
+      "district": "Michoacán 11º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Luis Espinosa Cházaro",
+      "gender": "M",
+      "party": "PRD",
+      "district": "Ciudad de México 24º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Aleida Alavez Ruiz",
+      "gender": "F",
+      "party": "Morena",
+      "district": "Ciudad de México 19º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Andrea Chávez Treviño",
+      "gender": "F",
+      "party": "Morena",
+      "district": "Chihuahua 3º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Patricia Armendáriz Guerra",
+      "gender": "F",
+      "party": "Morena",
+      "district": "Chiapas 7º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Salma Luévano Luna",
+      "gender": "F",
+      "party": "Morena",
+      "district": "Representación proporcional (Aguascalientes)",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "María Clemente García Moreno",
+      "gender": "F",
+      "party": "Morena",
+      "district": "Representación proporcional (Ciudad de México)",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Manuel Rodríguez González",
+      "gender": "M",
+      "party": "Morena",
+      "district": "Tabasco 1º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Susana Prieto Terrazas",
+      "gender": "F",
+      "party": "Morena",
+      "district": "Chihuahua 4º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Leonel Godoy Rangel",
+      "gender": "M",
+      "party": "Morena",
+      "district": "Representación proporcional (Michoacán)",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Gabriel Quadri de la Torre",
+      "gender": "M",
+      "party": "PAN",
+      "district": "Ciudad de México 23º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Margarita Zavala Gómez del Campo",
+      "gender": "F",
+      "party": "PAN",
+      "district": "Ciudad de México 10º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Jorge Triana Tena",
+      "gender": "M",
+      "party": "PAN",
+      "district": "Ciudad de México 5º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "José Elías Lixa Abimerhi",
+      "gender": "M",
+      "party": "PAN",
+      "district": "Yucatán 4º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Cynthia López Castro",
+      "gender": "F",
+      "party": "PRI",
+      "district": "Ciudad de México 8º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Ildefonso Guajardo Villarreal",
+      "gender": "M",
+      "party": "PRI",
+      "district": "Nuevo León 1º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Carolina Viggiano Austria",
+      "gender": "F",
+      "party": "PRI",
+      "district": "Representación proporcional (Hidalgo)",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Gerardo Fernández Noroña",
+      "gender": "M",
+      "party": "PT",
+      "district": "Representación proporcional (Ciudad de México)",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Benjamín Robles Montoya",
+      "gender": "M",
+      "party": "PT",
+      "district": "Oaxaca 7º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Reginaldo Sandoval Flores",
+      "gender": "M",
+      "party": "PT",
+      "district": "Michoacán 1º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Jorge Álvarez Máynez",
+      "gender": "M",
+      "party": "MC",
+      "district": "Representación proporcional (Zacatecas)",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
+    },
+    {
+      "name": "Jessica Ortega de la Cruz",
+      "gender": "F",
+      "party": "MC",
+      "district": "Morelos 2º distrito",
+      "salary": {
+        "gross": 93808,
+        "net": 61776
+      }
     }
   ],
   "senate": [
@@ -196,6 +436,246 @@
       "gender": "M",
       "party": "MC",
       "district": "Jalisco",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Olga Sánchez Cordero",
+      "gender": "F",
+      "party": "Morena",
+      "district": "Ciudad de México",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Ricardo Monreal Ávila",
+      "gender": "M",
+      "party": "Morena",
+      "district": "Zacatecas",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Lilly Téllez García",
+      "gender": "F",
+      "party": "PAN",
+      "district": "Sonora",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Verónica Delgadillo García",
+      "gender": "F",
+      "party": "MC",
+      "district": "Jalisco",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Bertha Caraveo Camarena",
+      "gender": "F",
+      "party": "Morena",
+      "district": "Chihuahua",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Citlalli Hernández Mora",
+      "gender": "F",
+      "party": "Morena",
+      "district": "Ciudad de México",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Napoleón Gómez Urrutia",
+      "gender": "M",
+      "party": "Morena",
+      "district": "Representación proporcional (Nacional)",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Higinio Martínez Miranda",
+      "gender": "M",
+      "party": "Morena",
+      "district": "Estado de México",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "José Narro Céspedes",
+      "gender": "M",
+      "party": "Morena",
+      "district": "Zacatecas",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Nestora Salgado García",
+      "gender": "F",
+      "party": "Morena",
+      "district": "Guerrero",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Sasil de León Villard",
+      "gender": "F",
+      "party": "PVEM",
+      "district": "Chiapas",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Raúl Bolaños-Cacho Cué",
+      "gender": "M",
+      "party": "PVEM",
+      "district": "Oaxaca",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Rocío Abreu Artiñano",
+      "gender": "F",
+      "party": "PVEM",
+      "district": "Campeche",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Manuel Añorve Baños",
+      "gender": "M",
+      "party": "PRI",
+      "district": "Guerrero",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Claudia Ruiz Massieu Salinas",
+      "gender": "F",
+      "party": "PRI",
+      "district": "Representación proporcional (Nacional)",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Beatriz Paredes Rangel",
+      "gender": "F",
+      "party": "PRI",
+      "district": "Representación proporcional (Ciudad de México)",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Damián Zepeda Vidales",
+      "gender": "M",
+      "party": "PAN",
+      "district": "Sonora",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Kenia López Rabadán",
+      "gender": "F",
+      "party": "PAN",
+      "district": "Ciudad de México",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Julen Rementería del Puerto",
+      "gender": "M",
+      "party": "PAN",
+      "district": "Veracruz",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Dante Delgado Rannauro",
+      "gender": "M",
+      "party": "MC",
+      "district": "Veracruz",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Patricia Mercado Castro",
+      "gender": "F",
+      "party": "MC",
+      "district": "Ciudad de México",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Noé Castañón Ramírez",
+      "gender": "M",
+      "party": "MC",
+      "district": "Chiapas",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Emilio Álvarez Icaza Longoria",
+      "gender": "M",
+      "party": "Independiente",
+      "district": "Ciudad de México",
+      "salary": {
+        "gross": 102960,
+        "net": 68640
+      }
+    },
+    {
+      "name": "Germán Martínez Cázares",
+      "gender": "M",
+      "party": "Independiente",
+      "district": "Michoacán",
       "salary": {
         "gross": 102960,
         "net": 68640
@@ -270,6 +750,12 @@
       "en": "Citizens' Movement",
       "range": 3,
       "color": "#FF6D00"
+    },
+    "Independiente": {
+      "name": "Independiente",
+      "en": "Independent",
+      "range": 0,
+      "color": "#6B7280"
     }
   }
 }
