@@ -179,7 +179,526 @@
       "salary": { "gross": 98770, "net": null }
     }
   ],
-  "deputies": [],
+  "deputies": [
+    {
+      "name": "Vlado Mirosevic Verdugo",
+      "gender": "M",
+      "district": "District 1 – Arica y Parinacota",
+      "party": "PL",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Enrique Lee Flores",
+      "gender": "M",
+      "district": "District 1 – Arica y Parinacota",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Renzo Trisotti Martínez",
+      "gender": "M",
+      "district": "District 2 – Tarapacá",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Matías Ramírez Pascal",
+      "gender": "M",
+      "district": "District 2 – Tarapacá",
+      "party": "PCCh",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Danisa Astudillo Peiretti",
+      "gender": "F",
+      "district": "District 2 – Tarapacá",
+      "party": "PS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Catalina Pérez Salinas",
+      "gender": "F",
+      "district": "District 3 – Antofagasta",
+      "party": "RD",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Sebastián Videla Castillo",
+      "gender": "M",
+      "district": "District 3 – Antofagasta",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Jaime Araya Guerrero",
+      "gender": "M",
+      "district": "District 3 – Antofagasta",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Sofía Cid Versalovic",
+      "gender": "F",
+      "district": "District 4 – Atacama",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Cristian Tapia Ramos",
+      "gender": "M",
+      "district": "District 4 – Atacama",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Jaime Mulet Martínez",
+      "gender": "M",
+      "district": "District 4 – Atacama",
+      "party": "FRVS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Yovana Ahumada Palma",
+      "gender": "F",
+      "district": "District 4 – Atacama",
+      "party": "PDG",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Daniel Manouchehri Lobos",
+      "gender": "M",
+      "district": "District 5 – Coquimbo",
+      "party": "PS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Carolina Tello Moreno",
+      "gender": "F",
+      "district": "District 5 – Coquimbo",
+      "party": "CS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Marco Antonio Sulantay Olivares",
+      "gender": "M",
+      "district": "District 5 – Coquimbo",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Víctor Pino Fuentes",
+      "gender": "M",
+      "district": "District 5 – Coquimbo",
+      "party": "PDG",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Nicolás Núñez Gangas",
+      "gender": "M",
+      "district": "District 5 – Coquimbo",
+      "party": "FRVS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Diego Ibáñez Cotroneo",
+      "gender": "M",
+      "district": "District 6 – Valparaíso Cordillera",
+      "party": "CS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Camila Flores Oporto",
+      "gender": "F",
+      "district": "District 6 – Valparaíso Cordillera",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Carolina Marzán Piñones",
+      "gender": "F",
+      "district": "District 6 – Valparaíso Cordillera",
+      "party": "PPD",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Nelson Venegas Salazar",
+      "gender": "M",
+      "district": "District 6 – Valparaíso Cordillera",
+      "party": "PS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Gaspar Rivas Sánchez",
+      "gender": "M",
+      "district": "District 6 – Valparaíso Cordillera",
+      "party": "PDG",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Jorge Brito Hasbún",
+      "gender": "M",
+      "district": "District 7 – Valparaíso Costa",
+      "party": "RD",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Tomás Lagomarsino Gutiérrez",
+      "gender": "M",
+      "district": "District 7 – Valparaíso Costa",
+      "party": "PR",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Andrés Celis Montt",
+      "gender": "M",
+      "district": "District 7 – Valparaíso Costa",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Luis Cuello Peña y Lillo",
+      "gender": "M",
+      "district": "District 7 – Valparaíso Costa",
+      "party": "PCCh",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Claudia Mix Jiménez",
+      "gender": "F",
+      "district": "District 8 – Maipú–Pudahuel",
+      "party": "COM",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Rubén Oyarzo Figueroa",
+      "gender": "M",
+      "district": "District 8 – Maipú–Pudahuel",
+      "party": "PDG",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Helia Molina Milman",
+      "gender": "F",
+      "district": "District 8 – Maipú–Pudahuel",
+      "party": "PPD",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Karol Cariola Oliva",
+      "gender": "F",
+      "district": "District 9 – Recoleta–Quinta Normal",
+      "party": "PCCh",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Maite Orsini Pascal",
+      "gender": "F",
+      "district": "District 9 – Recoleta–Quinta Normal",
+      "party": "RD",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Jorge Durán Espinoza",
+      "gender": "M",
+      "district": "District 9 – Recoleta–Quinta Normal",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Lorena Pizarro Sierra",
+      "gender": "F",
+      "district": "District 9 – Recoleta–Quinta Normal",
+      "party": "PCCh",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Gonzalo Winter Etcheberry",
+      "gender": "M",
+      "district": "District 10 – Santiago Centro",
+      "party": "CS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Emilia Schneider Videla",
+      "gender": "F",
+      "district": "District 10 – Santiago Centro",
+      "party": "CS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Jorge Alessandri Vergara",
+      "gender": "M",
+      "district": "District 10 – Santiago Centro",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Johannes Kaiser Barents-Von Hohenhagen",
+      "gender": "M",
+      "district": "District 10 – Santiago Centro",
+      "party": "REP",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Gonzalo de la Carrera Correa",
+      "gender": "M",
+      "district": "District 11 – Las Condes–Vitacura",
+      "party": "REP",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Cristián Labbé Martínez",
+      "gender": "M",
+      "district": "District 11 – Las Condes–Vitacura",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Francisco Undurraga Vicuña",
+      "gender": "M",
+      "district": "District 11 – Las Condes–Vitacura",
+      "party": "EVO",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Tomás Hirsch Goldschmidt",
+      "gender": "M",
+      "district": "District 11 – Las Condes–Vitacura",
+      "party": "PH",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Pamela Jiles Moreno",
+      "gender": "F",
+      "district": "District 12 – La Florida–Puente Alto",
+      "party": "PH",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Gael Yeomans Araya",
+      "gender": "F",
+      "district": "District 13 – San Miguel–Lo Espejo",
+      "party": "CS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Marisela Santibáñez Novoa",
+      "gender": "F",
+      "district": "District 14 – Buin–Paine",
+      "party": "PCCh",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Camila Musante Müller",
+      "gender": "F",
+      "district": "District 14 – Buin–Paine",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Raúl Soto Mardones",
+      "gender": "M",
+      "district": "District 15 – O'Higgins",
+      "party": "PPD",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Marcela Riquelme Aliaga",
+      "gender": "F",
+      "district": "District 15 – O'Higgins",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Natalia Romero Talguia",
+      "gender": "F",
+      "district": "District 15 – O'Higgins",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Jorge Sabag Villalobos",
+      "gender": "M",
+      "district": "District 16 – Ñuble",
+      "party": "DC",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Marta Bravo Salinas",
+      "gender": "F",
+      "district": "District 16 – Ñuble",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Felipe Camaño Garrido",
+      "gender": "M",
+      "district": "District 16 – Ñuble",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Mercedes Bulnes Brada",
+      "gender": "F",
+      "district": "District 17 – Talca–Maule Norte",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Felipe Donoso Castro",
+      "gender": "M",
+      "district": "District 17 – Talca–Maule Norte",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Francisco Pulgar Castillo",
+      "gender": "M",
+      "district": "District 18 – Linares",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Rolando Rentería Möller",
+      "gender": "M",
+      "district": "District 18 – Linares",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Frank Sauerbaum Muñoz",
+      "gender": "M",
+      "district": "District 19 – Punilla–Itata",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Consuelo Veloso Ávila",
+      "gender": "F",
+      "district": "District 19 – Punilla–Itata",
+      "party": "RD",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Eric Aedo Jeldes",
+      "gender": "M",
+      "district": "District 20 – Concepción–Coronel",
+      "party": "DC",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "María Candelaria Acevedo Acevedo",
+      "gender": "F",
+      "district": "District 20 – Concepción–Coronel",
+      "party": "PCCh",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Félix González Gatica",
+      "gender": "M",
+      "district": "District 20 – Concepción–Coronel",
+      "party": "PEV",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Joanna Pérez Olea",
+      "gender": "F",
+      "district": "District 21 – Biobío Cordillera",
+      "party": "DC",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Sergio Bobadilla Muñoz",
+      "gender": "M",
+      "district": "District 21 – Biobío Cordillera",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Gloria Naveillan Arriagada",
+      "gender": "F",
+      "district": "District 22 – Malleco",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Miguel Mellado Suazo",
+      "gender": "M",
+      "district": "District 23 – Cautín",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Andrés Jouannet Valderrama",
+      "gender": "M",
+      "district": "District 23 – Cautín",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Erika Ñanco Vásquez",
+      "gender": "F",
+      "district": "District 23 – Cautín",
+      "party": "RD",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Marcos Ilabaca Cerda",
+      "gender": "M",
+      "district": "District 24 – Los Ríos",
+      "party": "PS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Bernardo Berger Fett",
+      "gender": "M",
+      "district": "District 24 – Los Ríos",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Fernando Bórquez Gandarillas",
+      "gender": "M",
+      "district": "District 25 – Chiloé–Palena",
+      "party": "UDI",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Alejandro Bernales Maldonado",
+      "gender": "M",
+      "district": "District 26 – Llanquihue–Los Lagos",
+      "party": "PL",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Mauro González Villarroel",
+      "gender": "M",
+      "district": "District 26 – Llanquihue–Los Lagos",
+      "party": "RN",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Jenny Álvarez Vera",
+      "gender": "F",
+      "district": "District 26 – Llanquihue–Los Lagos",
+      "party": "PS",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Miguel Ángel Calisto Águila",
+      "gender": "M",
+      "district": "District 27 – Aysén",
+      "party": "DC",
+      "salary": { "gross": 82100, "net": null }
+    },
+    {
+      "name": "Sandra Amar Mancilla",
+      "gender": "F",
+      "district": "District 28 – Magallanes",
+      "party": "IND",
+      "salary": { "gross": 82100, "net": null }
+    }
+  ],
   "senate": [
     {
       "name": "José Miguel Insulza",
@@ -622,6 +1141,30 @@
       "en": "Democrats Party",
       "range": 3,
       "color": "#005AA7"
+    },
+    "PL": {
+      "name": "Partido Liberal de Chile",
+      "en": "Liberal Party of Chile",
+      "range": 2,
+      "color": "#E6007E"
+    },
+    "PDG": {
+      "name": "Partido de la Gente",
+      "en": "Party of the People",
+      "range": 3,
+      "color": "#00A3E0"
+    },
+    "PEV": {
+      "name": "Partido Ecologista Verde",
+      "en": "Green Ecologist Party",
+      "range": 2,
+      "color": "#5BBE2F"
+    },
+    "PH": {
+      "name": "Partido Humanista",
+      "en": "Humanist Party",
+      "range": 1,
+      "color": "#FF6F00"
     }
   }
 }
