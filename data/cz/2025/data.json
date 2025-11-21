@@ -825,6 +825,116 @@
       "sources": [
         { "Senát Parlamentu České republiky": "https://www.senat.cz/" }
       ]
+    },
+    {
+      "name": "Pavel Fischer",
+      "gender": "M",
+      "party": "IND",
+      "district": "Prague 12",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Marek Hilšer",
+      "gender": "M",
+      "party": "IND",
+      "district": "Prague 2",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Miroslava Němcová",
+      "gender": "F",
+      "party": "ODS",
+      "district": "Prague 1",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Hana Kordová Marvanová",
+      "gender": "F",
+      "party": "STAN",
+      "district": "Prague 1",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Jan Sobotka",
+      "gender": "M",
+      "party": "STAN",
+      "district": "Trutnov",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Zdeněk Hraba",
+      "gender": "M",
+      "party": "STAN",
+      "district": "Prague-East",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Alena Dernerová",
+      "gender": "F",
+      "party": "IND",
+      "district": "Most",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Adéla Šípová",
+      "gender": "F",
+      "party": "PIR",
+      "district": "Kladno",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Lukáš Wagenknecht",
+      "gender": "M",
+      "party": "PIR",
+      "district": "Prague 8",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "David Smoljak",
+      "gender": "M",
+      "party": "STAN",
+      "district": "Prague 9",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
     }
   ],
   "parties": {
