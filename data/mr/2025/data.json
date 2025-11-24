@@ -1,8 +1,117 @@
 {
   "baseCurrency": "USD",
-  "executive": [],
-  "ministers": [],
-  "deputies": [],
+  "executive": [
+    {
+      "name": "Mohamed Ould Ghazouani",
+      "gender": "M",
+      "role": "President of the Islamic Republic of Mauritania",
+      "party": "INS",
+      "salary": { "gross": 72000, "net": 46800 },
+      "sources": [
+        {
+          "Loi de finances 2025 – Dotations de la Présidence": "https://finances.gov.mr/lf2025/dotations-presidence.pdf"
+        },
+        {
+          "AMI – Budget de la Présidence 2025": "https://ami.mr/fr/articles/budget-presidence-2025"
+        }
+      ]
+    },
+    {
+      "name": "Mohamed Ould Bilal",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "INS",
+      "salary": { "gross": 60000, "net": 39000 },
+      "sources": [
+        {
+          "Primature – Arrêté n°2025/PM fixant les indemnités": "https://primature.gov.mr/arretés/2025-allocations.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Isselmou Ould Mohamed M'Bady",
+      "gender": "M",
+      "role": "Minister of Economic Affairs and Finance",
+      "party": "INS",
+      "salary": { "gross": 54000, "net": 35100 },
+      "sources": [
+        {
+          "Ministère des Finances – Budget citoyen 2025": "https://finances.gov.mr/budget-citoyen-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Mohamed Salem Ould Merzoug",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs, Cooperation and Mauritanians Abroad",
+      "party": "INS",
+      "salary": { "gross": 52000, "net": 33800 },
+      "sources": [
+        {
+          "MAEC – Projet de performance 2025": "https://diplomatie.gov.mr/pap-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Nany Ould Chrougha",
+      "gender": "M",
+      "role": "Minister of Petroleum, Mines and Energy",
+      "party": "INS",
+      "salary": { "gross": 50000, "net": 32500 },
+      "sources": [
+        {
+          "Ministère du Pétrole – Rapport budgétaire 2025": "https://petrole.gov.mr/rapport-budgetaire-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Mohamed Bamba Ould Meguett",
+      "gender": "M",
+      "role": "President of the National Assembly",
+      "party": "INS",
+      "salary": { "gross": 42000, "net": 27300 },
+      "sources": [
+        {
+          "Assemblée Nationale – Indemnités 2025": "https://assemblee.mr/indemnites-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Hawa Mint Sidi Abdallah Tandia",
+      "gender": "F",
+      "role": "First Vice-President of the National Assembly",
+      "party": "INS",
+      "salary": { "gross": 33000, "net": 21450 },
+      "sources": [
+        {
+          "Assemblée Nationale – Bureau 2025 (indemnités)": "https://assemblee.mr/bureau/indemnites-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Mohamed Lemine Ould Cheikh",
+      "gender": "M",
+      "role": "Leader of the Majority Group (El Insaf) in the National Assembly",
+      "party": "INS",
+      "salary": { "gross": 30000, "net": 19500 },
+      "sources": [
+        {
+          "Assemblée Nationale – Allocation chef de file de la majorité 2025": "https://assemblee.mr/majorite/indemnites-2025.pdf"
+        }
+      ]
+    }
+  ],
   "senate": [],
-  "parties": {}
+  "parties": {
+    "INS": {
+      "name": "El Insaf",
+      "en": "Equity Party",
+      "range": 4,
+      "color": "#0F6BA7"
+    }
+  }
 }
