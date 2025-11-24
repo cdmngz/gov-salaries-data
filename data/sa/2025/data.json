@@ -1,8 +1,190 @@
 {
   "baseCurrency": "USD",
-  "executive": [],
-  "ministers": [],
-  "deputies": [],
-  "senate": [],
-  "parties": {}
+  "royalty": [],
+  "executive": [
+    {
+      "name": "Salman bin Abdulaziz Al Saud",
+      "gender": "M",
+      "role": "King of Saudi Arabia; Custodian of the Two Holy Mosques",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Mohammed bin Salman Al Saud",
+      "gender": "M",
+      "role": "Prime Minister and Crown Prince",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Khalid bin Salman Al Saud",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Defense",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Mohammed Al-Jadaan",
+      "gender": "M",
+      "portfolio": "Minister of Finance",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Prince Abdulaziz bin Salman Al Saud",
+      "gender": "M",
+      "portfolio": "Minister of Energy",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Prince Faisal bin Farhan Al Saud",
+      "gender": "M",
+      "portfolio": "Minister of Foreign Affairs",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Prince Abdulaziz bin Saud bin Nayef",
+      "gender": "M",
+      "portfolio": "Minister of Interior",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Fahad Al-Jalajel",
+      "gender": "M",
+      "portfolio": "Minister of Health",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Yousef Al-Benyan",
+      "gender": "M",
+      "portfolio": "Minister of Education",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Waleed bin Abdulkarim Al-Khuraiji",
+      "gender": "M",
+      "role": "Deputy Minister of Foreign Affairs",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Nasser bin Abdulaziz Al Dawood",
+      "gender": "M",
+      "role": "Deputy Minister of Interior",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Mansour Al-Mushaiti",
+      "gender": "M",
+      "role": "Deputy Minister of Environment, Water and Agriculture",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Iman Al-Mutairi",
+      "gender": "F",
+      "role": "Deputy Minister of Commerce",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Abdullah bin Mohammed Al Al-Sheikh",
+      "gender": "M",
+      "role": "Chairman, Shura Council",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Mishaal bin Fahm Al-Sulami",
+      "gender": "M",
+      "role": "Vice Speaker, Shura Council",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Hanan bint Abdulrahim Al-Ahmadi",
+      "gender": "F",
+      "role": "Assistant Speaker, Shura Council",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Lina Al-Maeena",
+      "gender": "F",
+      "role": "Member, Shura Council",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "parties": {
+    "IND": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 3,
+      "color": "#808080"
+    }
+  }
 }
