@@ -99,6 +99,176 @@
       ]
     }
   ],
+  "senate": [
+    {
+      "name": "Francis Escudero",
+      "gender": "M",
+      "district": "At-large",
+      "party": "Ind.",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Loren Legarda",
+      "gender": "F",
+      "district": "At-large",
+      "party": "NP",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Alan Peter Cayetano",
+      "gender": "M",
+      "district": "At-large",
+      "party": "Ind.",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Pia Cayetano",
+      "gender": "F",
+      "district": "At-large",
+      "party": "Ind.",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Cynthia Villar",
+      "gender": "F",
+      "district": "At-large",
+      "party": "NP",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Mark Villar",
+      "gender": "M",
+      "district": "At-large",
+      "party": "NP",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Sherwin Gatchalian",
+      "gender": "M",
+      "district": "At-large",
+      "party": "NPC",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Joel Villanueva",
+      "gender": "M",
+      "district": "At-large",
+      "party": "Ind.",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Nancy Binay",
+      "gender": "F",
+      "district": "At-large",
+      "party": "Ind.",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Grace Poe",
+      "gender": "F",
+      "district": "At-large",
+      "party": "Ind.",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Jinggoy Estrada",
+      "gender": "M",
+      "district": "At-large",
+      "party": "Ind.",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "JV Ejercito",
+      "gender": "M",
+      "district": "At-large",
+      "party": "NPC",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Ronald dela Rosa",
+      "gender": "M",
+      "district": "At-large",
+      "party": "PDP",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Christopher Go",
+      "gender": "M",
+      "district": "At-large",
+      "party": "PDP",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Robin Padilla",
+      "gender": "M",
+      "district": "At-large",
+      "party": "PDP",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Imee Marcos",
+      "gender": "F",
+      "district": "At-large",
+      "party": "PFP",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Raffy Tulfo",
+      "gender": "M",
+      "district": "At-large",
+      "party": "Ind.",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Risa Hontiveros",
+      "gender": "F",
+      "district": "At-large",
+      "party": "Ind.",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Francis Tolentino",
+      "gender": "M",
+      "district": "At-large",
+      "party": "PDP",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Lito Lapid",
+      "gender": "M",
+      "district": "At-large",
+      "party": "Ind.",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Sonny Angara",
+      "gender": "M",
+      "district": "At-large",
+      "party": "LDP",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Aquilino Pimentel III",
+      "gender": "M",
+      "district": "At-large",
+      "party": "PDP",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Ramon Revilla Jr.",
+      "gender": "M",
+      "district": "At-large",
+      "party": "LAKAS",
+      "salary": { "gross": 60000, "net": 42000 }
+    },
+    {
+      "name": "Juan Miguel Zubiri",
+      "gender": "M",
+      "district": "At-large",
+      "party": "Ind.",
+      "salary": { "gross": 60000, "net": 42000 }
+    }
+  ],
   "parties": {
     "PFP": {
       "name": "Partido Federal ng Pilipinas",
@@ -112,6 +282,12 @@
       "color": "#FF5C39",
       "en": "Alliance for Change"
     },
+    "NP": {
+      "name": "Nacionalista Party",
+      "range": 3,
+      "color": "#126638",
+      "en": "Nacionalista Party"
+    },
     "NPC": {
       "name": "Nationalist People's Coalition",
       "range": 2,
@@ -123,6 +299,18 @@
       "range": 2,
       "color": "#6F2DA8",
       "en": "Fight of the Filipino Democrats"
+    },
+    "PDP": {
+      "name": "Partido Demokratiko Pilipino–Lakas ng Bayan",
+      "range": 3,
+      "color": "#FFD700",
+      "en": "Philippine Democratic Party–People's Power"
+    },
+    "LAKAS": {
+      "name": "Lakas–Christian Muslim Democrats",
+      "range": 3,
+      "color": "#1C5BA0",
+      "en": "People Power–Christian Muslim Democrats"
     },
     "Ind.": {
       "name": "Independyente",
