@@ -1,8 +1,111 @@
 {
   "baseCurrency": "USD",
-  "executive": [],
-  "ministers": [],
-  "deputies": [],
-  "senate": [],
-  "parties": {}
+  "executive": [
+    {
+      "name": "Rashad al-Alimi",
+      "gender": "M",
+      "role": "Chairman, Presidential Leadership Council (President)",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Ahmed Awad bin Mubarak",
+      "gender": "M",
+      "role": "Prime Minister of Yemen",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ahmed Awad bin Mubarak",
+      "gender": "M",
+      "portfolio": "Minister of Foreign Affairs and Expatriates",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Salem Saleh bin Bureik",
+      "gender": "M",
+      "portfolio": "Minister of Finance",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Ibrahim Ali Haidan",
+      "gender": "M",
+      "portfolio": "Minister of Interior",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Qasem Mohammed Buhaibeh",
+      "gender": "M",
+      "portfolio": "Minister of Public Health and Population",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Sultan Said Ahmed al-Barakani",
+      "gender": "M",
+      "party": "IND",
+      "district": "House of Representatives",
+      "role": "Speaker of the House of Representatives",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohsen Ali Basurah",
+      "gender": "M",
+      "party": "IND",
+      "district": "House of Representatives",
+      "role": "Deputy Speaker of the House of Representatives",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Ahmed Obaid bin Daghr",
+      "gender": "M",
+      "party": "IND",
+      "district": "Shura Council",
+      "role": "Chairman of the Shura Council",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Abdullah al-Barihi",
+      "gender": "M",
+      "party": "IND",
+      "district": "Shura Council",
+      "role": "Deputy Chairman of the Shura Council",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "parties": {
+    "IND": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 3,
+      "color": "#808080"
+    }
+  }
 }

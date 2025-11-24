@@ -1,8 +1,131 @@
 {
   "baseCurrency": "USD",
-  "executive": [],
-  "ministers": [],
-  "deputies": [],
-  "senate": [],
-  "parties": {}
+  "executive": [
+    {
+      "name": "Haitham bin Tariq",
+      "gender": "M",
+      "role": "Sultan of Oman; Prime Minister",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Fahd bin Mahmoud al Said",
+      "gender": "M",
+      "role": "Deputy Prime Minister for the Council of Ministers",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Shihab bin Tariq al Said",
+      "gender": "M",
+      "role": "Deputy Prime Minister for Defense Affairs",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Sultan bin Salim Al Habsi",
+      "gender": "M",
+      "portfolio": "Minister of Finance",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Sayyid Badr bin Hamad Al Busaidi",
+      "gender": "M",
+      "portfolio": "Minister of Foreign Affairs",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Hamoud bin Faisal Al Busaidi",
+      "gender": "M",
+      "portfolio": "Minister of Interior",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Hilal bin Ali Al Sabti",
+      "gender": "M",
+      "portfolio": "Minister of Health",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Madiha bint Ahmed Al Shaibaniyah",
+      "gender": "F",
+      "portfolio": "Minister of Education",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Khalid bin Hilal Al Maawali",
+      "gender": "M",
+      "party": "IND",
+      "district": "Shura Council",
+      "role": "Chairman of the Shura Council",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yaaqoub bin Mohamed Al Harthy",
+      "gender": "M",
+      "party": "IND",
+      "district": "Shura Council",
+      "role": "Deputy Chairman of the Shura Council",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Abdulmalik bin Abdullah Al Khalili",
+      "gender": "M",
+      "party": "IND",
+      "district": "Council of State",
+      "role": "Chairman of the Council of State",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Suad bint Mohammed Al Lawati",
+      "gender": "F",
+      "party": "IND",
+      "district": "Council of State",
+      "role": "Deputy Chairwoman of the Council of State",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "parties": {
+    "IND": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 3,
+      "color": "#808080"
+    }
+  }
 }
