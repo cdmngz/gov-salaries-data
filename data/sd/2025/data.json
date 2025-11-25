@@ -1,8 +1,405 @@
 {
   "baseCurrency": "USD",
-  "executive": [],
-  "ministers": [],
-  "deputies": [],
-  "senate": [],
-  "parties": {}
+  "executive": [
+    {
+      "name": "Abdel Fattah al-Burhan",
+      "gender": "M",
+      "role": "Chairman of the Transitional Sovereignty Council",
+      "party": "Independent",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Malik Agar",
+      "gender": "M",
+      "role": "Deputy Chairman of the Transitional Sovereignty Council",
+      "party": "SPLM_N",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ali al-Sadiq Ali",
+      "gender": "M",
+      "role": "Acting Minister of Foreign Affairs",
+      "party": "Independent",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gibril Ibrahim",
+      "gender": "M",
+      "role": "Minister of Finance and Economic Planning",
+      "party": "JEM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yassir al-Atta",
+      "gender": "M",
+      "role": "Acting Minister of Defense",
+      "party": "Independent",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Ibrahim Ahmed Omer",
+      "gender": "M",
+      "role": "Speaker of the National Assembly (lower house, last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Badria Suleiman",
+      "gender": "F",
+      "role": "Deputy Speaker of the National Assembly (lower house, last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Samia Ahmed Mohammed",
+      "gender": "F",
+      "role": "Member of the National Assembly for Khartoum (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Al-Fateh Ezzedine al-Mansour",
+      "gender": "M",
+      "role": "Member of the National Assembly for River Nile, former speaker (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ahmed Ibrahim al-Tahir",
+      "gender": "M",
+      "role": "Member of the National Assembly for Northern, former speaker (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mahdi Ibrahim Mohamed",
+      "gender": "M",
+      "role": "Member of the National Assembly for Khartoum, chaired foreign affairs (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Fatima Abdel Mahmoud",
+      "gender": "F",
+      "role": "Member of the National Assembly for Al Jazirah (last sitting 2019)",
+      "party": "SSDU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ghazi Salahuddin al-Atabani",
+      "gender": "M",
+      "role": "Member of the National Assembly for Khartoum (last sitting 2019)",
+      "party": "RNM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohamed al-Hassan al-Amin",
+      "gender": "M",
+      "role": "Member of the National Assembly for North Kordofan (last sitting 2019)",
+      "party": "PCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hassan Osman Rizg",
+      "gender": "M",
+      "role": "Member of the National Assembly for North Darfur (last sitting 2019)",
+      "party": "PCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ibrahim al-Sanosi",
+      "gender": "M",
+      "role": "Member of the National Assembly for South Darfur (last sitting 2019)",
+      "party": "PCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Tahani Tor al-Daba",
+      "gender": "F",
+      "role": "Member of the National Assembly for Khartoum (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Faisal Hassan Ibrahim",
+      "gender": "M",
+      "role": "Member of the National Assembly for North Kordofan (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ibrahim Mahmoud Hamid",
+      "gender": "M",
+      "role": "Member of the National Assembly for Kassala (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hatem al-Sir Ali",
+      "gender": "M",
+      "role": "Member of the National Assembly for River Nile (last sitting 2019)",
+      "party": "DUP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Aisha al-Fadl Abdalla",
+      "gender": "F",
+      "role": "Member of the National Assembly for Red Sea (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Abdel Rahman Dier Al-Jeed",
+      "gender": "M",
+      "role": "Member of the National Assembly for West Kordofan (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Osman Mohamed Yousif Kibir",
+      "gender": "M",
+      "role": "Member of the National Assembly for North Darfur (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Awadia al-Hassan Mohamed",
+      "gender": "F",
+      "role": "Member of the National Assembly for Al Jazirah (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Siham Osman Ahmed",
+      "gender": "F",
+      "role": "Member of the National Assembly for White Nile (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ahmed Abdel Rahman al-Gurashi",
+      "gender": "M",
+      "role": "Member of the National Assembly for Sennar (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Salah Ali al-Basha",
+      "gender": "M",
+      "role": "Member of the National Assembly for Gedaref (last sitting 2019)",
+      "party": "DUP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Omer Suleiman Adam",
+      "gender": "M",
+      "role": "Speaker of the Council of States (upper house, last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kamal Mohamed Ibrahim",
+      "gender": "M",
+      "role": "Deputy Speaker of the Council of States (upper house, last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohamed Tahir Eila",
+      "gender": "M",
+      "role": "Member of the Council of States for Red Sea (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hussein Yassin Hamad",
+      "gender": "M",
+      "role": "Member of the Council of States for Blue Nile (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Awad Ahmed al-Jaz",
+      "gender": "M",
+      "role": "Member of the Council of States for Khartoum (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ahmed Haroun",
+      "gender": "M",
+      "role": "Member of the Council of States for North Kordofan (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ibrahim Mahmoud Hamid",
+      "gender": "M",
+      "role": "Member of the Council of States for Kassala (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Adam Mahmoud Jarelnabi",
+      "gender": "M",
+      "role": "Member of the Council of States for Central Darfur (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hussein Abdelrahman Jibril",
+      "gender": "M",
+      "role": "Member of the Council of States for West Darfur (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Tayseer Mahjoub Hassan",
+      "gender": "M",
+      "role": "Member of the Council of States for River Nile (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Osman Mohamed Yousif Kibir",
+      "gender": "M",
+      "role": "Member of the Council of States for North Darfur (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Abdel Wahid Yousif Ibrahim",
+      "gender": "M",
+      "role": "Member of the Council of States for South Darfur (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ahmed Mohamed Haroun Bakhit",
+      "gender": "M",
+      "role": "Member of the Council of States for East Darfur (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohamed Ahmed al-Sheikh Madani",
+      "gender": "M",
+      "role": "Member of the Council of States for Al Jazirah (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yahya Mohamed Khair",
+      "gender": "M",
+      "role": "Member of the Council of States for Sennar (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "El-Khatim al-Khater",
+      "gender": "M",
+      "role": "Member of the Council of States for West Kordofan (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohamed Abu Gosha",
+      "gender": "M",
+      "role": "Member of the Council of States for White Nile (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Al-Hadi Abdullah Mohamed",
+      "gender": "M",
+      "role": "Member of the Council of States for Northern (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hatim al-Waseela al-Samani",
+      "gender": "M",
+      "role": "Member of the Council of States for Gedaref (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mukhtar Abdel-Rahman",
+      "gender": "M",
+      "role": "Member of the Council of States for Khartoum (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hashim Osman al-Hussein",
+      "gender": "M",
+      "role": "Member of the Council of States for South Kordofan (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mahmoud al-Khalil",
+      "gender": "M",
+      "role": "Member of the Council of States for North Kordofan (last sitting 2019)",
+      "party": "NCP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "officials": [],
+  "parties": {
+    "Independent": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 0,
+      "color": "#777777"
+    },
+    "SPLM_N": {
+      "name": "Sudan People's Liberation Movement – North",
+      "en": "Sudan People's Liberation Movement – North",
+      "range": 2,
+      "color": "#2C7FB8"
+    },
+    "JEM": {
+      "name": "Justice and Equality Movement",
+      "en": "Justice and Equality Movement",
+      "range": 2,
+      "color": "#E6B422"
+    },
+    "NCP": {
+      "name": "National Congress Party",
+      "en": "National Congress Party",
+      "range": 2,
+      "color": "#00563F"
+    },
+    "SSDU": {
+      "name": "Sudanese Socialist Democratic Union",
+      "en": "Sudanese Socialist Democratic Union",
+      "range": 2,
+      "color": "#C23B22"
+    },
+    "RNM": {
+      "name": "Reform Now Movement",
+      "en": "Reform Now Movement",
+      "range": 2,
+      "color": "#0089D0"
+    },
+    "PCP": {
+      "name": "Popular Congress Party",
+      "en": "Popular Congress Party",
+      "range": 2,
+      "color": "#7A0019"
+    },
+    "DUP": {
+      "name": "Democratic Unionist Party",
+      "en": "Democratic Unionist Party",
+      "range": 2,
+      "color": "#1F8B4C"
+    }
+  }
 }
