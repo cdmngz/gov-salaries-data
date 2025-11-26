@@ -1,0 +1,76 @@
+{
+  "baseCurrency": "TMT",
+  "executive": [
+    {
+      "name": "Serdar Berdimuhamedow",
+      "gender": "M",
+      "role": "President of Turkmenistan",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Batyr Atdaev",
+      "gender": "M",
+      "role": "Deputy Chairman of the Cabinet of Ministers for Security and Justice",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Raşit Meredow",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Begenç Gündogdyýew",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Muhammetguly Serdarow",
+      "gender": "M",
+      "role": "Minister of Finance and Economy",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Dunyagozel Gulmanova",
+      "gender": "F",
+      "role": "Chair of the Mejlis",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gurbanguly Meredov",
+      "gender": "M",
+      "role": "Deputy Chair of the Mejlis",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Gurbanguly Berdimuhamedow",
+      "gender": "M",
+      "role": "Chairman of the Halk Maslahaty",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "officials": [],
+  "parties": {
+    "IND": {
+      "name": "Bitarap",
+      "en": "Independent",
+      "range": 3,
+      "color": "#808080"
+    }
+  }
+}
