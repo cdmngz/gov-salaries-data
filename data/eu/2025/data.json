@@ -780,6 +780,16 @@
       "range": 5,
       "color": "#2B2B83"
     },
+    "MR": {
+      "name": "Mouvement Réformateur",
+      "range": 4,
+      "color": "#005BAC"
+    },
+    "Independent": {
+      "name": "Independent",
+      "range": 3,
+      "color": "#777777"
+    },
     "The Left": {
       "name": "The Left in the European Parliament - GUE/NGL",
       "range": 1,
