@@ -92,6 +92,16 @@
         "gross": 260000,
         "net": 180000
       }
+    },
+    {
+      "name": "Irene Montero",
+      "gender": "F",
+      "role": "Member of the European Parliament",
+      "party": "The Left",
+      "salary": {
+        "gross": 120000,
+        "net": 78000
+      }
     }
   ],
   "senate": [],
