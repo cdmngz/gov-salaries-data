@@ -1,8 +1,87 @@
 {
   "baseCurrency": "USD",
-  "executive": [],
-  "ministers": [],
+  "executive": [
+    {
+      "name": "Hassan Sheikh Mohamud",
+      "gender": "M",
+      "role": "President",
+      "party": "UPD",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hamza Abdi Barre",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "UPD",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Bihi Iman Egeh",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "UPD",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ahmed Moallim Fiqi",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "UPD",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Abdulkadir Mohamed Nur",
+      "gender": "M",
+      "role": "Minister of Defense",
+      "party": "UPD",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohamed Ahmed Sheikh Ali",
+      "gender": "M",
+      "role": "Minister of Internal Security",
+      "party": "UPD",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ali Yussuf Ali Hosh",
+      "gender": "M",
+      "role": "Minister of Justice and Constitutional Affairs",
+      "party": "UPD",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Fowsiya Abikar Nur",
+      "gender": "F",
+      "role": "Minister of Health",
+      "party": "UPD",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohamed Adan Makal Moumin",
+      "gender": "M",
+      "role": "Minister of Education",
+      "party": "UPD",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hirsi Jama Ganni",
+      "gender": "M",
+      "role": "Minister of Commerce and Industry",
+      "party": "UPD",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
   "deputies": [],
   "senate": [],
-  "parties": {}
+  "parties": {
+    "UPD": {
+      "name": "Xisbiga Tayo",
+      "en": "Union for Peace and Development",
+      "range": 3,
+      "color": "#1E90FF"
+    }
+  }
 }
