@@ -5566,11 +5566,11 @@
     }
   },
   "ir": {
-    "GDP": 380000000000,
-    "GDPPerCapita": 4300,
+    "GDP": 1501000000000,
+    "GDPPerCapita": 16985,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
-    "minAnnualSalary": 4200,
+    "minAnnualSalary": 16590,
     "minAnnualSalaryGrowthYoY": null,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
