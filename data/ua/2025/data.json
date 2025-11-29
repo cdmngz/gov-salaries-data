@@ -60,7 +60,288 @@
       "salary": { "gross": null, "net": null }
     }
   ],
-  "deputies": [],
+  "deputies": [
+    {
+      "name": "Davyd Arakhamia",
+      "gender": "M",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Oleksandr Korniyenko",
+      "gender": "M",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yevheniia Kravchuk",
+      "gender": "F",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mariana Bezuhla",
+      "gender": "F",
+      "party": "SN",
+      "district": "Kharkiv 169th district",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Olena Shuliak",
+      "gender": "F",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Halyna Tretiakova",
+      "gender": "F",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mykyta Poturaiev",
+      "gender": "M",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Danilo Hetmantsev",
+      "gender": "M",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Oleksandr Merezhko",
+      "gender": "M",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Andrii Motovylovets",
+      "gender": "M",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mykhailo Radutskyi",
+      "gender": "M",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Fedir Venislavskyi",
+      "gender": "M",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Olha Sovhyria",
+      "gender": "F",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Roksolana Pidlasa",
+      "gender": "F",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Oleh Dunda",
+      "gender": "M",
+      "party": "SN",
+      "district": "Dnipro 27th district",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yevheniia Kovalchuk",
+      "gender": "F",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Pavlo Frolov",
+      "gender": "M",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yehor Cherniev",
+      "gender": "M",
+      "party": "SN",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Artem Kultenko",
+      "gender": "M",
+      "party": "SN",
+      "district": "Kyiv 18th district",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Vitalii Bezghin",
+      "gender": "M",
+      "party": "SN",
+      "district": "Kyiv 223rd district",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Petro Poroshenko",
+      "gender": "M",
+      "party": "ES",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Iryna Herashchenko",
+      "gender": "F",
+      "party": "ES",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mykola Kniazhytskyi",
+      "gender": "M",
+      "party": "ES",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mariia Ionova",
+      "gender": "F",
+      "party": "ES",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Sofia Fedyna",
+      "gender": "F",
+      "party": "ES",
+      "district": "Lviv 116th district",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yuliia Tymoshenko",
+      "gender": "F",
+      "party": "BYT",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Serhii Sobolev",
+      "gender": "M",
+      "party": "BYT",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Aliona Shkrum",
+      "gender": "F",
+      "party": "BYT",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Valentyn Nalyvaichenko",
+      "gender": "M",
+      "party": "BYT",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ivan Krulko",
+      "gender": "M",
+      "party": "BYT",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yaroslav Zhelezniak",
+      "gender": "M",
+      "party": "HOL",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kira Rudyk",
+      "gender": "F",
+      "party": "HOL",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Oleksandra Ustinova",
+      "gender": "F",
+      "party": "HOL",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Inna Sovsun",
+      "gender": "F",
+      "party": "HOL",
+      "district": "Kyiv 214th district",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yurii Boyko",
+      "gender": "M",
+      "party": "PLP",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nestor Shufrych",
+      "gender": "M",
+      "party": "PLP",
+      "district": "Zakarpattia 70th district",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nataliia Korolevska",
+      "gender": "F",
+      "party": "PLP",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Serhii Liovochkin",
+      "gender": "M",
+      "party": "PLP",
+      "district": "Nationwide party list",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ihor Palytsia",
+      "gender": "M",
+      "party": "FTF",
+      "district": "Volyn 22nd district",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Taras Batenko",
+      "gender": "M",
+      "party": "FTF",
+      "district": "Lviv 123rd district",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
   "senate": [],
   "parties": {
     "SN": {
@@ -68,6 +349,36 @@
       "en": "Servant of the People",
       "range": 3,
       "color": "#1EB53A"
+    },
+    "ES": {
+      "name": "Європейська Солідарність",
+      "en": "European Solidarity",
+      "range": 2,
+      "color": "#0057B7"
+    },
+    "BYT": {
+      "name": "Всеукраїнське об'єднання \"Батьківщина\"",
+      "en": "Fatherland",
+      "range": 2,
+      "color": "#EA1C2D"
+    },
+    "HOL": {
+      "name": "Голос",
+      "en": "Holos",
+      "range": 2,
+      "color": "#FF6A00"
+    },
+    "PLP": {
+      "name": "Платформа за життя та мир",
+      "en": "Platform for Life and Peace",
+      "range": 1,
+      "color": "#4C566A"
+    },
+    "FTF": {
+      "name": "За майбутнє",
+      "en": "For the Future",
+      "range": 1,
+      "color": "#6FBF4A"
     }
   }
 }
