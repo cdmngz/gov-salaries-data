@@ -375,6 +375,188 @@
       "party": "SSW",
       "district": "Schleswig-Holstein (List)",
       "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Ralph Brinkhaus",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Gütersloh I",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Philipp Amthor",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Mecklenburgische Seenplatte I – Vorpommern-Greifswald II",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Serap Güler",
+      "gender": "F",
+      "party": "CDU",
+      "district": "Nordrhein-Westfalen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Julia Klöckner",
+      "gender": "F",
+      "party": "CDU",
+      "district": "Rheinland-Pfalz (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Thomas Bareiß",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Zollernalb – Sigmaringen",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Nadine Schön",
+      "gender": "F",
+      "party": "CDU",
+      "district": "St. Wendel",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Roderich Kiesewetter",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Aalen – Heidenheim",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Daniela Ludwig",
+      "gender": "F",
+      "party": "CSU",
+      "district": "Rosenheim",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Stephan Pilsinger",
+      "gender": "M",
+      "party": "CSU",
+      "district": "München-Nord",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Melanie Huml",
+      "gender": "F",
+      "party": "CSU",
+      "district": "Bamberg",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Hubertus Heil",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Gifhorn – Peine",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Saskia Esken",
+      "gender": "F",
+      "party": "SPD",
+      "district": "Baden-Württemberg (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Achim Post",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Minden-Lübbecke I",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Ralf Stegner",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Schleswig-Holstein (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Aydan Özoğuz",
+      "gender": "F",
+      "party": "SPD",
+      "district": "Hamburg-Wandsbek",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Ricarda Lang",
+      "gender": "F",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "Baden-Württemberg (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Annalena Baerbock",
+      "gender": "F",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Anton Hofreiter",
+      "gender": "M",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "München-Land",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Katrin Göring-Eckardt",
+      "gender": "F",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "Thüringen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Marco Buschmann",
+      "gender": "M",
+      "party": "FDP",
+      "district": "Nordrhein-Westfalen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Johannes Vogel",
+      "gender": "M",
+      "party": "FDP",
+      "district": "Nordrhein-Westfalen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Stephan Brandner",
+      "gender": "M",
+      "party": "AfD",
+      "district": "Gera – Jena – Saale-Holzland-Kreis",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Leif-Erik Holm",
+      "gender": "M",
+      "party": "AfD",
+      "district": "Mecklenburg-Vorpommern (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Nicole Höchst",
+      "gender": "F",
+      "party": "AfD",
+      "district": "Rheinland-Pfalz (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Gregor Gysi",
+      "gender": "M",
+      "party": "Die Linke",
+      "district": "Berlin (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Gesine Lötzsch",
+      "gender": "F",
+      "party": "Die Linke",
+      "district": "Berlin-Lichtenberg",
+      "salary": { "gross": 127092, "net": null }
     }
   ],
   "senate": [
