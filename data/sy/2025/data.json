@@ -1,8 +1,422 @@
 {
-  "baseCurrency": "USD",
-  "executive": [],
-  "ministers": [],
-  "deputies": [],
-  "senate": [],
-  "parties": {}
+    "baseCurrency": "USD",
+    "executive": [
+        {
+            "name": "Bashar al-Assad",
+            "gender": "M",
+            "role": "President of the Syrian Arab Republic",
+            "party": "BAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Syrian Arab Republic – 2025 State Budget Law": "https://parliament.gov.sy/arabic/index.php?node=5596&cat=8762"
+                }
+            ]
+        },
+        {
+            "name": "Hussein Arnous",
+            "gender": "M",
+            "role": "Prime Minister of Syria",
+            "party": "BAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Cabinet Secretariat – Prime Minister profile": "https://www.pmin.gov.sy/president"
+                }
+            ]
+        }
+    ],
+    "ministers": [
+        {
+            "name": "Kenan Yaghi",
+            "gender": "M",
+            "role": "Minister of Finance",
+            "party": "BAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Syrian Ministry of Finance": "https://www.syriamof.gov.sy/portal/"
+                }
+            ]
+        }
+    ],
+    "deputies": [
+        {
+            "name": "Hammouda Sabbagh",
+            "gender": "M",
+            "role": "Speaker of the People's Council of Syria",
+            "party": "BAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "People's Council – leadership": "http://www.parliament.gov.sy/arabic/index.php?node=20373&",
+                    "Syrian Arab News Agency profile": "https://sana.sy/en/?p=292877"
+                }
+            ]
+        },
+        {
+            "name": "Najdat Anzour",
+            "gender": "M",
+            "role": "Deputy Speaker of the People's Council",
+            "party": "BAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "People's Council – leadership": "http://www.parliament.gov.sy/arabic/index.php?node=20373&"
+                }
+            ]
+        },
+        {
+            "name": "Rami Saleh",
+            "gender": "M",
+            "role": "Deputy Speaker of the People's Council",
+            "party": "BAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "People's Council – leadership": "http://www.parliament.gov.sy/arabic/index.php?node=20373&"
+                }
+            ]
+        },
+        {
+            "name": "Ahmed al-Kuzbari",
+            "gender": "M",
+            "role": "Deputy in the People's Council",
+            "party": "BAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "UN Press – Constitutional Committee": "https://press.un.org/en/2019/sc13951.doc.htm"
+                }
+            ]
+        },
+        {
+            "name": "Fares Shehabi",
+            "gender": "M",
+            "role": "Deputy for Aleppo",
+            "party": "BAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Fares Shehabi profile": "https://www.farasshehabi.com/about"
+                }
+            ]
+        },
+        {
+            "name": "Khaled al-Aboud",
+            "gender": "M",
+            "role": "Deputy for Daraa",
+            "party": "BAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "People's Council news": "http://www.parliament.gov.sy/arabic/index.php?node=5596&cat=20373"
+                }
+            ]
+        },
+        {
+            "name": "Rana Hassan",
+            "gender": "F",
+            "role": "Deputy for Latakia",
+            "party": "BAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Syrian Arab News Agency": "https://sana.sy/en/?tag=peoples-council"
+                }
+            ]
+        },
+        {
+            "name": "Safia al-Ahmad",
+            "gender": "F",
+            "role": "Deputy for Homs",
+            "party": "BAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Syrian Arab News Agency": "https://sana.sy/en/?tag=peoples-council"
+                }
+            ]
+        },
+        {
+            "name": "Waddah Murad",
+            "gender": "M",
+            "role": "Deputy for Tartus",
+            "party": "BAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Syrian Arab News Agency": "https://sana.sy/en/?tag=peoples-council"
+                }
+            ]
+        },
+        {
+            "name": "Maher al-Hussein",
+            "gender": "M",
+            "role": "Deputy for Raqqa",
+            "party": "BAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Syrian Arab News Agency": "https://sana.sy/en/?tag=peoples-council"
+                }
+            ]
+        },
+        {
+            "name": "Hussam Qaterji",
+            "gender": "M",
+            "role": "Deputy for Aleppo",
+            "party": "IND",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Qaterji Group biography": "https://qaterjigroup.com/hussam-qaterji/"
+                }
+            ]
+        },
+        {
+            "name": "Abdulrahman al-Haj Ali",
+            "gender": "M",
+            "role": "Deputy for Hama",
+            "party": "SSNP",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Syrian Social Nationalist Party": "https://ssnp.online/"
+                }
+            ]
+        },
+        {
+            "name": "Nizar Skeif",
+            "gender": "M",
+            "role": "Deputy for Aleppo",
+            "party": "SSNP",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Syrian Arab News Agency": "https://sana.sy/en/?tag=peoples-council"
+                }
+            ]
+        },
+        {
+            "name": "Bassam Sabaa",
+            "gender": "M",
+            "role": "Deputy for Damascus",
+            "party": "SCP",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Syrian Communist Party (Bakdash)": "https://scp-bk.org/"
+                }
+            ]
+        },
+        {
+            "name": "Ammar al-Assad",
+            "gender": "M",
+            "role": "Deputy for Latakia",
+            "party": "SU",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Syrian Arab News Agency": "https://sana.sy/en/?tag=peoples-council"
+                }
+            ]
+        },
+        {
+            "name": "Wael al-Mallouhi",
+            "gender": "M",
+            "role": "Deputy for Homs",
+            "party": "ASU",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Arab Socialist Union": "https://www.sau.ps/"
+                }
+            ]
+        },
+        {
+            "name": "Lina al-Hakim",
+            "gender": "F",
+            "role": "Deputy for Damascus Countryside",
+            "party": "NVM",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "National Vow Movement": "https://www.almithaq.org.sy/"
+                }
+            ]
+        },
+        {
+            "name": "Youssef al-Qassim",
+            "gender": "M",
+            "role": "Deputy for Deir ez-Zor",
+            "party": "DUP",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Democratic Unionist Party": "http://alwehda.org/"
+                }
+            ]
+        },
+        {
+            "name": "Maha al-Basha",
+            "gender": "F",
+            "role": "Deputy for Suwayda",
+            "party": "IND",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Syrian Arab News Agency": "https://sana.sy/en/?tag=peoples-council"
+                }
+            ]
+        },
+        {
+            "name": "Bassam Ibrahim",
+            "gender": "M",
+            "role": "Deputy for Hama",
+            "party": "IND",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Syrian Arab News Agency": "https://sana.sy/en/?tag=peoples-council"
+                }
+            ]
+        }
+    ],
+    "senate": [
+        {
+            "name": "Not applicable (unicameral legislature)",
+            "gender": null,
+            "role": "Syria uses a unicameral People's Council and does not seat a senate",
+            "party": null,
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "People's Council of Syria": "https://en.wikipedia.org/wiki/People%27s_Council_of_Syria"
+                }
+            ]
+        }
+    ],
+    "parties": {
+        "BAS": {
+            "name": "حزب البعث العربي الاشتراكي – قطر سوريا",
+            "en": "Arab Socialist Ba'ath Party – Syria Region",
+            "range": 3,
+            "color": "#6a3d9a"
+        },
+        "IND": {
+            "name": "مستقل",
+            "en": "Independent",
+            "range": 3,
+            "color": "#808080"
+        },
+        "SSNP": {
+            "name": "الحزب القومي الاجتماعي السوري",
+            "en": "Syrian Social Nationalist Party",
+            "range": 3,
+            "color": "#b22222"
+        },
+        "SCP": {
+            "name": "الحزب الشيوعي السوري – بكداش",
+            "en": "Syrian Communist Party (Bakdash)",
+            "range": 3,
+            "color": "#c62828"
+        },
+        "SU": {
+            "name": "الاتحاديون الاشتراكيون",
+            "en": "Socialist Unionists",
+            "range": 3,
+            "color": "#1e88e5"
+        },
+        "ASU": {
+            "name": "الاتحاد الاشتراكي العربي",
+            "en": "Arab Socialist Union",
+            "range": 3,
+            "color": "#d4af37"
+        },
+        "NVM": {
+            "name": "حزب الميثاق الوطني",
+            "en": "National Vow Movement",
+            "range": 3,
+            "color": "#ff8c00"
+        },
+        "DUP": {
+            "name": "الحزب الاتحادي الديمقراطي",
+            "en": "Democratic Unionist Party",
+            "range": 3,
+            "color": "#00695c"
+        }
+    }
 }
