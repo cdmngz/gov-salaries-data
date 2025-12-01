@@ -123,7 +123,1088 @@
       ]
     }
   ],
-  "deputies": [],
+  "deputies": [
+    {
+      "name": "Tajudeen Abbas",
+      "gender": "M",
+      "role": "Speaker of the House of Representatives",
+      "party": "APC",
+      "district": "Zaria (Kaduna)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Okezie Kalu",
+      "gender": "M",
+      "role": "Deputy Speaker of the House of Representatives",
+      "party": "APC",
+      "district": "Bende (Abia)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Julius Ihonvbere",
+      "gender": "M",
+      "role": "House Majority Leader",
+      "party": "APC",
+      "district": "Owan East/West (Edo)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Ibrahim Isiaka",
+      "gender": "M",
+      "role": "Deputy House Majority Leader",
+      "party": "APC",
+      "district": "Ifo/Ewekoro (Ogun)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Usman Bello Kumo",
+      "gender": "M",
+      "role": "Chief Whip of the House",
+      "party": "APC",
+      "district": "Akko (Gombe)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Adewunmi Oriyomi Onanuga",
+      "gender": "F",
+      "role": "Deputy Chief Whip of the House",
+      "party": "APC",
+      "district": "Ikenne/Shagamu/Remo North (Ogun)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Kingsley Chinda",
+      "gender": "M",
+      "role": "House Minority Leader",
+      "party": "PDP",
+      "district": "Obio/Akpor (Rivers)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Aliyu Sani Madaki",
+      "gender": "M",
+      "role": "Deputy House Minority Leader",
+      "party": "NNPP",
+      "district": "Dala (Kano)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Beni Lar",
+      "gender": "F",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Langtang North/South (Plateau)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Dachung Musa Bagos",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Jos South/Jos East (Plateau)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Obi Aguocha",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "LP",
+      "district": "Ikwuano/Umuahia North/Umuahia South (Abia)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Akin Rotimi",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Ekiti North I (Oye/Ikole)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Bello El-Rufai",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Kaduna North (Kaduna)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Khadija Bukar Abba Ibrahim",
+      "gender": "F",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Damaturu/Gujba/Gulani/Tarmuwa (Yobe)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Sada Soli",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Jibia/Kaita (Katsina)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Denis Idahosa",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Ovia North-East/Ovia South-West (Edo)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Fatima Talba",
+      "gender": "F",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Nangere/Potiskum (Yobe)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Yusuf Gagdi",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Pankshin/Kanke/Kanam (Plateau)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Aminu Jaji",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Birnin Magaji/Kaura Namoda (Zamfara)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Ifeanyi Momah",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APGA",
+      "district": "Ihiala (Anambra)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Thaddeus Attah",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "LP",
+      "district": "Eti-Osa (Lagos)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Babajimi Benson",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Ikorodu (Lagos)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "James Abiodun Faleke",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Ikeja (Lagos)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Wale Raji",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Epe (Lagos)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Ademorin Kuye",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Shomolu (Lagos)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Kafilat Ogbara",
+      "gender": "F",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Kosofe (Lagos)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Bolaji Yusuf Ayinla",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Mushin II (Lagos)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Lanre Okunlola",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Surulere I (Lagos)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Oluwole Oke",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Obokun/Oriade (Osun)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Bamidele Salam",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Ede North/Ede South/Egbedore/Ejigbo (Osun)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Taofeek Ajilesoro",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Ife Central/Ife East/Ife North/Ife South (Osun)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Tolulope Akande-Sadipe",
+      "gender": "F",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Oluyole (Oyo)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Akin Alabi",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Egbeda/Ona-Ara (Oyo)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Abass Adigun",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Ibadan South-East/Ibadan North-East (Oyo)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Stanley Adedeji Olajide",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Ibadan North-West/Ibadan South-West (Oyo)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Leke Abejide",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "ADC",
+      "district": "Yagba East/Yagba West/Mopamuro (Kogi)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Abdullahi Ibrahim Halims",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Ankpa/Omala/Olamaboro (Kogi)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Mzondu",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Makurdi/Guma (Benue)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Francis Ottah Agbo",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Ado/Ogbadibo/Okpokwu (Benue)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Alhassan Ado Doguwa",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Tudun Wada/Doguwa (Kano)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Kabiru Alhassan Rurum",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Rano/Kibiya/Bunkure (Kano)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Abdullahi Idris Gaya",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Ajingi/Albasu/Gaya (Kano)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Ikenga Imo Ugochinyere",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Ideato North/Ideato South (Imo)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Miriam Odinaka Onuoha",
+      "gender": "F",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Okigwe North (Imo)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Henry Nwawuba",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Mbaitoli/Ikeduru (Imo)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Ginger Onwusibe",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "LP",
+      "district": "Isiala Ngwa North/Isiala Ngwa South (Abia)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Munachim Alozie",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "LP",
+      "district": "Obingwa/Ugwunagbo/Osisioma (Abia)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Amobi Godwin Ogah",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "LP",
+      "district": "Isuikwuato/Umunneochi (Abia)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Chinedu Obidigwe",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APGA",
+      "district": "Anambra East/Anambra West (Anambra)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Okwudili Ezenwankwo",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Orumba North/Orumba South (Anambra)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Lynda Chuba Ikpeazu",
+      "gender": "F",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Onitsha North/Onitsha South (Anambra)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Awaji-Inombek Dagomie Abiante",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Andoni/Opobo-Nkoro (Rivers)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Boma Goodhead",
+      "gender": "F",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Akuku-Toru/Asari-Toru (Rivers)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Legor Idagbo",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Bekwarra/Obanliku/Obudu (Cross River)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Bassey Akiba",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Calabar Municipal/Odukpani (Cross River)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Aniekan Umanah",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Abak/Etim Ekpo/Ika (Akwa Ibom)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Aliyu Muktar Betara",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Biu/Bayo/Shani/Kwaya Kusar (Borno)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Abdussamad Dasuki",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "PDP",
+      "district": "Kebbe/Tambuwal (Sokoto)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Abubakar Yunusa Ahmad",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Yamaltu/Deba (Gombe)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    },
+    {
+      "name": "Saidu Musa Abdullahi",
+      "gender": "M",
+      "role": "Member of the House of Representatives",
+      "party": "APC",
+      "district": "Bida/Gbako/Katcha (Niger)",
+      "salary": {
+        "gross": 11639.38
+      },
+      "sources": [
+        {
+          "Revenue Mobilisation Allocation and Fiscal Commission – Remuneration Package for Political, Public and Judicial Office Holders (2007)": "https://rmafc.gov.ng/wp-content/uploads/2023/06/Political-Office-Holders-Remuneration-Template.pdf"
+        },
+        {
+          "Central Bank of Nigeria – Official Exchange Rate (2 January 2025)": "https://www.cbn.gov.ng/rates/ExchRateByCurrency.asp?CurrencyType=USD"
+        }
+      ]
+    }
+  ],
   "senate": [],
   "parties": {
     "APC": {
@@ -131,6 +1212,30 @@
       "en": "All Progressives Congress",
       "range": 1,
       "color": "#0A5D2A"
+    },
+    "PDP": {
+      "name": "Peoples Democratic Party",
+      "en": "Peoples Democratic Party",
+      "range": 2,
+      "color": "#008751"
+    },
+    "NNPP": {
+      "name": "New Nigeria Peoples Party",
+      "en": "New Nigeria Peoples Party",
+      "range": 2,
+      "color": "#0A97D9"
+    },
+    "LP": {
+      "name": "Labour Party",
+      "en": "Labour Party",
+      "range": 2,
+      "color": "#ED1C24"
+    },
+    "APGA": {
+      "name": "All Progressives Grand Alliance",
+      "en": "All Progressives Grand Alliance",
+      "range": 2,
+      "color": "#FCD116"
     }
   }
 }
