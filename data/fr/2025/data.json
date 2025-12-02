@@ -754,6 +754,406 @@
         "gross": 73015,
         "net": 54761
       }
+    },
+    {
+      "name": "Alexis Corbière",
+      "gender": "M",
+      "district": "Seine-Saint-Denis",
+      "party": "LFI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Adrien Quatennens",
+      "gender": "M",
+      "district": "Nord",
+      "party": "LFI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ugo Bernalicis",
+      "gender": "M",
+      "district": "Nord",
+      "party": "LFI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Éric Coquerel",
+      "gender": "M",
+      "district": "Seine-Saint-Denis",
+      "party": "LFI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Clémence Guetté",
+      "gender": "F",
+      "district": "Val-de-Marne",
+      "party": "LFI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Raquel Garrido",
+      "gender": "F",
+      "district": "Seine-Saint-Denis",
+      "party": "LFI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Antoine Léaument",
+      "gender": "M",
+      "district": "Essonne",
+      "party": "LFI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Alma Dufour",
+      "gender": "F",
+      "district": "Seine-Maritime",
+      "party": "LFI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Aurélie Trouvé",
+      "gender": "F",
+      "district": "Seine-Saint-Denis",
+      "party": "LFI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Carlos Martens Bilongo",
+      "gender": "M",
+      "district": "Val-d'Oise",
+      "party": "LFI",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jérôme Guedj",
+      "gender": "M",
+      "district": "Essonne",
+      "party": "PS",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Arthur Delaporte",
+      "gender": "M",
+      "district": "Calvados",
+      "party": "PS",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Inaki Echaniz",
+      "gender": "M",
+      "district": "Pyrénées-Atlantiques",
+      "party": "PS",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "David Habib",
+      "gender": "M",
+      "district": "Pyrénées-Atlantiques",
+      "party": "PS",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dominique Potier",
+      "gender": "M",
+      "district": "Meurthe-et-Moselle",
+      "party": "PS",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Benjamin Lucas",
+      "gender": "M",
+      "district": "Yvelines",
+      "party": "EELV",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cyrielle Chatelain",
+      "gender": "F",
+      "district": "Isère",
+      "party": "EELV",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sébastien Peytavie",
+      "gender": "M",
+      "district": "Dordogne",
+      "party": "EELV",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Hubert Julien-Laferrière",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "EELV",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Elsa Faucillon",
+      "gender": "F",
+      "district": "Hauts-de-Seine",
+      "party": "PCF",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pierre Dharréville",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "PCF",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jean-Paul Lecoq",
+      "gender": "M",
+      "district": "Seine-Maritime",
+      "party": "PCF",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Stéphane Peu",
+      "gender": "M",
+      "district": "Seine-Saint-Denis",
+      "party": "PCF",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pieyre-Alexandre Anglade",
+      "gender": "M",
+      "district": "French citizens in Benelux",
+      "party": "RE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Didier Paris",
+      "gender": "M",
+      "district": "Côte-d'Or",
+      "party": "RE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Thomas Rudigoz",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "RE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Astrid Panosyan-Bouvet",
+      "gender": "F",
+      "district": "Paris",
+      "party": "RE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Sarah El Haïry",
+      "gender": "F",
+      "district": "Loire-Atlantique",
+      "party": "RE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Hadrien Ghomi",
+      "gender": "M",
+      "district": "Val-de-Marne",
+      "party": "RE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Stéphane Vojetta",
+      "gender": "M",
+      "district": "French citizens in the Americas",
+      "party": "RE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jean-René Cazeneuve",
+      "gender": "M",
+      "district": "Gers",
+      "party": "RE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jean-Pierre Pont",
+      "gender": "M",
+      "district": "Pas-de-Calais",
+      "party": "RE",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Richard Ramos",
+      "gender": "M",
+      "district": "Loiret",
+      "party": "MoDem",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jean-Noël Barrot",
+      "gender": "M",
+      "district": "Yvelines",
+      "party": "MoDem",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Elodie Jacquier-Laforge",
+      "gender": "F",
+      "district": "Isère",
+      "party": "MoDem",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Maud Gatel",
+      "gender": "F",
+      "district": "Paris",
+      "party": "MoDem",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dino Cinieri",
+      "gender": "M",
+      "district": "Loire",
+      "party": "LR",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ian Boucard",
+      "gender": "M",
+      "district": "Territoire de Belfort",
+      "party": "LR",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Véronique Louwagie",
+      "gender": "F",
+      "district": "Orne",
+      "party": "LR",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Michèle Tabarot",
+      "gender": "F",
+      "district": "Alpes-Maritimes",
+      "party": "LR",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
     }
   ],
   "senate": [
