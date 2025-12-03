@@ -1,8 +1,239 @@
 {
   "baseCurrency": "USD",
-  "executive": [],
-  "ministers": [],
-  "deputies": [],
-  "senate": [],
-  "parties": {}
+  "executive": [
+    {
+      "name": "Abdullah II",
+      "gender": "M",
+      "role": "King of Jordan",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hussein bin Abdullah",
+      "gender": "M",
+      "role": "Crown Prince",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Bisher Al-Khasawneh",
+      "gender": "M",
+      "role": "Prime Minister; Minister of Defense",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ayman Safadi",
+      "gender": "M",
+      "portfolio": "Deputy Prime Minister; Minister of Foreign Affairs and Expatriates",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Tawfiq Kreishan",
+      "gender": "M",
+      "portfolio": "Deputy Prime Minister; Minister of Local Administration",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nasser Shraideh",
+      "gender": "M",
+      "portfolio": "Deputy Prime Minister for Economic Affairs",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohammad Al-Ississ",
+      "gender": "M",
+      "portfolio": "Minister of Finance",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mazin Al-Faraya",
+      "gender": "M",
+      "portfolio": "Minister of Interior",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Firas Al-Hawari",
+      "gender": "M",
+      "portfolio": "Minister of Health",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Azmi Mahafzah",
+      "gender": "M",
+      "portfolio": "Minister of Education and Higher Education",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Saleh Al-Kharabsheh",
+      "gender": "M",
+      "portfolio": "Minister of Energy and Mineral Resources",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Ahmed Safadi",
+      "gender": "M",
+      "district": "Amman",
+      "role": "Speaker of the House of Representatives",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Abdul Karim Dughmi",
+      "gender": "M",
+      "district": "Mafraq",
+      "role": "Member of the House of Representatives",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Khalil Atiyeh",
+      "gender": "M",
+      "district": "Amman",
+      "role": "Member of the House of Representatives",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Saleh Al-Armouti",
+      "gender": "M",
+      "district": "Amman",
+      "role": "Member of the House of Representatives",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Abdulmunim Al-Odat",
+      "gender": "M",
+      "district": "Zarqa",
+      "role": "Member of the House of Representatives",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yanal Freihat",
+      "gender": "M",
+      "district": "Irbid",
+      "role": "Member of the House of Representatives",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dina Al-Bashir",
+      "gender": "F",
+      "district": "Amman",
+      "role": "Member of the House of Representatives",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Faisal Al-Fayez",
+      "gender": "M",
+      "district": "Senate",
+      "role": "President of the Senate",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Rajai Muasher",
+      "gender": "M",
+      "district": "Senate",
+      "role": "Member of the Senate",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Samir Rifai",
+      "gender": "M",
+      "district": "Senate",
+      "role": "Member of the Senate",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Imad Fakhoury",
+      "gender": "M",
+      "district": "Senate",
+      "role": "Member of the Senate",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohammad Momani",
+      "gender": "M",
+      "district": "Senate",
+      "role": "Member of the Senate",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Reem Abu Hassan",
+      "gender": "F",
+      "district": "Senate",
+      "role": "Member of the Senate",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Abdullah Ensour",
+      "gender": "M",
+      "district": "Senate",
+      "role": "Member of the Senate",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hussein Al-Majali",
+      "gender": "M",
+      "district": "Senate",
+      "role": "Member of the Senate",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ali Al-Ayed",
+      "gender": "M",
+      "district": "Senate",
+      "role": "Member of the Senate",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jawad Anani",
+      "gender": "M",
+      "district": "Senate",
+      "role": "Member of the Senate",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nasser Judeh",
+      "gender": "M",
+      "district": "Senate",
+      "role": "Member of the Senate",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "parties": {
+    "IND": {
+      "name": "Independent",
+      "range": 3,
+      "color": "#808080"
+    }
+  }
 }
