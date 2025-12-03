@@ -5924,26 +5924,28 @@
     "minAnnualSalaryGrowthYoY": null,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
-      "quantity": 0,
+      "quantity": 8,
       "budget": 0
     },
     "deputies": {
-      "quantity": 0
+      "quantity": 7
     },
     "senate": {
-      "quantity": 0
+      "quantity": 11
     },
     "partyRangeStats": {
       "counts": {
         "1": 0,
         "2": 0,
-        "3": 0,
+        "3": 29,
         "4": 0,
         "5": 0
       },
-      "mostPopularRanges": [],
-      "mostPopularCount": 0,
-      "totalCountedOfficials": 0,
+      "mostPopularRanges": [
+        3
+      ],
+      "mostPopularCount": 29,
+      "totalCountedOfficials": 29,
       "unaffiliatedCount": 0,
       "unmappedPartyCount": 0
     },
@@ -5952,13 +5954,15 @@
         "counts": {
           "1": 0,
           "2": 0,
-          "3": 0,
+          "3": 3,
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [],
-        "mostPopularCount": 0,
-        "totalCountedOfficials": 0,
+        "mostPopularRanges": [
+          3
+        ],
+        "mostPopularCount": 3,
+        "totalCountedOfficials": 3,
         "unaffiliatedCount": 0,
         "unmappedPartyCount": 0
       },
@@ -5966,13 +5970,15 @@
         "counts": {
           "1": 0,
           "2": 0,
-          "3": 0,
+          "3": 26,
           "4": 0,
           "5": 0
         },
-        "mostPopularRanges": [],
-        "mostPopularCount": 0,
-        "totalCountedOfficials": 0,
+        "mostPopularRanges": [
+          3
+        ],
+        "mostPopularCount": 26,
+        "totalCountedOfficials": 26,
         "unaffiliatedCount": 0,
         "unmappedPartyCount": 0
       }
