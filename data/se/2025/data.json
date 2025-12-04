@@ -76,8 +76,250 @@
     }
   ],
 
-  "deputies": [],
-  "senate": [],
+  "deputies": [
+    {
+      "name": "Magdalena Andersson",
+      "gender": "F",
+      "party": "S",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Lena Hallengren",
+      "gender": "F",
+      "party": "S",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Mikael Damberg",
+      "gender": "M",
+      "party": "S",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Ardalan Shekarabi",
+      "gender": "M",
+      "party": "S",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Matilda Ernkrans",
+      "gender": "F",
+      "party": "S",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Johan Hultberg",
+      "gender": "M",
+      "party": "M",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Ida Drougge",
+      "gender": "F",
+      "party": "M",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Lars Hjälmered",
+      "gender": "M",
+      "party": "M",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Camilla Brodin",
+      "gender": "F",
+      "party": "KD",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Hans Eklind",
+      "gender": "M",
+      "party": "KD",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Lina Nordquist",
+      "gender": "F",
+      "party": "L",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Maria Nilsson",
+      "gender": "F",
+      "party": "L",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Muharrem Demirok",
+      "gender": "M",
+      "party": "C",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Jonny Cato",
+      "gender": "M",
+      "party": "C",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Nooshi Dadgostar",
+      "gender": "F",
+      "party": "V",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Daniel Riazat",
+      "gender": "M",
+      "party": "V",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Märta Stenevi",
+      "gender": "F",
+      "party": "MP",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Per Bolund",
+      "gender": "M",
+      "party": "MP",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Henrik Vinge",
+      "gender": "M",
+      "party": "SD",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Richard Jomshof",
+      "gender": "M",
+      "party": "SD",
+      "salary": { "gross": 939600, "net": null }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Andreas Norlén",
+      "gender": "M",
+      "party": "M",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Anders Ygeman",
+      "gender": "M",
+      "party": "S",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Tomas Eneroth",
+      "gender": "M",
+      "party": "S",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Johan Löfstrand",
+      "gender": "M",
+      "party": "S",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Anna-Caren Sätherberg",
+      "gender": "F",
+      "party": "S",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Jessica Rosencrantz",
+      "gender": "F",
+      "party": "M",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "John Widegren",
+      "gender": "M",
+      "party": "M",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Maria Stockhaus",
+      "gender": "F",
+      "party": "M",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Niklas Wykman",
+      "gender": "M",
+      "party": "M",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Martin Ådahl",
+      "gender": "M",
+      "party": "C",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Kerstin Lundgren",
+      "gender": "F",
+      "party": "C",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Ida Gabrielsson",
+      "gender": "F",
+      "party": "V",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Ali Esbati",
+      "gender": "M",
+      "party": "V",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Emma Berginger",
+      "gender": "F",
+      "party": "MP",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Mats Berglund",
+      "gender": "M",
+      "party": "MP",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Jimmie Åkesson",
+      "gender": "M",
+      "party": "SD",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Mattias Karlsson",
+      "gender": "M",
+      "party": "SD",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Linda Lindberg",
+      "gender": "F",
+      "party": "SD",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Ebba Busch",
+      "gender": "F",
+      "party": "KD",
+      "salary": { "gross": 939600, "net": null }
+    },
+    {
+      "name": "Jakob Forssmed",
+      "gender": "M",
+      "party": "KD",
+      "salary": { "gross": 939600, "net": null }
+    }
+  ],
   "officials": [],
 
   "parties": {
@@ -104,6 +346,30 @@
       "en": "Social Democrats",
       "range": 2,
       "color": "#EE1C25"
+    },
+    "C": {
+      "name": "Centerpartiet",
+      "en": "Centre Party",
+      "range": 3,
+      "color": "#83B81A"
+    },
+    "V": {
+      "name": "Vänsterpartiet",
+      "en": "Left Party",
+      "range": 2,
+      "color": "#AF1E2D"
+    },
+    "MP": {
+      "name": "Miljöpartiet de gröna",
+      "en": "Green Party",
+      "range": 3,
+      "color": "#009933"
+    },
+    "SD": {
+      "name": "Sverigedemokraterna",
+      "en": "Sweden Democrats",
+      "range": 3,
+      "color": "#FFCE00"
     }
   }
 }
