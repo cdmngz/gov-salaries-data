@@ -10598,24 +10598,24 @@
       "budget": 0
     },
     "deputies": {
-      "quantity": 0
+      "quantity": 20
     },
     "senate": {
-      "quantity": 0
+      "quantity": 20
     },
     "partyRangeStats": {
       "counts": {
         "1": 0,
-        "2": 1,
-        "3": 0,
-        "4": 9,
+        "2": 14,
+        "3": 13,
+        "4": 23,
         "5": 0
       },
       "mostPopularRanges": [
         4
       ],
-      "mostPopularCount": 9,
-      "totalCountedOfficials": 10,
+      "mostPopularCount": 23,
+      "totalCountedOfficials": 50,
       "unaffiliatedCount": 0,
       "unmappedPartyCount": 0
     },
@@ -10639,16 +10639,16 @@
       "rest": {
         "counts": {
           "1": 0,
-          "2": 1,
-          "3": 0,
-          "4": 8,
+          "2": 14,
+          "3": 13,
+          "4": 22,
           "5": 0
         },
         "mostPopularRanges": [
           4
         ],
-        "mostPopularCount": 8,
-        "totalCountedOfficials": 9,
+        "mostPopularCount": 22,
+        "totalCountedOfficials": 49,
         "unaffiliatedCount": 0,
         "unmappedPartyCount": 0
       }
@@ -12467,7 +12467,7 @@
       "quantity": 444
     },
     "senate": {
-      "quantity": 98
+      "quantity": 100
     },
     "partyRangeStats": {
       "counts": {
@@ -12475,13 +12475,13 @@
         "2": 269,
         "3": 0,
         "4": 0,
-        "5": 288
+        "5": 290
       },
       "mostPopularRanges": [
         5
       ],
-      "mostPopularCount": 288,
-      "totalCountedOfficials": 559,
+      "mostPopularCount": 290,
+      "totalCountedOfficials": 561,
       "unaffiliatedCount": 1,
       "unmappedPartyCount": 0
     },
@@ -12508,13 +12508,13 @@
           "2": 269,
           "3": 0,
           "4": 0,
-          "5": 286
+          "5": 288
         },
         "mostPopularRanges": [
           5
         ],
-        "mostPopularCount": 286,
-        "totalCountedOfficials": 557,
+        "mostPopularCount": 288,
+        "totalCountedOfficials": 559,
         "unaffiliatedCount": 1,
         "unmappedPartyCount": 0
       }
