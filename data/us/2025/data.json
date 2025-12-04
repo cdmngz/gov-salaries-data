@@ -5626,6 +5626,26 @@
         "gross": 174000,
         "net": 113100
       }
+    },
+    {
+      "name": "Cynthia Lummis",
+      "gender": "F",
+      "district": "Wyoming",
+      "party": "R",
+      "salary": {
+        "gross": 174000,
+        "net": 113100
+      }
+    },
+    {
+      "name": "John Barrasso",
+      "gender": "M",
+      "district": "Wyoming",
+      "party": "R",
+      "salary": {
+        "gross": 174000,
+        "net": 113100
+      }
     }
   ],
   "officials": [
