@@ -1,8 +1,259 @@
 {
   "baseCurrency": "USD",
-  "executive": [],
-  "ministers": [],
+  "executive": [
+    {
+      "name": "Cécile La Grenade",
+      "gender": "F",
+      "role": "Governor-General of Grenada",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Dickon Mitchell",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Dickon Mitchell",
+      "gender": "M",
+      "role": "Prime Minister and Minister for Finance, National Security, Home Affairs, Public Administration, Information and Disaster Management",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Joseph Andall",
+      "gender": "M",
+      "role": "Minister for Foreign Affairs, Trade and Export Development",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Claudette Joseph",
+      "gender": "F",
+      "role": "Attorney General and Minister for Legal Affairs, Labour and Consumer Affairs",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Dennis Cornwall",
+      "gender": "M",
+      "role": "Minister for Infrastructure and Physical Development, Public Utilities, Civil Aviation and Transport",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Tevin Andrews",
+      "gender": "M",
+      "role": "Minister for Carriacou and Petite Martinique Affairs and Local Government",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Philip Telesford",
+      "gender": "M",
+      "role": "Minister for Social and Community Development, Housing and Gender Affairs",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Jonathan LaCrette",
+      "gender": "M",
+      "role": "Minister for Health, Wellness and Religious Affairs",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Ron Redhead",
+      "gender": "M",
+      "role": "Minister for Youth, Sports and Culture",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Lennox Andrews",
+      "gender": "M",
+      "role": "Minister for Economic Development, Planning, Tourism, Creative Economy and ICT",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "David Andrew",
+      "gender": "M",
+      "role": "Minister for Education and Human Resource Development",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Kerryne James",
+      "gender": "F",
+      "role": "Minister for Climate Resilience, Environment and Renewable Energy",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Andy Williams",
+      "gender": "M",
+      "role": "Minister for Mobilisation, Implementation and Transformation",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
   "deputies": [],
-  "senate": [],
-  "parties": {}
+  "senate": [
+    {
+      "name": "Dessima Williams",
+      "gender": "F",
+      "role": "President of the Senate",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Salisha Thomas",
+      "gender": "F",
+      "role": "Deputy President and Government Senator",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Claudette Joseph",
+      "gender": "F",
+      "role": "Attorney General and Senator",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Quinc Britton",
+      "gender": "M",
+      "role": "Government Senator",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Gloria Thomas",
+      "gender": "F",
+      "role": "Government Senator and Parliamentary Secretary",
+      "party": "NDC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Christopher DeAllie",
+      "gender": "M",
+      "role": "Independent Senator representing the business community",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Andre Lewis",
+      "gender": "M",
+      "role": "Independent Senator representing labour",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Tessa St Cyr",
+      "gender": "F",
+      "role": "Opposition Senator",
+      "party": "NNP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Neilon Franklyn",
+      "gender": "M",
+      "role": "Opposition Senator",
+      "party": "NNP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "parties": {
+    "NDC": {
+      "name": "National Democratic Congress",
+      "en": "National Democratic Congress",
+      "range": 2,
+      "color": "#2E8B57"
+    },
+    "NNP": {
+      "name": "New National Party",
+      "en": "New National Party",
+      "range": 4,
+      "color": "#008000"
+    },
+    "IND": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 3,
+      "color": "#808080"
+    }
+  }
 }

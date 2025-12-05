@@ -2,12 +2,23 @@
   "baseCurrency": "USD",
   "executive": [
     {
+      "name": "Froyla Tzalam",
+      "gender": "F",
+      "role": "Governor-General of Belize",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
       "name": "Juan Antonio \"John\" Briceño",
       "gender": "M",
       "role": "Prime Minister of Belize",
       "party": "PUP",
       "salary": {
-        "gross": 3825
+        "gross": 3825,
+        "net": null
       },
       "sources": [
         {
@@ -21,7 +32,8 @@
       "role": "Deputy Prime Minister of Belize",
       "party": "PUP",
       "salary": {
-        "gross": 3333.34
+        "gross": 3333.34,
+        "net": null
       },
       "sources": [
         {
@@ -32,18 +44,54 @@
   ],
   "ministers": [
     {
+      "name": "Juan Antonio \"John\" Briceño",
+      "gender": "M",
+      "role": "Prime Minister and Minister of Finance, Economic Development and Investment",
+      "party": "PUP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Cordel Hyde",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Natural Resources, Petroleum and Mining",
+      "party": "PUP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Eamon Courtenay",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs, Foreign Trade and Immigration",
+      "party": "PUP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Henry Charles Usher",
+      "gender": "M",
+      "role": "Minister of the Public Service, Constitutional and Political Reform and Religious Affairs",
+      "party": "PUP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
       "name": "Francis Fonseca",
       "gender": "M",
       "role": "Minister of Education, Culture, Science and Technology",
       "party": "PUP",
       "salary": {
-        "gross": 2916.67
-      },
-      "sources": [
-        {
-          "Members of the National Assembly (Salaries and Allowances) Act": "https://www.belizelaw.org/web/lawadmin/PDF%20files/cap008.pdf"
-        }
-      ]
+        "gross": null,
+        "net": null
+      }
     },
     {
       "name": "Kevin Bernard",
@@ -51,23 +99,190 @@
       "role": "Minister of Health and Wellness",
       "party": "PUP",
       "salary": {
-        "gross": 2916.67
-      },
-      "sources": [
-        {
-          "Members of the National Assembly (Salaries and Allowances) Act": "https://www.belizelaw.org/web/lawadmin/PDF%20files/cap008.pdf"
-        }
-      ]
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Kareem Musa",
+      "gender": "M",
+      "role": "Minister of Home Affairs and New Growth Industries",
+      "party": "PUP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Jose Abelardo Mai",
+      "gender": "M",
+      "role": "Minister of Agriculture, Food Security and Enterprise",
+      "party": "PUP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Rodwell Ferguson",
+      "gender": "M",
+      "role": "Minister of Youth, Sports and Transport",
+      "party": "PUP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Dolores Balderamos-Garcia",
+      "gender": "F",
+      "role": "Minister of Human Development, Families and Indigenous Peoples' Affairs",
+      "party": "PUP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Orlando Habet",
+      "gender": "M",
+      "role": "Minister of Sustainable Development, Climate Change and Disaster Risk Management",
+      "party": "PUP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Andre Perez",
+      "gender": "M",
+      "role": "Minister of the Blue Economy and Civil Aviation",
+      "party": "PUP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Julius Espat",
+      "gender": "M",
+      "role": "Minister of Infrastructure Development and Housing",
+      "party": "PUP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Christopher Coye",
+      "gender": "M",
+      "role": "Minister of State in the Ministry of Finance, Economic Development and Investment",
+      "party": "PUP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
     }
   ],
   "deputies": [],
-  "senate": [],
+  "senate": [
+    {
+      "name": "Carolyn Trench-Sandiford",
+      "gender": "F",
+      "role": "President of the Senate",
+      "party": "PUP"
+    },
+    {
+      "name": "Eamon Courtenay",
+      "gender": "M",
+      "role": "Leader of Government Business in the Senate",
+      "party": "PUP"
+    },
+    {
+      "name": "Collet Montejo",
+      "gender": "M",
+      "role": "Government Senator",
+      "party": "PUP"
+    },
+    {
+      "name": "Isabel Bennett",
+      "gender": "F",
+      "role": "Government Senator",
+      "party": "PUP"
+    },
+    {
+      "name": "Bevinton Cal",
+      "gender": "M",
+      "role": "Government Senator",
+      "party": "PUP"
+    },
+    {
+      "name": "Christopher Coye",
+      "gender": "M",
+      "role": "Government Senator",
+      "party": "PUP"
+    },
+    {
+      "name": "Janelle Chanona",
+      "gender": "F",
+      "role": "Senator for Non-Governmental Organizations",
+      "party": "IND"
+    },
+    {
+      "name": "Kevin Herrera",
+      "gender": "M",
+      "role": "Senator for the Business Community",
+      "party": "IND"
+    },
+    {
+      "name": "Elena Smith",
+      "gender": "F",
+      "role": "Senator for the Labour Unions",
+      "party": "IND"
+    },
+    {
+      "name": "Alvin Benguche",
+      "gender": "M",
+      "role": "Senator for the Council of Churches",
+      "party": "IND"
+    },
+    {
+      "name": "Michael Peyrefitte",
+      "gender": "M",
+      "role": "Leader of Opposition Business in the Senate",
+      "party": "UDP"
+    },
+    {
+      "name": "Beverly Williams",
+      "gender": "F",
+      "role": "Opposition Senator",
+      "party": "UDP"
+    },
+    {
+      "name": "Darrell Bradley",
+      "gender": "M",
+      "role": "Opposition Senator",
+      "party": "UDP"
+    }
+  ],
   "parties": {
     "PUP": {
       "name": "People's United Party",
       "en": "People's United Party",
       "range": 2,
       "color": "#1B5E20"
+    },
+    "UDP": {
+      "name": "United Democratic Party",
+      "en": "United Democratic Party",
+      "range": 4,
+      "color": "#c8102e"
+    },
+    "IND": {
+      "name": "Independents and social partners",
+      "en": "Independent",
+      "range": 3,
+      "color": "#757575"
     }
   }
 }
