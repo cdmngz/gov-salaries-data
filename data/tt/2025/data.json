@@ -1,8 +1,519 @@
 {
   "baseCurrency": "USD",
-  "executive": [],
-  "ministers": [],
+  "executive": [
+    {
+      "name": "Christine Kangaloo",
+      "gender": "F",
+      "role": "President of Trinidad and Tobago",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Keith Rowley",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Keith Rowley",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Colm Imbert",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Reginald Armour",
+      "gender": "M",
+      "role": "Attorney General and Minister of Legal Affairs",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Stuart Young",
+      "gender": "M",
+      "role": "Minister of Energy and Energy Industries and Minister in the Office of the Prime Minister",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Fitzgerald Hinds",
+      "gender": "M",
+      "role": "Minister of National Security",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Terrence Deyalsingh",
+      "gender": "M",
+      "role": "Minister of Health",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Nyan Gadsby-Dolly",
+      "gender": "F",
+      "role": "Minister of Education",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Marvin Gonzales",
+      "gender": "M",
+      "role": "Minister of Public Utilities",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Rohan Sinanan",
+      "gender": "M",
+      "role": "Minister of Works and Transport",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Paula Gopee-Scoon",
+      "gender": "F",
+      "role": "Minister of Trade and Industry",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Kazim Hosein",
+      "gender": "M",
+      "role": "Minister of Agriculture, Land and Fisheries",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Camille Robinson-Regis",
+      "gender": "F",
+      "role": "Minister of Housing and Urban Development",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Donna Cox",
+      "gender": "F",
+      "role": "Minister of Social Development and Family Services",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Allyson West",
+      "gender": "F",
+      "role": "Minister of Public Administration",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Stephen Mc Clashie",
+      "gender": "M",
+      "role": "Minister of Labour",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Randall Mitchell",
+      "gender": "M",
+      "role": "Minister of Tourism, Culture and the Arts",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Pennelope Beckles",
+      "gender": "F",
+      "role": "Minister of Planning and Development",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Faris Al-Rawi",
+      "gender": "M",
+      "role": "Minister of Rural Development and Local Government",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Hassel Bacchus",
+      "gender": "M",
+      "role": "Minister of Digital Transformation",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Foster Cummings",
+      "gender": "M",
+      "role": "Minister of Youth Development and National Service",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Shamfa Cudjoe-Lewis",
+      "gender": "F",
+      "role": "Minister of Sport and Community Development",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
   "deputies": [],
-  "senate": [],
-  "parties": {}
+  "senate": [
+    {
+      "name": "Nigel de Freitas",
+      "gender": "M",
+      "role": "President of the Senate",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Muhammad Yunus Ibrahim",
+      "gender": "M",
+      "role": "Vice-President of the Senate",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Amery Browne",
+      "gender": "M",
+      "role": "Leader of Government Business in the Senate",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Renuka Sagramsingh-Sooklal",
+      "gender": "F",
+      "role": "Government Senator",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Laurence Hislop",
+      "gender": "M",
+      "role": "Government Senator",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Lester Henry",
+      "gender": "M",
+      "role": "Government Senator",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Richie Sookhai",
+      "gender": "M",
+      "role": "Government Senator",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Avinash Singh",
+      "gender": "M",
+      "role": "Parliamentary Secretary in the Ministry of Agriculture, Land and Fisheries",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Allyson West",
+      "gender": "F",
+      "role": "Government Senator",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Hassel Bacchus",
+      "gender": "M",
+      "role": "Government Senator",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Daniel Dookie",
+      "gender": "M",
+      "role": "Government Senator",
+      "party": "PNM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Wade Mark",
+      "gender": "M",
+      "role": "Leader of Opposition Business in the Senate",
+      "party": "UNC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Jearlean John",
+      "gender": "F",
+      "role": "Opposition Senator",
+      "party": "UNC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Jayanti Lutchmedial",
+      "gender": "F",
+      "role": "Opposition Senator",
+      "party": "UNC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Saddam Hosein",
+      "gender": "M",
+      "role": "Opposition Senator",
+      "party": "UNC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Anil Roberts",
+      "gender": "M",
+      "role": "Opposition Senator",
+      "party": "UNC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Damian Lyder",
+      "gender": "M",
+      "role": "Opposition Senator",
+      "party": "UNC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Paul Richards",
+      "gender": "M",
+      "role": "Independent Senator",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Maria Dillon-Remy",
+      "gender": "F",
+      "role": "Independent Senator",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Varma Deyalsingh",
+      "gender": "M",
+      "role": "Independent Senator",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Deoroop Teemal",
+      "gender": "M",
+      "role": "Independent Senator",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Sharda Patasar",
+      "gender": "F",
+      "role": "Independent Senator",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Evans Welch",
+      "gender": "M",
+      "role": "Independent Senator",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Anthony Vieira",
+      "gender": "M",
+      "role": "Independent Senator",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Amrita Deonarine",
+      "gender": "F",
+      "role": "Independent Senator",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Raghunath Mahabir",
+      "gender": "M",
+      "role": "Independent Senator",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "parties": {
+    "PNM": {
+      "name": "People's National Movement",
+      "en": "People's National Movement",
+      "range": 4,
+      "color": "#E42313"
+    },
+    "UNC": {
+      "name": "United National Congress",
+      "en": "United National Congress",
+      "range": 2,
+      "color": "#FFD100"
+    },
+    "IND": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 3,
+      "color": "#7F7F7F"
+    }
+  }
 }

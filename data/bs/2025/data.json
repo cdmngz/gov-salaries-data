@@ -1,8 +1,180 @@
 {
   "baseCurrency": "USD",
-  "executive": [],
-  "ministers": [],
+  "executive": [
+    {
+      "name": "Cynthia A. Pratt",
+      "role": "Governor-General",
+      "party": "IND"
+    },
+    {
+      "name": "Philip Edward Davis",
+      "role": "Prime Minister",
+      "party": "PLP"
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Philip Edward Davis",
+      "role": "Prime Minister and Minister of Finance",
+      "party": "PLP"
+    },
+    {
+      "name": "Isaac Chester Cooper",
+      "role": "Deputy Prime Minister and Minister of Tourism, Investments and Aviation",
+      "party": "PLP"
+    },
+    {
+      "name": "Frederick A. Mitchell",
+      "role": "Minister of Foreign Affairs and the Public Service",
+      "party": "PLP"
+    },
+    {
+      "name": "Ryan Pinder",
+      "role": "Attorney General and Minister of Legal Affairs",
+      "party": "PLP"
+    },
+    {
+      "name": "Glenys Hanna-Martin",
+      "role": "Minister of Education and Technical & Vocational Training",
+      "party": "PLP"
+    },
+    {
+      "name": "Michael Darville",
+      "role": "Minister of Health and Wellness",
+      "party": "PLP"
+    },
+    {
+      "name": "Wayne Munroe",
+      "role": "Minister of National Security",
+      "party": "PLP"
+    },
+    {
+      "name": "Alfred Sears",
+      "role": "Minister of Works and Utilities",
+      "party": "PLP"
+    },
+    {
+      "name": "Clay Sweeting",
+      "role": "Minister of Agriculture, Marine Resources and Family Island Affairs",
+      "party": "PLP"
+    },
+    {
+      "name": "Lisa Rahming",
+      "role": "Minister of Social Services and Urban Development",
+      "party": "PLP"
+    },
+    {
+      "name": "JoBeth Coleby-Davis",
+      "role": "Minister of Transport and Housing",
+      "party": "PLP"
+    },
+    {
+      "name": "Ginger Moxey",
+      "role": "Minister for Grand Bahama",
+      "party": "PLP"
+    },
+    {
+      "name": "Keith Bell",
+      "role": "Minister of Labour and Immigration",
+      "party": "PLP"
+    },
+    {
+      "name": "Pia Glover-Rolle",
+      "role": "Minister of the Public Service",
+      "party": "PLP"
+    },
+    {
+      "name": "Myles K. LaRoda",
+      "role": "Minister of State in the Office of the Prime Minister",
+      "party": "PLP"
+    }
+  ],
   "deputies": [],
-  "senate": [],
-  "parties": {}
+  "senate": [
+    {
+      "name": "J. LaShell Adderley",
+      "role": "President of the Senate",
+      "party": "PLP"
+    },
+    {
+      "name": "Barry Griffin",
+      "role": "Vice President of the Senate",
+      "party": "PLP"
+    },
+    {
+      "name": "Michael Halkitis",
+      "role": "Leader of Government Business",
+      "party": "PLP"
+    },
+    {
+      "name": "Rhianna Neely-Murphy",
+      "role": "Government Senator",
+      "party": "PLP"
+    },
+    {
+      "name": "Quinton Lightbourne",
+      "role": "Government Senator",
+      "party": "PLP"
+    },
+    {
+      "name": "Tyrel Young",
+      "role": "Government Senator",
+      "party": "PLP"
+    },
+    {
+      "name": "Randy Rolle",
+      "role": "Government Senator",
+      "party": "PLP"
+    },
+    {
+      "name": "Maxine Seymour",
+      "role": "Opposition Senator",
+      "party": "FNM"
+    },
+    {
+      "name": "Darren Henfield",
+      "role": "Opposition Senator",
+      "party": "FNM"
+    },
+    {
+      "name": "Michaela Barnett-Ellis",
+      "role": "Opposition Senator",
+      "party": "FNM"
+    },
+    {
+      "name": "Reuben Rahming",
+      "role": "Opposition Senator",
+      "party": "FNM"
+    },
+    {
+      "name": "Leslia Brice",
+      "role": "Independent Senator",
+      "party": "IND"
+    },
+    {
+      "name": "Bishop Valentino Williams",
+      "role": "Independent Senator",
+      "party": "IND"
+    }
+  ],
+  "parties": {
+    "PLP": {
+      "name": "Progressive Liberal Party",
+      "en": "Progressive Liberal Party",
+      "range": 2,
+      "color": "#FDBB30"
+    },
+    "FNM": {
+      "name": "Free National Movement",
+      "en": "Free National Movement",
+      "range": 4,
+      "color": "#D22630"
+    },
+    "IND": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 3,
+      "color": "#808080"
+    }
+  }
 }
