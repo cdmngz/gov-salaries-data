@@ -76,6 +76,226 @@
       "sources": [
         { "Oireachtas": "https://www.oireachtas.ie/" }
       ]
+    },
+    {
+      "name": "Leo Varadkar",
+      "gender": "M",
+      "party": "FG",
+      "district": "Dublin West",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Paschal Donohoe",
+      "gender": "M",
+      "party": "FG",
+      "district": "Dublin Central",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Heather Humphreys",
+      "gender": "F",
+      "party": "FG",
+      "district": "Cavan–Monaghan",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Simon Coveney",
+      "gender": "M",
+      "party": "FG",
+      "district": "Cork South-Central",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Darragh O'Brien",
+      "gender": "M",
+      "party": "FF",
+      "district": "Dublin Fingal",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Micheál Martin",
+      "gender": "M",
+      "party": "FF",
+      "district": "Cork South-Central",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Jim O'Callaghan",
+      "gender": "M",
+      "party": "FF",
+      "district": "Dublin Bay South",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Mary Lou McDonald",
+      "gender": "F",
+      "party": "SF",
+      "district": "Dublin Central",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Pearse Doherty",
+      "gender": "M",
+      "party": "SF",
+      "district": "Donegal",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Eoin Ó Broin",
+      "gender": "M",
+      "party": "SF",
+      "district": "Dublin Mid-West",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Louise O'Reilly",
+      "gender": "F",
+      "party": "SF",
+      "district": "Dublin Fingal",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Ivana Bacik",
+      "gender": "F",
+      "party": "LAB",
+      "district": "Dublin Bay South",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Alan Kelly",
+      "gender": "M",
+      "party": "LAB",
+      "district": "Tipperary",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Catherine Martin",
+      "gender": "F",
+      "party": "GP",
+      "district": "Dublin Rathdown",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Eamon Ryan",
+      "gender": "M",
+      "party": "GP",
+      "district": "Dublin Bay South",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Danny Healy-Rae",
+      "gender": "M",
+      "party": "IND",
+      "district": "Kerry",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Michael Healy-Rae",
+      "gender": "M",
+      "party": "IND",
+      "district": "Kerry",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Carol Nolan",
+      "gender": "F",
+      "party": "IND",
+      "district": "Laois–Offaly",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Marian Harkin",
+      "gender": "F",
+      "party": "IND",
+      "district": "Sligo–Leitrim",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Holly Cairns",
+      "gender": "F",
+      "party": "SD",
+      "district": "Cork South-West",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
     }
   ],
   "senate": [
@@ -138,6 +358,12 @@
       "en": "Independent",
       "range": 1,
       "color": "#808080"
+    },
+    "SD": {
+      "name": "Social Democrats",
+      "en": "Social Democrats",
+      "range": 2,
+      "color": "#6a1b9a"
     }
   }
 }
