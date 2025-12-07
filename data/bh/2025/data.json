@@ -1,8 +1,223 @@
 {
   "baseCurrency": "USD",
-  "executive": [],
-  "ministers": [],
-  "deputies": [],
-  "senate": [],
-  "parties": {}
+  "executive": [
+    {
+      "name": "Hamad bin Isa Al Khalifa",
+      "gender": "M",
+      "role": "King of Bahrain",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Salman bin Hamad Al Khalifa",
+      "gender": "M",
+      "role": "Crown Prince and Prime Minister",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Shaikh Salman bin Khalifa Al Khalifa",
+      "gender": "M",
+      "role": "Minister of Finance and National Economy",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Abdullatif bin Rashid Al Zayani",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Rashid bin Abdullah Al Khalifa",
+      "gender": "M",
+      "role": "Minister of Interior",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohamed bin Mubarak bin Daina",
+      "gender": "M",
+      "role": "Minister of Oil and Environment",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jaleela bint Al-Sayed Jawad Hassan",
+      "gender": "F",
+      "role": "Minister of Health",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohammed bin Mubarak Juma",
+      "gender": "M",
+      "role": "Minister of Education",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Abdulla bin Adel Fakhro",
+      "gender": "M",
+      "role": "Minister of Industry and Commerce",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohamed bin Thamer Al Kaabi",
+      "gender": "M",
+      "role": "Minister of Transportation and Telecommunications",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ibrahim bin Hassan Al Hawaj",
+      "gender": "M",
+      "role": "Minister of Works",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohammed bin Amer Al Rumaihi",
+      "gender": "M",
+      "role": "Minister of Justice, Islamic Affairs and Endowments",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Ahmed bin Salman Al-Musallam",
+      "gender": "M",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Abdulnabi Salman",
+      "gender": "M",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ali Ishaq Al-Qassab",
+      "gender": "M",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Fadhel Abbas Al Sawad",
+      "gender": "M",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ebrahim Mohammed Al Nefaei",
+      "gender": "M",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mohammed Al Maarafi",
+      "gender": "M",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hassan Eid Bukhammas",
+      "gender": "M",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ahmed Sabah Al-Salloom",
+      "gender": "M",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ali Al Zayed",
+      "gender": "M",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mahmood Merza Al Bahrani",
+      "gender": "M",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ahmed Yousif Al-Qarata",
+      "gender": "M",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ammar Abdulla Qambar",
+      "gender": "M",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Zainab Abdul Amir",
+      "gender": "F",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ebtisam Abdul Aziz Al-Dallal",
+      "gender": "F",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Fatima Abbas Al Asfoor",
+      "gender": "F",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Ali bin Saleh Al-Saleh",
+      "gender": "M",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jamal Mohamed Al-Fakhro",
+      "gender": "M",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jameela Ali Salman",
+      "gender": "F",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dalal Abdulla Jassim Al Zayed",
+      "gender": "F",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nancy Dinah Elly Khedouri",
+      "gender": "F",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "parties": {
+    "IND": {
+      "name": "مستقل",
+      "en": "Independent",
+      "range": 1,
+      "color": "#808080"
+    }
+  }
 }
