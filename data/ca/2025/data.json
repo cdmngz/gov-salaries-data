@@ -631,7 +631,208 @@
       }
     }
   ],
-  "senate": [],
+  "senate": [
+    {
+      "name": "Marc Gold",
+      "gender": "M",
+      "district": "Quebec",
+      "party": "GOV",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Raymonde Saint-Germain",
+      "gender": "F",
+      "district": "Quebec",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Yuen Pau Woo",
+      "gender": "M",
+      "district": "British Columbia",
+      "party": "PSG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Frances Lankin",
+      "gender": "F",
+      "district": "Ontario",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Paula Simons",
+      "gender": "F",
+      "district": "Alberta",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Peter Boehm",
+      "gender": "M",
+      "district": "Ontario",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Denise Batters",
+      "gender": "F",
+      "district": "Saskatchewan",
+      "party": "CPC",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Leo Housakos",
+      "gender": "M",
+      "district": "Quebec",
+      "party": "CPC",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Don Plett",
+      "gender": "M",
+      "district": "Manitoba",
+      "party": "CPC",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Yonah Martin",
+      "gender": "F",
+      "district": "British Columbia",
+      "party": "CPC",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Scott Tannas",
+      "gender": "M",
+      "district": "Alberta",
+      "party": "CSG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Bernadette Clement",
+      "gender": "F",
+      "district": "Ontario",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Pierre-Hugues Boisvenu",
+      "gender": "M",
+      "district": "Quebec",
+      "party": "CPC",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Julie Miville-Dechêne",
+      "gender": "F",
+      "district": "Quebec",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Tony Loffreda",
+      "gender": "M",
+      "district": "Quebec",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "René Cormier",
+      "gender": "M",
+      "district": "New Brunswick",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Jane Cordy",
+      "gender": "F",
+      "district": "Nova Scotia",
+      "party": "PSG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "David Wells",
+      "gender": "M",
+      "district": "Newfoundland and Labrador",
+      "party": "CPC",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Patti LaBoucane-Benson",
+      "gender": "F",
+      "district": "Alberta",
+      "party": "GOV",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Stan Kutcher",
+      "gender": "M",
+      "district": "Nova Scotia",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    }
+  ],
   "officials": [
     {
       "name": "Richard Wagner",
@@ -678,6 +879,30 @@
       "en": "Green Party",
       "range": 1,
       "color": "#3D9B35"
+    },
+    "ISG": {
+      "name": "Independent Senators Group",
+      "en": "Independent Senators Group",
+      "range": 2,
+      "color": "#6C757D"
+    },
+    "PSG": {
+      "name": "Progressive Senate Group",
+      "en": "Progressive Senate Group",
+      "range": 2,
+      "color": "#8E44AD"
+    },
+    "CSG": {
+      "name": "Canadian Senators Group",
+      "en": "Canadian Senators Group",
+      "range": 3,
+      "color": "#1E6FA4"
+    },
+    "GOV": {
+      "name": "Government Representative Office",
+      "en": "Government Representative Office",
+      "range": 3,
+      "color": "#1B4D3E"
     }
   }
 }

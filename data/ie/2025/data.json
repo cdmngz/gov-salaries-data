@@ -320,6 +320,226 @@
       "sources": [
         { "Oireachtas": "https://www.oireachtas.ie/" }
       ]
+    },
+    {
+      "name": "Pauline O'Reilly",
+      "gender": "F",
+      "party": "GP",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Pauline-OReilly.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Rebecca Moynihan",
+      "gender": "F",
+      "party": "LAB",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Rebecca-Moynihan.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Barry Ward",
+      "gender": "M",
+      "party": "FG",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Barry-Ward.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Regina Doherty",
+      "gender": "F",
+      "party": "FG",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Regina-Doherty.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Lisa Chambers",
+      "gender": "F",
+      "party": "FF",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Lisa-Chambers.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "John McGahon",
+      "gender": "M",
+      "party": "FG",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/John-McGahon.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Robbie Gallagher",
+      "gender": "M",
+      "party": "FF",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Robbie-Gallagher.S.2016-04-25/" }
+      ]
+    },
+    {
+      "name": "Annie Hoey",
+      "gender": "F",
+      "party": "LAB",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Annie-Hoey.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Lynn Boylan",
+      "gender": "F",
+      "party": "SF",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Lynn-Boylan.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Niall Ó Donnghaile",
+      "gender": "M",
+      "party": "SF",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Niall-O-Donnghaile.S.2016-06-08/" }
+      ]
+    },
+    {
+      "name": "Vincent P. Martin",
+      "gender": "M",
+      "party": "GP",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Vincent-P-Martin.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Malcolm Byrne",
+      "gender": "M",
+      "party": "FF",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Malcolm-Byrne.S.2020-02-01/" }
+      ]
+    },
+    {
+      "name": "Sharon Keogan",
+      "gender": "F",
+      "party": "IND",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Sharon-Keogan.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Eileen Flynn",
+      "gender": "F",
+      "party": "IND",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Eileen-Flynn.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Gerard Craughwell",
+      "gender": "M",
+      "party": "IND",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Gerard-C-P-Craughwell.S.2014-10-14/" }
+      ]
+    },
+    {
+      "name": "Mary Seery Kearney",
+      "gender": "F",
+      "party": "FG",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Mary-Seery-Kearney.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Erin McGreehan",
+      "gender": "F",
+      "party": "FF",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Erin-McGreehan.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Tim Lombard",
+      "gender": "M",
+      "party": "FG",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Timothy-Lombard.S.2016-06-11/" }
+      ]
+    },
+    {
+      "name": "Micheál Carrigy",
+      "gender": "M",
+      "party": "FG",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Micheal-Carrigy.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Victor Boyhan",
+      "gender": "M",
+      "party": "IND",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Victor-Boyhan.S.2016-04-25/" }
+      ]
     }
   ],
   "parties": {

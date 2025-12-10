@@ -1416,6 +1416,206 @@
         "gross": 73015,
         "net": 54761
       }
+    },
+    {
+      "name": "François-Noël Buffet",
+      "gender": "M",
+      "district": "Rhône",
+      "party": "LR",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Valérie Boyer",
+      "gender": "F",
+      "district": "Bouches-du-Rhône",
+      "party": "LR",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Céline Boulay-Espéronnier",
+      "gender": "F",
+      "district": "Paris",
+      "party": "LR",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Patrick Chaize",
+      "gender": "M",
+      "district": "Ain",
+      "party": "LR",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Jean-François Rapin",
+      "gender": "M",
+      "district": "Pas-de-Calais",
+      "party": "LR",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Philippe Bas",
+      "gender": "M",
+      "district": "Manche",
+      "party": "LR",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Dominique Vérien",
+      "gender": "F",
+      "district": "Yonne",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Olivier Cadic",
+      "gender": "M",
+      "district": "French citizens abroad",
+      "party": "UC",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Joël Labbé",
+      "gender": "M",
+      "district": "Morbihan",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ronan Dantec",
+      "gender": "M",
+      "district": "Loire-Atlantique",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Daniel Salmon",
+      "gender": "M",
+      "district": "Ille-et-Vilaine",
+      "party": "GEST",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Laurence Rossignol",
+      "gender": "F",
+      "district": "Oise",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Rémi Féraud",
+      "gender": "M",
+      "district": "Paris",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Hussein Bourgi",
+      "gender": "M",
+      "district": "Hérault",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Didier Marie",
+      "gender": "M",
+      "district": "Seine-Maritime",
+      "party": "SER",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Pascal Savoldelli",
+      "gender": "M",
+      "district": "Val-de-Marne",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Ian Brossat",
+      "gender": "M",
+      "district": "Paris",
+      "party": "PCF",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Cécile Cukierman",
+      "gender": "F",
+      "district": "Loire",
+      "party": "CRCE-K",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Stéphane Le Rudulier",
+      "gender": "M",
+      "district": "Bouches-du-Rhône",
+      "party": "LR",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
+    },
+    {
+      "name": "Agnès Canayer",
+      "gender": "F",
+      "district": "Seine-Maritime",
+      "party": "LR",
+      "salary": {
+        "gross": 73015,
+        "net": 54761
+      }
     }
   ],
   "officials": [
