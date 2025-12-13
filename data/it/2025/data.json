@@ -6,9 +6,12 @@
       "gender": "M",
       "role": "President of the Italian Republic",
       "party": "IND",
-      "salary": { "gross": null, "net": null },
+      "salary": { "gross": 239182, "net": 120000 },
       "sources": [
-        { "Presidenza della Repubblica": "https://www.quirinale.it/" }
+        { "Presidenza della Repubblica": "https://www.quirinale.it/" },
+        {
+          "Retribuzione del Presidente della Repubblica": "https://www.giurdanella.it/2023/02/stipendi-cariche-istituzionali-retribuzioni/"
+        }
       ]
     },
     {
@@ -16,31 +19,261 @@
       "gender": "F",
       "role": "President of the Council of Ministers",
       "party": "FDI",
-      "salary": { "gross": null, "net": null },
+      "salary": { "gross": 114000, "net": 67000 },
       "sources": [
-        { "Presidenza del Consiglio dei Ministri": "https://www.governo.it/it/il-presidente" }
+        { "Presidenza del Consiglio dei Ministri": "https://www.governo.it/it/il-presidente" },
+        {
+          "Trattamento economico del Presidente del Consiglio": "https://www.money.it/stipendio-premier-quanto-guadagna-presidente-del-consiglio"
+        }
       ]
     }
   ],
   "ministers": [
     {
+      "name": "Antonio Tajani",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Foreign Affairs and International Cooperation",
+      "party": "FI",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero degli Affari Esteri": "https://www.esteri.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Matteo Salvini",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Infrastructure and Transport",
+      "party": "LEGA",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero delle Infrastrutture e dei Trasporti": "https://www.mit.gov.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
       "name": "Giancarlo Giorgetti",
       "gender": "M",
       "role": "Minister of Economy and Finance",
       "party": "LEGA",
-      "salary": { "gross": null, "net": null },
+      "salary": { "gross": 96000, "net": 58000 },
       "sources": [
-        { "Ministero dell'Economia e delle Finanze": "https://www.mef.gov.it/" }
+        { "Ministero dell'Economia e delle Finanze": "https://www.mef.gov.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
       ]
     },
     {
-      "name": "Antonio Tajani",
+      "name": "Guido Crosetto",
       "gender": "M",
-      "role": "Minister of Foreign Affairs and International Cooperation",
-      "party": "FI",
-      "salary": { "gross": null, "net": null },
+      "role": "Minister of Defence",
+      "party": "FDI",
+      "salary": { "gross": 96000, "net": 58000 },
       "sources": [
-        { "Ministero degli Affari Esteri": "https://www.esteri.it/" }
+        { "Ministero della Difesa": "https://www.difesa.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Carlo Nordio",
+      "gender": "M",
+      "role": "Minister of Justice",
+      "party": "IND",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero della Giustizia": "https://www.giustizia.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Roberto Calderoli",
+      "gender": "M",
+      "role": "Minister for Regional Affairs and Autonomies",
+      "party": "LEGA",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero per gli Affari Regionali e le Autonomie": "https://www.affariregionali.gov.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Nello Musumeci",
+      "gender": "M",
+      "role": "Minister for Civil Protection and Sea Policies",
+      "party": "FDI",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero della Protezione Civile e delle Politiche del Mare": "https://www.governo.it/it/ministro-onor-nello-musumeci" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Gilberto Pichetto Fratin",
+      "gender": "M",
+      "role": "Minister of the Environment and Energy Security",
+      "party": "FI",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Ambiente e della Sicurezza Energetica": "https://www.mase.gov.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Adolfo Urso",
+      "gender": "M",
+      "role": "Minister for Enterprises and Made in Italy",
+      "party": "FDI",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero delle Imprese e del Made in Italy": "https://www.mimit.gov.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Raffaele Fitto",
+      "gender": "M",
+      "role": "Minister for European Affairs, South, Cohesion Policies and NRRP",
+      "party": "FDI",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministro per gli Affari Europei, il Sud, le Politiche di Coesione e il PNRR": "https://www.governo.it/it/ministro/raffaele-fitto" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Gennaro Sangiuliano",
+      "gender": "M",
+      "role": "Minister of Culture",
+      "party": "FDI",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero della Cultura": "https://www.cultura.gov.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Daniela Santanchè",
+      "gender": "F",
+      "role": "Minister of Tourism",
+      "party": "FDI",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero del Turismo": "https://www.ministeroturismo.gov.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Francesco Lollobrigida",
+      "gender": "M",
+      "role": "Minister of Agriculture, Food Sovereignty and Forests",
+      "party": "FDI",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Agricoltura, della Sovranità Alimentare e delle Foreste": "https://www.politicheagricole.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Marina Elvira Calderone",
+      "gender": "F",
+      "role": "Minister of Labour and Social Policies",
+      "party": "IND",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero del Lavoro e delle Politiche Sociali": "https://www.lavoro.gov.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Giuseppe Valditara",
+      "gender": "M",
+      "role": "Minister of Education and Merit",
+      "party": "LEGA",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Istruzione e del Merito": "https://www.miur.gov.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Anna Maria Bernini",
+      "gender": "F",
+      "role": "Minister of University and Research",
+      "party": "FI",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Università e della Ricerca": "https://www.mur.gov.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Eugenia Maria Roccella",
+      "gender": "F",
+      "role": "Minister for Family, Birth Rate and Equal Opportunities",
+      "party": "FDI",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero per la Famiglia, la Natalità e le Pari Opportunità": "https://www.governo.it/it/dipartimenti/dipartimento-politiche-famiglia" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Luca Ciriani",
+      "gender": "M",
+      "role": "Minister for Relations with Parliament",
+      "party": "FDI",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero per i Rapporti con il Parlamento": "https://www.governo.it/it/ministro/luca-ciriani" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Maria Elisabetta Alberti Casellati",
+      "gender": "F",
+      "role": "Minister for Institutional Reforms and Regulatory Simplification",
+      "party": "FI",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministro per le Riforme Istituzionali e la Semplificazione Normativa": "https://www.governo.it/it/ministro/maria-elisabetta-alberti-casellati" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
       ]
     },
     {
@@ -48,33 +281,572 @@
       "gender": "M",
       "role": "Minister of the Interior",
       "party": "IND",
-      "salary": { "gross": null, "net": null },
+      "salary": { "gross": 96000, "net": 58000 },
       "sources": [
-        { "Ministero dell'Interno": "https://www.interno.gov.it/" }
+        { "Ministero dell'Interno": "https://www.interno.gov.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Orazio Schillaci",
+      "gender": "M",
+      "role": "Minister of Health",
+      "party": "IND",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero della Salute": "https://www.salute.gov.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Paolo Zangrillo",
+      "gender": "M",
+      "role": "Minister for Public Administration",
+      "party": "FI",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero per la Pubblica Amministrazione": "https://www.funzionepubblica.gov.it/" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Andrea Abodi",
+      "gender": "M",
+      "role": "Minister for Sport and Youth",
+      "party": "IND",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero per lo Sport e i Giovani": "https://www.governo.it/it/ministro/andrea-abodi" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
+      ]
+    },
+    {
+      "name": "Alessandra Locatelli",
+      "gender": "F",
+      "role": "Minister for Disabilities",
+      "party": "LEGA",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero per le Disabilità": "https://www.governo.it/it/ministro/alessandra-locatelli" },
+        {
+          "Retribuzione dei ministri": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg"
+        }
       ]
     }
   ],
   "deputies": [
     {
-      "name": "Lorenzo Fontana",
-      "gender": "M",
-      "party": "LEGA",
       "district": "Camera dei deputati",
+      "gender": "M",
+      "name": "Lorenzo Fontana",
+      "party": "LEGA",
       "role": "President of the Chamber of Deputies",
-      "salary": { "gross": null, "net": null },
+      "salary": { "gross": 114000, "net": 67000 },
       "sources": [
-        { "Camera dei deputati": "https://www.camera.it/leg19/1" }
+        { "Camera dei deputati": "https://www.camera.it/leg19/1" },
+        {
+          "Trattamento economico delle cariche parlamentari": "https://www.money.it/quanto-guadagnano-deputati-senatori-parlamentari"
+        }
       ]
     },
     {
-      "name": "Giorgio Mulè",
-      "gender": "M",
-      "party": "FI",
       "district": "Camera dei deputati",
+      "gender": "M",
+      "name": "Giorgio Mulè",
+      "party": "FI",
       "role": "Vice President of the Chamber of Deputies",
-      "salary": { "gross": null, "net": null },
+      "salary": { "gross": 125224, "net": 69000 },
       "sources": [
-        { "Camera dei deputati": "https://www.camera.it/" }
+        { "Camera dei deputati": "https://www.camera.it/" },
+        { "Indennità parlamentare": "https://www.camera.it/leg19/465" }
+      ]
+    },
+    {
+      "district": "Presidenza del Consiglio dei Ministri",
+      "gender": "M",
+      "name": "Alfredo Mantovano",
+      "party": "IND",
+      "role": "Undersecretary to the Presidency of the Council of Ministers",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Presidenza del Consiglio dei Ministri": "https://www.governo.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Presidenza del Consiglio dei Ministri",
+      "gender": "M",
+      "name": "Giovanbattista Fazzolari",
+      "party": "FDI",
+      "role": "Undersecretary to the Presidency for Government Programme Coordination",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Presidenza del Consiglio dei Ministri": "https://www.governo.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Presidenza del Consiglio dei Ministri",
+      "gender": "M",
+      "name": "Alessio Butti",
+      "party": "FDI",
+      "role": "Undersecretary for Technological Innovation and Digital Transition",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Dipartimento per la Trasformazione Digitale": "https://innovazione.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Presidenza del Consiglio dei Ministri",
+      "gender": "M",
+      "name": "Alberto Barachini",
+      "party": "FI",
+      "role": "Undersecretary for Information and Publishing",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Dipartimento per l'Informazione e l'Editoria": "https://informazioneeditoria.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Presidenza del Consiglio dei Ministri",
+      "gender": "M",
+      "name": "Alessandro Morelli",
+      "party": "LEGA",
+      "role": "Undersecretary to the Presidency for Territorial Cohesion and Space Policies",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Presidenza del Consiglio dei Ministri": "https://www.governo.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "gender": "M",
+      "name": "Edmondo Cirielli",
+      "party": "FDI",
+      "role": "Deputy Minister of Foreign Affairs and International Cooperation",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero degli Affari Esteri": "https://www.esteri.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "gender": "F",
+      "name": "Maria Tripodi",
+      "party": "FI",
+      "role": "Undersecretary of State for Foreign Affairs",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero degli Affari Esteri": "https://www.esteri.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "gender": "M",
+      "name": "Giorgio Silli",
+      "party": "FI",
+      "role": "Undersecretary of State for Foreign Affairs",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero degli Affari Esteri": "https://www.esteri.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero dell'Interno",
+      "gender": "M",
+      "name": "Nicola Molteni",
+      "party": "LEGA",
+      "role": "Deputy Minister of the Interior",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Interno": "https://www.interno.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero dell'Interno",
+      "gender": "F",
+      "name": "Wanda Ferro",
+      "party": "FDI",
+      "role": "Undersecretary of State for the Interior",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Interno": "https://www.interno.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero dell'Interno",
+      "gender": "M",
+      "name": "Emanuele Prisco",
+      "party": "FDI",
+      "role": "Undersecretary of State for the Interior",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Interno": "https://www.interno.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero della Giustizia",
+      "gender": "M",
+      "name": "Francesco Paolo Sisto",
+      "party": "FI",
+      "role": "Deputy Minister of Justice",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero della Giustizia": "https://www.giustizia.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero della Giustizia",
+      "gender": "M",
+      "name": "Andrea Delmastro Delle Vedove",
+      "party": "FDI",
+      "role": "Undersecretary of State for Justice",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero della Giustizia": "https://www.giustizia.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero della Giustizia",
+      "gender": "M",
+      "name": "Andrea Ostellari",
+      "party": "LEGA",
+      "role": "Undersecretary of State for Justice",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero della Giustizia": "https://www.giustizia.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero della Difesa",
+      "gender": "F",
+      "name": "Isabella Rauti",
+      "party": "FDI",
+      "role": "Deputy Minister of Defence",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero della Difesa": "https://www.difesa.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero della Difesa",
+      "gender": "M",
+      "name": "Matteo Perego di Cremnago",
+      "party": "FI",
+      "role": "Undersecretary of State for Defence",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero della Difesa": "https://www.difesa.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero dell'Economia e delle Finanze",
+      "gender": "M",
+      "name": "Maurizio Leo",
+      "party": "FDI",
+      "role": "Deputy Minister of Economy and Finance",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Economia e delle Finanze": "https://www.mef.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero dell'Economia e delle Finanze",
+      "gender": "M",
+      "name": "Federico Freni",
+      "party": "LEGA",
+      "role": "Deputy Minister of Economy and Finance",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Economia e delle Finanze": "https://www.mef.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero dell'Economia e delle Finanze",
+      "gender": "F",
+      "name": "Lucia Albano",
+      "party": "FDI",
+      "role": "Undersecretary of State for Economy and Finance",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Economia e delle Finanze": "https://www.mef.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero dell'Economia e delle Finanze",
+      "gender": "F",
+      "name": "Sandra Savino",
+      "party": "FI",
+      "role": "Undersecretary of State for Economy and Finance",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Economia e delle Finanze": "https://www.mef.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero delle Imprese e del Made in Italy",
+      "gender": "M",
+      "name": "Valentino Valentini",
+      "party": "FI",
+      "role": "Deputy Minister for Enterprises and Made in Italy",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero delle Imprese e del Made in Italy": "https://www.mise.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero delle Imprese e del Made in Italy",
+      "gender": "F",
+      "name": "Fausta Bergamotto",
+      "party": "FDI",
+      "role": "Undersecretary for Enterprises and Made in Italy",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero delle Imprese e del Made in Italy": "https://www.mise.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero delle Imprese e del Made in Italy",
+      "gender": "M",
+      "name": "Massimo Bitonci",
+      "party": "LEGA",
+      "role": "Undersecretary for Enterprises and Made in Italy",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero delle Imprese e del Made in Italy": "https://www.mise.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero dell'Agricoltura, della Sovranità Alimentare e delle Foreste",
+      "gender": "M",
+      "name": "Patrizio La Pietra",
+      "party": "FDI",
+      "role": "Undersecretary for Agriculture, Food Sovereignty and Forests",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Agricoltura": "https://www.politicheagricole.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero dell'Agricoltura, della Sovranità Alimentare e delle Foreste",
+      "gender": "M",
+      "name": "Luigi D'Eramo",
+      "party": "LEGA",
+      "role": "Undersecretary for Agriculture, Food Sovereignty and Forests",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Agricoltura": "https://www.politicheagricole.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero dell'Agricoltura, della Sovranità Alimentare e delle Foreste",
+      "gender": "M",
+      "name": "Gian Marco Centinaio",
+      "party": "LEGA",
+      "role": "Undersecretary for Agriculture, Food Sovereignty and Forests",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Agricoltura": "https://www.politicheagricole.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero dell'Ambiente e della Sicurezza Energetica",
+      "gender": "F",
+      "name": "Vannia Gava",
+      "party": "LEGA",
+      "role": "Deputy Minister for Environment and Energy Security",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Ambiente e della Sicurezza Energetica": "https://www.mase.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero dell'Ambiente e della Sicurezza Energetica",
+      "gender": "M",
+      "name": "Claudio Barbaro",
+      "party": "FDI",
+      "role": "Undersecretary for Environment and Energy Security",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Ambiente e della Sicurezza Energetica": "https://www.mase.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero delle Infrastrutture e dei Trasporti",
+      "gender": "M",
+      "name": "Galeazzo Bignami",
+      "party": "FDI",
+      "role": "Deputy Minister of Infrastructure and Transport",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero delle Infrastrutture e dei Trasporti": "https://www.mit.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero delle Infrastrutture e dei Trasporti",
+      "gender": "M",
+      "name": "Edoardo Rixi",
+      "party": "LEGA",
+      "role": "Deputy Minister of Infrastructure and Transport",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero delle Infrastrutture e dei Trasporti": "https://www.mit.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero delle Infrastrutture e dei Trasporti",
+      "gender": "M",
+      "name": "Tullio Ferrante",
+      "party": "FDI",
+      "role": "Undersecretary of State for Infrastructure and Transport",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero delle Infrastrutture e dei Trasporti": "https://www.mit.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero del Lavoro e delle Politiche Sociali",
+      "gender": "F",
+      "name": "Maria Teresa Bellucci",
+      "party": "FDI",
+      "role": "Deputy Minister of Labour and Social Policies",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero del Lavoro e delle Politiche Sociali": "https://www.lavoro.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero del Lavoro e delle Politiche Sociali",
+      "gender": "M",
+      "name": "Claudio Durigon",
+      "party": "LEGA",
+      "role": "Deputy Minister of Labour and Social Policies",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero del Lavoro e delle Politiche Sociali": "https://www.lavoro.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero della Salute",
+      "gender": "M",
+      "name": "Marcello Gemmato",
+      "party": "FDI",
+      "role": "Undersecretary of State for Health",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero della Salute": "https://www.salute.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero dell'Istruzione e del Merito",
+      "gender": "F",
+      "name": "Paola Frassinetti",
+      "party": "FDI",
+      "role": "Undersecretary of State for Education and Merit",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Istruzione e del Merito": "https://www.istruzione.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero dell'Università e della Ricerca",
+      "gender": "F",
+      "name": "Augusta Montaruli",
+      "party": "FDI",
+      "role": "Undersecretary of State for Universities and Research",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero dell'Università e della Ricerca": "https://www.mur.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero della Cultura",
+      "gender": "M",
+      "name": "Gianmarco Mazzi",
+      "party": "FDI",
+      "role": "Undersecretary of State for Culture",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero della Cultura": "https://cultura.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero della Cultura",
+      "gender": "M",
+      "name": "Vittorio Sgarbi",
+      "party": "IND",
+      "role": "Undersecretary of State for Culture",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero della Cultura": "https://cultura.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Ministero del Turismo",
+      "gender": "M",
+      "name": "Gianluca Caramanna",
+      "party": "FDI",
+      "role": "Undersecretary of State for Tourism",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Ministero del Turismo": "https://www.ministeroturismo.gov.it/" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
+      ]
+    },
+    {
+      "district": "Presidenza del Consiglio dei Ministri",
+      "gender": "F",
+      "name": "Matilde Siracusano",
+      "party": "FI",
+      "role": "Undersecretary for Relations with Parliament",
+      "salary": { "gross": 96000, "net": 58000 },
+      "sources": [
+        { "Dipartimento Rapporti con il Parlamento": "https://www.governo.it/it/dipartimenti/rapporti-con-il-parlamento/9314" },
+        { "Retribuzione dei sottosegretari": "https://www.gazzettaufficiale.it/eli/id/2014/03/05/14A01802/sg" }
       ]
     }
   ],
@@ -85,9 +857,12 @@
       "party": "FDI",
       "district": "Senato della Repubblica",
       "role": "President of the Senate",
-      "salary": { "gross": null, "net": null },
+      "salary": { "gross": 114000, "net": 67000 },
       "sources": [
-        { "Senato della Repubblica": "https://www.senato.it/" }
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Trattamento economico delle cariche parlamentari": "https://www.money.it/quanto-guadagnano-deputati-senatori-parlamentari"
+        }
       ]
     },
     {
@@ -96,9 +871,572 @@
       "party": "PD",
       "district": "Senato della Repubblica",
       "role": "Vice President of the Senate",
-      "salary": { "gross": null, "net": null },
+      "salary": { "gross": 125224, "net": 69000 },
       "sources": [
-        { "Senato della Repubblica": "https://www.senato.it/" }
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Maurizio Gasparri",
+      "gender": "M",
+      "party": "FI",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Gian Marco Centinaio",
+      "gender": "M",
+      "party": "LEGA",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Stefano Patuanelli",
+      "gender": "M",
+      "party": "M5S",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Andrea Crisanti",
+      "gender": "M",
+      "party": "PD",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Simona Malpezzi",
+      "gender": "F",
+      "party": "PD",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Maria Domenica Castellone",
+      "gender": "F",
+      "party": "M5S",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Paola Taverna",
+      "gender": "F",
+      "party": "M5S",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Barbara Floridia",
+      "gender": "F",
+      "party": "M5S",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Ettore Licheri",
+      "gender": "M",
+      "party": "M5S",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Giulia Bongiorno",
+      "gender": "F",
+      "party": "LEGA",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Luca Ciriani",
+      "gender": "M",
+      "party": "FDI",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Isabella Rauti",
+      "gender": "F",
+      "party": "FDI",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Giulia Lupo",
+      "gender": "F",
+      "party": "M5S",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Dario Parrini",
+      "gender": "M",
+      "party": "PD",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Cecilia D'Elia",
+      "gender": "F",
+      "party": "PD",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Andrea de Bertoldi",
+      "gender": "M",
+      "party": "FDI",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Alberto Balboni",
+      "gender": "M",
+      "party": "FDI",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Luca De Carlo",
+      "gender": "M",
+      "party": "FDI",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Daniela Santanchè",
+      "gender": "F",
+      "party": "FDI",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Pasquale Pepe",
+      "gender": "M",
+      "party": "LEGA",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Erika Stefani",
+      "gender": "F",
+      "party": "LEGA",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Gianfranco Rufa",
+      "gender": "M",
+      "party": "LEGA",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Tiziana Nisini",
+      "gender": "F",
+      "party": "LEGA",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Licia Ronzulli",
+      "gender": "F",
+      "party": "FI",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Annamaria Bernini",
+      "gender": "F",
+      "party": "FI",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Claudio Fazzone",
+      "gender": "M",
+      "party": "FI",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Francesco Boccia",
+      "gender": "M",
+      "party": "PD",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Alessandro Alfieri",
+      "gender": "M",
+      "party": "PD",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Pier Ferdinando Casini",
+      "gender": "M",
+      "party": "IND",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Elena Cattaneo",
+      "gender": "F",
+      "party": "IND",
+      "district": "Senato della Repubblica",
+      "role": "Senator for Life",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Liliana Segre",
+      "gender": "F",
+      "party": "IND",
+      "district": "Senato della Repubblica",
+      "role": "Senator for Life",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Massimiliano Romeo",
+      "gender": "M",
+      "party": "LEGA",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Stefano Candiani",
+      "gender": "M",
+      "party": "LEGA",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Luca Briziarelli",
+      "gender": "M",
+      "party": "LEGA",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Manuel Vescovi",
+      "gender": "M",
+      "party": "LEGA",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Nicola Calandrini",
+      "gender": "M",
+      "party": "FDI",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Giovanbattista Fazzolari",
+      "gender": "M",
+      "party": "FDI",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Francesco Zaffini",
+      "gender": "M",
+      "party": "FDI",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Alessandra Maiorino",
+      "gender": "F",
+      "party": "M5S",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
+      ]
+    },
+    {
+      "name": "Maria Alessandra Gallone",
+      "gender": "F",
+      "party": "FI",
+      "district": "Senato della Repubblica",
+      "role": "Senator",
+      "salary": { "gross": 125224, "net": 69000 },
+      "sources": [
+        { "Senato della Repubblica": "https://www.senato.it/" },
+        {
+          "Indennità parlamentare": "https://www.senato.it/1025?sezione=123&articolo_numero_articolo=791"
+        }
       ]
     }
   ],
@@ -130,13 +1468,13 @@
     "M5S": {
       "name": "Movimento 5 Stelle",
       "en": "Five Star Movement",
-      "range": 2,
+      "range": 3,
       "color": "#f6b40e"
     },
     "IND": {
       "name": "Indipendente",
       "en": "Independent",
-      "range": 1,
+      "range": 3,
       "color": "#808080"
     }
   }
