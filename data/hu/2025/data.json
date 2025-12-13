@@ -76,9 +76,714 @@
       "sources": [
         { "Országgyűlés": "https://www.parlament.hu/" }
       ]
+    },
+    {
+      "name": "János Latorcai",
+      "gender": "M",
+      "party": "KDNP",
+      "district": "National Assembly",
+      "role": "Deputy Speaker of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Márta Mátrai",
+      "gender": "F",
+      "party": "FIDESZ",
+      "district": "National Assembly",
+      "role": "Deputy Speaker of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Sándor Lezsák",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "National Assembly",
+      "role": "Deputy Speaker of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Dóra Dúró",
+      "gender": "F",
+      "party": "MHM",
+      "district": "National Assembly",
+      "role": "Deputy Speaker of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Máté Kocsis",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Budapest 08",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Zsófia Koncz",
+      "gender": "F",
+      "party": "FIDESZ",
+      "district": "Borsod-Abaúj-Zemplén 6",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Csaba Hende",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Vas 1",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Lőrinc Nacsa",
+      "gender": "M",
+      "party": "KDNP",
+      "district": "National Assembly",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Zsolt Semjén",
+      "gender": "M",
+      "party": "KDNP",
+      "district": "National Assembly",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Bertalan Tóth",
+      "gender": "M",
+      "party": "MSZP",
+      "district": "Baranya 4",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Tamás Harangozó",
+      "gender": "M",
+      "party": "MSZP",
+      "district": "Tolna 1",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Gergely Arató",
+      "gender": "M",
+      "party": "DK",
+      "district": "National Assembly",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Ágnes Vadai",
+      "gender": "F",
+      "party": "DK",
+      "district": "National Assembly",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Ferenc Gyurcsány",
+      "gender": "M",
+      "party": "DK",
+      "district": "Veszprém 4",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Tímea Szabó",
+      "gender": "F",
+      "party": "PZ",
+      "district": "Budapest 10",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Bence Tordai",
+      "gender": "M",
+      "party": "PZ",
+      "district": "Budapest 04",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Péter Ungár",
+      "gender": "M",
+      "party": "LMP",
+      "district": "Vas 2",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Antal Csárdi",
+      "gender": "M",
+      "party": "LMP",
+      "district": "Budapest 01",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Ferenc Gelencsér",
+      "gender": "M",
+      "party": "MOMENT",
+      "district": "Budapest 01",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Miklós Hajnal",
+      "gender": "M",
+      "party": "MOMENT",
+      "district": "Budapest 03",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "László Toroczkai",
+      "gender": "M",
+      "party": "MHM",
+      "district": "Csongrád-Csanád 3",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Előd Novák",
+      "gender": "M",
+      "party": "MHM",
+      "district": "National Assembly",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Koloman Brenner",
+      "gender": "M",
+      "party": "JOBBIK",
+      "district": "Baranya 2",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "György Szilágyi",
+      "gender": "M",
+      "party": "JOBBIK",
+      "district": "Budapest 15",
+      "role": "Member of the National Assembly",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
     }
   ],
-  "senate": [],
+  "senate": [
+    {
+      "name": "Gergely Gulyás",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Budapest 03",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Lajos Kósa",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Hajdú-Bihar 1",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "János Lázár",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Csongrád-Csanád 4",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Judit Varga",
+      "gender": "F",
+      "party": "FIDESZ",
+      "district": "Budapest 02",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Tibor Navracsics",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Veszprém 3",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Bence Rétvári",
+      "gender": "M",
+      "party": "KDNP",
+      "district": "Pest 4",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "István Simicskó",
+      "gender": "M",
+      "party": "KDNP",
+      "district": "Budapest 01",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "István Hollik",
+      "gender": "M",
+      "party": "KDNP",
+      "district": "National Assembly",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Tamás Menczer",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Pest 2",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Róbert Zsigó",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Bács-Kiskun 6",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "János Halász",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Budapest 12",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "László Tasó",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Hajdú-Bihar 3",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "András Tállai",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Borsod-Abaúj-Zemplén 7",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Gábor Bányai",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Bács-Kiskun 5",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Gyula Budai",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Jász-Nagykun-Szolnok 2",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Bence Tuzson",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Pest 5",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Kristóf Szatmáry",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Budapest 12",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "József Attila Móring",
+      "gender": "M",
+      "party": "KDNP",
+      "district": "Somogy 3",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Ferenc Gelencsér",
+      "gender": "M",
+      "party": "MOMENT",
+      "district": "Budapest 01",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Bence Tordai",
+      "gender": "M",
+      "party": "PZ",
+      "district": "Budapest 04",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Tímea Szabó",
+      "gender": "F",
+      "party": "PZ",
+      "district": "National Assembly",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Péter Ungár",
+      "gender": "M",
+      "party": "LMP",
+      "district": "National Assembly",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "László Varju",
+      "gender": "M",
+      "party": "DK",
+      "district": "Budapest 11",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Ágnes Vadai",
+      "gender": "F",
+      "party": "DK",
+      "district": "National Assembly",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Zita Gurmai",
+      "gender": "F",
+      "party": "MSZP",
+      "district": "National Assembly",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Gergely Arató",
+      "gender": "M",
+      "party": "DK",
+      "district": "National Assembly",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Ákos Hadházy",
+      "gender": "M",
+      "party": "IND",
+      "district": "Budapest 16",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Dániel Z. Kárpát",
+      "gender": "M",
+      "party": "JOBBIK",
+      "district": "National Assembly",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Péter Jakab",
+      "gender": "M",
+      "party": "JOBBIK",
+      "district": "National Assembly",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Lóránt Keresztes",
+      "gender": "M",
+      "party": "LMP",
+      "district": "Baranya 1",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "András Jámbor",
+      "gender": "M",
+      "party": "PZ",
+      "district": "Budapest 06",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Márton Tompos",
+      "gender": "M",
+      "party": "MOMENT",
+      "district": "National Assembly",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Anna Orosz",
+      "gender": "F",
+      "party": "MOMENT",
+      "district": "Budapest 11",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "István Apáti",
+      "gender": "M",
+      "party": "MHM",
+      "district": "Szabolcs-Szatmár-Bereg 1",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "János Bencsik",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Komárom-Esztergom 1",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Zsolt Becsó",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Nógrád 1",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Zsolt Németh",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Budapest 02",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Csaba Dömötör",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "National Assembly",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "Sándor Font",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Bács-Kiskun 3",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    },
+    {
+      "name": "István Tiba",
+      "gender": "M",
+      "party": "FIDESZ",
+      "district": "Hajdú-Bihar 2",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Országgyűlés": "https://www.parlament.hu/" }
+      ]
+    }
+  ],
   "parties": {
     "FIDESZ": {
       "name": "Fidesz – Magyar Polgári Szövetség",
@@ -98,6 +803,12 @@
       "range": 2,
       "color": "#1c74bc"
     },
+    "MHM": {
+      "name": "Mi Hazánk Mozgalom",
+      "en": "Our Homeland Movement",
+      "range": 5,
+      "color": "#2d7d46"
+    },
     "MOMENT": {
       "name": "Momentum Mozgalom",
       "en": "Momentum Movement",
@@ -110,10 +821,28 @@
       "range": 5,
       "color": "#0f6f3d"
     },
+    "MSZP": {
+      "name": "Magyar Szocialista Párt",
+      "en": "Hungarian Socialist Party",
+      "range": 2,
+      "color": "#e4002b"
+    },
+    "PZ": {
+      "name": "Párbeszéd – Zöldek",
+      "en": "Dialogue – Greens",
+      "range": 2,
+      "color": "#6ab023"
+    },
+    "LMP": {
+      "name": "Lehet Más a Politika",
+      "en": "Politics Can Be Different",
+      "range": 2,
+      "color": "#008542"
+    },
     "IND": {
       "name": "Független",
       "en": "Independent",
-      "range": 1,
+      "range": 3,
       "color": "#808080"
     }
   }
