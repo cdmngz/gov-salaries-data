@@ -5673,7 +5673,7 @@
     },
     "I": {
       "name": "Independent",
-      "range": 1,
+      "range": 3,
       "color": "#6C757D"
     }
   }
