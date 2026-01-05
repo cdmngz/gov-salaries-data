@@ -147,7 +147,7 @@
     "IND": {
       "name": "無黨籍",
       "en": "Independent",
-      "range": 1,
+      "range": 3,
       "color": "#888888"
     },
     "NPP": {
