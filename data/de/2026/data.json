@@ -1,0 +1,1192 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Friedrich Merz",
+      "gender": "M",
+      "role": "Federal Chancellor of Germany",
+      "party": "CDU",
+      "salary": { "gross": 480000, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Lars Klingbeil",
+      "gender": "M",
+      "portfolio": "Vice Chancellor and Minister of Finance",
+      "party": "SPD",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Alexander Dobrindt",
+      "gender": "M",
+      "portfolio": "Minister of the Interior",
+      "party": "CSU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Katherina Reiche",
+      "gender": "F",
+      "portfolio": "Minister for Economic Affairs and Energy",
+      "party": "CDU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Johann Wadephul",
+      "gender": "M",
+      "portfolio": "Minister for Foreign Affairs",
+      "party": "CDU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Stefanie Hubig",
+      "gender": "F",
+      "portfolio": "Minister of Justice and Consumer Protection",
+      "party": "SPD",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Bärbel Bas",
+      "gender": "F",
+      "portfolio": "Minister of Labour and Social Affairs",
+      "party": "SPD",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Boris Pistorius",
+      "gender": "M",
+      "portfolio": "Minister of Defence",
+      "party": "SPD",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Alois Rainer",
+      "gender": "M",
+      "portfolio": "Minister of Agriculture, Food and Regional Identity",
+      "party": "CSU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Karin Prien",
+      "gender": "F",
+      "portfolio": "Minister for Education, Family, Senior Citizens and Women",
+      "party": "CDU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Nina Warken",
+      "gender": "F",
+      "portfolio": "Minister of Health",
+      "party": "CDU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Patrick Schnieder",
+      "gender": "M",
+      "portfolio": "Minister of Transport",
+      "party": "CDU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Carsten Schneider",
+      "gender": "M",
+      "portfolio": "Minister of Environment, Climate Action, Nature Conservation and Nuclear Safety",
+      "party": "SPD",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Dorothee Bär",
+      "gender": "F",
+      "portfolio": "Minister of Research, Technology and Space",
+      "party": "CSU",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Reem Alabali-Radovan",
+      "gender": "F",
+      "portfolio": "Minister for Economic Cooperation and Development",
+      "party": "SPD",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Verena Hubertz",
+      "gender": "F",
+      "portfolio": "Minister of Housing, Urban Development and Building",
+      "party": "SPD",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Karsten Wildberger",
+      "gender": "M",
+      "portfolio": "Minister of Digitalization and State Modernization",
+      "party": "FDP",
+      "salary": { "gross": 215306, "net": null }
+    },
+    {
+      "name": "Thorsten Frei",
+      "gender": "M",
+      "portfolio": "Minister for Special Affairs and Head of the Chancellery",
+      "party": "CDU",
+      "salary": { "gross": 215306, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Yvonne Magwas",
+      "gender": "F",
+      "party": "CDU",
+      "district": "Chemnitzer Umland – Erzgebirgskreis II",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Thorsten Frei",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Rottweil – Tuttlingen",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Jens Spahn",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Steinfurt I – Borken I",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Gitta Connemann",
+      "gender": "F",
+      "party": "CDU",
+      "district": "Unterems",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Sepp Müller",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Dessau – Wittenberg",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Dorothee Bär",
+      "gender": "F",
+      "party": "CSU",
+      "district": "Kulmbach",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Alexander Dobrindt",
+      "gender": "M",
+      "party": "CSU",
+      "district": "Weilheim",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Rolf Mützenich",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Köln I",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Katja Mast",
+      "gender": "F",
+      "party": "SPD",
+      "district": "Baden-Württemberg (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Kevin Kühnert",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Berlin-Tempelhof-Schöneberg",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Dirk Wiese",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Hochsauerlandkreis",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Dagmar Schmidt",
+      "gender": "F",
+      "party": "SPD",
+      "district": "Lahn-Dill",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Katharina Dröge",
+      "gender": "F",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "Köln II",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Britta Haßelmann",
+      "gender": "F",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "Nordrhein-Westfalen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Konstantin von Notz",
+      "gender": "M",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "Herzogtum Lauenburg – Stormarn-Süd",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Irene Mihalic",
+      "gender": "F",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "Nordrhein-Westfalen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Omid Nouripour",
+      "gender": "M",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "Frankfurt am Main II",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Christian Dürr",
+      "gender": "M",
+      "party": "FDP",
+      "district": "Niedersachsen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Marie-Agnes Strack-Zimmermann",
+      "gender": "F",
+      "party": "FDP",
+      "district": "Düsseldorf I",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Bijan Djir-Sarai",
+      "gender": "M",
+      "party": "FDP",
+      "district": "Nordrhein-Westfalen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Lukas Köhler",
+      "gender": "M",
+      "party": "FDP",
+      "district": "Bayern (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Gyde Jensen",
+      "gender": "F",
+      "party": "FDP",
+      "district": "Schleswig-Holstein (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Alice Weidel",
+      "gender": "F",
+      "party": "AfD",
+      "district": "Baden-Württemberg (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Tino Chrupalla",
+      "gender": "M",
+      "party": "AfD",
+      "district": "Görlitz",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Norbert Kleinwächter",
+      "gender": "M",
+      "party": "AfD",
+      "district": "Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Beatrix von Storch",
+      "gender": "F",
+      "party": "AfD",
+      "district": "Berlin (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Peter Boehringer",
+      "gender": "M",
+      "party": "AfD",
+      "district": "Bayern (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Sahra Wagenknecht",
+      "gender": "F",
+      "party": "BSW",
+      "district": "Nordrhein-Westfalen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Amira Mohamed Ali",
+      "gender": "F",
+      "party": "BSW",
+      "district": "Niedersachsen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Christian Leye",
+      "gender": "M",
+      "party": "BSW",
+      "district": "Nordrhein-Westfalen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Dietmar Bartsch",
+      "gender": "M",
+      "party": "Die Linke",
+      "district": "Mecklenburgische Seenplatte I – Vorpommern-Greifswald II",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Caren Lay",
+      "gender": "F",
+      "party": "Die Linke",
+      "district": "Sachsen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Janine Wissler",
+      "gender": "F",
+      "party": "Die Linke",
+      "district": "Hessen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Heidi Reichinnek",
+      "gender": "F",
+      "party": "Die Linke",
+      "district": "Niedersachsen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Stefan Seidler",
+      "gender": "M",
+      "party": "SSW",
+      "district": "Schleswig-Holstein (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Ralph Brinkhaus",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Gütersloh I",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Philipp Amthor",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Mecklenburgische Seenplatte I – Vorpommern-Greifswald II",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Serap Güler",
+      "gender": "F",
+      "party": "CDU",
+      "district": "Nordrhein-Westfalen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Julia Klöckner",
+      "gender": "F",
+      "party": "CDU",
+      "district": "Rheinland-Pfalz (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Thomas Bareiß",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Zollernalb – Sigmaringen",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Nadine Schön",
+      "gender": "F",
+      "party": "CDU",
+      "district": "St. Wendel",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Roderich Kiesewetter",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Aalen – Heidenheim",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Daniela Ludwig",
+      "gender": "F",
+      "party": "CSU",
+      "district": "Rosenheim",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Stephan Pilsinger",
+      "gender": "M",
+      "party": "CSU",
+      "district": "München-Nord",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Melanie Huml",
+      "gender": "F",
+      "party": "CSU",
+      "district": "Bamberg",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Hubertus Heil",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Gifhorn – Peine",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Saskia Esken",
+      "gender": "F",
+      "party": "SPD",
+      "district": "Baden-Württemberg (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Achim Post",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Minden-Lübbecke I",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Ralf Stegner",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Schleswig-Holstein (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Aydan Özoğuz",
+      "gender": "F",
+      "party": "SPD",
+      "district": "Hamburg-Wandsbek",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Ricarda Lang",
+      "gender": "F",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "Baden-Württemberg (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Annalena Baerbock",
+      "gender": "F",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Anton Hofreiter",
+      "gender": "M",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "München-Land",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Katrin Göring-Eckardt",
+      "gender": "F",
+      "party": "Bündnis 90/Die Grünen",
+      "district": "Thüringen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Marco Buschmann",
+      "gender": "M",
+      "party": "FDP",
+      "district": "Nordrhein-Westfalen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Johannes Vogel",
+      "gender": "M",
+      "party": "FDP",
+      "district": "Nordrhein-Westfalen (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Stephan Brandner",
+      "gender": "M",
+      "party": "AfD",
+      "district": "Gera – Jena – Saale-Holzland-Kreis",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Leif-Erik Holm",
+      "gender": "M",
+      "party": "AfD",
+      "district": "Mecklenburg-Vorpommern (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Nicole Höchst",
+      "gender": "F",
+      "party": "AfD",
+      "district": "Rheinland-Pfalz (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Gregor Gysi",
+      "gender": "M",
+      "party": "Die Linke",
+      "district": "Berlin (List)",
+      "salary": { "gross": 127092, "net": null }
+    },
+    {
+      "name": "Gesine Lötzsch",
+      "gender": "F",
+      "party": "Die Linke",
+      "district": "Berlin-Lichtenberg",
+      "salary": { "gross": 127092, "net": null }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Doris Ahnen",
+      "gender": "F",
+      "district": "Rheinland-Pfalz",
+      "party": "SPD",
+      "role": "Rheinland-Pfalz Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Hubert Aiwanger",
+      "gender": "M",
+      "district": "Bayern",
+      "party": "Freie Wähler",
+      "role": "Bayern Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Jürgen Barke",
+      "gender": "M",
+      "district": "Saarland",
+      "party": "SPD",
+      "role": "Saarland Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Danyal Bayaz",
+      "gender": "M",
+      "district": "Baden-Württemberg",
+      "party": "Bündnis 90/Die Grünen",
+      "role": "Baden-Württemberg Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Daniela Behrens",
+      "gender": "F",
+      "district": "Niedersachsen",
+      "party": "SPD",
+      "role": "Niedersachsen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Katharina Binz",
+      "gender": "F",
+      "district": "Rheinland-Pfalz",
+      "party": "Bündnis 90/Die Grünen",
+      "role": "Rheinland-Pfalz Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Thorsten Bischoff",
+      "gender": "M",
+      "district": "Saarland",
+      "party": "SPD",
+      "role": "Saarland Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Andreas Bovenschulte",
+      "gender": "M",
+      "district": "Bremen",
+      "party": "SPD",
+      "role": "Bremen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Robert Crumbach",
+      "gender": "M",
+      "district": "Brandenburg",
+      "party": "BSW",
+      "role": "Brandenburg Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Andreas Dressel",
+      "gender": "M",
+      "district": "Hamburg",
+      "party": "SPD",
+      "role": "Hamburg Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Georg Eisenreich",
+      "gender": "M",
+      "district": "Bayern",
+      "party": "CSU",
+      "role": "Bayern Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Stefan Evers",
+      "gender": "M",
+      "district": "Berlin",
+      "party": "CDU",
+      "role": "Berlin Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Björn Fecker",
+      "gender": "M",
+      "district": "Bremen",
+      "party": "Bündnis 90/Die Grünen",
+      "role": "Bremen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Katharina Fegebank",
+      "gender": "F",
+      "district": "Hamburg",
+      "party": "Bündnis 90/Die Grünen",
+      "role": "Hamburg Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Franziska Giffey",
+      "gender": "F",
+      "district": "Berlin",
+      "party": "SPD",
+      "role": "Berlin Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Thorsten Glauber",
+      "gender": "M",
+      "district": "Bayern",
+      "party": "Freie Wähler",
+      "role": "Bayern Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Tobias Goldschmidt",
+      "gender": "M",
+      "district": "Schleswig-Holstein",
+      "party": "Bündnis 90/Die Grünen",
+      "role": "Schleswig-Holstein Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Timon Gremmels",
+      "gender": "M",
+      "district": "Hessen",
+      "party": "SPD",
+      "role": "Hessen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Stefan Gruhner",
+      "gender": "M",
+      "district": "Thüringen",
+      "party": "CDU",
+      "role": "Thüringen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Daniel Günther",
+      "gender": "M",
+      "district": "Schleswig-Holstein",
+      "party": "CDU",
+      "role": "Schleswig-Holstein Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Julia Hamburg",
+      "gender": "F",
+      "district": "Niedersachsen",
+      "party": "Bündnis 90/Die Grünen",
+      "role": "Niedersachsen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Andreas Handschuh",
+      "gender": "M",
+      "district": "Sachsen",
+      "party": "CDU",
+      "role": "Sachsen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Reiner Haseloff",
+      "gender": "M",
+      "district": "Sachsen-Anhalt",
+      "party": "CDU",
+      "role": "Sachsen-Anhalt Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Winfried Hermann",
+      "gender": "M",
+      "district": "Baden-Württemberg",
+      "party": "Bündnis 90/Die Grünen",
+      "role": "Baden-Württemberg Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Florian Herrmann",
+      "gender": "M",
+      "district": "Bayern",
+      "party": "CSU",
+      "role": "Bayern Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Joachim Herrmann",
+      "gender": "M",
+      "district": "Bayern",
+      "party": "CSU",
+      "role": "Bayern Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Nicole Hoffmeister-Kraut",
+      "gender": "F",
+      "district": "Baden-Württemberg",
+      "party": "CDU",
+      "role": "Baden-Württemberg Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Rudi Hoogvliet",
+      "gender": "M",
+      "district": "Baden-Württemberg",
+      "party": "Bündnis 90/Die Grünen",
+      "role": "Baden-Württemberg Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Lydia Hüskens",
+      "gender": "F",
+      "district": "Sachsen-Anhalt",
+      "party": "FDP",
+      "role": "Sachsen-Anhalt Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Olaf Joachim",
+      "gender": "M",
+      "district": "Bremen",
+      "party": "SPD",
+      "role": "Bremen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Daniel Keller",
+      "gender": "M",
+      "district": "Brandenburg",
+      "party": "SPD",
+      "role": "Brandenburg Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Cansel Kiziltepe",
+      "gender": "F",
+      "district": "Berlin",
+      "party": "SPD",
+      "role": "Berlin Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Petra Köpping",
+      "gender": "F",
+      "district": "Sachsen",
+      "party": "SPD",
+      "role": "Sachsen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Winfried Kretschmann",
+      "gender": "M",
+      "district": "Baden-Württemberg",
+      "party": "Bündnis 90/Die Grünen",
+      "role": "Baden-Württemberg Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Michael Kretschmer",
+      "gender": "M",
+      "district": "Sachsen",
+      "party": "CDU",
+      "role": "Sachsen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "René Wilke",
+      "gender": "M",
+      "district": "Brandenburg",
+      "party": "SPD",
+      "role": "Brandenburg Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Olaf Lies",
+      "gender": "M",
+      "district": "Niedersachsen",
+      "party": "SPD",
+      "role": "Niedersachsen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Nathanael Liminski",
+      "gender": "M",
+      "district": "Nordrhein-Westfalen",
+      "party": "CDU",
+      "role": "Nordrhein-Westfalen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Ralph Alexander Lorz",
+      "gender": "M",
+      "district": "Hessen",
+      "party": "CDU",
+      "role": "Hessen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Georg Maier",
+      "gender": "M",
+      "district": "Thüringen",
+      "party": "SPD",
+      "role": "Thüringen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Kaweh Mansoori",
+      "gender": "M",
+      "district": "Hessen",
+      "party": "SPD",
+      "role": "Hessen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Bettina Martin",
+      "gender": "F",
+      "district": "Mecklenburg-Vorpommern",
+      "party": "SPD",
+      "role": "Mecklenburg-Vorpommern Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Christian Meyer",
+      "gender": "M",
+      "district": "Niedersachsen",
+      "party": "Bündnis 90/Die Grünen",
+      "role": "Niedersachsen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Mona Neubaur",
+      "gender": "F",
+      "district": "Nordrhein-Westfalen",
+      "party": "Bündnis 90/Die Grünen",
+      "role": "Nordrhein-Westfalen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Simone Oldenburg",
+      "gender": "F",
+      "district": "Mecklenburg-Vorpommern",
+      "party": "Die Linke",
+      "role": "Mecklenburg-Vorpommern Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Marcus Optendrenk",
+      "gender": "M",
+      "district": "Nordrhein-Westfalen",
+      "party": "CDU",
+      "role": "Nordrhein-Westfalen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Dirk Panter",
+      "gender": "M",
+      "district": "Sachsen",
+      "party": "SPD",
+      "role": "Sachsen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Josefine Paul",
+      "gender": "F",
+      "district": "Nordrhein-Westfalen",
+      "party": "Bündnis 90/Die Grünen",
+      "role": "Nordrhein-Westfalen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Manfred Pentz",
+      "gender": "M",
+      "district": "Hessen",
+      "party": "CDU",
+      "role": "Hessen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Andreas Philippi",
+      "gender": "M",
+      "district": "Niedersachsen",
+      "party": "SPD",
+      "role": "Niedersachsen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Anke Rehlinger",
+      "gender": "F",
+      "district": "Saarland",
+      "party": "SPD",
+      "role": "Saarland Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Boris Rhein",
+      "gender": "M",
+      "district": "Hessen",
+      "party": "CDU",
+      "role": "Hessen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Rainer Robra",
+      "gender": "M",
+      "district": "Sachsen-Anhalt",
+      "party": "CDU",
+      "role": "Sachsen-Anhalt Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Ina Scharrenbach",
+      "gender": "F",
+      "district": "Nordrhein-Westfalen",
+      "party": "CDU",
+      "role": "Nordrhein-Westfalen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Daniela Schmitt",
+      "gender": "F",
+      "district": "Rheinland-Pfalz",
+      "party": "FDP",
+      "role": "Rheinland-Pfalz Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Alexander Schweitzer",
+      "gender": "M",
+      "district": "Rheinland-Pfalz",
+      "party": "SPD",
+      "role": "Rheinland-Pfalz Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Manuela Schwesig",
+      "gender": "F",
+      "district": "Mecklenburg-Vorpommern",
+      "party": "SPD",
+      "role": "Mecklenburg-Vorpommern Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Markus Söder",
+      "gender": "M",
+      "district": "Bayern",
+      "party": "CSU",
+      "role": "Bayern Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Thomas Strobl",
+      "gender": "M",
+      "district": "Baden-Württemberg",
+      "party": "CDU",
+      "role": "Baden-Württemberg Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Sabine Sütterlin-Waack",
+      "gender": "F",
+      "district": "Schleswig-Holstein",
+      "party": "CDU",
+      "role": "Schleswig-Holstein Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Aminata Touré",
+      "gender": "F",
+      "district": "Schleswig-Holstein",
+      "party": "Bündnis 90/Die Grünen",
+      "role": "Schleswig-Holstein Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Peter Tschentscher",
+      "gender": "M",
+      "district": "Hamburg",
+      "party": "SPD",
+      "role": "Hamburg Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Mario Voigt",
+      "gender": "M",
+      "district": "Thüringen",
+      "party": "CDU",
+      "role": "Thüringen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Kathrin Wahlmann",
+      "gender": "F",
+      "district": "Niedersachsen",
+      "party": "SPD",
+      "role": "Niedersachsen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Kai Wegner",
+      "gender": "M",
+      "district": "Berlin",
+      "party": "CDU",
+      "role": "Berlin Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Armin Willingmann",
+      "gender": "M",
+      "district": "Sachsen-Anhalt",
+      "party": "SPD",
+      "role": "Sachsen-Anhalt Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Dietmar Woidke",
+      "gender": "M",
+      "district": "Brandenburg",
+      "party": "SPD",
+      "role": "Brandenburg Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Katja Wolf",
+      "gender": "F",
+      "district": "Thüringen",
+      "party": "BSW",
+      "role": "Thüringen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    },
+    {
+      "name": "Hendrik Wüst",
+      "gender": "M",
+      "district": "Nordrhein-Westfalen",
+      "party": "CDU",
+      "role": "Nordrhein-Westfalen Bundesrat delegate",
+      "salary": { "gross": 185000, "net": null }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Frank-Walter Steinmeier",
+      "gender": "M",
+      "role": "Federal President of Germany",
+      "party": "SPD",
+      "salary": { "gross": 214000, "net": null },
+      "sources": [
+        {
+          "Gesetz über die Rechtsverhältnisse des Bundespräsidenten (BPräsG)": "https://www.gesetze-im-internet.de/bpr_sg/"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "CDU": {
+      "name": "Christlich Demokratische Union Deutschlands",
+      "en": "Christian Democratic Union",
+      "range": 4,
+      "color": "#000000"
+    },
+    "CSU": {
+      "name": "Christlich-Soziale Union in Bayern",
+      "en": "Christian Social Union in Bavaria",
+      "range": 4,
+      "color": "#008AC5"
+    },
+    "SPD": {
+      "name": "Sozialdemokratische Partei Deutschlands",
+      "en": "Social Democratic Party of Germany",
+      "range": 2,
+      "color": "#E3000F"
+    },
+    "Bündnis 90/Die Grünen": {
+      "name": "Bündnis 90/Die Grünen",
+      "en": "Alliance 90/The Greens",
+      "range": 1,
+      "color": "#1C9B4C"
+    },
+    "FDP": {
+      "name": "Freie Demokratische Partei",
+      "en": "Free Democratic Party",
+      "range": 3,
+      "color": "#FFED00"
+    },
+    "Die Linke": {
+      "name": "Die Linke",
+      "en": "The Left",
+      "range": 1,
+      "color": "#BE3075"
+    },
+    "BSW": {
+      "name": "Bündnis Sahra Wagenknecht",
+      "en": "Sahra Wagenknecht Alliance",
+      "range": 1,
+      "color": "#009E9B"
+    },
+    "Freie Wähler": {
+      "name": "Freie Wähler",
+      "en": "Free Voters",
+      "range": 3,
+      "color": "#F28C00"
+    },
+    "AfD": {
+      "name": "Alternative für Deutschland",
+      "en": "Alternative for Germany",
+      "range": 5,
+      "color": "#009EE0"
+    },
+    "SSW": {
+      "name": "Südschleswigscher Wählerverband",
+      "en": "South Schleswig Voters' Association",
+      "range": 3,
+      "color": "#005CA9"
+    }
+  }
+}

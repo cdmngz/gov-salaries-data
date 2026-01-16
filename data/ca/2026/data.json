@@ -1,0 +1,908 @@
+{
+  "baseCurrency": "USD",
+  "royalty": [
+    {
+      "name": "Charles III",
+      "gender": "M",
+      "role": "King of Canada",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Government of Canada — Constitutional Monarchy": "https://www.canada.ca/en/canadian-heritage/services/royal-family/canadian-crown.html"
+        }
+      ]
+    }
+  ],
+  "executive": [
+    {
+      "name": "Mary Simon",
+      "gender": "F",
+      "role": "Governor General of Canada",
+      "salary": {
+        "gross": 342100,
+        "net": null
+      },
+      "sources": [
+        {
+          "Rideau Hall — Governor General remuneration": "https://www.gg.ca/en/contact-us/employment/governor-general-remuneration"
+        }
+      ]
+    },
+    {
+      "name": "Justin Trudeau",
+      "gender": "M",
+      "role": "Prime Minister of Canada",
+      "party": "LPC",
+      "salary": {
+        "gross": 406200,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Canada — Parliamentary compensation": "https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ParliamentaryCompensation"
+        }
+      ]
+    },
+    {
+      "name": "Chrystia Freeland",
+      "gender": "F",
+      "role": "Deputy Prime Minister and Minister of Finance",
+      "party": "LPC",
+      "salary": {
+        "gross": 301600,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Canada — Parliamentary compensation": "https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ParliamentaryCompensation"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Mélanie Joly",
+      "gender": "F",
+      "portfolio": "Minister of Foreign Affairs",
+      "party": "LPC",
+      "salary": {
+        "gross": 301600,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Canada — Parliamentary compensation": "https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ParliamentaryCompensation"
+        }
+      ]
+    },
+    {
+      "name": "Bill Blair",
+      "gender": "M",
+      "portfolio": "Minister of National Defence",
+      "party": "LPC",
+      "salary": {
+        "gross": 301600,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Canada — Parliamentary compensation": "https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ParliamentaryCompensation"
+        }
+      ]
+    },
+    {
+      "name": "Dominic LeBlanc",
+      "gender": "M",
+      "portfolio": "Minister of Public Safety",
+      "party": "LPC",
+      "salary": {
+        "gross": 301600,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Canada — Parliamentary compensation": "https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ParliamentaryCompensation"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Pierre Poilievre",
+      "gender": "M",
+      "party": "CPC",
+      "district": "Carleton",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Jagmeet Singh",
+      "gender": "M",
+      "party": "NDP",
+      "district": "Burnaby South",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Yves-François Blanchet",
+      "gender": "M",
+      "party": "Bloc",
+      "district": "Beloeil—Chambly",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Elizabeth May",
+      "gender": "F",
+      "party": "Green",
+      "district": "Saanich—Gulf Islands",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Anita Anand",
+      "gender": "F",
+      "party": "LPC",
+      "district": "Oakville",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Mark Holland",
+      "gender": "M",
+      "party": "LPC",
+      "district": "Ajax",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Marco Mendicino",
+      "gender": "M",
+      "party": "LPC",
+      "district": "Eglinton—Lawrence",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Mélanie Joly",
+      "gender": "F",
+      "party": "LPC",
+      "district": "Ahuntsic—Cartierville",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Ahmed Hussen",
+      "gender": "M",
+      "party": "LPC",
+      "district": "York South—Weston",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Arif Virani",
+      "gender": "M",
+      "party": "LPC",
+      "district": "Parkdale—High Park",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Karina Gould",
+      "gender": "F",
+      "party": "LPC",
+      "district": "Burlington",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Patty Hajdu",
+      "gender": "F",
+      "party": "LPC",
+      "district": "Thunder Bay—Superior North",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "François-Philippe Champagne",
+      "gender": "M",
+      "party": "LPC",
+      "district": "Saint-Maurice—Champlain",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Seamus O'Regan",
+      "gender": "M",
+      "party": "LPC",
+      "district": "St. John's South—Mount Pearl",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Randy Boissonnault",
+      "gender": "M",
+      "party": "LPC",
+      "district": "Edmonton Centre",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Steven Guilbeault",
+      "gender": "M",
+      "party": "LPC",
+      "district": "Laurier—Sainte-Marie",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Carla Qualtrough",
+      "gender": "F",
+      "party": "LPC",
+      "district": "Delta",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Harjit Sajjan",
+      "gender": "M",
+      "party": "LPC",
+      "district": "Vancouver South",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Terry Beech",
+      "gender": "M",
+      "party": "LPC",
+      "district": "Burnaby North—Seymour",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Joyce Murray",
+      "gender": "F",
+      "party": "LPC",
+      "district": "Vancouver Quadra",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Pablo Rodriguez",
+      "gender": "M",
+      "party": "LPC",
+      "district": "Honoré-Mercier",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Greg Fergus",
+      "gender": "M",
+      "party": "LPC",
+      "district": "Hull—Aylmer",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Julie Dzerowicz",
+      "gender": "F",
+      "party": "LPC",
+      "district": "Davenport",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Ya'ara Saks",
+      "gender": "F",
+      "party": "LPC",
+      "district": "York Centre",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Peter Fragiskatos",
+      "gender": "M",
+      "party": "LPC",
+      "district": "London North Centre",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Michelle Rempel Garner",
+      "gender": "F",
+      "party": "CPC",
+      "district": "Calgary Nose Hill",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Michael Chong",
+      "gender": "M",
+      "party": "CPC",
+      "district": "Wellington—Halton Hills",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Leslyn Lewis",
+      "gender": "F",
+      "party": "CPC",
+      "district": "Haldimand—Norfolk",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Shannon Stubbs",
+      "gender": "F",
+      "party": "CPC",
+      "district": "Lakeland",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Garnett Genuis",
+      "gender": "M",
+      "party": "CPC",
+      "district": "Sherwood Park—Fort Saskatchewan",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Scott Aitchison",
+      "gender": "M",
+      "party": "CPC",
+      "district": "Parry Sound—Muskoka",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Michael Barrett",
+      "gender": "M",
+      "party": "CPC",
+      "district": "Leeds—Grenville—Thousand Islands and Rideau Lakes",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Melissa Lantsman",
+      "gender": "F",
+      "party": "CPC",
+      "district": "Thornhill",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Pierre Paul-Hus",
+      "gender": "M",
+      "party": "CPC",
+      "district": "Charlesbourg—Haute-Saint-Charles",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Gérard Deltell",
+      "gender": "M",
+      "party": "CPC",
+      "district": "Louis-Saint-Laurent",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Raquel Dancho",
+      "gender": "F",
+      "party": "CPC",
+      "district": "Kildonan—St. Paul",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Alexandre Boulerice",
+      "gender": "M",
+      "party": "NDP",
+      "district": "Rosemont—La Petite-Patrie",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Charlie Angus",
+      "gender": "M",
+      "party": "NDP",
+      "district": "Timmins—James Bay",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Leah Gazan",
+      "gender": "F",
+      "party": "NDP",
+      "district": "Winnipeg Centre",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Heather McPherson",
+      "gender": "F",
+      "party": "NDP",
+      "district": "Edmonton Strathcona",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Blake Desjarlais",
+      "gender": "M",
+      "party": "NDP",
+      "district": "Edmonton Griesbach",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Niki Ashton",
+      "gender": "F",
+      "party": "NDP",
+      "district": "Churchill—Keewatinook Aski",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Taylor Bachrach",
+      "gender": "M",
+      "party": "NDP",
+      "district": "Skeena—Bulkley Valley",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Peter Julian",
+      "gender": "M",
+      "party": "NDP",
+      "district": "New Westminster—Burnaby",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Lori Idlout",
+      "gender": "F",
+      "party": "NDP",
+      "district": "Nunavut",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Alain Therrien",
+      "gender": "M",
+      "party": "Bloc",
+      "district": "La Prairie",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Monique Pauzé",
+      "gender": "F",
+      "party": "Bloc",
+      "district": "Repentigny",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Christine Normandin",
+      "gender": "F",
+      "party": "Bloc",
+      "district": "Saint-Jean",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Gabriel Ste-Marie",
+      "gender": "M",
+      "party": "Bloc",
+      "district": "Joliette",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Martin Champoux",
+      "gender": "M",
+      "party": "Bloc",
+      "district": "Drummond",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Andréanne Larouche",
+      "gender": "F",
+      "party": "Bloc",
+      "district": "Shefford",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    },
+    {
+      "name": "Mike Morrice",
+      "gender": "M",
+      "party": "Green",
+      "district": "Kitchener Centre",
+      "salary": {
+        "gross": 145000,
+        "net": null
+      }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Marc Gold",
+      "gender": "M",
+      "district": "Quebec",
+      "party": "GOV",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Raymonde Saint-Germain",
+      "gender": "F",
+      "district": "Quebec",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Yuen Pau Woo",
+      "gender": "M",
+      "district": "British Columbia",
+      "party": "PSG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Frances Lankin",
+      "gender": "F",
+      "district": "Ontario",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Paula Simons",
+      "gender": "F",
+      "district": "Alberta",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Peter Boehm",
+      "gender": "M",
+      "district": "Ontario",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Denise Batters",
+      "gender": "F",
+      "district": "Saskatchewan",
+      "party": "CPC",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Leo Housakos",
+      "gender": "M",
+      "district": "Quebec",
+      "party": "CPC",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Don Plett",
+      "gender": "M",
+      "district": "Manitoba",
+      "party": "CPC",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Yonah Martin",
+      "gender": "F",
+      "district": "British Columbia",
+      "party": "CPC",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Scott Tannas",
+      "gender": "M",
+      "district": "Alberta",
+      "party": "CSG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Bernadette Clement",
+      "gender": "F",
+      "district": "Ontario",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Pierre-Hugues Boisvenu",
+      "gender": "M",
+      "district": "Quebec",
+      "party": "CPC",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Julie Miville-Dechêne",
+      "gender": "F",
+      "district": "Quebec",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Tony Loffreda",
+      "gender": "M",
+      "district": "Quebec",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "René Cormier",
+      "gender": "M",
+      "district": "New Brunswick",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Jane Cordy",
+      "gender": "F",
+      "district": "Nova Scotia",
+      "party": "PSG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "David Wells",
+      "gender": "M",
+      "district": "Newfoundland and Labrador",
+      "party": "CPC",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Patti LaBoucane-Benson",
+      "gender": "F",
+      "district": "Alberta",
+      "party": "GOV",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    },
+    {
+      "name": "Stan Kutcher",
+      "gender": "M",
+      "district": "Nova Scotia",
+      "party": "ISG",
+      "salary": {
+        "gross": 178900,
+        "net": null
+      }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Richard Wagner",
+      "gender": "M",
+      "role": "Chief Justice of Canada",
+      "salary": {
+        "gross": 450800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Office of the Commissioner for Federal Judicial Affairs — Judicial salaries": "https://www.fja-cmf.gc.ca/appointments-nominations/salar-eng.html"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "LPC": {
+      "name": "Liberal Party of Canada",
+      "en": "Liberal Party",
+      "range": 2,
+      "color": "#D71920"
+    },
+    "CPC": {
+      "name": "Conservative Party of Canada",
+      "en": "Conservative Party",
+      "range": 4,
+      "color": "#0C499C"
+    },
+    "NDP": {
+      "name": "New Democratic Party",
+      "en": "New Democratic Party",
+      "range": 1,
+      "color": "#F58220"
+    },
+    "Bloc": {
+      "name": "Bloc Québécois",
+      "en": "Bloc Québécois",
+      "range": 1,
+      "color": "#00AEEF"
+    },
+    "Green": {
+      "name": "Green Party of Canada",
+      "en": "Green Party",
+      "range": 1,
+      "color": "#3D9B35"
+    },
+    "ISG": {
+      "name": "Independent Senators Group",
+      "en": "Independent Senators Group",
+      "range": 3,
+      "color": "#6C757D"
+    },
+    "PSG": {
+      "name": "Progressive Senate Group",
+      "en": "Progressive Senate Group",
+      "range": 2,
+      "color": "#8E44AD"
+    },
+    "CSG": {
+      "name": "Canadian Senators Group",
+      "en": "Canadian Senators Group",
+      "range": 3,
+      "color": "#1E6FA4"
+    },
+    "GOV": {
+      "name": "Government Representative Office",
+      "en": "Government Representative Office",
+      "range": 3,
+      "color": "#1B4D3E"
+    }
+  }
+}
