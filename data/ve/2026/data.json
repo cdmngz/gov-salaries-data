@@ -1,0 +1,591 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Delcy Eloína Rodríguez Gómez",
+      "gender": "F",
+      "role": "Presidenta de la República Bolivariana de Venezuela",
+      "party": "PSUV",
+      "salary": {
+        "gross": 480,
+        "net": 480
+      },
+      "sources": [
+        {
+          "Perfil oficial": "https://presidencia.gob.ve/institucion/presidente/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Yván Gil Pinto",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para Relaciones Exteriores",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Vladimir Padrino López",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para la Defensa",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Remigio Ceballos Ichaso",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para Relaciones Interiores, Justicia y Paz",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Ricardo Menéndez Prieto",
+      "gender": "M",
+      "role": "Ministro del Poder Popular de Planificación",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Pedro Rafael Tellechea Ruiz",
+      "gender": "M",
+      "role": "Ministro del Poder Popular de Petróleo",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Luis Antonio Villegas Ramírez",
+      "gender": "M",
+      "role": "Ministro del Poder Popular de Industrias, Producción Nacional y Comercio Nacional",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Wilmar Alfredo Castro Soteldo",
+      "gender": "M",
+      "role": "Ministro del Poder Popular de Agricultura Productiva y Tierras",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Greicys Barrios Prada",
+      "gender": "F",
+      "role": "Ministra del Poder Popular de Agricultura Urbana",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Carlos Augusto Leal Tellería",
+      "gender": "M",
+      "role": "Ministro del Poder Popular de Alimentación",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Juan Carlos Loyo Hernández",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para la Pesca y Acuicultura",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Alí Ernesto Padrón Paredes",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para el Turismo",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Ramón Celestino Velásquez Araguayán",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para el Transporte",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Raúl Alfonso Paredes",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para Obras Públicas",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Ildemaro Villarroel Arismendi",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para Hábitat y Vivienda",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Francisco Alejandro Torrealba Ochica",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para el Proceso Social de Trabajo",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Yelitze Santaella Hernández",
+      "gender": "F",
+      "role": "Ministra del Poder Popular para la Educación",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Sandra Oblitas Ruzza",
+      "gender": "F",
+      "role": "Ministra del Poder Popular para la Educación Universitaria",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Magaly Gutiérrez Viña",
+      "gender": "F",
+      "role": "Ministra del Poder Popular para la Salud",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Gabriela Servilia Jiménez Ramírez",
+      "gender": "F",
+      "role": "Ministra del Poder Popular para Ciencia y Tecnología",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Diva Coromoto Guzmán León",
+      "gender": "F",
+      "role": "Ministra del Poder Popular para la Mujer y la Igualdad de Género",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Mervin Enrique Maldonado Urdaneta",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para la Juventud y Deporte",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Ernesto Emilio Villegas Poljak",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para la Cultura",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Freddy Ñáñez Contreras",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para la Comunicación e Información",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Guy Rafael Vernáez",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para las Comunas y los Movimientos Sociales",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Clara Vidal",
+      "gender": "F",
+      "role": "Ministra del Poder Popular para los Pueblos Indígenas",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Josué Alejandro Lorca Vega",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para el Ecosocialismo",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Jorge Eliéser Márquez Monsalve",
+      "gender": "M",
+      "role": "Ministro del Poder Popular para la Energía Eléctrica",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Rodolfo Clemente Marco Torres",
+      "gender": "M",
+      "role": "Ministro del Poder Popular de Atención de las Aguas",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "William Serantes Pinto",
+      "gender": "M",
+      "role": "Ministro del Poder Popular de Desarrollo Minero Ecológico",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Celsa Bautista Ontiveros",
+      "gender": "F",
+      "role": "Ministra del Poder Popular para el Servicio Penitenciario",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Aníbal Coronado",
+      "gender": "M",
+      "role": "Ministro del Poder Popular del Despacho de la Presidencia y Seguimiento de la Gestión de Gobierno",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "PSUV": {
+      "name": "Partido Socialista Unido de Venezuela",
+      "en": "United Socialist Party of Venezuela",
+      "range": 1,
+      "color": "#EE1C25"
+    }
+  }
+}
