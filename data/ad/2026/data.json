@@ -1,0 +1,134 @@
+{
+  "baseCurrency": "EUR",
+  "royalty": [
+    {
+      "name": "Emmanuel Macron",
+      "gender": "M",
+      "role": "Co-Prince of Andorra; President of the French Republic",
+      "salary": { "gross": 192468, "net": 175032 }
+    },
+    {
+      "name": "Joan-Enric Vives i Sicília",
+      "gender": "M",
+      "role": "Co-Prince of Andorra; Bishop of Urgell",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "executive": [
+    {
+      "name": "Xavier Espot Zamora",
+      "gender": "M",
+      "role": "Head of Government",
+      "party": "DA",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mònica Bonell Tuset",
+      "gender": "F",
+      "role": "Deputy Head of Government; Minister of the Presidency, Economy, Labour and Housing",
+      "party": "DA",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "César Marquina Tost",
+      "gender": "M",
+      "portfolio": "Finance and Public Administration",
+      "party": "DA",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Guillem Casal Padró",
+      "gender": "M",
+      "portfolio": "Foreign Affairs",
+      "party": "DA",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Imma Tor Faus",
+      "gender": "F",
+      "portfolio": "Tourism and Commerce",
+      "party": "CC",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Àngel Pons Pons",
+      "gender": "M",
+      "portfolio": "Health",
+      "party": "CC",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Sílvia Ferrer Ghiringhelli",
+      "gender": "F",
+      "portfolio": "Environment, Agriculture and Sustainability",
+      "party": "ACCIO",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jordi Torres Falcó",
+      "gender": "M",
+      "portfolio": "Territorial Planning and Strategic Projects",
+      "party": "DA",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Trini Marín González",
+      "gender": "F",
+      "portfolio": "Interior and Justice",
+      "party": "DA",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ester Vilarrubla Escales",
+      "gender": "F",
+      "portfolio": "Education and Higher Education",
+      "party": "DA",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Josep Maria Rossell Jubany",
+      "gender": "M",
+      "portfolio": "Social Affairs and Civil Service",
+      "party": "DA",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Carles Enseñat Reig",
+      "gender": "M",
+      "role": "Síndic General (Speaker of the General Council)",
+      "party": "DA",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Sandra Codina Tort",
+      "gender": "F",
+      "role": "Subsíndica General",
+      "party": "DA",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "parties": {
+    "DA": {
+      "name": "Demòcrates per Andorra",
+      "en": "Democrats for Andorra",
+      "range": 4,
+      "color": "#F36F21"
+    },
+    "CC": {
+      "name": "Ciutadans Compromesos",
+      "en": "Committed Citizens",
+      "range": 2,
+      "color": "#00529B"
+    },
+    "ACCIO": {
+      "name": "Acció",
+      "en": "Action",
+      "range": 2,
+      "color": "#00A86B"
+    }
+  }
+}
