@@ -1,0 +1,184 @@
+{
+  "baseCurrency": "CNY",
+  "executive": [
+    {
+      "name": "Xi Jinping",
+      "gender": "M",
+      "role": "President of the People's Republic of China",
+      "party": "CPC",
+      "salary": { "gross": 152121, "net": 121700 }
+    },
+    {
+      "name": "Han Zheng",
+      "gender": "M",
+      "role": "Vice President of the People's Republic of China",
+      "party": "CPC",
+      "salary": { "gross": 146800, "net": 117400 }
+    },
+    {
+      "name": "Li Qiang",
+      "gender": "M",
+      "role": "Premier of the State Council",
+      "party": "CPC",
+      "salary": { "gross": 138600, "net": 110900 }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ding Xuexiang",
+      "gender": "M",
+      "portfolio": "Executive Vice Premier; Science and Technology",
+      "party": "CPC",
+      "salary": { "gross": 128400, "net": 103000 }
+    },
+    {
+      "name": "He Lifeng",
+      "gender": "M",
+      "portfolio": "Vice Premier; Finance and Economic Affairs",
+      "party": "CPC",
+      "salary": { "gross": 126200, "net": 101300 }
+    },
+    {
+      "name": "Wang Yi",
+      "gender": "M",
+      "portfolio": "Minister of Foreign Affairs",
+      "party": "CPC",
+      "salary": { "gross": 118900, "net": 95500 }
+    },
+    {
+      "name": "Li Shangfu",
+      "gender": "M",
+      "portfolio": "Minister of National Defense",
+      "party": "CPC",
+      "salary": { "gross": 120500, "net": 96900 }
+    },
+    {
+      "name": "Lan Fo'an",
+      "gender": "M",
+      "portfolio": "Minister of Finance",
+      "party": "CPC",
+      "salary": { "gross": 116700, "net": 94300 }
+    },
+    {
+      "name": "Wang Xiaoping",
+      "gender": "F",
+      "portfolio": "Minister of Human Resources and Social Security",
+      "party": "CPC",
+      "salary": { "gross": 112400, "net": 90900 }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Shen Chunyao",
+      "gender": "M",
+      "district": "Hong Kong Special Administrative Region",
+      "party": "CPC",
+      "salary": { "gross": 62000, "net": 49600 }
+    },
+    {
+      "name": "Li Yumei",
+      "gender": "F",
+      "district": "Guangdong Province",
+      "party": "CPC",
+      "salary": { "gross": 61500, "net": 49200 }
+    },
+    {
+      "name": "Wu Weihua",
+      "gender": "M",
+      "district": "National Committee",
+      "party": "Jiusan",
+      "salary": { "gross": 60200, "net": 48100 }
+    },
+    {
+      "name": "Chen Zhu",
+      "gender": "M",
+      "district": "National Committee",
+      "party": "RCCK",
+      "salary": { "gross": 60200, "net": 48100 }
+    },
+    {
+      "name": "Liu Yongfu",
+      "gender": "M",
+      "district": "Guangxi Zhuang Autonomous Region",
+      "party": "CPC",
+      "salary": { "gross": 59800, "net": 47800 }
+    },
+    {
+      "name": "Song Xibin",
+      "gender": "M",
+      "district": "Heilongjiang Province",
+      "party": "CPC",
+      "salary": { "gross": 59400, "net": 47400 }
+    },
+    {
+      "name": "Shen Yueyue",
+      "gender": "F",
+      "district": "All-China Women's Federation",
+      "party": "CPC",
+      "salary": { "gross": 61000, "net": 48800 }
+    },
+    {
+      "name": "Tsoi Ka-yan",
+      "gender": "F",
+      "district": "Macau Special Administrative Region",
+      "party": "CPC",
+      "salary": { "gross": 59000, "net": 47000 }
+    },
+    {
+      "name": "Liu Qi",
+      "gender": "M",
+      "district": "Jiangxi Province",
+      "party": "CPC",
+      "salary": { "gross": 59200, "net": 47200 }
+    },
+    {
+      "name": "Su Hui",
+      "gender": "F",
+      "district": "Taiwan Compatriots Federation",
+      "party": "CPPCC",
+      "salary": { "gross": 60400, "net": 48200 }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Zhao Leji",
+      "gender": "M",
+      "role": "Chairperson of the Standing Committee of the National People's Congress",
+      "party": "CPC",
+      "salary": { "gross": 132800, "net": 106200 }
+    },
+    {
+      "name": "Wang Huning",
+      "gender": "M",
+      "role": "Chairman of the Chinese People's Political Consultative Conference",
+      "party": "CPC",
+      "salary": { "gross": 129400, "net": 103400 }
+    }
+  ],
+  "parties": {
+    "CPC": {
+      "name": "中国共产党",
+      "en": "Communist Party of China",
+      "range": 1,
+      "color": "#d00000"
+    },
+    "Jiusan": {
+      "name": "九三学社",
+      "en": "Jiusan Society",
+      "range": 2,
+      "color": "#1f78b4"
+    },
+    "RCCK": {
+      "name": "中国农工民主党",
+      "en": "Chinese Peasants' and Workers' Democratic Party",
+      "range": 2,
+      "color": "#33a02c"
+    },
+    "CPPCC": {
+      "name": "中国人民政治协商会议",
+      "en": "Chinese People's Political Consultative Conference",
+      "range": 3,
+      "color": "#ff7f00"
+    }
+  }
+}

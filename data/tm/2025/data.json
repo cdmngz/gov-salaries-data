@@ -1,19 +1,25 @@
 {
-  "baseCurrency": "TMT",
+  "baseCurrency": "USD",
   "executive": [
     {
       "name": "Serdar Berdimuhamedow",
       "gender": "M",
       "role": "President of Turkmenistan",
       "party": "IND",
-      "salary": { "gross": null, "net": null }
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "President of Turkmenistan": "https://president.gov.tm/en" }
+      ]
     },
     {
       "name": "Batyr Atdaev",
       "gender": "M",
       "role": "Deputy Chairman of the Cabinet of Ministers for Security and Justice",
       "party": "IND",
-      "salary": { "gross": null, "net": null }
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Government of Turkmenistan": "https://turkmenistan.gov.tm/en" }
+      ]
     }
   ],
   "ministers": [
@@ -22,21 +28,30 @@
       "gender": "M",
       "role": "Minister of Foreign Affairs",
       "party": "IND",
-      "salary": { "gross": null, "net": null }
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministry of Foreign Affairs": "https://mfa.gov.tm/en" }
+      ]
     },
     {
       "name": "Begenç Gündogdyýew",
       "gender": "M",
       "role": "Minister of Defence",
       "party": "IND",
-      "salary": { "gross": null, "net": null }
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministry of Defense": "https://mod.gov.tm/en" }
+      ]
     },
     {
       "name": "Muhammetguly Serdarow",
       "gender": "M",
       "role": "Minister of Finance and Economy",
       "party": "IND",
-      "salary": { "gross": null, "net": null }
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ministry of Finance and Economy": "https://mf.gov.tm/en" }
+      ]
     }
   ],
   "deputies": [
@@ -45,14 +60,20 @@
       "gender": "F",
       "role": "Chair of the Mejlis",
       "party": "IND",
-      "salary": { "gross": null, "net": null }
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Mejlis of Turkmenistan": "https://mejlis.gov.tm/en" }
+      ]
     },
     {
       "name": "Gurbanguly Meredov",
       "gender": "M",
       "role": "Deputy Chair of the Mejlis",
       "party": "IND",
-      "salary": { "gross": null, "net": null }
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Mejlis of Turkmenistan": "https://mejlis.gov.tm/en" }
+      ]
     }
   ],
   "senate": [
@@ -61,7 +82,10 @@
       "gender": "M",
       "role": "Chairman of the Halk Maslahaty",
       "party": "IND",
-      "salary": { "gross": null, "net": null }
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Halk Maslahaty": "https://halkmaslahaty.gov.tm/en" }
+      ]
     }
   ],
   "officials": [],

@@ -1,0 +1,581 @@
+{
+  "baseCurrency": "GBP",
+  "royalty": [
+    {
+      "name": "Charles III",
+      "gender": "M",
+      "role": "King of the United Kingdom",
+      "salary": {
+        "gross": 86300000,
+        "net": null
+      }
+    },
+    {
+      "name": "Camilla Rosemary Shand",
+      "gender": "F",
+      "role": "Queen Consort of the United Kingdom",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "William Arthur Philip Louis",
+      "gender": "M",
+      "role": "Prince of Wales",
+      "salary": {
+        "gross": 24000000,
+        "net": null
+      }
+    },
+    {
+      "name": "Catherine Middleton",
+      "gender": "F",
+      "role": "Princess of Wales",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "executive": [
+    {
+      "name": "Keir Starmer",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "Labour",
+      "salary": {
+        "gross": 167391,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Rachel Reeves",
+      "gender": "F",
+      "portfolio": "Chancellor of the Exchequer",
+      "party": "Labour",
+      "salary": {
+        "gross": 152084,
+        "net": null
+      }
+    },
+    {
+      "name": "David Lammy",
+      "gender": "M",
+      "portfolio": "Foreign Secretary",
+      "party": "Labour",
+      "salary": {
+        "gross": 152084,
+        "net": null
+      }
+    },
+    {
+      "name": "Yvette Cooper",
+      "gender": "F",
+      "portfolio": "Home Secretary",
+      "party": "Labour",
+      "salary": {
+        "gross": 152084,
+        "net": null
+      }
+    },
+    {
+      "name": "John Healey",
+      "gender": "M",
+      "portfolio": "Defence Secretary",
+      "party": "Labour",
+      "salary": {
+        "gross": 152084,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Angela Rayner",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Ashton-under-Lyne",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Wes Streeting",
+      "gender": "M",
+      "party": "Labour",
+      "district": "Ilford North",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Bridget Phillipson",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Houghton and Sunderland South",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Louise Haigh",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Sheffield Heeley",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Jess Phillips",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Birmingham Yardley",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Peter Kyle",
+      "gender": "M",
+      "party": "Labour",
+      "district": "Hove",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Jonathan Ashworth",
+      "gender": "M",
+      "party": "Labour",
+      "district": "Leicester South",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Lucy Powell",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Manchester Central",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Pat McFadden",
+      "gender": "M",
+      "party": "Labour",
+      "district": "Wolverhampton South East",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Dan Jarvis",
+      "gender": "M",
+      "party": "Labour",
+      "district": "Barnsley Central",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Rishi Sunak",
+      "gender": "M",
+      "party": "Conservative",
+      "district": "Richmond and Northallerton",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Jeremy Hunt",
+      "gender": "M",
+      "party": "Conservative",
+      "district": "Godalming and Ash",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Kemi Badenoch",
+      "gender": "F",
+      "party": "Conservative",
+      "district": "Saffron Walden",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Penny Mordaunt",
+      "gender": "F",
+      "party": "Conservative",
+      "district": "Portsmouth North",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Suella Braverman",
+      "gender": "F",
+      "party": "Conservative",
+      "district": "Fareham and Waterlooville",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Ed Davey",
+      "gender": "M",
+      "party": "LibDem",
+      "district": "Kingston and Surbiton",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Layla Moran",
+      "gender": "F",
+      "party": "LibDem",
+      "district": "Oxford West and Abingdon",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Sarah Olney",
+      "gender": "F",
+      "party": "LibDem",
+      "district": "Richmond Park",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Stephen Flynn",
+      "gender": "M",
+      "party": "SNP",
+      "district": "Aberdeen South",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Sian Berry",
+      "gender": "F",
+      "party": "Green",
+      "district": "Brighton Pavilion",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Keir Starmer",
+      "gender": "M",
+      "party": "Labour",
+      "district": "Holborn and St Pancras",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Rachel Reeves",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Leeds West",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Yvette Cooper",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Normanton, Pontefract and Castleford",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "David Lammy",
+      "gender": "M",
+      "party": "Labour",
+      "district": "Tottenham",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Lisa Nandy",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Wigan",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Ed Miliband",
+      "gender": "M",
+      "party": "Labour",
+      "district": "Doncaster North",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Shabana Mahmood",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Birmingham Ladywood",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Hilary Benn",
+      "gender": "M",
+      "party": "Labour",
+      "district": "Leeds Central",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Stella Creasy",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Walthamstow",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Tulip Siddiq",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Hampstead and Kilburn",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Dawn Butler",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Brent Central",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Rosena Allin-Khan",
+      "gender": "F",
+      "party": "Labour",
+      "district": "Tooting",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "James Cleverly",
+      "gender": "M",
+      "party": "Conservative",
+      "district": "Braintree",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Grant Shapps",
+      "gender": "M",
+      "party": "Conservative",
+      "district": "Welwyn Hatfield",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Gillian Keegan",
+      "gender": "F",
+      "party": "Conservative",
+      "district": "Chichester",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Mel Stride",
+      "gender": "M",
+      "party": "Conservative",
+      "district": "Central Devon",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Victoria Atkins",
+      "gender": "F",
+      "party": "Conservative",
+      "district": "Louth and Horncastle",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Steve Barclay",
+      "gender": "M",
+      "party": "Conservative",
+      "district": "North East Cambridgeshire",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Greg Hands",
+      "gender": "M",
+      "party": "Conservative",
+      "district": "Chelsea and Fulham",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Tom Tugendhat",
+      "gender": "M",
+      "party": "Conservative",
+      "district": "Tonbridge and Malling",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Daisy Cooper",
+      "gender": "F",
+      "party": "LibDem",
+      "district": "St Albans",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Wera Hobhouse",
+      "gender": "F",
+      "party": "LibDem",
+      "district": "Bath",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Ian Blackford",
+      "gender": "M",
+      "party": "SNP",
+      "district": "Ross, Skye and Lochaber",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Pete Wishart",
+      "gender": "M",
+      "party": "SNP",
+      "district": "Perth and North Perthshire",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    },
+    {
+      "name": "Caroline Lucas",
+      "gender": "F",
+      "party": "Green",
+      "district": "Brighton Pavilion",
+      "salary": {
+        "gross": 91346,
+        "net": null
+      }
+    }
+  ],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "Labour": {
+      "name": "Labour Party",
+      "en": "Labour Party",
+      "range": 2,
+      "color": "#E4003B"
+    },
+    "Conservative": {
+      "name": "Conservative and Unionist Party",
+      "en": "Conservative Party",
+      "range": 4,
+      "color": "#0087DC"
+    },
+    "LibDem": {
+      "name": "Liberal Democrats",
+      "en": "Liberal Democrats",
+      "range": 3,
+      "color": "#FDBB30"
+    },
+    "SNP": {
+      "name": "Scottish National Party",
+      "en": "Scottish National Party",
+      "range": 2,
+      "color": "#FFF95D"
+    },
+    "Green": {
+      "name": "Green Party of England and Wales",
+      "en": "Green Party",
+      "range": 1,
+      "color": "#6AB023"
+    }
+  }
+}
