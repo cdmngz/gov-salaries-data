@@ -1,0 +1,639 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Luiz Inácio Lula da Silva",
+      "gender": "M",
+      "role": "President of the Federative Republic of Brazil",
+      "party": "PT",
+      "salary": {
+        "gross": 8801.7
+      },
+      "sources": [
+        {
+          "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        },
+        {
+          "Conversion BRL/USD Jan-2025": 5.0
+        }
+      ]
+    },
+    {
+      "name": "Geraldo Alckmin",
+      "gender": "M",
+      "role": "Vice President of the Federative Republic of Brazil",
+      "party": "PSB",
+      "salary": {
+        "gross": 8801.7
+      },
+      "sources": [
+        {
+          "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        },
+        {
+          "Conversion BRL/USD Jan-2025": 5.0
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Fernando Haddad",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "PT",
+      "salary": {
+        "gross": 8801.7
+      },
+      "sources": [
+        {
+          "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        },
+        {
+          "Conversion BRL/USD Jan-2025": 5.0
+        }
+      ]
+    },
+    {
+      "name": "Rui Costa",
+      "gender": "M",
+      "role": "Chief of Staff of the Presidency",
+      "party": "PT",
+      "salary": {
+        "gross": 8801.7
+      },
+      "sources": [
+        {
+          "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        },
+        {
+          "Conversion BRL/USD Jan-2025": 5.0
+        }
+      ]
+    },
+    {
+      "name": "Nísia Trindade Lima",
+      "gender": "F",
+      "role": "Minister of Health",
+      "party": "Independent",
+      "salary": {
+        "gross": 8801.7
+      },
+      "sources": [
+        {
+          "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        },
+        {
+          "Conversion BRL/USD Jan-2025": 5.0
+        }
+      ]
+    },
+    {
+      "name": "Camilo Santana",
+      "gender": "M",
+      "role": "Minister of Education",
+      "party": "PT",
+      "salary": {
+        "gross": 8801.7
+      },
+      "sources": [
+        {
+          "Lei nº 14.520/2023": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14520.htm"
+        },
+        {
+          "Conversion BRL/USD Jan-2025": 5.0
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Arthur Lira",
+      "gender": "M",
+      "party": "PP",
+      "district": "Alagoas (AL)",
+      "role": "President of the Chamber of Deputies",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Marcos Pereira",
+      "gender": "M",
+      "party": "REP",
+      "district": "São Paulo (SP)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "José Guimarães",
+      "gender": "M",
+      "party": "PT",
+      "district": "Ceará (CE)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Bia Kicis",
+      "gender": "F",
+      "party": "PL",
+      "district": "Distrito Federal (DF)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Kim Kataguiri",
+      "gender": "M",
+      "party": "UNIAO",
+      "district": "São Paulo (SP)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Sâmia Bomfim",
+      "gender": "F",
+      "party": "PSOL",
+      "district": "São Paulo (SP)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Erika Kokay",
+      "gender": "F",
+      "party": "PT",
+      "district": "Distrito Federal (DF)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Nikolas Ferreira",
+      "gender": "M",
+      "party": "PL",
+      "district": "Minas Gerais (MG)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Tabata Amaral",
+      "gender": "F",
+      "party": "PSB",
+      "district": "São Paulo (SP)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Orlando Silva",
+      "gender": "M",
+      "party": "PCdoB",
+      "district": "São Paulo (SP)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Adriana Ventura",
+      "gender": "F",
+      "party": "NOVO",
+      "district": "São Paulo (SP)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Reginaldo Lopes",
+      "gender": "M",
+      "party": "PT",
+      "district": "Minas Gerais (MG)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Sóstenes Cavalcante",
+      "gender": "M",
+      "party": "PL",
+      "district": "Rio de Janeiro (RJ)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Rosângela Moro",
+      "gender": "F",
+      "party": "UNIAO",
+      "district": "Paraná (PR)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Dandara Tonantzin",
+      "gender": "F",
+      "party": "PT",
+      "district": "Minas Gerais (MG)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Célia Xakriabá",
+      "gender": "F",
+      "party": "PSOL",
+      "district": "Minas Gerais (MG)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "André Janones",
+      "gender": "M",
+      "party": "AVANTE",
+      "district": "Minas Gerais (MG)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Talíria Petrone",
+      "gender": "F",
+      "party": "PSOL",
+      "district": "Rio de Janeiro (RJ)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Carla Zambelli",
+      "gender": "F",
+      "party": "PL",
+      "district": "São Paulo (SP)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Pedro Lupion",
+      "gender": "M",
+      "party": "PP",
+      "district": "Paraná (PR)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Guilherme Boulos",
+      "gender": "M",
+      "party": "PSOL",
+      "district": "São Paulo (SP)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Duda Salabert",
+      "gender": "F",
+      "party": "PDT",
+      "district": "Minas Gerais (MG)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Luiz Philippe de Orleans e Bragança",
+      "gender": "M",
+      "party": "PL",
+      "district": "São Paulo (SP)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Benedita da Silva",
+      "gender": "F",
+      "party": "PT",
+      "district": "Rio de Janeiro (RJ)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Delegado Éder Mauro",
+      "gender": "M",
+      "party": "PL",
+      "district": "Pará (PA)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Fernanda Melchionna",
+      "gender": "F",
+      "party": "PSOL",
+      "district": "Rio Grande do Sul (RS)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Professor Israel Batista",
+      "gender": "M",
+      "party": "PSB",
+      "district": "Distrito Federal (DF)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Capitão Alberto Neto",
+      "gender": "M",
+      "party": "PL",
+      "district": "Amazonas (AM)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Gustavo Gayer",
+      "gender": "M",
+      "party": "PL",
+      "district": "Goiás (GO)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Bibo Nunes",
+      "gender": "M",
+      "party": "PL",
+      "district": "Rio Grande do Sul (RS)",
+      "salary": { "gross": 8801.7 }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Rodrigo Pacheco",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Minas Gerais (MG)",
+      "role": "President of the Federal Senate",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Veneziano Vital do Rêgo",
+      "gender": "M",
+      "party": "MDB",
+      "district": "Paraíba (PB)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Davi Alcolumbre",
+      "gender": "M",
+      "party": "UNIAO",
+      "district": "Amapá (AP)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Hamilton Mourão",
+      "gender": "M",
+      "party": "REP",
+      "district": "Rio Grande do Sul (RS)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Flávio Bolsonaro",
+      "gender": "M",
+      "party": "PL",
+      "district": "Rio de Janeiro (RJ)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Randolfe Rodrigues",
+      "gender": "M",
+      "party": "REDE",
+      "district": "Amapá (AP)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Jaques Wagner",
+      "gender": "M",
+      "party": "PT",
+      "district": "Bahia (BA)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Tereza Cristina",
+      "gender": "F",
+      "party": "PP",
+      "district": "Mato Grosso do Sul (MS)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Marcos Rogério",
+      "gender": "M",
+      "party": "PL",
+      "district": "Rondônia (RO)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Ana Paula Lobato",
+      "gender": "F",
+      "party": "PSB",
+      "district": "Maranhão (MA)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Beto Faro",
+      "gender": "M",
+      "party": "PT",
+      "district": "Pará (PA)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Sergio Moro",
+      "gender": "M",
+      "party": "UNIAO",
+      "district": "Paraná (PR)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Magno Malta",
+      "gender": "M",
+      "party": "PL",
+      "district": "Espírito Santo (ES)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Soraya Thronicke",
+      "gender": "F",
+      "party": "PODE",
+      "district": "Mato Grosso do Sul (MS)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Eliziane Gama",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Maranhão (MA)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Eduardo Braga",
+      "gender": "M",
+      "party": "MDB",
+      "district": "Amazonas (AM)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Marcos Pontes",
+      "gender": "M",
+      "party": "PL",
+      "district": "São Paulo (SP)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Zenaide Maia",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Rio Grande do Norte (RN)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Weverton Rocha",
+      "gender": "M",
+      "party": "PDT",
+      "district": "Maranhão (MA)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Izalci Lucas",
+      "gender": "M",
+      "party": "PSDB",
+      "district": "Distrito Federal (DF)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Simone Tebet",
+      "gender": "F",
+      "party": "MDB",
+      "district": "Mato Grosso do Sul (MS)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Jader Barbalho",
+      "gender": "M",
+      "party": "MDB",
+      "district": "Pará (PA)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Fabiano Contarato",
+      "gender": "M",
+      "party": "PT",
+      "district": "Espírito Santo (ES)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Ciro Nogueira",
+      "gender": "M",
+      "party": "PP",
+      "district": "Piauí (PI)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Cleitinho Azevedo",
+      "gender": "M",
+      "party": "REP",
+      "district": "Minas Gerais (MG)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Marcos do Val",
+      "gender": "M",
+      "party": "PODE",
+      "district": "Espírito Santo (ES)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Efraim Filho",
+      "gender": "M",
+      "party": "UNIAO",
+      "district": "Paraíba (PB)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Daniela Ribeiro",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Paraíba (PB)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Laércio Oliveira",
+      "gender": "M",
+      "party": "PP",
+      "district": "Sergipe (SE)",
+      "salary": { "gross": 8801.7 }
+    },
+    {
+      "name": "Teresa Leitão",
+      "gender": "F",
+      "party": "PT",
+      "district": "Pernambuco (PE)",
+      "salary": { "gross": 8801.7 }
+    }
+  ],
+  "parties": {
+    "PT": {
+      "name": "Partido dos Trabalhadores",
+      "en": "Workers' Party",
+      "range": 2,
+      "color": "#CC0000"
+    },
+    "PSB": {
+      "name": "Partido Socialista Brasileiro",
+      "en": "Brazilian Socialist Party",
+      "range": 3,
+      "color": "#FFCC00"
+    },
+    "Independent": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 3,
+      "color": "#666666"
+    },
+    "PP": {
+      "name": "Progressistas",
+      "en": "Progressives",
+      "range": 4,
+      "color": "#00529b"
+    },
+    "REP": {
+      "name": "Republicanos",
+      "en": "Republicans",
+      "range": 4,
+      "color": "#0076ce"
+    },
+    "UNIAO": {
+      "name": "União Brasil",
+      "en": "Brazil Union",
+      "range": 4,
+      "color": "#002776"
+    },
+    "PL": {
+      "name": "Partido Liberal",
+      "en": "Liberal Party",
+      "range": 5,
+      "color": "#003399"
+    },
+    "PSOL": {
+      "name": "Partido Socialismo e Liberdade",
+      "en": "Socialism and Liberty Party",
+      "range": 1,
+      "color": "#fbc02d"
+    },
+    "PCdoB": {
+      "name": "Partido Comunista do Brasil",
+      "en": "Communist Party of Brazil",
+      "range": 1,
+      "color": "#c62828"
+    },
+    "NOVO": {
+      "name": "Partido Novo",
+      "en": "New Party",
+      "range": 4,
+      "color": "#ff6f00"
+    },
+    "AVANTE": {
+      "name": "Avante",
+      "en": "Forward",
+      "range": 3,
+      "color": "#ff7f50"
+    },
+    "PSD": {
+      "name": "Partido Social Democrático",
+      "en": "Social Democratic Party",
+      "range": 3,
+      "color": "#006837"
+    },
+    "MDB": {
+      "name": "Movimento Democrático Brasileiro",
+      "en": "Brazilian Democratic Movement",
+      "range": 3,
+      "color": "#00923f"
+    },
+    "REDE": {
+      "name": "Rede Sustentabilidade",
+      "en": "Sustainability Network",
+      "range": 2,
+      "color": "#009999"
+    },
+    "PODE": {
+      "name": "Podemos",
+      "en": "We Can",
+      "range": 3,
+      "color": "#00a3e0"
+    },
+    "PDT": {
+      "name": "Partido Democrático Trabalhista",
+      "en": "Democratic Labour Party",
+      "range": 2,
+      "color": "#004aad"
+    },
+    "PSDB": {
+      "name": "Partido da Social Democracia Brasileira",
+      "en": "Brazilian Social Democracy Party",
+      "range": 3,
+      "color": "#0f4c81"
+    }
+  }
+}

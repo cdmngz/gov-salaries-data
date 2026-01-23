@@ -1,0 +1,112 @@
+{
+  "baseCurrency": "RUB",
+  "executive": [
+    {
+      "name": "Vladimir Putin",
+      "gender": "M",
+      "role": "President of Russia",
+      "party": "EP",
+      "salary": {
+        "gross": 8900000,
+        "net": null
+      }
+    },
+    {
+      "name": "Mikhail Mishustin",
+      "gender": "M",
+      "role": "Prime Minister of Russia",
+      "party": "EP",
+      "salary": {
+        "gross": 18200000,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Oksana Lut",
+      "gender": "F",
+      "portfolio": "Minister of Agriculture",
+      "salary": { "gross": 1100000, "net": null },
+      "budget": null
+    },
+    {
+      "name": "Irek Faizullin",
+      "gender": "M",
+      "portfolio": "Minister of Construction, Housing and Utilities",
+      "party": "EP",
+      "salary": { "gross": 1100000, "net": null },
+      "budget": null
+    },
+    {
+      "name": "Olga Lyubimova",
+      "gender": "F",
+      "portfolio": "Minister of Culture",
+      "salary": { "gross": 1100000, "net": null },
+      "budget": null
+    },
+    {
+      "name": "Maksut Shadayev",
+      "gender": "M",
+      "portfolio": "Minister of Digital Development, Communications and Mass Media",
+      "salary": { "gross": 1100000, "net": null },
+      "budget": null
+    },
+    {
+      "name": "Maxim Reshetnikov",
+      "gender": "M",
+      "portfolio": "Minister of Economic Development",
+      "party": "EP",
+      "salary": { "gross": 1100000, "net": null },
+      "budget": null
+    },
+    {
+      "name": "Sergey Kravtsov",
+      "gender": "M",
+      "portfolio": "Minister of Education",
+      "salary": { "gross": 1100000, "net": null },
+      "budget": null
+    },
+    {
+      "name": "Aleksandr Kurenkov",
+      "gender": "M",
+      "portfolio": "Minister of Emergency Situations",
+      "salary": { "gross": 1100000, "net": null },
+      "budget": null
+    },
+    {
+      "name": "Sergey Tsivilyov",
+      "gender": "M",
+      "portfolio": "Minister of Energy",
+      "party": "EP",
+      "salary": { "gross": 1100000, "net": null },
+      "budget": null
+    },
+    {
+      "name": "Anton Siluanov",
+      "gender": "M",
+      "portfolio": "Minister of Finance",
+      "party": "EP",
+      "salary": { "gross": 1100000, "net": null },
+      "budget": null
+    },
+    {
+      "name": "Sergey Lavrov",
+      "gender": "M",
+      "portfolio": "Minister of Foreign Affairs",
+      "salary": { "gross": 1100000, "net": null },
+      "budget": null
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "EP": {
+      "name": "Единая Россия",
+      "en": "United Russia",
+      "range": 3,
+      "color": "#1C4273"
+    }
+  }
+}

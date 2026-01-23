@@ -1,0 +1,114 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Alexander Stubb",
+      "gender": "M",
+      "role": "President of the Republic of Finland",
+      "party": "KOK",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Tasavallan presidentin kanslia": "https://www.presidentti.fi/en/" }
+      ]
+    },
+    {
+      "name": "Petteri Orpo",
+      "gender": "M",
+      "role": "Prime Minister of Finland",
+      "party": "KOK",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Valtioneuvosto": "https://valtioneuvosto.fi/en/government" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Riikka Purra",
+      "gender": "F",
+      "role": "Minister of Finance",
+      "party": "PS",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Valtiovarainministeriö": "https://vm.fi/" }
+      ]
+    },
+    {
+      "name": "Elina Valtonen",
+      "gender": "F",
+      "role": "Minister for Foreign Affairs",
+      "party": "KOK",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Ulkoministeriö": "https://um.fi/" }
+      ]
+    },
+    {
+      "name": "Mari Rantanen",
+      "gender": "F",
+      "role": "Minister of the Interior",
+      "party": "PS",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Sisäministeriö": "https://intermin.fi/" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Jussi Halla-aho",
+      "gender": "M",
+      "party": "PS",
+      "district": "Parliament of Finland",
+      "role": "Speaker of the Parliament",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Eduskunta": "https://www.eduskunta.fi/EN/kansanedustajat/Pages/default.aspx" }
+      ]
+    },
+    {
+      "name": "Paula Risikko",
+      "gender": "F",
+      "party": "KOK",
+      "district": "Parliament of Finland",
+      "role": "Deputy Speaker of the Parliament",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Eduskunta": "https://www.eduskunta.fi/" }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "KOK": {
+      "name": "Kansallinen Kokoomus",
+      "en": "National Coalition Party",
+      "range": 4,
+      "color": "#003580"
+    },
+    "PS": {
+      "name": "Perussuomalaiset",
+      "en": "Finns Party",
+      "range": 5,
+      "color": "#003087"
+    },
+    "SDP": {
+      "name": "Suomen Sosialidemokraattinen Puolue",
+      "en": "Social Democratic Party of Finland",
+      "range": 2,
+      "color": "#e11931"
+    },
+    "KESK": {
+      "name": "Suomen Keskusta",
+      "en": "Centre Party of Finland",
+      "range": 3,
+      "color": "#01954b"
+    },
+    "VIHR": {
+      "name": "Vihreä liitto",
+      "en": "Green League",
+      "range": 2,
+      "color": "#34b233"
+    }
+  }
+}
