@@ -1,0 +1,82 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Pope Leo XIV",
+      "gender": "M",
+      "role": "Sovereign of the Vatican City State",
+      "party": "HOLYSEE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Pietro Parolin",
+      "gender": "M",
+      "role": "Cardinal Secretary of State",
+      "party": "HOLYSEE",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Fernando Vérgez Alzaga",
+      "gender": "M",
+      "role": "President of the Governorate",
+      "party": "HOLYSEE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Paul Richard Gallagher",
+      "gender": "M",
+      "role": "Secretary for Relations with States and International Organizations",
+      "party": "HOLYSEE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Víctor Manuel Fernández",
+      "gender": "M",
+      "role": "Prefect of the Dicastery for the Doctrine of the Faith",
+      "party": "HOLYSEE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Robert Francis Prevost",
+      "gender": "M",
+      "role": "Prefect of the Dicastery for Bishops",
+      "party": "HOLYSEE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Arthur Roche",
+      "gender": "M",
+      "role": "Prefect of the Dicastery for Divine Worship and the Discipline of the Sacraments",
+      "party": "HOLYSEE",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Claudio Gugerotti",
+      "gender": "M",
+      "role": "Prefect of the Dicastery for the Eastern Churches",
+      "party": "HOLYSEE",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Raffaella Petrini",
+      "gender": "F",
+      "role": "Secretary General of the Governorate of the Vatican City State",
+      "party": "HOLYSEE",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "HOLYSEE": {
+      "name": "Santa Sede",
+      "en": "Holy See",
+      "range": 3,
+      "color": "#F7E017"
+    }
+  }
+}
