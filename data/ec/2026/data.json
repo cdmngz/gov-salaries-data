@@ -1,0 +1,137 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Daniel Roy-Gilchrist Noboa Azín",
+      "gender": "M",
+      "role": "President of the Republic of Ecuador",
+      "party": "ADN",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Verónica Abigail Abad Rojas",
+      "gender": "F",
+      "role": "Vice President of the Republic of Ecuador",
+      "party": "ADN",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Gabriela Sommerfeld",
+      "gender": "F",
+      "role": "Minister of Foreign Affairs and Human Mobility",
+      "party": "ADN",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Mónica Alexandra Palencia Núñez",
+      "gender": "F",
+      "role": "Minister of the Interior",
+      "party": "ADN",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Giancarlo Giovanni Loffredo López",
+      "gender": "M",
+      "role": "Minister of National Defence",
+      "party": "ADN",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Juan Carlos Vega Malo",
+      "gender": "M",
+      "role": "Minister of Economy and Finance",
+      "party": "Ind",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Andrea Arrobo Peña",
+      "gender": "F",
+      "role": "Minister of Energy and Mines",
+      "party": "Ind",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Henry Kronfle Kozhaya",
+      "gender": "M",
+      "district": "Guayas",
+      "party": "PSC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Pierina Correa Delgado",
+      "gender": "F",
+      "district": "Guayas",
+      "party": "RC",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Diana Salazar Méndez",
+      "gender": "F",
+      "role": "Attorney General of Ecuador",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "ADN": {
+      "name": "Acción Democrática Nacional",
+      "en": "National Democratic Action",
+      "range": 2,
+      "color": "#1E4B87"
+    },
+    "Ind": {
+      "name": "Independiente",
+      "en": "Independent",
+      "range": 3,
+      "color": "#666666"
+    },
+    "PSC": {
+      "name": "Partido Social Cristiano",
+      "en": "Social Christian Party",
+      "range": 3,
+      "color": "#0054A6"
+    },
+    "RC": {
+      "name": "Revolución Ciudadana",
+      "en": "Citizen Revolution Movement",
+      "range": 2,
+      "color": "#59267C"
+    }
+  }
+}

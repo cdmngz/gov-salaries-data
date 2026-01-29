@@ -1,0 +1,3222 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Marcelo Rebelo de Sousa",
+      "gender": "M",
+      "role": "President of the Portuguese Republic",
+      "party": "PSD",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidência da República": "https://www.presidencia.pt/"
+        }
+      ]
+    },
+    {
+      "name": "Luís Montenegro",
+      "gender": "M",
+      "role": "Prime Minister of Portugal",
+      "party": "PSD",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "António Leitão Amaro",
+      "gender": "M",
+      "role": "Minister of State and of the Presidency",
+      "party": "PSD",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério da Presidência": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/presidencia"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "Joaquim Miranda Sarmento",
+      "gender": "M",
+      "role": "Minister of State and Finance",
+      "party": "PSD",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério das Finanças": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/financas"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "Paulo Rangel",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "PSD",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério dos Negócios Estrangeiros": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/negocios-estrangeiros"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "Nuno Melo",
+      "gender": "M",
+      "role": "Minister of National Defense",
+      "party": "CDS-PP",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério da Defesa Nacional": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/defesa"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "Margarida Blasco",
+      "gender": "F",
+      "role": "Minister of Internal Administration",
+      "party": "PSD",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério da Administração Interna": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/administracao-interna"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "Rita Alarcão Júdice",
+      "gender": "F",
+      "role": "Minister of Justice",
+      "party": "PSD",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério da Justiça": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/justica"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "Ana Paula Martins",
+      "gender": "F",
+      "role": "Minister of Health",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério da Saúde": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/saude"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "Fernando Alexandre",
+      "gender": "M",
+      "role": "Minister of Education, Science and Innovation",
+      "party": "PSD",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério da Educação, Ciência e Inovação": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/educacao-ciencia"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "Maria do Rosário Palma Ramalho",
+      "gender": "F",
+      "role": "Minister of Labor, Solidarity and Social Security",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério do Trabalho, Solidariedade e Segurança Social": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/trabalho-solidariedade-seguranca-social"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "Miguel Pinto Luz",
+      "gender": "M",
+      "role": "Minister of Infrastructure and Housing",
+      "party": "PSD",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério das Infraestruturas e Habitação": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/infraestruturas-habitacao"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "Pedro Reis",
+      "gender": "M",
+      "role": "Minister of Economy",
+      "party": "PSD",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério da Economia": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/economia"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "José Manuel Fernandes",
+      "gender": "M",
+      "role": "Minister of Agriculture and Fisheries",
+      "party": "PSD",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério da Agricultura e Pescas": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/agricultura-pescas"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "Maria da Graça Carvalho",
+      "gender": "F",
+      "role": "Minister of Environment and Energy",
+      "party": "PSD",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério do Ambiente e Energia": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/ambiente-energia"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "Dalila Rodrigues",
+      "gender": "F",
+      "role": "Minister of Culture",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério da Cultura": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/cultura"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "Manuel Castro Almeida",
+      "gender": "M",
+      "role": "Minister of Territorial Cohesion",
+      "party": "PSD",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério da Coesão Territorial": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/coesao-territorial"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    },
+    {
+      "name": "Pedro Duarte",
+      "gender": "M",
+      "role": "Minister of Parliamentary Affairs",
+      "party": "PSD",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Ministério dos Assuntos Parlamentares": "https://www.portugal.gov.pt/pt/gc24/area-de-governo/assuntos-parlamentares"
+        },
+        {
+          "Governo de Portugal": "https://www.portugal.gov.pt/pt/gc24/governo"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "José Pedro Aguiar-Branco",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Assembly of the Republic",
+      "role": "President of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1938"
+        }
+      ]
+    },
+    {
+      "name": "Inês de Sousa Real",
+      "gender": "F",
+      "party": "PAN",
+      "district": "Assembly of the Republic",
+      "role": "Deputy Secretary of the Assembly",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/"
+        }
+      ]
+    },
+    {
+      "name": "Hugo Soares",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Braga",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7220"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Hugo_Soares_(pol%C3%ADtico)"
+        }
+      ]
+    },
+    {
+      "name": "Paulo Mota Pinto",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Castelo Branco",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1930"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Paulo_Mota_Pinto"
+        }
+      ]
+    },
+    {
+      "name": "Clara Marques Mendes",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Braga",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5996"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Clara_Marques_Mendes"
+        }
+      ]
+    },
+    {
+      "name": "André Coelho Lima",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Braga",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2230"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Andr%C3%A9_Coelho_Lima"
+        }
+      ]
+    },
+    {
+      "name": "Duarte Pacheco",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1944"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Duarte_Pacheco_(pol%C3%ADtico)"
+        }
+      ]
+    },
+    {
+      "name": "Adão Silva",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Bragança",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2049"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Ad%C3%A3o_Silva"
+        }
+      ]
+    },
+    {
+      "name": "Sara Madruga da Costa",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Madeira",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6009"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Sara_Madruga_da_Costa"
+        }
+      ]
+    },
+    {
+      "name": "Firmino Marques",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Braga",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5852"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Firmino_Marques"
+        }
+      ]
+    },
+    {
+      "name": "Paulo Moniz",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Azores",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6004"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Paulo_Moniz"
+        }
+      ]
+    },
+    {
+      "name": "Emídio Guerreiro",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Braga",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6100"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Em%C3%ADdio_Guerreiro_(pol%C3%ADtico)"
+        }
+      ]
+    },
+    {
+      "name": "Pedro Nuno Santos",
+      "gender": "M",
+      "party": "PS",
+      "district": "Aveiro",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4090"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Pedro_Nuno_Santos"
+        }
+      ]
+    },
+    {
+      "name": "Ana Catarina Mendes",
+      "gender": "F",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1997"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Ana_Catarina_Mendes"
+        }
+      ]
+    },
+    {
+      "name": "Alexandra Leitão",
+      "gender": "F",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4414"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Alexandra_Leit%C3%A3o"
+        }
+      ]
+    },
+    {
+      "name": "Eurico Brilhante Dias",
+      "gender": "M",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1893"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Eurico_Brilhante_Dias"
+        }
+      ]
+    },
+    {
+      "name": "Marta Temido",
+      "gender": "F",
+      "party": "PS",
+      "district": "Coimbra",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4427"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Marta_Temido"
+        }
+      ]
+    },
+    {
+      "name": "João Torres",
+      "gender": "M",
+      "party": "PS",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5912"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Torres_(pol%C3%ADtico_portugu%C3%AAs)"
+        }
+      ]
+    },
+    {
+      "name": "Porfírio Silva",
+      "gender": "M",
+      "party": "PS",
+      "district": "Coimbra",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2000"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Porf%C3%ADrio_Silva"
+        }
+      ]
+    },
+    {
+      "name": "Maria Begonha",
+      "gender": "F",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7222"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Maria_Begonha"
+        }
+      ]
+    },
+    {
+      "name": "Miguel Costa Matos",
+      "gender": "M",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6012"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Miguel_Costa_Matos"
+        }
+      ]
+    },
+    {
+      "name": "André Ventura",
+      "gender": "M",
+      "party": "CHEGA",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7000"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Andr%C3%A9_Ventura"
+        }
+      ]
+    },
+    {
+      "name": "Rita Matias",
+      "gender": "F",
+      "party": "CHEGA",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7224"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Rita_Matias"
+        }
+      ]
+    },
+    {
+      "name": "Gabriel Mithá Ribeiro",
+      "gender": "M",
+      "party": "CHEGA",
+      "district": "Leiria",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7226"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Gabriel_Mith%C3%A1_Ribeiro"
+        }
+      ]
+    },
+    {
+      "name": "Pedro Pinto",
+      "gender": "M",
+      "party": "CHEGA",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7228"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Pedro_Pinto_(pol%C3%ADtico_nascido_em_1977)"
+        }
+      ]
+    },
+    {
+      "name": "Filipe Melo",
+      "gender": "M",
+      "party": "CHEGA",
+      "district": "Beja",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7230"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Filipe_Melo"
+        }
+      ]
+    },
+    {
+      "name": "Bruno Nunes",
+      "gender": "M",
+      "party": "CHEGA",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7232"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Bruno_Nunes"
+        }
+      ]
+    },
+    {
+      "name": "Diogo Pacheco de Amorim",
+      "gender": "M",
+      "party": "CHEGA",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7234"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Diogo_Pacheco_de_Amorim"
+        }
+      ]
+    },
+    {
+      "name": "Rui Afonso",
+      "gender": "M",
+      "party": "CHEGA",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7236"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Rui_Afonso_(pol%C3%ADtico)"
+        }
+      ]
+    },
+    {
+      "name": "Pedro Frazão",
+      "gender": "M",
+      "party": "CHEGA",
+      "district": "Santarém",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7238"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Pedro_Fraz%C3%A3o"
+        }
+      ]
+    },
+    {
+      "name": "Rui Rocha",
+      "gender": "M",
+      "party": "IL",
+      "district": "Braga",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7240"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Rui_Rocha_(pol%C3%ADtico)"
+        }
+      ]
+    },
+    {
+      "name": "Carla Castro",
+      "gender": "F",
+      "party": "IL",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7242"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Carla_Castro"
+        }
+      ]
+    },
+    {
+      "name": "Bernardo Blanco",
+      "gender": "M",
+      "party": "IL",
+      "district": "Santarém",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7244"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Bernardo_Blanco"
+        }
+      ]
+    },
+    {
+      "name": "João Cotrim de Figueiredo",
+      "gender": "M",
+      "party": "IL",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7246"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Cotrim_de_Figueiredo"
+        }
+      ]
+    },
+    {
+      "name": "Mariana Mortágua",
+      "gender": "F",
+      "party": "BE",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7248"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Mariana_Mort%C3%A1gua"
+        }
+      ]
+    },
+    {
+      "name": "Fabian Figueiredo",
+      "gender": "M",
+      "party": "BE",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7250"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Fabian_Figueiredo"
+        }
+      ]
+    },
+    {
+      "name": "Pedro Filipe Soares",
+      "gender": "M",
+      "party": "BE",
+      "district": "Aveiro",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7252"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Pedro_Filipe_Soares"
+        }
+      ]
+    },
+    {
+      "name": "Joana Mortágua",
+      "gender": "F",
+      "party": "BE",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7254"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Joana_Mort%C3%A1gua"
+        }
+      ]
+    },
+    {
+      "name": "Luís Marques Guedes",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1940"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Lu%C3%ADs_Marques_Guedes"
+        }
+      ]
+    },
+    {
+      "name": "Fernando Negrão",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Setúbal",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1991"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Fernando_Negr%C3%A3o"
+        }
+      ]
+    },
+    {
+      "name": "Paulo Rios de Oliveira",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6102"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Paulo_Rios_de_Oliveira"
+        }
+      ]
+    },
+    {
+      "name": "Isabel Moreira",
+      "gender": "F",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7239"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Isabel_Moreira"
+        }
+      ]
+    },
+    {
+      "name": "Joaquim Miranda Sarmento",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Joaquim_Miranda_Sarmento"
+        }
+      ]
+    },
+    {
+      "name": "Ricardo Baptista Leite",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Ricardo_Baptista_Leite"
+        }
+      ]
+    },
+    {
+      "name": "Luís Leite Ramos",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Vila Real",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Lu%C3%ADs_Leite_Ramos"
+        }
+      ]
+    },
+    {
+      "name": "Márcia Passos",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/M%C3%A1rcia_Passos"
+        }
+      ]
+    },
+    {
+      "name": "Sofia Matos",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Sofia_Matos"
+        }
+      ]
+    },
+    {
+      "name": "Catarina Rocha Ferreira",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Castelo Branco",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Catarina_Rocha_Ferreira"
+        }
+      ]
+    },
+    {
+      "name": "Cláudia Bento",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Vila Real",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Cl%C3%A1udia_Bento"
+        }
+      ]
+    },
+    {
+      "name": "João Moura",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Santarém",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Moura_(pol%C3%ADtico)"
+        }
+      ]
+    },
+    {
+      "name": "António Maló de Abreu",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Coimbra",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Mal%C3%B3_de_Abreu"
+        }
+      ]
+    },
+    {
+      "name": "Paulo Neves",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Madeira",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Paulo_Neves"
+        }
+      ]
+    },
+    {
+      "name": "Hugo Carvalho",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Hugo_Carvalho"
+        }
+      ]
+    },
+    {
+      "name": "Mónica Quintela",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Braga",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/M%C3%B3nica_Quintela"
+        }
+      ]
+    },
+    {
+      "name": "Afonso Oliveira",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Afonso_Oliveira"
+        }
+      ]
+    },
+    {
+      "name": "Rodrigo Saraiva",
+      "gender": "M",
+      "party": "IL",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Rodrigo_Saraiva"
+        }
+      ]
+    },
+    {
+      "name": "Paula Santos",
+      "gender": "F",
+      "party": "CDU",
+      "district": "Setúbal",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Paula_Santos"
+        }
+      ]
+    },
+    {
+      "name": "João Oliveira",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Évora",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Oliveira_(pol%C3%ADtico)"
+        }
+      ]
+    },
+    {
+      "name": "Bruno Dias",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Setúbal",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Bruno_Dias"
+        }
+      ]
+    },
+    {
+      "name": "João Dias",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Beja",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Dias_(pol%C3%ADtico)"
+        }
+      ]
+    },
+    {
+      "name": "Alma Rivera",
+      "gender": "F",
+      "party": "CDU",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Alma_Rivera"
+        }
+      ]
+    },
+    {
+      "name": "Duarte Alves",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Duarte_Alves"
+        }
+      ]
+    },
+    {
+      "name": "Rui Tavares",
+      "gender": "M",
+      "party": "LIVRE",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Rui_Tavares"
+        }
+      ]
+    },
+    {
+      "name": "Isabel Pires",
+      "gender": "F",
+      "party": "BE",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Isabel_Pires"
+        }
+      ]
+    },
+    {
+      "name": "Alexandra Vieira",
+      "gender": "F",
+      "party": "BE",
+      "district": "Braga",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Alexandra_Vieira"
+        }
+      ]
+    },
+    {
+      "name": "Pedro Delgado Alves",
+      "gender": "M",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Pedro_Delgado_Alves"
+        }
+      ]
+    },
+    {
+      "name": "Marcos Perestrello",
+      "gender": "M",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Marcos_Perestrello"
+        }
+      ]
+    },
+    {
+      "name": "Edite Estrela",
+      "gender": "F",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Edite_Estrela"
+        }
+      ]
+    },
+    {
+      "name": "Susana Amador",
+      "gender": "F",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Susana_Amador"
+        }
+      ]
+    },
+    {
+      "name": "Ana Paula Vitorino",
+      "gender": "F",
+      "party": "PS",
+      "district": "Setúbal",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Ana_Paula_Vitorino"
+        }
+      ]
+    },
+    {
+      "name": "João Azevedo",
+      "gender": "M",
+      "party": "PS",
+      "district": "Viseu",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Azevedo_(pol%C3%ADtico_portugu%C3%AAs)"
+        }
+      ]
+    },
+    {
+      "name": "Jamila Madeira",
+      "gender": "F",
+      "party": "PS",
+      "district": "Faro",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jamila_Madeira"
+        }
+      ]
+    },
+    {
+      "name": "Francisco César",
+      "gender": "M",
+      "party": "PS",
+      "district": "Azores",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Francisco_C%C3%A9sar"
+        }
+      ]
+    },
+    {
+      "name": "Pedro do Carmo",
+      "gender": "M",
+      "party": "PS",
+      "district": "Beja",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Pedro_do_Carmo_(pol%C3%ADtico)"
+        }
+      ]
+    },
+    {
+      "name": "Joana Lima",
+      "gender": "F",
+      "party": "PS",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Joana_Lima"
+        }
+      ]
+    },
+    {
+      "name": "Fernando Anastácio",
+      "gender": "M",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Fernando_Anast%C3%A1cio"
+        }
+      ]
+    },
+    {
+      "name": "Bruno Aragão",
+      "gender": "M",
+      "party": "PS",
+      "district": "Aveiro",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Bruno_Arag%C3%A3o"
+        }
+      ]
+    },
+    {
+      "name": "Ana Passos",
+      "gender": "F",
+      "party": "PS",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Ana_Passos"
+        }
+      ]
+    },
+    {
+      "name": "Maria da Luz Rosinha",
+      "gender": "F",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Maria_da_Luz_Rosinha"
+        }
+      ]
+    },
+    {
+      "name": "Rui Paulo Sousa",
+      "gender": "M",
+      "party": "CHEGA",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Rui_Paulo_Sousa"
+        }
+      ]
+    },
+    {
+      "name": "Sérgio Sousa Pinto",
+      "gender": "M",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/S%C3%A9rgio_Sousa_Pinto"
+        }
+      ]
+    },
+    {
+      "name": "Paulo Sá",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Faro",
+      "role": "Member of the Assembly of the Republic",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx"
+        },
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Paulo_S%C3%A1"
+        }
+      ]
+    },
+    {
+      "name": "Maria Antónia de Almeida Santos",
+      "gender": "F",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Maria_Ant%C3%B3nia_de_Almeida_Santos"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "José Luís Carneiro",
+      "gender": "M",
+      "party": "PS",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Carneiro"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Tiago Barbosa Ribeiro",
+      "gender": "M",
+      "party": "PS",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Tiago_Barbosa_Ribeiro"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "João Paulo Correia",
+      "gender": "M",
+      "party": "PS",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Paulo_Correia_(pol%C3%ADtico)"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Hortense Martins",
+      "gender": "F",
+      "party": "PS",
+      "district": "Castelo Branco",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Hortense_Martins"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Tiago Brandão Rodrigues",
+      "gender": "M",
+      "party": "PS",
+      "district": "Viana do Castelo",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Tiago_Brand%C3%A3o_Rodrigues"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Pedro Cegonho",
+      "gender": "M",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Pedro_Cegonho"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Paulo Arsénio",
+      "gender": "M",
+      "party": "PS",
+      "district": "Beja",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Paulo_Ars%C3%A9nio"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Isabel Rodrigues",
+      "gender": "F",
+      "party": "PS",
+      "district": "Azores",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Isabel_Rodrigues_(pol%C3%ADtica_portuguesa)"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Alexandre Quintanilha",
+      "gender": "M",
+      "party": "PS",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Alexandre_Quintanilha"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Cláudia André",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Castelo Branco",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Cl%C3%A1udia_Andr%C3%A9"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Helga Correia",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Viseu",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Helga_Correia"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Duarte Marques",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Santarém",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Duarte_Marques"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Cristóvão Norte",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Faro",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Crist%C3%B3v%C3%A3o_Norte"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Berta Cabral",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Azores",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Berta_Cabral"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Lina Lopes",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Aveiro",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Lina_Lopes"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Luís Campos Ferreira",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Lu%C3%ADs_Campos_Ferreira"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "António Topa Gomes",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Topa_Gomes"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Margarida Balseiro Lopes",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Margarida_Balseiro_Lopes"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Miguel Pinto Luz",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Miguel_Pinto_Luz"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Emília Cerqueira",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Viana do Castelo",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Em%C3%ADlia_Cerqueira"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Alexandre Poço",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Alexandre_Po%C3%A7o"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Hugo Carneiro",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Hugo_Carneiro"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Teresa Leal Coelho",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Teresa_Leal_Coelho"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Teresa Morais",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Leiria",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Teresa_Morais"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Carlos Guimarães Pinto",
+      "gender": "M",
+      "party": "IL",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Carlos_Guimar%C3%A3es_Pinto"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Catarina Martins",
+      "gender": "F",
+      "party": "BE",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Catarina_Martins"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Mariana Aiveca",
+      "gender": "F",
+      "party": "BE",
+      "district": "Setúbal",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Mariana_Aiveca"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Jorge Costa",
+      "gender": "M",
+      "party": "BE",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jorge_Costa_(pol%C3%ADtico_portugu%C3%AAs)"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Pedro Soares",
+      "gender": "M",
+      "party": "BE",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Pedro_Soares_(pol%C3%ADtico)"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Jerónimo de Sousa",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Setúbal",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jer%C3%B3nimo_de_Sousa"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Bernardino Soares",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Bernardino_Soares"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "João Ferreira",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Ferreira_(pol%C3%ADtico)"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Rita Rato",
+      "gender": "F",
+      "party": "CDU",
+      "district": "Évora",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Rita_Rato"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "João Ramos",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Beja",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Ramos_(pol%C3%ADtico)"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Heloísa Apolónia",
+      "gender": "F",
+      "party": "CDU",
+      "district": "Leiria",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Helo%C3%ADsa_Apol%C3%B3nia"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Eduardo Ferro Rodrigues",
+      "gender": "M",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Eduardo_Ferro_Rodrigues"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Ana Mesquita",
+      "gender": "F",
+      "party": "CDU",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Ana_Mesquita_(pol%C3%ADtica)"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "José Luís Ferreira",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADs_Ferreira_(pol%C3%ADtico_portugu%C3%AAs)"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Carlos Eduardo Reis",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Braga",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7242"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Sofia Vilela",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7239"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Pedro Alves",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Vila Real",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7244"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Mónica Varanda",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7245"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Sérgio Marques",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Madeira",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7246"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Rui Cristina",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Faro",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7247"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "João Gonçalves Pereira",
+      "gender": "M",
+      "party": "CDS-PP",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7248"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Paulo Núncio",
+      "gender": "M",
+      "party": "CDS-PP",
+      "district": "Setúbal",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7249"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Francisco Mendes da Silva",
+      "gender": "M",
+      "party": "IL",
+      "district": "Braga",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7250"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Joana Cordeiro",
+      "gender": "F",
+      "party": "IL",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7251"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Miguel Borges",
+      "gender": "M",
+      "party": "CH",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7252"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Bruno Mascarenhas",
+      "gender": "M",
+      "party": "CH",
+      "district": "Setúbal",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7253"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Nuno Afonso",
+      "gender": "M",
+      "party": "CH",
+      "district": "Santarém",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7254"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Patrícia de Sousa Carvalho",
+      "gender": "F",
+      "party": "CH",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7255"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Pedro Pessanha",
+      "gender": "M",
+      "party": "CH",
+      "district": "Setúbal",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7256"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Miguel dos Santos Rodrigues",
+      "gender": "M",
+      "party": "CH",
+      "district": "Braga",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7257"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Cláudia Santos",
+      "gender": "F",
+      "party": "PS",
+      "district": "Coimbra",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7258"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Pedro Coimbra",
+      "gender": "M",
+      "party": "PS",
+      "district": "Coimbra",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7259"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Hugo Oliveira",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Leiria",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7260"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Sérgio Costa",
+      "gender": "M",
+      "party": "PS",
+      "district": "Guarda",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7262"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Ana Paula Bernardo",
+      "gender": "F",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7263"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Cristina Rodrigues",
+      "gender": "F",
+      "party": "IND",
+      "district": "Setúbal",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Cristina_Rodrigues_(pol%C3%ADtica)"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "José Carlos Barros",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Faro",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7265"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Maria Germana Rocha",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Porto",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7266"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "João Azevedo e Castro",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Viseu",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7267"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Fátima Ramos",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Guarda",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7268"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Maria das Mercês Borges",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Bragança",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7269"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Rosa Matos Rosa",
+      "gender": "F",
+      "party": "PSD",
+      "district": "Castelo Branco",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7270"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Hugo Patrício Oliveira",
+      "gender": "M",
+      "party": "PSD",
+      "district": "Beja",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7271"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Ana Paula Duarte",
+      "gender": "F",
+      "party": "PS",
+      "district": "Braga",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7272"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Miguel Matos",
+      "gender": "M",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7273"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Maria João Castro",
+      "gender": "F",
+      "party": "PS",
+      "district": "Viana do Castelo",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7274"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "António Filipe",
+      "gender": "M",
+      "party": "CDU",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7275"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "José Dias",
+      "gender": "M",
+      "party": "CH",
+      "district": "Viseu",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7276"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Helena Faria",
+      "gender": "F",
+      "party": "CH",
+      "district": "Portalegre",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7277"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Miguel Ângelo",
+      "gender": "M",
+      "party": "CH",
+      "district": "Madeira",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7278"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Patrícia Silva",
+      "gender": "F",
+      "party": "IL",
+      "district": "Setúbal",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7279"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Ricardo Tavares",
+      "gender": "M",
+      "party": "IL",
+      "district": "Aveiro",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Assembleia da República": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=7280"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Helena Pinto",
+      "gender": "F",
+      "party": "BE",
+      "district": "Santarém",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Helena_Pinto"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "José Manuel Pureza",
+      "gender": "M",
+      "party": "BE",
+      "district": "Coimbra",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Jos%C3%A9_Manuel_Pureza"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Carla Tavares",
+      "gender": "F",
+      "party": "PS",
+      "district": "Lisbon",
+      "role": "Member of the Assembly of the Republic",
+      "sources": [
+        {
+          "Wikipedia": "https://pt.wikipedia.org/wiki/Carla_Tavares"
+        }
+      ],
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "PSD": {
+      "name": "Partido Social Democrata",
+      "en": "Social Democratic Party",
+      "range": 4,
+      "color": "#f58220"
+    },
+    "PS": {
+      "name": "Partido Socialista",
+      "en": "Socialist Party",
+      "range": 2,
+      "color": "#ff3366"
+    },
+    "CHEGA": {
+      "name": "Chega",
+      "en": "Enough",
+      "range": 5,
+      "color": "#002554"
+    },
+    "IL": {
+      "name": "Iniciativa Liberal",
+      "en": "Liberal Initiative",
+      "range": 4,
+      "color": "#00a9e0"
+    },
+    "BE": {
+      "name": "Bloco de Esquerda",
+      "en": "Left Bloc",
+      "range": 1,
+      "color": "#d71920"
+    },
+    "PAN": {
+      "name": "Pessoas-Animais-Natureza",
+      "en": "People-Animals-Nature",
+      "range": 2,
+      "color": "#00a79d"
+    },
+    "CDU": {
+      "name": "Coligação Democrática Unitária",
+      "en": "Democratic Unity Coalition",
+      "range": 1,
+      "color": "#006633"
+    },
+    "LIVRE": {
+      "name": "LIVRE",
+      "en": "Free",
+      "range": 2,
+      "color": "#71b62c"
+    },
+    "CDS-PP": {
+      "name": "Centro Democrático e Social – Partido Popular",
+      "en": "People's Party",
+      "range": 4,
+      "color": "#0046ad"
+    },
+    "IND": {
+      "name": "Independente",
+      "en": "Independent",
+      "range": 3,
+      "color": "#808080"
+    }
+  }
+}
