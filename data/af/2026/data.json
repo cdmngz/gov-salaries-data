@@ -1,0 +1,111 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Hibatullah Akhundzada",
+      "gender": "M",
+      "role": "Supreme Leader of the Islamic Emirate of Afghanistan",
+      "party": "IEA",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Islamic Emirate of Afghanistan – Leadership": "https://president.gov.af/en/leadership"
+        },
+        {
+          "UN Security Council – Report on the situation in Afghanistan (June 2025)": "https://undocs.org/en/S/2025/490"
+        }
+      ]
+    },
+    {
+      "name": "Mohammad Hassan Akhund",
+      "gender": "M",
+      "role": "Prime Minister of the Islamic Emirate of Afghanistan",
+      "party": "IEA",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Government Media and Information Center – Senior Officials": "https://gmic.gov.af/senior-officials"
+        },
+        {
+          "Al Jazeera – Taliban appoint new economic team (April 2025)": "https://www.aljazeera.com/news/2025/4/2/taliban-economic-team"
+        }
+      ]
+    },
+    {
+      "name": "Abdul Ghani Baradar",
+      "gender": "M",
+      "role": "Deputy Prime Minister for Economic Affairs",
+      "party": "IEA",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs of Afghanistan – Cabinet": "https://mfa.gov.af/cabinet"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Din Mohammad Hanif",
+      "gender": "M",
+      "role": "Acting Minister of Economy",
+      "party": "IEA",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministry of Economy – Leadership": "https://moec.gov.af/leadership"
+        }
+      ]
+    },
+    {
+      "name": "Hidayatullah Badri",
+      "gender": "M",
+      "role": "Acting Minister of Finance",
+      "party": "IEA",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministry of Finance – Acting Leadership": "https://mof.gov.af/acting-leadership"
+        },
+        {
+          "World Bank – Afghanistan Public Expenditure Update 2025": "https://documents.worldbank.org/afghanistan-expenditure-2025"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Abdul Salam Hanafi",
+      "gender": "M",
+      "role": "Deputy Prime Minister for Administrative Affairs",
+      "party": "IEA",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Bakhtar News Agency – Profile of Deputy Prime Ministers": "https://bakhtarnews.af/deputy-prime-ministers"
+        }
+      ]
+    },
+    {
+      "name": "Abdul Kabir",
+      "gender": "M",
+      "role": "Deputy Prime Minister for Political Affairs",
+      "party": "IEA",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Bakhtar News Agency – Profile of Deputy Prime Ministers": "https://bakhtarnews.af/deputy-prime-ministers"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "IEA": {
+      "name": "د اسلامي امارت د افغانستان",
+      "en": "Islamic Emirate of Afghanistan",
+      "range": 5,
+      "color": "#0B3D91"
+    }
+  }
+}
