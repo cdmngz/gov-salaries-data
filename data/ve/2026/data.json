@@ -114,7 +114,25 @@
     {
       "name": "Luis Antonio Villegas Ramírez",
       "gender": "M",
-      "role": "Ministro del Poder Popular de Industrias, Producción Nacional y Comercio Nacional",
+      "role": "Ministro del Poder Popular de Industrias y Producción Nacional",
+      "party": "PSUV",
+      "salary": {
+        "gross": 330,
+        "net": 330
+      },
+      "sources": [
+        {
+          "Portal de la Vicepresidencia": "https://vicepresidencia.gob.ve/ministros/"
+        },
+        {
+          "Escala salarial (G.O. Extraordinaria Nº 6.691, 15 Mar 2022)": "https://transparencia.org.ve/wp-content/uploads/2022/03/Gaceta-Oficial-Extraordinaria-6691-15-marzo-2022.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Daniella Desireé Cabello Contreras",
+      "gender": "F",
+      "role": "Ministra del Poder Popular de Comercio Nacional",
       "party": "PSUV",
       "salary": {
         "gross": 330,

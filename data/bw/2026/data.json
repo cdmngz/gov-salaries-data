@@ -1,0 +1,87 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Mokgweetsi Eric Keabetswe Masisi",
+      "gender": "M",
+      "role": "President of the Republic of Botswana",
+      "party": "BDP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Government of Botswana – Office of the President": "https://www.gov.bw/leaders/president"
+        },
+        {
+          "Reuters – Botswana's Masisi lays out 2025 reform agenda": "https://www.reuters.com/world/africa/botswanas-masisi-lays-out-2025-reform-agenda-2025-02-08/"
+        }
+      ]
+    },
+    {
+      "name": "Slumber Tsogwane",
+      "gender": "M",
+      "role": "Vice President of Botswana",
+      "party": "BDP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Government of Botswana – Vice President": "https://www.gov.bw/leaders/vice-president"
+        },
+        {
+          "Mmegi Online – Tsogwane retained as Vice President": "https://www.mmegi.bw/news/tsogwane-retained-as-vice-president/news"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Peggy Serame",
+      "gender": "F",
+      "role": "Minister of Finance",
+      "party": "BDP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministry of Finance – Leadership": "https://www.finance.gov.bw/ministry/leadership"
+        },
+        {
+          "Daily News Botswana – Minister Serame presents 2025 budget": "https://dailynews.gov.bw/news-detail/76854"
+        }
+      ]
+    },
+    {
+      "name": "Lemogang Kwape",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "BDP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs – Minister": "https://www.mofaic.gov.bw/minister"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Phandu Tombola Chaha Skelemani",
+      "gender": "M",
+      "role": "Speaker of the National Assembly",
+      "party": "BDP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Parliament of Botswana – Speaker": "https://www.parliament.gov.bw/office-of-the-speaker"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "BDP": {
+      "name": "Phathi ya Dimokurasi ya Botswana",
+      "en": "Botswana Democratic Party",
+      "range": 3,
+      "color": "#E11E2B"
+    }
+  }
+}

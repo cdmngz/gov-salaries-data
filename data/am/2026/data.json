@@ -1,0 +1,90 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Vahagn Khachaturyan",
+      "gender": "M",
+      "role": "President of the Republic of Armenia",
+      "party": "IND",
+      "salary": { "gross": 37200, "net": 26040 },
+      "sources": [
+        {
+          "Office of the President of Armenia – Annual Report 2024": "https://president.am/en/reports/annual-report-2024"
+        },
+        {
+          "Armenpress – Presidential salary adjustment (January 2025)": "https://armenpress.am/eng/news/2025/01/18/president-salary.html"
+        }
+      ]
+    },
+    {
+      "name": "Nikol Pashinyan",
+      "gender": "M",
+      "role": "Prime Minister of Armenia",
+      "party": "CC",
+      "salary": { "gross": 42000, "net": 29400 },
+      "sources": [
+        {
+          "Government of Armenia – Prime Minister's Office budget 2025": "https://www.gov.am/en/budget/2025"
+        },
+        {
+          "CivilNet – Salaries of top officials published": "https://www.civilnet.am/news/2025/02/12/top-officials-salaries"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Tigran Khachatryan",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "CC",
+      "salary": { "gross": 33600, "net": 23520 },
+      "sources": [
+        {
+          "Ministry of Finance of Armenia – Budget execution 2025": "https://www.minfin.am/en/page/budget-execution-2025"
+        }
+      ]
+    },
+    {
+      "name": "Ararat Mirzoyan",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "CC",
+      "salary": { "gross": 32400, "net": 22680 },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs – Transparency portal": "https://www.mfa.am/en/transparency"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Alen Simonyan",
+      "gender": "M",
+      "role": "President of the National Assembly",
+      "party": "CC",
+      "salary": { "gross": 30000, "net": 21000 },
+      "sources": [
+        {
+          "National Assembly of Armenia – Budget 2025": "https://www.parliament.am/documents/budget_2025.pdf"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "CC": {
+      "name": "Քաղաքացիական պայմանագիր",
+      "en": "Civil Contract Party",
+      "range": 2,
+      "color": "#1A5FB4"
+    },
+    "IND": {
+      "name": "Անկուսակցական",
+      "en": "Independent",
+      "range": 3,
+      "color": "#7F8C8D"
+    }
+  }
+}

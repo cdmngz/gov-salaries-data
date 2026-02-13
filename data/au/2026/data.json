@@ -1,0 +1,336 @@
+{
+  "baseCurrency": "USD",
+  "royalty": [
+    {
+      "name": "Charles III",
+      "gender": "M",
+      "role": "King of Australia",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Australian Government — Australia's System of Government": "https://www.australia.gov.au/about-government/how-government-works/system-of-government"
+        }
+      ]
+    }
+  ],
+  "executive": [
+    {
+      "name": "David Hurley",
+      "gender": "M",
+      "role": "Governor-General of Australia",
+      "salary": {
+        "gross": 331650,
+        "net": null
+      },
+      "sources": [
+        {
+          "Remuneration Tribunal — Governor-General's Salary Determination 2023": "https://www.remtribunal.gov.au/sites/default/files/2023-08/2023-governor-general-salary-determination-2023-10.pdf"
+        },
+        {
+          "Reserve Bank of Australia — Exchange rates (2 January 2025)": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html"
+        }
+      ]
+    },
+    {
+      "name": "Anthony Albanese",
+      "gender": "M",
+      "role": "Prime Minister of Australia",
+      "party": "ALP",
+      "salary": {
+        "gross": 378119,
+        "net": null
+      },
+      "sources": [
+        {
+          "Remuneration Tribunal — Parliamentary Salaries Determination 2023": "https://www.remtribunal.gov.au/sites/default/files/2023-06/2023-parliamentary-determination-2023-06.pdf"
+        },
+        {
+          "Reserve Bank of Australia — Exchange rates (2 January 2025)": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html"
+        }
+      ]
+    },
+    {
+      "name": "Richard Marles",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister for Defence",
+      "party": "ALP",
+      "salary": {
+        "gross": 298132,
+        "net": null
+      },
+      "sources": [
+        {
+          "Remuneration Tribunal — Parliamentary Salaries Determination 2023": "https://www.remtribunal.gov.au/sites/default/files/2023-06/2023-parliamentary-determination-2023-06.pdf"
+        },
+        {
+          "Reserve Bank of Australia — Exchange rates (2 January 2025)": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html"
+        }
+      ]
+    },
+    {
+      "name": "Jim Chalmers",
+      "gender": "M",
+      "role": "Treasurer of Australia",
+      "party": "ALP",
+      "salary": {
+        "gross": 272682,
+        "net": null
+      },
+      "sources": [
+        {
+          "Remuneration Tribunal — Parliamentary Salaries Determination 2023": "https://www.remtribunal.gov.au/sites/default/files/2023-06/2023-parliamentary-determination-2023-06.pdf"
+        },
+        {
+          "Reserve Bank of Australia — Exchange rates (2 January 2025)": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Penny Wong",
+      "gender": "F",
+      "role": "Minister for Foreign Affairs",
+      "party": "ALP",
+      "salary": {
+        "gross": 250867,
+        "net": null
+      },
+      "sources": [
+        {
+          "Remuneration Tribunal — Parliamentary Salaries Determination 2023": "https://www.remtribunal.gov.au/sites/default/files/2023-06/2023-parliamentary-determination-2023-06.pdf"
+        },
+        {
+          "Reserve Bank of Australia — Exchange rates (2 January 2025)": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html"
+        }
+      ]
+    },
+    {
+      "name": "Mark Dreyfus",
+      "gender": "M",
+      "role": "Attorney-General of Australia",
+      "party": "ALP",
+      "salary": {
+        "gross": 250867,
+        "net": null
+      },
+      "sources": [
+        {
+          "Remuneration Tribunal — Parliamentary Salaries Determination 2023": "https://www.remtribunal.gov.au/sites/default/files/2023-06/2023-parliamentary-determination-2023-06.pdf"
+        },
+        {
+          "Reserve Bank of Australia — Exchange rates (2 January 2025)": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html"
+        }
+      ]
+    },
+    {
+      "name": "Katy Gallagher",
+      "gender": "F",
+      "role": "Minister for Finance and Minister for Women",
+      "party": "ALP",
+      "salary": {
+        "gross": 250867,
+        "net": null
+      },
+      "sources": [
+        {
+          "Remuneration Tribunal — Parliamentary Salaries Determination 2023": "https://www.remtribunal.gov.au/sites/default/files/2023-06/2023-parliamentary-determination-2023-06.pdf"
+        },
+        {
+          "Reserve Bank of Australia — Exchange rates (2 January 2025)": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Tanya Plibersek",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Sydney",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Tony Burke",
+      "gender": "M",
+      "party": "ALP",
+      "district": "Watson",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Linda Burney",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Barton",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Jason Clare",
+      "gender": "M",
+      "party": "ALP",
+      "district": "Blaxland",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Bill Shorten",
+      "gender": "M",
+      "party": "ALP",
+      "district": "Maribyrnong",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Catherine King",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Ballarat",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Clare O'Neil",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Hotham",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Andrew Leigh",
+      "gender": "M",
+      "party": "ALP",
+      "district": "Fenner",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Pat Conroy",
+      "gender": "M",
+      "party": "ALP",
+      "district": "Shortland",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Julie Collins",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Franklin",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Madeleine King",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Brand",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Michelle Rowland",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Greenway",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Mark Butler",
+      "gender": "M",
+      "party": "ALP",
+      "district": "Hindmarsh",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Chris Bowen",
+      "gender": "M",
+      "party": "ALP",
+      "district": "McMahon",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Amanda Rishworth",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Kingston",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Anika Wells",
+      "gender": "F",
+      "party": "ALP",
+      "district": "Lilley",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Peter Dutton",
+      "gender": "M",
+      "party": "LIB",
+      "district": "Dickson",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Sussan Ley",
+      "gender": "F",
+      "party": "LIB",
+      "district": "Farrer",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "Angus Taylor",
+      "gender": "M",
+      "party": "LIB",
+      "district": "Hume",
+      "salary": { "gross": 145430, "net": null }
+    },
+    {
+      "name": "David Littleproud",
+      "gender": "M",
+      "party": "NAT",
+      "district": "Maranoa",
+      "salary": { "gross": 145430, "net": null }
+    }
+  ],
+  "senate": [],
+  "officials": [
+    {
+      "name": "Stephen Gageler",
+      "gender": "M",
+      "role": "Chief Justice of the High Court of Australia",
+      "salary": {
+        "gross": 407615,
+        "net": null
+      },
+      "sources": [
+        {
+          "Remuneration Tribunal — Judicial and Related Offices Determination 2023": "https://www.remtribunal.gov.au/sites/default/files/2023-08/2023-judicial-determination-2023-11.pdf"
+        },
+        {
+          "Reserve Bank of Australia — Exchange rates (2 January 2025)": "https://www.rba.gov.au/statistics/frequency/exchange-rates.html"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "ALP": {
+      "name": "Australian Labor Party",
+      "en": "Labor Party",
+      "range": 2,
+      "color": "#E13940"
+    },
+    "LIB": {
+      "name": "Liberal Party of Australia",
+      "en": "Liberal Party",
+      "range": 3,
+      "color": "#1C4F9C"
+    },
+    "NAT": {
+      "name": "The Nationals",
+      "en": "National Party",
+      "range": 1,
+      "color": "#006A44"
+    },
+    "GRN": {
+      "name": "Australian Greens",
+      "en": "Greens",
+      "range": 1,
+      "color": "#3A9F4C"
+    }
+  }
+}
