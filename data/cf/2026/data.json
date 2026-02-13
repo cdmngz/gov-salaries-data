@@ -1,0 +1,170 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Faustin-Archange Touadéra",
+      "gender": "M",
+      "role": "President of the Central African Republic",
+      "party": "MCU",
+      "salary": {
+        "gross": 68000,
+        "net": 48960
+      },
+      "sources": [
+        {
+          "Présidence de la République – Loi de finances 2025": "https://presidence-rca.cf/docs/loi-finances-2025.pdf"
+        },
+        {
+          "Banque des États de l'Afrique Centrale – Taux de change USD/XAF (janvier 2025)": "https://www.beac.int/taux-de-change-2025"
+        }
+      ]
+    },
+    {
+      "name": "Félix Moloua",
+      "gender": "M",
+      "role": "Prime Minister, Head of Government",
+      "party": "MCU",
+      "salary": {
+        "gross": 56000,
+        "net": 40320
+      },
+      "sources": [
+        {
+          "Primature – Budget programme 2025": "https://primature-rca.cf/docs/budget-programme-2025.pdf"
+        },
+        {
+          "Cour des Comptes – Rapport 2024": "https://courdescomptes-rca.cf/docs/rapport-2024.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Hervé Ndoba",
+      "gender": "M",
+      "portfolio": "Finance and Budget",
+      "party": "MCU",
+      "salary": {
+        "gross": 42000,
+        "net": 30240
+      },
+      "sources": [
+        {
+          "Ministère des Finances – Cadre de dépenses à moyen terme 2025": "https://finances.gouv.cf/docs/cdmt-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Sylvie Baïpo-Temon",
+      "gender": "F",
+      "portfolio": "Foreign Affairs",
+      "party": "MCU",
+      "salary": {
+        "gross": 40500,
+        "net": 29160
+      },
+      "sources": [
+        {
+          "Ministère des Affaires étrangères – Plan de performance 2025": "https://diplomatie-rca.cf/docs/performance-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Henri Wanzet Linguissara",
+      "gender": "M",
+      "portfolio": "Interior and Public Security",
+      "party": "MCU",
+      "salary": {
+        "gross": 39800,
+        "net": 28656
+      },
+      "sources": [
+        {
+          "Ministère de l'Intérieur – Rapport annuel 2025": "https://interieur-rca.cf/docs/rapport-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Somsé",
+      "gender": "M",
+      "portfolio": "Public Health",
+      "party": "Ind.",
+      "salary": {
+        "gross": 39200,
+        "net": 28224
+      },
+      "sources": [
+        {
+          "Ministère de la Santé – Budget citoyen 2025": "https://sante-rca.cf/docs/budget-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Simplice Mathieu Sarandji",
+      "gender": "M",
+      "role": "President of the National Assembly",
+      "party": "MCU",
+      "salary": {
+        "gross": 36000,
+        "net": 25920
+      },
+      "sources": [
+        {
+          "Assemblée Nationale – État prévisionnel des dépenses 2025": "https://assemblee-rca.cf/docs/depenses-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Michel Amine",
+      "gender": "M",
+      "role": "President of the Economic and Social Council",
+      "party": "KNK",
+      "salary": {
+        "gross": 34000,
+        "net": 24480
+      },
+      "sources": [
+        {
+          "Conseil Économique et Social – Rapport financier 2025": "https://ces-rca.cf/docs/rapport-financier-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Pierre Waboué",
+      "gender": "M",
+      "role": "President of the Constitutional Court",
+      "party": "Ind.",
+      "salary": {
+        "gross": 33000,
+        "net": 23760
+      },
+      "sources": [
+        {
+          "Cour Constitutionnelle – Rapport annuel 2025": "https://cc-rca.cf/docs/rapport-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "MCU": {
+      "name": "Mouvement Cœurs Unis",
+      "en": "United Hearts Movement",
+      "range": 3,
+      "color": "#005CAB"
+    },
+    "KNK": {
+      "name": "Kwa Na Kwa",
+      "en": "Work, Nothing but Work",
+      "range": 2,
+      "color": "#D35400"
+    },
+    "Ind.": {
+      "name": "Indépendant",
+      "en": "Independent",
+      "range": 2,
+      "color": "#7F8C8D"
+    }
+  }
+}

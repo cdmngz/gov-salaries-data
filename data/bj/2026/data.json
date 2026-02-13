@@ -1,0 +1,84 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Patrice Talon",
+      "gender": "M",
+      "role": "Président de la République du Bénin",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Présidence de la République du Bénin": "https://presidence.bj/le-president/"
+        },
+        {
+          "France 24 – Bénin: Patrice Talon confirme ne pas briguer un troisième mandat": "https://www.france24.com/fr/afrique/20240428-b%C3%A9nin-patrice-talon-confirme-ne-pas-briguer-un-troisi%C3%A8me-mandat"
+        }
+      ]
+    },
+    {
+      "name": "Mariam Chabi Talata",
+      "gender": "F",
+      "role": "Vice-présidente de la République",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Présidence du Bénin – Vice-présidente": "https://presidence.bj/la-vice-presidente/"
+        },
+        {
+          "RFI – La vice-présidente Mariam Chabi Talata à la COP29": "https://www.rfi.fr/fr/afrique/20241114-b%C3%A9nin-la-vice-pr%C3%A9sidente-mariam-chabi-talata-%C3%A0-la-cop29"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Romuald Wadagni",
+      "gender": "M",
+      "role": "Ministre de l'Économie et des Finances",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministère de l'Économie et des Finances du Bénin": "https://finances.gouv.bj/le-ministre/"
+        }
+      ]
+    },
+    {
+      "name": "Olushegun Adjadi Bakari",
+      "gender": "M",
+      "role": "Ministre des Affaires étrangères",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministère des Affaires étrangères du Bénin": "https://diplomatie.gouv.bj/ministre/"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Louis Vlavonou",
+      "gender": "M",
+      "role": "Président de l'Assemblée nationale",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Assemblée nationale du Bénin – Présidence": "https://assemblee-nationale.bj/president/"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "IND": {
+      "name": "Indépendant",
+      "en": "Independent",
+      "range": 3,
+      "color": "#6C757D"
+    }
+  }
+}

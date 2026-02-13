@@ -1,0 +1,153 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Alexander De Croo",
+      "gender": "M",
+      "role": "Prime Minister of Belgium",
+      "party": "OPENVLD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Premier ministre de Belgique": "https://www.premier.be/fr/biographie"
+        }
+      ]
+    },
+    {
+      "name": "Paul Van Tigchelt",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Justice",
+      "party": "OPENVLD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Service public fédéral Justice": "https://justice.belgium.be/"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Vincent Van Peteghem",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Finance",
+      "party": "CDV",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Service public fédéral Finances": "https://finances.belgium.be/" }
+      ]
+    },
+    {
+      "name": "Hadja Lahbib",
+      "gender": "F",
+      "role": "Minister of Foreign Affairs, European Affairs and Foreign Trade",
+      "party": "MR",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Service public fédéral Affaires étrangères": "https://diplomatie.belgium.be/fr" }
+      ]
+    },
+    {
+      "name": "Annelies Verlinden",
+      "gender": "F",
+      "role": "Minister of the Interior, Institutional Reform and Democratic Renewal",
+      "party": "CDV",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Service public fédéral Intérieur": "https://www.ibz.be/fr" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Eliane Tillieux",
+      "gender": "F",
+      "party": "PS",
+      "district": "Chamber of Representatives",
+      "role": "President of the Chamber of Representatives",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Chambre des représentants": "https://www.dekamer.be/kvvcr/showpage.cfm?section=/president&language=fr"
+        }
+      ]
+    },
+    {
+      "name": "Valérie Van Peel",
+      "gender": "F",
+      "party": "NVA",
+      "district": "Chamber of Representatives",
+      "role": "Vice-President of the Chamber of Representatives",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Chambre des représentants": "https://www.dekamer.be/" }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Stephanie D'Hose",
+      "gender": "F",
+      "party": "OPENVLD",
+      "district": "Senate",
+      "role": "President of the Senate",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Sénat de Belgique": "https://www.senate.be/www/?MIval=/index_senate&MENUID=22160&LANG=fr"
+        }
+      ]
+    },
+    {
+      "name": "Carina Van Cauter",
+      "gender": "F",
+      "party": "OPENVLD",
+      "district": "Senate",
+      "role": "Vice-President of the Senate",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Sénat de Belgique": "https://www.senate.be/www/?MIval=/index_senate&MENUID=22120&LANG=fr"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "OPENVLD": {
+      "name": "Open Vlaamse Liberalen en Democraten",
+      "en": "Open Flemish Liberals and Democrats",
+      "range": 4,
+      "color": "#009ad6"
+    },
+    "CDV": {
+      "name": "Christen-Democratisch en Vlaams",
+      "en": "Christian Democratic and Flemish",
+      "range": 3,
+      "color": "#ffb612"
+    },
+    "MR": {
+      "name": "Mouvement Réformateur",
+      "en": "Reformist Movement",
+      "range": 4,
+      "color": "#005bac"
+    },
+    "PS": {
+      "name": "Parti Socialiste",
+      "en": "Socialist Party",
+      "range": 2,
+      "color": "#ed1b34"
+    },
+    "NVA": {
+      "name": "Nieuw-Vlaamse Alliantie",
+      "en": "New Flemish Alliance",
+      "range": 5,
+      "color": "#fedc00"
+    },
+    "ECO": {
+      "name": "Ecolo",
+      "en": "Ecolo",
+      "range": 2,
+      "color": "#60a830"
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "baseCurrency": "RUB",
+  "executive": [
+    {
+      "name": "Alexander Lukashenko",
+      "gender": "M",
+      "role": "President of the Republic",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Roman Golovchenko",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Natalya Kochanova",
+      "gender": "F",
+      "role": "Chair of the Council of the Republic",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Nikolai Snopkov",
+      "gender": "M",
+      "role": "First Deputy Prime Minister",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Igor Petrishenko",
+      "gender": "M",
+      "role": "Deputy Prime Minister for Integration",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Piotr Parkhomchik",
+      "gender": "M",
+      "role": "Deputy Prime Minister for Industry",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Leonid Zayats",
+      "gender": "M",
+      "role": "Deputy Prime Minister for Agriculture",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Anatoly Sivak",
+      "gender": "M",
+      "role": "Deputy Prime Minister for Construction",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Sergei Aleinik",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Viktor Khrenin",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Ivan Kubrakov",
+      "gender": "M",
+      "role": "Minister of Internal Affairs",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Alexander Chervyakov",
+      "gender": "M",
+      "role": "Minister of Economy",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Yuri Seliverstov",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Dmitry Pinevich",
+      "gender": "M",
+      "role": "Minister of Health",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Andrei Ivanets",
+      "gender": "M",
+      "role": "Minister of Education",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Sergei Bartosh",
+      "gender": "M",
+      "role": "Minister of Agriculture and Food",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Vladimir Pertsov",
+      "gender": "M",
+      "role": "Minister of Information",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Vadim Sinyavsky",
+      "gender": "M",
+      "role": "Minister for Emergency Situations",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Andrei Khudyk",
+      "gender": "M",
+      "role": "Minister of Natural Resources and Environmental Protection",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Alexei Lyakhnovich",
+      "gender": "M",
+      "role": "Minister of Transport and Communications",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Oleg Slizhevsky",
+      "gender": "M",
+      "role": "Minister of Justice",
+      "party": "BR",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "BR": {
+      "name": "Белая Русь",
+      "en": "Belaya Rus",
+      "range": 4,
+      "color": "#0C5F2D"
+    },
+    "IND": {
+      "name": "Независимый",
+      "en": "Independent",
+      "range": 3,
+      "color": "#B3B3B3"
+    }
+  }
+}

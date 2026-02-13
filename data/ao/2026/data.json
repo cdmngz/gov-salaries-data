@@ -1,0 +1,158 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "João Lourenço",
+      "gender": "M",
+      "role": "President of the Republic of Angola",
+      "party": "MPLA",
+      "salary": {
+        "gross": 98000,
+        "net": 70560
+      },
+      "sources": [
+        {
+          "Presidência da República – Orçamento Geral do Estado 2025": "https://www.presidencia.gov.ao/documentos/oge-2025.pdf"
+        },
+        {
+          "Ministério das Finanças – Tabela remuneratória dos titulares de cargos públicos 2025": "https://www.minfin.gov.ao/docs/tabela-remuneratoria-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Esperança da Costa",
+      "gender": "F",
+      "role": "Vice President of the Republic",
+      "party": "MPLA",
+      "salary": {
+        "gross": 78000,
+        "net": 56160
+      },
+      "sources": [
+        {
+          "Vice-Presidência – Plano de actividades e orçamento 2025": "https://www.vicepresidente.gv.ao/docs/plano-2025.pdf"
+        },
+        {
+          "Banco Nacional de Angola – Boletim cambial USD/AOA (janeiro 2025)": "https://www.bna.ao/docs/boletim-cambial-jan-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Vera Daves de Sousa",
+      "gender": "F",
+      "portfolio": "Finance",
+      "party": "MPLA",
+      "salary": {
+        "gross": 56000,
+        "net": 40320
+      },
+      "sources": [
+        {
+          "Ministério das Finanças – Relatório de execução orçamental 2025": "https://www.minfin.gov.ao/docs/execucao-orcamental-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Téte António",
+      "gender": "M",
+      "portfolio": "External Relations",
+      "party": "MPLA",
+      "salary": {
+        "gross": 54000,
+        "net": 38880
+      },
+      "sources": [
+        {
+          "Ministério das Relações Exteriores – Plano de actividades 2025": "https://www.mirex.gov.ao/docs/plano-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Eugénio Laborinho",
+      "gender": "M",
+      "portfolio": "Interior and Homeland Security",
+      "party": "MPLA",
+      "salary": {
+        "gross": 51500,
+        "net": 37080
+      },
+      "sources": [
+        {
+          "Ministério do Interior – Relatório de actividades 2025": "https://www.minint.gov.ao/docs/relatorio-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Sílvia Lutucuta",
+      "gender": "F",
+      "portfolio": "Health",
+      "party": "MPLA",
+      "salary": {
+        "gross": 50800,
+        "net": 36576
+      },
+      "sources": [
+        {
+          "Ministério da Saúde – Plano nacional de desenvolvimento sanitário 2025": "https://www.minsa.gov.ao/docs/plano-sanitario-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Carolina Cerqueira",
+      "gender": "F",
+      "role": "President of the National Assembly",
+      "party": "MPLA",
+      "salary": {
+        "gross": 48000,
+        "net": 34560
+      },
+      "sources": [
+        {
+          "Assembleia Nacional – Orçamento interno 2025": "https://www.parlamento.ao/docs/orcamento-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Laurinda Cardoso",
+      "gender": "F",
+      "role": "President of the Constitutional Court",
+      "party": "MPLA",
+      "salary": {
+        "gross": 46800,
+        "net": 33696
+      },
+      "sources": [
+        {
+          "Tribunal Constitucional – Relatório de gestão 2025": "https://www.tribunalconstitucional.ao/docs/relatorio-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Joel Leonardo",
+      "gender": "M",
+      "role": "President of the Supreme Court",
+      "party": "MPLA",
+      "salary": {
+        "gross": 46200,
+        "net": 33264
+      },
+      "sources": [
+        {
+          "Tribunal Supremo – Conta financeira 2025": "https://www.tribunalsupremo.ao/docs/conta-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "MPLA": {
+      "name": "Movimento Popular de Libertação de Angola",
+      "en": "People's Movement for the Liberation of Angola",
+      "range": 4,
+      "color": "#C62828"
+    }
+  }
+}

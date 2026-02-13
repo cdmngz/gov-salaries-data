@@ -1,0 +1,346 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Sir Rodney Williams",
+      "gender": "M",
+      "role": "Governor-General",
+      "salary": { "gross": 120000, "net": 96000 },
+      "sources": [
+        { "Cabinet announcement of governor-general emoluments (2017)": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Gaston Browne",
+      "gender": "M",
+      "role": "Prime Minister and Minister of Finance",
+      "party": "ABLP",
+      "salary": { "gross": 111000, "net": 90000 },
+      "sources": [
+        { "Parliamentary pay raise coverage (2017)": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Steadroy Benjamin",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Attorney General",
+      "party": "ABLP",
+      "salary": { "gross": 95000, "net": 78000 },
+      "sources": [
+        { "Ministerial salary band as approved with 2017 increases": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Molwyn Joseph",
+      "gender": "M",
+      "role": "Minister of Health, Wellness, and the Environment",
+      "party": "ABLP",
+      "salary": { "gross": 95000, "net": 78000 },
+      "sources": [
+        { "Ministerial salary band as approved with 2017 increases": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Daryll Matthew",
+      "gender": "M",
+      "role": "Minister of Education, Sports, and Creative Industries",
+      "party": "ABLP",
+      "salary": { "gross": 95000, "net": 78000 },
+      "sources": [
+        { "Ministerial salary band as approved with 2017 increases": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Gaston Browne",
+      "gender": "M",
+      "party": "ABLP",
+      "district": "St. John's City West",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Steadroy Benjamin",
+      "gender": "M",
+      "party": "ABLP",
+      "district": "St. John's City South",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Melford Nicholas",
+      "gender": "M",
+      "party": "ABLP",
+      "district": "St. John's City East",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Richard Lewis",
+      "gender": "M",
+      "party": "UPP",
+      "district": "St. John's Rural West",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Charles Fernandez",
+      "gender": "M",
+      "party": "ABLP",
+      "district": "St. John's Rural North",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Maria Browne",
+      "gender": "F",
+      "party": "ABLP",
+      "district": "St. John's Rural East",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Daryll Matthew",
+      "gender": "M",
+      "party": "ABLP",
+      "district": "St. John's Rural South",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Algernon Watts",
+      "gender": "M",
+      "party": "UPP",
+      "district": "St. George",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Asot Michael",
+      "gender": "M",
+      "party": "IND",
+      "district": "St. Peter",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Sir Robin Yearwood",
+      "gender": "M",
+      "party": "ABLP",
+      "district": "St. Philip North",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Lennox Weston",
+      "gender": "M",
+      "party": "ABLP",
+      "district": "St. Philip South",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Molwyn Joseph",
+      "gender": "M",
+      "party": "ABLP",
+      "district": "St. Mary’s North",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Dwayne George",
+      "gender": "M",
+      "party": "ABLP",
+      "district": "St. Mary’s South",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Anthony Smith Jr",
+      "gender": "M",
+      "party": "UPP",
+      "district": "All Saints West",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Jamale Pringle",
+      "gender": "M",
+      "party": "UPP",
+      "district": "All Saints East and St. Luke",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Chet Greene",
+      "gender": "M",
+      "party": "ABLP",
+      "district": "St. Paul",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Trevor Walker",
+      "gender": "M",
+      "party": "BPM",
+      "district": "Barbuda",
+      "salary": { "gross": 49000, "net": 39000 },
+      "sources": [
+        { "House of Representatives base salary after 2017 vote": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Alincia Williams-Grant",
+      "gender": "F",
+      "party": "ABLP",
+      "district": "Senate",
+      "salary": { "gross": 45000, "net": 36000 },
+      "sources": [
+        { "Senator stipend following 2017 parliamentary adjustments": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Samantha Marshall",
+      "gender": "F",
+      "party": "ABLP",
+      "district": "Senate",
+      "salary": { "gross": 45000, "net": 36000 },
+      "sources": [
+        { "Senator stipend following 2017 parliamentary adjustments": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Phillip Shoul",
+      "gender": "M",
+      "party": "ABLP",
+      "district": "Senate",
+      "salary": { "gross": 45000, "net": 36000 },
+      "sources": [
+        { "Senator stipend following 2017 parliamentary adjustments": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Mary-Clare Hurst",
+      "gender": "F",
+      "party": "ABLP",
+      "district": "Senate",
+      "salary": { "gross": 45000, "net": 36000 },
+      "sources": [
+        { "Senator stipend following 2017 parliamentary adjustments": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Aziza Lake",
+      "gender": "F",
+      "party": "ABLP",
+      "district": "Senate",
+      "salary": { "gross": 45000, "net": 36000 },
+      "sources": [
+        { "Senator stipend following 2017 parliamentary adjustments": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Shawn Nicholas",
+      "gender": "F",
+      "party": "UPP",
+      "district": "Senate",
+      "salary": { "gross": 45000, "net": 36000 },
+      "sources": [
+        { "Senator stipend following 2017 parliamentary adjustments": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "David Massiah",
+      "gender": "M",
+      "party": "UPP",
+      "district": "Senate",
+      "salary": { "gross": 45000, "net": 36000 },
+      "sources": [
+        { "Senator stipend following 2017 parliamentary adjustments": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Johnathan Joseph",
+      "gender": "M",
+      "party": "UPP",
+      "district": "Senate",
+      "salary": { "gross": 45000, "net": 36000 },
+      "sources": [
+        { "Senator stipend following 2017 parliamentary adjustments": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    },
+    {
+      "name": "Fabian Jones",
+      "gender": "M",
+      "party": "BPM",
+      "district": "Senate",
+      "salary": { "gross": 45000, "net": 36000 },
+      "sources": [
+        { "Senator stipend following 2017 parliamentary adjustments": "https://antiguaobserver.com/senate-approves-pay-raise-for-mps/" }
+      ]
+    }
+  ],
+  "parties": {
+    "ABLP": {
+      "name": "Antigua and Barbuda Labour Party",
+      "en": "Antigua and Barbuda Labour Party",
+      "range": 5,
+      "color": "#d50000"
+    },
+    "UPP": {
+      "name": "United Progressive Party",
+      "en": "United Progressive Party",
+      "range": 4,
+      "color": "#1e4fa1"
+    },
+    "BPM": {
+      "name": "Barbuda People's Movement",
+      "en": "Barbuda People's Movement",
+      "range": 3,
+      "color": "#00843d"
+    },
+    "IND": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 3,
+      "color": "#777777"
+    }
+  }
+}
