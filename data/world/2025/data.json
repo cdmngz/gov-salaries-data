@@ -9265,16 +9265,16 @@
     },
     "partyRangeStats": {
       "counts": {
-        "1": 2,
-        "2": 3,
-        "3": 1,
-        "4": 0,
-        "5": 0
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 5,
+        "5": 1
       },
       "mostPopularRanges": [
-        2
+        4
       ],
-      "mostPopularCount": 3,
+      "mostPopularCount": 5,
       "totalCountedOfficials": 6,
       "unaffiliatedCount": 1,
       "unmappedPartyCount": 0
@@ -9282,33 +9282,32 @@
     "partyRangeStatsSplit": {
       "executive": {
         "counts": {
-          "1": 1,
-          "2": 1,
+          "1": 0,
+          "2": 0,
           "3": 0,
-          "4": 0,
+          "4": 2,
           "5": 0
         },
         "mostPopularRanges": [
-          1,
-          2
+          4
         ],
-        "mostPopularCount": 1,
+        "mostPopularCount": 2,
         "totalCountedOfficials": 2,
         "unaffiliatedCount": 0,
         "unmappedPartyCount": 0
       },
       "rest": {
         "counts": {
-          "1": 1,
-          "2": 2,
-          "3": 1,
-          "4": 0,
-          "5": 0
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 3,
+          "5": 1
         },
         "mostPopularRanges": [
-          2
+          4
         ],
-        "mostPopularCount": 2,
+        "mostPopularCount": 3,
         "totalCountedOfficials": 4,
         "unaffiliatedCount": 0,
         "unmappedPartyCount": 0
