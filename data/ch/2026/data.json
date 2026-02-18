@@ -1,0 +1,175 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Karin Keller-Sutter",
+      "gender": "F",
+      "role": "President of the Swiss Confederation",
+      "party": "FDP",
+      "salary": { "gross": 465000, "net": null }
+    },
+    {
+      "name": "Beat Jans",
+      "gender": "M",
+      "role": "Vice President of the Swiss Confederation",
+      "party": "SP",
+      "salary": { "gross": 465000, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Karin Keller-Sutter",
+      "gender": "F",
+      "portfolio": "Federal Department of Finance",
+      "party": "FDP",
+      "salary": { "gross": 465000, "net": null }
+    },
+    {
+      "name": "Beat Jans",
+      "gender": "M",
+      "portfolio": "Federal Department of Home Affairs",
+      "party": "SP",
+      "salary": { "gross": 465000, "net": null }
+    },
+    {
+      "name": "Viola Amherd",
+      "gender": "F",
+      "portfolio": "Federal Department of Defence, Civil Protection and Sport",
+      "party": "DM",
+      "salary": { "gross": 465000, "net": null }
+    },
+    {
+      "name": "Albert Rösti",
+      "gender": "M",
+      "portfolio": "Federal Department of Environment, Transport, Energy and Communications",
+      "party": "SVP",
+      "salary": { "gross": 465000, "net": null }
+    },
+    {
+      "name": "Guy Parmelin",
+      "gender": "M",
+      "portfolio": "Federal Department of Economic Affairs, Education and Research",
+      "party": "SVP",
+      "salary": { "gross": 465000, "net": null }
+    },
+    {
+      "name": "Ignazio Cassis",
+      "gender": "M",
+      "portfolio": "Federal Department of Foreign Affairs",
+      "party": "FDP",
+      "salary": { "gross": 465000, "net": null }
+    },
+    {
+      "name": "Elisabeth Baume-Schneider",
+      "gender": "F",
+      "portfolio": "Federal Department of Justice and Police",
+      "party": "SP",
+      "salary": { "gross": 465000, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Eric Nussbaumer",
+      "gender": "M",
+      "party": "SP",
+      "district": "Basel-Landschaft",
+      "salary": { "gross": 142000, "net": null }
+    },
+    {
+      "name": "Martin Candinas",
+      "gender": "M",
+      "party": "DM",
+      "district": "Graubünden",
+      "salary": { "gross": 142000, "net": null }
+    },
+    {
+      "name": "Thomas Aeschi",
+      "gender": "M",
+      "party": "SVP",
+      "district": "Zug",
+      "salary": { "gross": 142000, "net": null }
+    },
+    {
+      "name": "Damien Cottier",
+      "gender": "M",
+      "party": "FDP",
+      "district": "Neuchâtel",
+      "salary": { "gross": 142000, "net": null }
+    },
+    {
+      "name": "Aline Trede",
+      "gender": "F",
+      "party": "GPS",
+      "district": "Bern",
+      "salary": { "gross": 142000, "net": null }
+    },
+    {
+      "name": "Tiana Angelina Moser",
+      "gender": "F",
+      "party": "GLP",
+      "district": "Zürich",
+      "salary": { "gross": 142000, "net": null }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Viktor Rossi",
+      "gender": "M",
+      "role": "Federal Chancellor of Switzerland",
+      "party": "FDP",
+      "salary": { "gross": 310000, "net": null }
+    },
+    {
+      "name": "André Simonazzi",
+      "gender": "M",
+      "role": "Vice Chancellor; Federal Council Spokesperson",
+      "party": "DM",
+      "salary": { "gross": 285000, "net": null }
+    },
+    {
+      "name": "Livia Leu",
+      "gender": "F",
+      "role": "Vice Chancellor; Secretary-General of the Federal Council",
+      "party": "FDP",
+      "salary": { "gross": 285000, "net": null }
+    }
+  ],
+  "parties": {
+    "FDP": {
+      "name": "FDP.Die Liberalen",
+      "en": "The Liberals",
+      "range": 4,
+      "color": "#0055A4"
+    },
+    "SP": {
+      "name": "Sozialdemokratische Partei der Schweiz",
+      "en": "Social Democratic Party of Switzerland",
+      "range": 2,
+      "color": "#DD0000"
+    },
+    "SVP": {
+      "name": "Schweizerische Volkspartei",
+      "en": "Swiss People's Party",
+      "range": 5,
+      "color": "#008000"
+    },
+    "DM": {
+      "name": "Die Mitte",
+      "en": "The Centre",
+      "range": 3,
+      "color": "#FF8C00"
+    },
+    "GPS": {
+      "name": "Grüne Partei der Schweiz",
+      "en": "Swiss Green Party",
+      "range": 1,
+      "color": "#2E7D32"
+    },
+    "GLP": {
+      "name": "Grünliberale Partei",
+      "en": "Green Liberal Party",
+      "range": 3,
+      "color": "#99CC00"
+    }
+  }
+}

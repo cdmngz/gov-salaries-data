@@ -1,0 +1,85 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Zoran Milanović",
+      "gender": "M",
+      "role": "President of the Republic",
+      "party": "SDP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Andrej Plenković",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "HDZ",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Tomo Medved",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Veterans' Affairs",
+      "party": "HDZ",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Davor Božinović",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of the Interior",
+      "party": "HDZ",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gordan Grlić Radman",
+      "gender": "M",
+      "role": "Minister of Foreign and European Affairs",
+      "party": "HDZ",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Marko Primorac",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ivan Anušić",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "HDZ",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nina Obuljen Koržinek",
+      "gender": "F",
+      "role": "Minister of Culture and Media",
+      "party": "HDZ",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "SDP": {
+      "name": "Socijaldemokratska partija Hrvatske",
+      "en": "Social Democratic Party of Croatia",
+      "range": 2,
+      "color": "#E4002B"
+    },
+    "HDZ": {
+      "name": "Hrvatska demokratska zajednica",
+      "en": "Croatian Democratic Union",
+      "range": 4,
+      "color": "#005BAC"
+    },
+    "IND": {
+      "name": "Nezavisni",
+      "en": "Independent",
+      "range": 3,
+      "color": "#A0A0A0"
+    }
+  }
+}

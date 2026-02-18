@@ -1,0 +1,160 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "John Lee Ka-chiu",
+      "gender": "M",
+      "role": "Chief Executive of Hong Kong",
+      "party": "EXEC",
+      "salary": { "gross": 420000, "net": 310000 }
+    },
+    {
+      "name": "Chan Kwok-ki",
+      "gender": "M",
+      "role": "Chief Secretary for Administration",
+      "party": "EXEC",
+      "salary": { "gross": 310000, "net": 228000 }
+    },
+    {
+      "name": "Eric Chan",
+      "gender": "M",
+      "role": "Director of the Chief Executive's Office",
+      "party": "EXEC",
+      "salary": { "gross": 245000, "net": 180000 }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Paul Chan Mo-po",
+      "gender": "M",
+      "portfolio": "Financial Secretary",
+      "party": "EXEC",
+      "salary": { "gross": 290000, "net": 210000 },
+      "budget": 87000000000
+    },
+    {
+      "name": "Paul Lam Ting-kwok",
+      "gender": "M",
+      "portfolio": "Secretary for Justice",
+      "party": "EXEC",
+      "salary": { "gross": 265000, "net": 193000 },
+      "budget": 3500000000
+    },
+    {
+      "name": "Bernadette Linn Hon-ho",
+      "gender": "F",
+      "portfolio": "Secretary for Development",
+      "party": "EXEC",
+      "salary": { "gross": 240000, "net": 174000 },
+      "budget": 14500000000
+    },
+    {
+      "name": "Lo Chung-mau",
+      "gender": "M",
+      "portfolio": "Secretary for Health",
+      "party": "EXEC",
+      "salary": { "gross": 238000, "net": 172000 },
+      "budget": 11000000000
+    },
+    {
+      "name": "Christopher Hui Ching-yu",
+      "gender": "M",
+      "portfolio": "Secretary for Financial Services and the Treasury",
+      "party": "EXEC",
+      "salary": { "gross": 236000, "net": 170000 },
+      "budget": 9800000000
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Andrew Leung Kwan-yuen",
+      "gender": "M",
+      "district": "Industrial (First)",
+      "party": "BPA",
+      "salary": { "gross": 210000, "net": 150000 }
+    },
+    {
+      "name": "Starry Lee Wai-king",
+      "gender": "F",
+      "district": "Kowloon Central",
+      "party": "DAB",
+      "salary": { "gross": 190000, "net": 136000 }
+    },
+    {
+      "name": "Junius Ho Kwan-yiu",
+      "gender": "M",
+      "district": "New Territories North West",
+      "party": "IND",
+      "salary": { "gross": 182000, "net": 130000 }
+    },
+    {
+      "name": "Chan Pui-leung",
+      "gender": "M",
+      "district": "Insurance",
+      "party": "IND",
+      "salary": { "gross": 180000, "net": 128000 }
+    },
+    {
+      "name": "Lam So-wai",
+      "gender": "F",
+      "district": "Election Committee",
+      "party": "DAB",
+      "salary": { "gross": 185000, "net": 132000 }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Regina Ip Lau Suk-yee",
+      "gender": "F",
+      "role": "Convenor of the Executive Council",
+      "party": "NPP",
+      "salary": { "gross": 215000, "net": 155000 }
+    },
+    {
+      "name": "Andrew Cheung Kui-nung",
+      "gender": "M",
+      "role": "Chief Justice of the Court of Final Appeal",
+      "party": "IND",
+      "salary": { "gross": 320000, "net": 228000 }
+    },
+    {
+      "name": "Peter Lam Kin-ngok",
+      "gender": "M",
+      "role": "Chair, Hong Kong Trade Development Council",
+      "party": "IND",
+      "salary": { "gross": 150000, "net": 108000 }
+    }
+  ],
+  "parties": {
+    "EXEC": {
+      "name": "行政會議",
+      "en": "Executive Council",
+      "range": 3,
+      "color": "#004B8D"
+    },
+    "DAB": {
+      "name": "民主建港協進聯盟",
+      "en": "Democratic Alliance for the Betterment and Progress of Hong Kong",
+      "range": 4,
+      "color": "#0B4DA1"
+    },
+    "BPA": {
+      "name": "經濟民生聯盟",
+      "en": "Business and Professionals Alliance",
+      "range": 2,
+      "color": "#0092D0"
+    },
+    "IND": {
+      "name": "無黨籍",
+      "en": "Independent",
+      "range": 3,
+      "color": "#888888"
+    },
+    "NPP": {
+      "name": "新民黨",
+      "en": "New People's Party",
+      "range": 2,
+      "color": "#5B2C83"
+    }
+  }
+}

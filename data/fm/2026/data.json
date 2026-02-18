@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Wesley W. Simina",
+      "gender": "M",
+      "role": "President of the Federated States of Micronesia",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Aren B. Palik",
+      "gender": "M",
+      "role": "Vice President",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ricky F. Cantero",
+      "gender": "M",
+      "role": "Secretary of Foreign Affairs",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Rose Nakanaga",
+      "gender": "F",
+      "role": "Secretary of Finance and Administration",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Anastacio Saimon",
+      "gender": "M",
+      "role": "Secretary of Education",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "IND": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 3,
+      "color": "#777777"
+    }
+  }
+}

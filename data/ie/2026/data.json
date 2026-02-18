@@ -1,0 +1,589 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Michael D. Higgins",
+      "gender": "M",
+      "role": "President of Ireland",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Áras an Uachtaráin": "https://president.ie/en/the-president" }
+      ]
+    },
+    {
+      "name": "Simon Harris",
+      "gender": "M",
+      "role": "Taoiseach (Prime Minister)",
+      "party": "FG",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Government of Ireland": "https://www.gov.ie/en/biography/3d275-taoiseach-simon-harris/" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Michael McGrath",
+      "gender": "M",
+      "role": "Minister for Finance",
+      "party": "FF",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Department of Finance": "https://www.gov.ie/en/organisation/department-of-finance/" }
+      ]
+    },
+    {
+      "name": "Micheál Martin",
+      "gender": "M",
+      "role": "Tánaiste and Minister for Foreign Affairs",
+      "party": "FF",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Department of Foreign Affairs": "https://www.dfa.ie/" }
+      ]
+    },
+    {
+      "name": "Helen McEntee",
+      "gender": "F",
+      "role": "Minister for Justice",
+      "party": "FG",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Department of Justice": "https://www.justice.ie/" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Seán Ó Fearghaíl",
+      "gender": "M",
+      "party": "FF",
+      "district": "Dáil Éireann",
+      "role": "Ceann Comhairle of Dáil Éireann",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Se%C3%A1n-%C3%93-Feargha%C3%ADl.D.2002-06-06/" }
+      ]
+    },
+    {
+      "name": "Catherine Connolly",
+      "gender": "F",
+      "party": "IND",
+      "district": "Dáil Éireann",
+      "role": "Leas-Cheann Comhairle of Dáil Éireann",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/" }
+      ]
+    },
+    {
+      "name": "Leo Varadkar",
+      "gender": "M",
+      "party": "FG",
+      "district": "Dublin West",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Paschal Donohoe",
+      "gender": "M",
+      "party": "FG",
+      "district": "Dublin Central",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Heather Humphreys",
+      "gender": "F",
+      "party": "FG",
+      "district": "Cavan–Monaghan",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Simon Coveney",
+      "gender": "M",
+      "party": "FG",
+      "district": "Cork South-Central",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Darragh O'Brien",
+      "gender": "M",
+      "party": "FF",
+      "district": "Dublin Fingal",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Micheál Martin",
+      "gender": "M",
+      "party": "FF",
+      "district": "Cork South-Central",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Jim O'Callaghan",
+      "gender": "M",
+      "party": "FF",
+      "district": "Dublin Bay South",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Mary Lou McDonald",
+      "gender": "F",
+      "party": "SF",
+      "district": "Dublin Central",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Pearse Doherty",
+      "gender": "M",
+      "party": "SF",
+      "district": "Donegal",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Eoin Ó Broin",
+      "gender": "M",
+      "party": "SF",
+      "district": "Dublin Mid-West",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Louise O'Reilly",
+      "gender": "F",
+      "party": "SF",
+      "district": "Dublin Fingal",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Ivana Bacik",
+      "gender": "F",
+      "party": "LAB",
+      "district": "Dublin Bay South",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Alan Kelly",
+      "gender": "M",
+      "party": "LAB",
+      "district": "Tipperary",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Catherine Martin",
+      "gender": "F",
+      "party": "GP",
+      "district": "Dublin Rathdown",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Eamon Ryan",
+      "gender": "M",
+      "party": "GP",
+      "district": "Dublin Bay South",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Danny Healy-Rae",
+      "gender": "M",
+      "party": "IND",
+      "district": "Kerry",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Michael Healy-Rae",
+      "gender": "M",
+      "party": "IND",
+      "district": "Kerry",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Carol Nolan",
+      "gender": "F",
+      "party": "IND",
+      "district": "Laois–Offaly",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Marian Harkin",
+      "gender": "F",
+      "party": "IND",
+      "district": "Sligo–Leitrim",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    },
+    {
+      "name": "Holly Cairns",
+      "gender": "F",
+      "party": "SD",
+      "district": "Cork South-West",
+      "role": "Teachta Dála",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/" }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Jerry Buttimer",
+      "gender": "M",
+      "party": "FG",
+      "district": "Seanad Éireann",
+      "role": "Cathaoirleach of Seanad Éireann",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Jerry-Buttimer.S.2011-05-25/" }
+      ]
+    },
+    {
+      "name": "Mark Daly",
+      "gender": "M",
+      "party": "FF",
+      "district": "Seanad Éireann",
+      "role": "Leader of Seanad Éireann",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/" }
+      ]
+    },
+    {
+      "name": "Pauline O'Reilly",
+      "gender": "F",
+      "party": "GP",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Pauline-OReilly.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Rebecca Moynihan",
+      "gender": "F",
+      "party": "LAB",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Rebecca-Moynihan.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Barry Ward",
+      "gender": "M",
+      "party": "FG",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Barry-Ward.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Regina Doherty",
+      "gender": "F",
+      "party": "FG",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Regina-Doherty.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Lisa Chambers",
+      "gender": "F",
+      "party": "FF",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Lisa-Chambers.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "John McGahon",
+      "gender": "M",
+      "party": "FG",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/John-McGahon.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Robbie Gallagher",
+      "gender": "M",
+      "party": "FF",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Robbie-Gallagher.S.2016-04-25/" }
+      ]
+    },
+    {
+      "name": "Annie Hoey",
+      "gender": "F",
+      "party": "LAB",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Annie-Hoey.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Lynn Boylan",
+      "gender": "F",
+      "party": "SF",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Lynn-Boylan.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Niall Ó Donnghaile",
+      "gender": "M",
+      "party": "SF",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Niall-O-Donnghaile.S.2016-06-08/" }
+      ]
+    },
+    {
+      "name": "Vincent P. Martin",
+      "gender": "M",
+      "party": "GP",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Vincent-P-Martin.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Malcolm Byrne",
+      "gender": "M",
+      "party": "FF",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Malcolm-Byrne.S.2020-02-01/" }
+      ]
+    },
+    {
+      "name": "Sharon Keogan",
+      "gender": "F",
+      "party": "IND",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Sharon-Keogan.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Eileen Flynn",
+      "gender": "F",
+      "party": "IND",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Eileen-Flynn.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Gerard Craughwell",
+      "gender": "M",
+      "party": "IND",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Gerard-C-P-Craughwell.S.2014-10-14/" }
+      ]
+    },
+    {
+      "name": "Mary Seery Kearney",
+      "gender": "F",
+      "party": "FG",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Mary-Seery-Kearney.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Erin McGreehan",
+      "gender": "F",
+      "party": "FF",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Erin-McGreehan.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Tim Lombard",
+      "gender": "M",
+      "party": "FG",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Timothy-Lombard.S.2016-06-11/" }
+      ]
+    },
+    {
+      "name": "Micheál Carrigy",
+      "gender": "M",
+      "party": "FG",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Micheal-Carrigy.S.2020-06-29/" }
+      ]
+    },
+    {
+      "name": "Victor Boyhan",
+      "gender": "M",
+      "party": "IND",
+      "district": "Seanad Éireann",
+      "role": "Senator",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        { "Oireachtas": "https://www.oireachtas.ie/en/members/member/Victor-Boyhan.S.2016-04-25/" }
+      ]
+    }
+  ],
+  "parties": {
+    "FG": {
+      "name": "Fine Gael",
+      "en": "Fine Gael",
+      "range": 4,
+      "color": "#0047bb"
+    },
+    "FF": {
+      "name": "Fianna Fáil",
+      "en": "Fianna Fáil",
+      "range": 3,
+      "color": "#4caf50"
+    },
+    "SF": {
+      "name": "Sinn Féin",
+      "en": "Sinn Féin",
+      "range": 1,
+      "color": "#006b3f"
+    },
+    "LAB": {
+      "name": "Labour Party",
+      "en": "Labour Party",
+      "range": 2,
+      "color": "#d10000"
+    },
+    "GP": {
+      "name": "Green Party",
+      "en": "Green Party",
+      "range": 2,
+      "color": "#4ba23f"
+    },
+    "IND": {
+      "name": "Neamhspleách",
+      "en": "Independent",
+      "range": 3,
+      "color": "#808080"
+    },
+    "SD": {
+      "name": "Social Democrats",
+      "en": "Social Democrats",
+      "range": 2,
+      "color": "#6a1b9a"
+    }
+  }
+}

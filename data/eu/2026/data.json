@@ -1,0 +1,809 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Ursula von der Leyen",
+      "gender": "F",
+      "role": "President of the European Commission",
+      "party": "EPP",
+      "salary": {
+        "gross": 306655,
+        "net": 215000
+      }
+    },
+    {
+      "name": "Charles Michel",
+      "gender": "M",
+      "role": "President of the European Council",
+      "party": "MR",
+      "salary": {
+        "gross": 340000,
+        "net": 240000
+      }
+    },
+    {
+      "name": "Roberta Metsola",
+      "gender": "F",
+      "role": "President of the European Parliament",
+      "party": "EPP",
+      "salary": {
+        "gross": 213252,
+        "net": 130000
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Josep Borrell",
+      "gender": "M",
+      "role": "High Representative of the Union for Foreign Affairs and Security Policy",
+      "party": "S&D",
+      "salary": {
+        "gross": 275000,
+        "net": 190000
+      }
+    },
+    {
+      "name": "Paolo Gentiloni",
+      "gender": "M",
+      "role": "European Commissioner for Economy",
+      "party": "S&D",
+      "salary": {
+        "gross": 260000,
+        "net": 180000
+      }
+    },
+    {
+      "name": "Thierry Breton",
+      "gender": "M",
+      "role": "European Commissioner for Internal Market",
+      "party": "Renew",
+      "salary": {
+        "gross": 260000,
+        "net": 180000
+      }
+    },
+    {
+      "name": "Didier Reynders",
+      "gender": "M",
+      "role": "European Commissioner for Justice",
+      "party": "Renew",
+      "salary": {
+        "gross": 260000,
+        "net": 180000
+      }
+    },
+    {
+      "name": "Ylva Johansson",
+      "gender": "F",
+      "role": "European Commissioner for Home Affairs",
+      "party": "S&D",
+      "salary": {
+        "gross": 260000,
+        "net": 180000
+      }
+    },
+    {
+      "name": "Kadri Simson",
+      "gender": "F",
+      "role": "European Commissioner for Energy",
+      "party": "Renew",
+      "salary": {
+        "gross": 260000,
+        "net": 180000
+      }
+    },
+    {
+      "name": "Irene Montero",
+      "gender": "F",
+      "role": "Member of the European Parliament",
+      "party": "The Left",
+      "salary": {
+        "gross": 120000,
+        "net": 78000
+      }
+    }
+  ],
+  "senate": [],
+  "deputies": [
+    {
+      "name": "Manfred Weber",
+      "gender": "M",
+      "party": "EPP",
+      "district": "Germany",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Iratxe García Pérez",
+      "gender": "F",
+      "party": "S&D",
+      "district": "Spain",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Stéphane Séjourné",
+      "gender": "M",
+      "party": "Renew",
+      "district": "France",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Terry Reintke",
+      "gender": "F",
+      "party": "Greens/EFA",
+      "district": "Germany",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Ryszard Legutko",
+      "gender": "M",
+      "party": "ECR",
+      "district": "Poland",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Marco Zanni",
+      "gender": "M",
+      "party": "ID",
+      "district": "Italy",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Martin Schirdewan",
+      "gender": "M",
+      "party": "The Left",
+      "district": "Germany",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Katalin Cseh",
+      "gender": "F",
+      "party": "Renew",
+      "district": "Hungary",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Esther de Lange",
+      "gender": "F",
+      "party": "EPP",
+      "district": "Netherlands",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Malin Björk",
+      "gender": "F",
+      "party": "The Left",
+      "district": "Sweden",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Dolors Montserrat",
+      "gender": "F",
+      "party": "EPP",
+      "district": "Spain",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Pedro Marques",
+      "gender": "M",
+      "party": "S&D",
+      "district": "Portugal",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Tanja Fajon",
+      "gender": "F",
+      "party": "S&D",
+      "district": "Slovenia",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "David McAllister",
+      "gender": "M",
+      "party": "EPP",
+      "district": "Germany",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "François-Xavier Bellamy",
+      "gender": "M",
+      "party": "EPP",
+      "district": "France",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Paulo Rangel",
+      "gender": "M",
+      "party": "EPP",
+      "district": "Portugal",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Miriam Lexmann",
+      "gender": "F",
+      "party": "EPP",
+      "district": "Slovakia",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Andrius Kubilius",
+      "gender": "M",
+      "party": "EPP",
+      "district": "Lithuania",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Arba Kokalari",
+      "gender": "F",
+      "party": "EPP",
+      "district": "Sweden",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Pernille Weiss",
+      "gender": "F",
+      "party": "EPP",
+      "district": "Denmark",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Sophie in 't Veld",
+      "gender": "F",
+      "party": "Renew",
+      "district": "Netherlands",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Nathalie Loiseau",
+      "gender": "F",
+      "party": "Renew",
+      "district": "France",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Guy Verhofstadt",
+      "gender": "M",
+      "party": "Renew",
+      "district": "Belgium",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Luis Garicano",
+      "gender": "M",
+      "party": "Renew",
+      "district": "Spain",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Jan-Christoph Oetjen",
+      "gender": "M",
+      "party": "Renew",
+      "district": "Germany",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Dacian Cioloș",
+      "gender": "M",
+      "party": "Renew",
+      "district": "Romania",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Ska Keller",
+      "gender": "F",
+      "party": "Greens/EFA",
+      "district": "Germany",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Philippe Lamberts",
+      "gender": "M",
+      "party": "Greens/EFA",
+      "district": "Belgium",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Bas Eickhout",
+      "gender": "M",
+      "party": "Greens/EFA",
+      "district": "Netherlands",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Heidi Hautala",
+      "gender": "F",
+      "party": "Greens/EFA",
+      "district": "Finland",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Marie Toussaint",
+      "gender": "F",
+      "party": "Greens/EFA",
+      "district": "France",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Rasmus Andresen",
+      "gender": "M",
+      "party": "Greens/EFA",
+      "district": "Germany",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Anna Cavazzini",
+      "gender": "F",
+      "party": "Greens/EFA",
+      "district": "Germany",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Damian Boeselager",
+      "gender": "M",
+      "party": "Greens/EFA",
+      "district": "Germany",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Tilly Metz",
+      "gender": "F",
+      "party": "Greens/EFA",
+      "district": "Luxembourg",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Ernest Urtasun",
+      "gender": "M",
+      "party": "Greens/EFA",
+      "district": "Spain",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Beata Szydło",
+      "gender": "F",
+      "party": "ECR",
+      "district": "Poland",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Nicola Procaccini",
+      "gender": "M",
+      "party": "ECR",
+      "district": "Italy",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Jorge Buxadé",
+      "gender": "M",
+      "party": "ECR",
+      "district": "Spain",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Hermann Tertsch",
+      "gender": "M",
+      "party": "ECR",
+      "district": "Spain",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Jacek Saryusz-Wolski",
+      "gender": "M",
+      "party": "ECR",
+      "district": "Poland",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Elżbieta Rafalska",
+      "gender": "F",
+      "party": "ECR",
+      "district": "Poland",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Assita Kanko",
+      "gender": "F",
+      "party": "ECR",
+      "district": "Belgium",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Jordan Bardella",
+      "gender": "M",
+      "party": "ID",
+      "district": "France",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Gunnar Beck",
+      "gender": "M",
+      "party": "ID",
+      "district": "Germany",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Christine Anderson",
+      "gender": "F",
+      "party": "ID",
+      "district": "Germany",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Marco Campomenosi",
+      "gender": "M",
+      "party": "ID",
+      "district": "Italy",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Harald Vilimsky",
+      "gender": "M",
+      "party": "ID",
+      "district": "Austria",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Annika Bruna",
+      "gender": "F",
+      "party": "ID",
+      "district": "France",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Younous Omarjee",
+      "gender": "M",
+      "party": "The Left",
+      "district": "France",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Clare Daly",
+      "gender": "F",
+      "party": "The Left",
+      "district": "Ireland",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Mick Wallace",
+      "gender": "M",
+      "party": "The Left",
+      "district": "Ireland",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Anne-Sophie Pelletier",
+      "gender": "F",
+      "party": "The Left",
+      "district": "France",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "José Gusmão",
+      "gender": "M",
+      "party": "The Left",
+      "district": "Portugal",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Dimitrios Papadimoulis",
+      "gender": "M",
+      "party": "The Left",
+      "district": "Greece",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Manon Aubry",
+      "gender": "F",
+      "party": "The Left",
+      "district": "France",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Konstantinos Arvanitis",
+      "gender": "M",
+      "party": "The Left",
+      "district": "Greece",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Aurore Lalucq",
+      "gender": "F",
+      "party": "S&D",
+      "district": "France",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Marie Arena",
+      "gender": "F",
+      "party": "S&D",
+      "district": "Belgium",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Pedro Silva Pereira",
+      "gender": "M",
+      "party": "S&D",
+      "district": "Portugal",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    },
+    {
+      "name": "Cyrus Engerer",
+      "gender": "M",
+      "party": "S&D",
+      "district": "Malta",
+      "salary": {
+        "gross": 120902,
+        "net": 82000
+      }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Christine Lagarde",
+      "gender": "F",
+      "role": "President of the European Central Bank",
+      "party": "Independent",
+      "salary": {
+        "gross": 421308,
+        "net": 260000
+      }
+    },
+    {
+      "name": "Nadia Calviño",
+      "gender": "F",
+      "role": "President of the European Investment Bank",
+      "party": "S&D",
+      "salary": {
+        "gross": 336000,
+        "net": 235000
+      }
+    },
+    {
+      "name": "Koen Lenaerts",
+      "gender": "M",
+      "role": "President of the Court of Justice of the European Union",
+      "party": "Independent",
+      "salary": {
+        "gross": 322000,
+        "net": 225000
+      }
+    },
+    {
+      "name": "Tony Murphy",
+      "gender": "M",
+      "role": "President of the European Court of Auditors",
+      "party": "Independent",
+      "salary": {
+        "gross": 250000,
+        "net": 175000
+      }
+    }
+  ],
+  "parties": {
+    "EPP": {
+      "name": "Group of the European People's Party (Christian Democrats)",
+      "range": 4,
+      "color": "#3166B0"
+    },
+    "S&D": {
+      "name": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+      "range": 2,
+      "color": "#E3000F"
+    },
+    "Renew": {
+      "name": "Renew Europe Group",
+      "range": 3,
+      "color": "#FFD200"
+    },
+    "Greens/EFA": {
+      "name": "Group of the Greens/European Free Alliance",
+      "range": 1,
+      "color": "#1DB400"
+    },
+    "ECR": {
+      "name": "European Conservatives and Reformists Group",
+      "range": 4,
+      "color": "#004488"
+    },
+    "ID": {
+      "name": "Identity and Democracy Group",
+      "range": 5,
+      "color": "#2B2B83"
+    },
+    "MR": {
+      "name": "Mouvement Réformateur",
+      "range": 4,
+      "color": "#005BAC"
+    },
+    "Independent": {
+      "name": "Independent",
+      "range": 3,
+      "color": "#777777"
+    },
+    "The Left": {
+      "name": "The Left in the European Parliament - GUE/NGL",
+      "range": 1,
+      "color": "#B0005A"
+    }
+  }
+}

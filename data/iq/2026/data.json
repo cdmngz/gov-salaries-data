@@ -1,0 +1,463 @@
+{
+    "baseCurrency": "USD",
+    "executive": [
+        {
+            "name": "Abdul Latif Rashid",
+            "gender": "M",
+            "role": "President of the Republic of Iraq",
+            "party": "PUK",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Iraqi Presidency – Budget Allocations 2025": "https://presidency.iq/"
+                }
+            ]
+        },
+        {
+            "name": "Mohammed Shia' Al Sudani",
+            "gender": "M",
+            "role": "Prime Minister of Iraq",
+            "party": "DWA",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Council of Ministers – 2025 Federal Budget": "https://cabinet.gov.iq/"
+                }
+            ]
+        }
+    ],
+    "ministers": [
+        {
+            "name": "Taif Sami",
+            "gender": "F",
+            "role": "Minister of Finance",
+            "party": "IND",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Ministry of Finance – Minister profile": "https://mof.gov.iq/"
+                }
+            ]
+        }
+    ],
+    "deputies": [
+        {
+            "name": "Mohammed al-Halbousi",
+            "gender": "M",
+            "role": "Speaker of the Council of Representatives",
+            "party": "TAQ",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Council of Representatives leadership": "https://parliament.iq/"
+                }
+            ]
+        },
+        {
+            "name": "Shakhwan Abdullah Ahmed",
+            "gender": "M",
+            "role": "Second Deputy Speaker of Parliament",
+            "party": "KDP",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Council of Representatives leadership": "https://parliament.iq/"
+                }
+            ]
+        },
+        {
+            "name": "Mohsen Al-Mandalawi",
+            "gender": "M",
+            "role": "First Deputy Speaker of Parliament",
+            "party": "IND",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Council of Representatives leadership": "https://parliament.iq/"
+                }
+            ]
+        },
+        {
+            "name": "Vian Sabri",
+            "gender": "F",
+            "role": "Deputy for Duhok",
+            "party": "KDP",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Kurdistan Democratic Party caucus": "https://www.kdp.se/english/"
+                }
+            ]
+        },
+        {
+            "name": "Nouri al-Maliki",
+            "gender": "M",
+            "role": "Deputy for Baghdad",
+            "party": "SOL",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "State of Law Coalition": "https://stateoflaw.iq/"
+                }
+            ]
+        },
+        {
+            "name": "Hadi al-Amiri",
+            "gender": "M",
+            "role": "Deputy for Diyala",
+            "party": "FTA",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Fatah Alliance": "https://fatah.iq/"
+                }
+            ]
+        },
+        {
+            "name": "Ahmed al-Asadi",
+            "gender": "M",
+            "role": "Deputy for Baghdad",
+            "party": "FTA",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Fatah Alliance": "https://fatah.iq/"
+                }
+            ]
+        },
+        {
+            "name": "Haider al-Abadi",
+            "gender": "M",
+            "role": "Deputy for Baghdad",
+            "party": "NASR",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Victory Alliance": "https://nasriq.com/"
+                }
+            ]
+        },
+        {
+            "name": "Ammar al-Hakim",
+            "gender": "M",
+            "role": "Deputy for Baghdad",
+            "party": "HIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "National Wisdom Movement": "https://hikma.iq/"
+                }
+            ]
+        },
+        {
+            "name": "Khamis al-Khanjar",
+            "gender": "M",
+            "role": "Deputy for Anbar",
+            "party": "SOV",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Sovereignty Alliance": "https://taqaddum.iq/"
+                }
+            ]
+        },
+        {
+            "name": "Muthanna al-Samarrai",
+            "gender": "M",
+            "role": "Deputy for Salah al-Din",
+            "party": "AZM",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Azm Alliance": "https://azm-iq.com/"
+                }
+            ]
+        },
+        {
+            "name": "Raad al-Dahlaki",
+            "gender": "M",
+            "role": "Deputy for Diyala",
+            "party": "TAQ",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Council of Representatives membership": "https://parliament.iq/"
+                }
+            ]
+        },
+        {
+            "name": "Sarwa Abdul Wahed",
+            "gender": "F",
+            "role": "Deputy for Sulaymaniyah",
+            "party": "NG",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "New Generation Movement": "https://ngm-iraq.org/"
+                }
+            ]
+        },
+        {
+            "name": "Rayan al-Kildani",
+            "gender": "M",
+            "role": "Deputy for Nineveh (Christian quota)",
+            "party": "BAB",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Babylon Movement": "https://babylonmovement.com/"
+                }
+            ]
+        },
+        {
+            "name": "Rebwar Babkayi",
+            "gender": "M",
+            "role": "Deputy for Erbil",
+            "party": "KDP",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Kurdistan Democratic Party caucus": "https://www.kdp.se/english/"
+                }
+            ]
+        },
+        {
+            "name": "Ala Talabani",
+            "gender": "F",
+            "role": "Deputy for Kirkuk",
+            "party": "PUK",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Patriotic Union of Kurdistan": "https://pukmedia.com/"
+                }
+            ]
+        },
+        {
+            "name": "Jamal Kocher",
+            "gender": "M",
+            "role": "Deputy for Erbil",
+            "party": "KIU",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Kurdistan Islamic Union": "https://yekgirtu.org/"
+                }
+            ]
+        },
+        {
+            "name": "Aram Shahin",
+            "gender": "M",
+            "role": "Deputy for Sulaymaniyah",
+            "party": "KIG",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Kurdistan Islamic Group": "https://komal.org/"
+                }
+            ]
+        },
+        {
+            "name": "Yusra Rajab",
+            "gender": "F",
+            "role": "Deputy for Sulaymaniyah",
+            "party": "KDP",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Kurdistan Democratic Party caucus": "https://www.kdp.se/english/"
+                }
+            ]
+        },
+        {
+            "name": "Hassan Salem",
+            "gender": "M",
+            "role": "Deputy for Baghdad",
+            "party": "FTA",
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Fatah Alliance": "https://fatah.iq/"
+                }
+            ]
+        }
+    ],
+    "senate": [
+        {
+            "name": "Vacant (Federation Council not yet formed)",
+            "gender": null,
+            "role": "The Iraqi Constitution foresees a Federation Council upper house, but it has not been created",
+            "party": null,
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Iraqi Federation Council": "https://en.wikipedia.org/wiki/Federation_Council_(Iraq)"
+                }
+            ]
+        }
+    ],
+    "parties": {
+        "DWA": {
+            "name": "حزب الدعوة الإسلامية",
+            "en": "Islamic Dawa Party",
+            "range": 3,
+            "color": "#2f4f4f"
+        },
+        "IND": {
+            "name": "Independent",
+            "en": "Independent",
+            "range": 3,
+            "color": "#808080"
+        },
+        "PUK": {
+            "name": "الاتحاد الوطني الكردستاني",
+            "en": "Patriotic Union of Kurdistan",
+            "range": 3,
+            "color": "#008000"
+        },
+        "TAQ": {
+            "name": "تحالف تقدم الوطني",
+            "en": "Taqaddum Party",
+            "range": 3,
+            "color": "#1f77b4"
+        },
+        "KDP": {
+            "name": "الحزب الديمقراطي الكردستاني",
+            "en": "Kurdistan Democratic Party",
+            "range": 3,
+            "color": "#f1c40f"
+        },
+        "SOL": {
+            "name": "ائتلاف دولة القانون",
+            "en": "State of Law Coalition",
+            "range": 3,
+            "color": "#4b0082"
+        },
+        "FTA": {
+            "name": "تحالف الفتح",
+            "en": "Fatah Alliance",
+            "range": 3,
+            "color": "#8b0000"
+        },
+        "NASR": {
+            "name": "ائتلاف النصر",
+            "en": "Victory Alliance",
+            "range": 3,
+            "color": "#2e8b57"
+        },
+        "HIK": {
+            "name": "تيار الحكمة الوطني",
+            "en": "National Wisdom Movement",
+            "range": 3,
+            "color": "#6495ed"
+        },
+        "SOV": {
+            "name": "تحالف السيادة",
+            "en": "Sovereignty Alliance",
+            "range": 3,
+            "color": "#ff8c00"
+        },
+        "AZM": {
+            "name": "تحالف عزم",
+            "en": "Azm Alliance",
+            "range": 3,
+            "color": "#ff1493"
+        },
+        "NG": {
+            "name": "حركة الجيل الجديد",
+            "en": "New Generation Movement",
+            "range": 3,
+            "color": "#00ced1"
+        },
+        "BAB": {
+            "name": "حركة بابليون",
+            "en": "Babylon Movement",
+            "range": 3,
+            "color": "#b8860b"
+        },
+        "KIU": {
+            "name": "الاتحاد الإسلامي الكردستاني",
+            "en": "Kurdistan Islamic Union",
+            "range": 3,
+            "color": "#006400"
+        },
+        "KIG": {
+            "name": "الجماعة الإسلامية في كردستان",
+            "en": "Kurdistan Islamic Group",
+            "range": 3,
+            "color": "#20b2aa"
+        }
+    }
+}

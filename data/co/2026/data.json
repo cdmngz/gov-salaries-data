@@ -1,0 +1,236 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Gustavo Petro",
+      "gender": "M",
+      "role": "President of the Republic of Colombia",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Francia Márquez",
+      "gender": "F",
+      "role": "Vice President of the Republic of Colombia",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Juan Fernando Cristo",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "PL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Luis Gilberto Murillo",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ricardo Bonilla",
+      "gender": "M",
+      "role": "Minister of Finance and Public Credit",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Iván Velásquez",
+      "gender": "M",
+      "role": "Minister of National Defense",
+      "party": "Ind",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Néstor Osuna",
+      "gender": "M",
+      "role": "Minister of Justice and Law",
+      "party": "PL",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Guillermo Alfonso Jaramillo",
+      "gender": "M",
+      "role": "Minister of Health and Social Protection",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jhenifer Mojica",
+      "gender": "F",
+      "role": "Minister of Agriculture and Rural Development",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Andrés Camacho",
+      "gender": "M",
+      "role": "Minister of Mines and Energy",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Susana Muhamad",
+      "gender": "F",
+      "role": "Minister of Environment and Sustainable Development",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Catalina Velasco",
+      "gender": "F",
+      "role": "Minister of Housing, City and Territory",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gloria Inés Ramírez",
+      "gender": "F",
+      "role": "Minister of Labor",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yesenia Olaya",
+      "gender": "F",
+      "role": "Minister of Science, Technology and Innovation",
+      "party": "PH",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Juan Carlos Wills Ospina",
+      "gender": "M",
+      "party": "PC",
+      "district": "Bogotá D.C.",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Wilmer Carrillo Mendoza",
+      "gender": "M",
+      "party": "PU",
+      "district": "Norte de Santander",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Martha Alfonso Jurado",
+      "gender": "F",
+      "party": "AV",
+      "district": "Tolima",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Katherine Miranda Peña",
+      "gender": "F",
+      "party": "AV",
+      "district": "Bogotá D.C.",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Hernán Cadavid Márquez",
+      "gender": "M",
+      "party": "CD",
+      "district": "Antioquia",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "senate": [
+    {
+      "name": "María José Pizarro Rodríguez",
+      "gender": "F",
+      "party": "PH",
+      "district": "Bogotá D.C.",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lidio Arturo García Turbay",
+      "gender": "M",
+      "party": "PL",
+      "district": "Bolívar",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Paloma Susana Valencia Laserna",
+      "gender": "F",
+      "party": "CD",
+      "district": "Antioquia",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "David Alejandro Luna Sánchez",
+      "gender": "M",
+      "party": "CR",
+      "district": "Bogotá D.C.",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Luz Adriana Camargo",
+      "gender": "F",
+      "role": "Attorney General of Colombia",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Carlos Hernán Rodríguez",
+      "gender": "M",
+      "role": "Comptroller General of the Republic",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "parties": {
+    "PH": {
+      "name": "Pacto Histórico",
+      "en": "Historic Pact",
+      "range": 2,
+      "color": "#004B8D"
+    },
+    "PL": {
+      "name": "Partido Liberal Colombiano",
+      "en": "Colombian Liberal Party",
+      "range": 3,
+      "color": "#D50032"
+    },
+    "Ind": {
+      "name": "Independiente",
+      "en": "Independent",
+      "range": 3,
+      "color": "#666666"
+    },
+    "PC": {
+      "name": "Partido Conservador Colombiano",
+      "en": "Colombian Conservative Party",
+      "range": 4,
+      "color": "#0033A0"
+    },
+    "CD": {
+      "name": "Centro Democrático",
+      "en": "Democratic Center",
+      "range": 4,
+      "color": "#002664"
+    },
+    "PU": {
+      "name": "Partido de la U",
+      "en": "Social Party of National Unity",
+      "range": 3,
+      "color": "#F6A800"
+    },
+    "CR": {
+      "name": "Cambio Radical",
+      "en": "Radical Change",
+      "range": 3,
+      "color": "#E6222A"
+    },
+    "AV": {
+      "name": "Partido Alianza Verde",
+      "en": "Green Alliance Party",
+      "range": 2,
+      "color": "#6CC24A"
+    }
+  }
+}

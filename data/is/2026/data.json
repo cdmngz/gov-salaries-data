@@ -1,0 +1,91 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Guðni Th. Jóhannesson",
+      "gender": "M",
+      "role": "President of Iceland",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Bjarni Benediktsson",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "SFS",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Sigurður Ingi Jóhannsson",
+      "gender": "M",
+      "role": "Minister of Infrastructure",
+      "party": "PP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Þórdís Kolbrún Reykfjörð Gylfadóttir",
+      "gender": "F",
+      "role": "Minister for Foreign Affairs",
+      "party": "SFS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Guðmundur Ingi Guðbrandsson",
+      "gender": "M",
+      "role": "Minister of Social Affairs and Labour Market",
+      "party": "VG",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Bjarkey Olsen Gunnarsdóttir",
+      "gender": "F",
+      "role": "Minister of Food, Agriculture and Fisheries",
+      "party": "VG",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Áslaug Arna Sigurbjörnsdóttir",
+      "gender": "F",
+      "role": "Minister of Higher Education, Science and Innovation",
+      "party": "SFS",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lilja Alfreðsdóttir",
+      "gender": "F",
+      "role": "Minister of Culture and Business Affairs",
+      "party": "PP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "SFS": {
+      "name": "Sjálfstæðisflokkurinn",
+      "en": "Independence Party",
+      "range": 4,
+      "color": "#00589F"
+    },
+    "PP": {
+      "name": "Framsóknarflokkurinn",
+      "en": "Progressive Party",
+      "range": 3,
+      "color": "#78BE20"
+    },
+    "VG": {
+      "name": "Vinstrihreyfingin – grænt framboð",
+      "en": "Left-Green Movement",
+      "range": 2,
+      "color": "#6BA539"
+    },
+    "IND": {
+      "name": "Óháður",
+      "en": "Independent",
+      "range": 3,
+      "color": "#BBBBBB"
+    }
+  }
+}

@@ -1,0 +1,424 @@
+{
+    "baseCurrency": "USD",
+    "executive": [
+        {
+            "name": "Isaac Herzog",
+            "gender": "M",
+            "role": "President of Israel",
+            "party": "IND",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Benjamin Netanyahu",
+            "gender": "M",
+            "role": "Prime Minister",
+            "party": "LIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        }
+    ],
+    "ministers": [
+        {
+            "name": "Yoav Gallant",
+            "gender": "M",
+            "role": "Minister of Defense",
+            "party": "LIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Israel Katz",
+            "gender": "M",
+            "role": "Minister of Foreign Affairs",
+            "party": "LIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Bezalel Smotrich",
+            "gender": "M",
+            "role": "Minister of Finance",
+            "party": "RZP",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Itamar Ben-Gvir",
+            "gender": "M",
+            "role": "Minister of National Security",
+            "party": "OY",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Yariv Levin",
+            "gender": "M",
+            "role": "Minister of Justice",
+            "party": "LIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Miri Regev",
+            "gender": "F",
+            "role": "Minister of Transport and Road Safety",
+            "party": "LIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Moshe Arbel",
+            "gender": "M",
+            "role": "Minister of Health and Interior",
+            "party": "SHAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Yoav Kisch",
+            "gender": "M",
+            "role": "Minister of Education",
+            "party": "LIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Yitzhak Goldknopf",
+            "gender": "M",
+            "role": "Minister of Housing and Construction",
+            "party": "UTJ",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Idit Silman",
+            "gender": "F",
+            "role": "Minister of Environmental Protection",
+            "party": "LIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Eli Cohen",
+            "gender": "M",
+            "role": "Minister of Energy and Infrastructure",
+            "party": "LIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        }
+    ],
+    "deputies": [
+        {
+            "name": "Benjamin Netanyahu",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "LIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Yariv Levin",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "LIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Yoav Gallant",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "LIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Miri Regev",
+            "gender": "F",
+            "role": "Member of Knesset",
+            "party": "LIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Nir Barkat",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "LIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Israel Katz",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "LIK",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Bezalel Smotrich",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "RZP",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Itamar Ben-Gvir",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "OY",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Orit Strock",
+            "gender": "F",
+            "role": "Member of Knesset",
+            "party": "RZP",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Aryeh Deri",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "SHAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Yaakov Margi",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "SHAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Michael Malkieli",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "SHAS",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Yitzhak Goldknopf",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "UTJ",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Moshe Gafni",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "UTJ",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Uri Maklev",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "UTJ",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Avigdor Liberman",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "YB",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Benny Gantz",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "NU",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Yair Lapid",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "YA",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Merav Michaeli",
+            "gender": "F",
+            "role": "Member of Knesset",
+            "party": "LAB",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        },
+        {
+            "name": "Mansour Abbas",
+            "gender": "M",
+            "role": "Member of Knesset",
+            "party": "RAAM",
+            "salary": {
+                "gross": null,
+                "net": null
+            }
+        }
+    ],
+    "senate": [
+        {
+            "name": "Not applicable (unicameral legislature)",
+            "gender": null,
+            "role": "Israel's Knesset is unicameral and the state has no senate",
+            "party": null,
+            "salary": {
+                "gross": null,
+                "net": null
+            },
+            "sources": [
+                {
+                    "Knesset": "https://en.wikipedia.org/wiki/Knesset"
+                }
+            ]
+        }
+    ],
+    "parties": {
+        "LIK": {
+            "name": "Halikud",
+            "en": "Likud",
+            "range": 4,
+            "color": "#1A4780"
+        },
+        "RZP": {
+            "name": "HaTzionut HaDatit",
+            "en": "Religious Zionism Party",
+            "range": 3,
+            "color": "#0F6D4B"
+        },
+        "OY": {
+            "name": "Otzma Yehudit",
+            "en": "Jewish Power",
+            "range": 2,
+            "color": "#006BB6"
+        },
+        "SHAS": {
+            "name": "Shas",
+            "en": "Shas",
+            "range": 3,
+            "color": "#1F3A93"
+        },
+        "UTJ": {
+            "name": "Yahadut HaTorah HaMeukhedet",
+            "en": "United Torah Judaism",
+            "range": 2,
+            "color": "#143D59"
+        },
+        "YA": {
+            "name": "Yesh Atid",
+            "en": "There is a Future",
+            "range": 3,
+            "color": "#2F7AB8"
+        },
+        "NU": {
+            "name": "HaMachane HaMamlachti",
+            "en": "National Unity",
+            "range": 3,
+            "color": "#3B88C3"
+        },
+        "YB": {
+            "name": "Yisrael Beiteinu",
+            "en": "Israel Our Home",
+            "range": 3,
+            "color": "#005BBB"
+        },
+        "LAB": {
+            "name": "Avoda",
+            "en": "Israeli Labor Party",
+            "range": 2,
+            "color": "#D50032"
+        },
+        "RAAM": {
+            "name": "HaReshima HaAravit HaMe'uhedet",
+            "en": "United Arab List",
+            "range": 2,
+            "color": "#007A33"
+        },
+        "IND": {
+            "name": "Atzma'i",
+            "en": "Independent",
+            "range": 3,
+            "color": "#BBBBBB"
+        }
+    }
+}

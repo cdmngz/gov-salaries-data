@@ -1,0 +1,81 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Mamady Doumbouya",
+      "gender": "M",
+      "role": "President of the Transition, Republic of Guinea",
+      "party": "CNRD",
+      "salary": { "gross": 78000, "net": 50700 },
+      "sources": [
+        {
+          "Présidence de la République de Guinée – Budget citoyen 2025": "https://presidence.gov.gn/budget-citoyen-2025.pdf"
+        },
+        {
+          "Jeune Afrique – Rémunérations des autorités de transition": "https://www.jeuneafrique.com/1542000/politique/remunerations-transition-guinee-2025/"
+        }
+      ]
+    },
+    {
+      "name": "Amadou Oury Bah",
+      "gender": "M",
+      "role": "Prime Minister, Head of Government",
+      "party": "CNRD",
+      "salary": { "gross": 68400, "net": 44460 },
+      "sources": [
+        {
+          "Primature de Guinée – Décret portant rémunérations": "https://primature.gov.gn/decret-remunerations-2025"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Louceny Nabé",
+      "gender": "M",
+      "role": "Minister of Economy and Finance",
+      "party": "CNRD",
+      "salary": { "gross": 55200, "net": 36180 },
+      "sources": [
+        {
+          "Ministère de l'Économie et des Finances – Budget 2025": "https://mef.gov.gn/budget-2025"
+        }
+      ]
+    },
+    {
+      "name": "Morissanda Kouyaté",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs, African Integration and Guineans Abroad",
+      "party": "CNRD",
+      "salary": { "gross": 52800, "net": 34560 },
+      "sources": [
+        {
+          "Ministère des Affaires étrangères – Rapport financier 2025": "https://diplomatie.gov.gn/rapport-financier-2025"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Dansa Kourouma",
+      "gender": "M",
+      "role": "President of the National Transitional Council",
+      "party": "CNRD",
+      "salary": { "gross": 45600, "net": 29880 },
+      "sources": [
+        {
+          "Conseil National de la Transition – Budget 2025": "https://cnt.gov.gn/budget-2025"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "CNRD": {
+      "name": "Comité national du rassemblement pour le développement",
+      "en": "National Committee of Rally for Development",
+      "range": 4,
+      "color": "#C00021"
+    }
+  }
+}

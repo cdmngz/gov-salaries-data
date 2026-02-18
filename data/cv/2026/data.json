@@ -1,0 +1,90 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "José Maria Neves",
+      "gender": "M",
+      "role": "Presidente da República de Cabo Verde",
+      "party": "PAICV",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Presidência da República de Cabo Verde": "https://presidencia.cv/presidente/"
+        },
+        {
+          "DW África – Presidente José Maria Neves pede união para 2025": "https://www.dw.com/pt-002/cabo-verde-presidente-neves-pede-uni%C3%A3o-para-2025/a-68374234"
+        }
+      ]
+    },
+    {
+      "name": "Ulisses Correia e Silva",
+      "gender": "M",
+      "role": "Primeiro-ministro de Cabo Verde",
+      "party": "MPD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Governo de Cabo Verde – Primeiro-ministro": "https://www.governo.cv/primeiro-ministro/"
+        },
+        {
+          "Lusa – Ulisses Correia e Silva anuncia prioridades para 2025": "https://www.lusa.pt/article/1407659"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Olavo Correia",
+      "gender": "M",
+      "role": "Vice-primeiro-ministro e Ministro das Finanças",
+      "party": "MPD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Governo de Cabo Verde – Ministro das Finanças": "https://www.governo.cv/ministro-das-financas/"
+        }
+      ]
+    },
+    {
+      "name": "Rui Alberto de Figueiredo Soares",
+      "gender": "M",
+      "role": "Ministro dos Negócios Estrangeiros, Cooperação e Integração Regional",
+      "party": "MPD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Governo de Cabo Verde – Ministro dos Negócios Estrangeiros": "https://www.governo.cv/ministro-dos-negocios-estrangeiros/"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Austelino Tavares Correia",
+      "gender": "M",
+      "role": "Presidente da Assembleia Nacional",
+      "party": "MPD",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Assembleia Nacional de Cabo Verde": "https://www.parlamento.cv/presidente/"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "PAICV": {
+      "name": "Partido Africano da Independência de Cabo Verde",
+      "en": "African Party for the Independence of Cape Verde",
+      "range": 4,
+      "color": "#F9C20B"
+    },
+    "MPD": {
+      "name": "Movimento para a Democracia",
+      "en": "Movement for Democracy",
+      "range": 3,
+      "color": "#0077CC"
+    }
+  }
+}
