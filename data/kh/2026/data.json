@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Hun Manet",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "CPP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Norodom Sihamoni",
+      "gender": "M",
+      "role": "King of Cambodia",
+      "party": "CPP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Sok Chenda Sophea",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Foreign Affairs and International Cooperation",
+      "party": "CPP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Aun Pornmoniroth",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Economy and Finance",
+      "party": "CPP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Tea Seiha",
+      "gender": "M",
+      "role": "Minister of National Defence",
+      "party": "CPP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "CPP": {
+      "name": "គណបក្សប្រជាជនកម្ពុជា",
+      "en": "Cambodian People's Party",
+      "range": 4,
+      "color": "#0F57A4"
+    }
+  }
+}

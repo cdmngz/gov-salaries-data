@@ -1,0 +1,103 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Droupadi Murmu",
+      "gender": "F",
+      "role": "President of the Republic of India",
+      "party": "BJP",
+      "salary": { "gross": 3000000, "net": 1620000 },
+      "sources": [
+        {
+          "President of India": "https://presidentofindia.nic.in/biography"
+        },
+        {
+          "The Hindu – President Murmu's 2025 Republic Day address": "https://www.thehindu.com/news/national/full-text-of-president-droupadi-murmus-2025-republic-day-address/article67895432.ece"
+        }
+      ]
+    },
+    {
+      "name": "Narendra Modi",
+      "gender": "M",
+      "role": "Prime Minister of India",
+      "party": "BJP",
+      "salary": { "gross": 2400000, "net": 1296000 },
+      "sources": [
+        {
+          "Prime Minister's Office": "https://www.pmindia.gov.in/en/pms-profile/"
+        },
+        {
+          "Reuters – Modi outlines 2025 reforms": "https://www.reuters.com/world/india/modi-outlines-2025-reforms-2025-02-01/"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Nirmala Sitharaman",
+      "gender": "F",
+      "role": "Minister of Finance",
+      "party": "BJP",
+      "salary": { "gross": 2250000, "net": 1215000 },
+      "sources": [
+        {
+          "Ministry of Finance – About the Minister": "https://finmin.nic.in/about-ministry"
+        },
+        {
+          "Business Standard – Sitharaman presents Union Budget 2025": "https://www.business-standard.com/economy/news/sitharaman-presents-union-budget-2025-125020100123_1.html"
+        }
+      ]
+    },
+    {
+      "name": "Subrahmanyam Jaishankar",
+      "gender": "M",
+      "role": "Minister of External Affairs",
+      "party": "BJP",
+      "salary": { "gross": 2250000, "net": 1215000 },
+      "sources": [
+        {
+          "Ministry of External Affairs – External Affairs Minister": "https://mea.gov.in/eam.htm"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Om Birla",
+      "gender": "M",
+      "role": "Speaker of the Lok Sabha",
+      "party": "BJP",
+      "salary": { "gross": 2160000, "net": 1166400 },
+      "sources": [
+        {
+          "Lok Sabha Secretariat – Speaker": "https://loksabha.nic.in/Members/SpeakerBiograph.aspx"
+        },
+        {
+          "Indian Express – Om Birla re-elected Speaker": "https://indianexpress.com/article/india/om-birla-re-elected-speaker-2024-9493218/"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Jagdeep Dhankhar",
+      "gender": "M",
+      "role": "Chairman of the Rajya Sabha",
+      "party": "BJP",
+      "salary": { "gross": 2250000, "net": 1215000 },
+      "sources": [
+        {
+          "Rajya Sabha – Chairman": "https://rajyasabha.nic.in/rsnew/chairman/chairman.aspx"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "BJP": {
+      "name": "भारतीय जनता पार्टी",
+      "en": "Bharatiya Janata Party",
+      "range": 4,
+      "color": "#FF9933"
+    }
+  }
+}

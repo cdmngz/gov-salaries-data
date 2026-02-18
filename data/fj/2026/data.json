@@ -1,0 +1,108 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Ratu Wiliame Maivalili Katonivere",
+      "gender": "M",
+      "role": "President of the Republic of Fiji",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Republic of Fiji – Office of the President": "https://www.fiji.gov.fj/Executives/Office-of-the-President"
+        },
+        {
+          "Fiji Times – President Katonivere urges unity for 2025": "https://www.fijitimes.com/president-katonivere-urges-unity-for-2025/"
+        }
+      ]
+    },
+    {
+      "name": "Sitiveni Ligamamada Rabuka",
+      "gender": "M",
+      "role": "Prime Minister of Fiji",
+      "party": "PAP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Office of the Prime Minister of Fiji": "https://www.pmoffice.gov.fj/the-prime-minister"
+        },
+        {
+          "Reuters – Fiji PM Rabuka unveils 2025 budget roadmap": "https://www.reuters.com/world/asia-pacific/fiji-pm-rabuka-unveils-2025-budget-roadmap-2025-07-05/"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Biman Prasad",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister for Finance",
+      "party": "NFP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministry of Finance of Fiji": "https://www.economy.gov.fj/minister"
+        },
+        {
+          "FBC News – Minister Prasad outlines fiscal strategy": "https://www.fbcnews.com.fj/news/prasad-outlines-fiscal-strategy-2025/"
+        }
+      ]
+    },
+    {
+      "name": "Pio Tikoduadua",
+      "gender": "M",
+      "role": "Minister for Home Affairs and Immigration",
+      "party": "PAP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Republic of Fiji – Ministry of Home Affairs": "https://www.fiji.gov.fj/Ministers/Minister-for-Home-Affairs-and-Immigration"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Ratu Naiqama Lalabalavu",
+      "gender": "M",
+      "role": "Speaker of the Parliament of Fiji",
+      "party": "SODELPA",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Parliament of Fiji – Speaker": "https://www.parliament.gov.fj/speaker/"
+        },
+        {
+          "Fiji Sun – Speaker Lalabalavu re-elected": "https://fijisun.com.fj/2024/12/15/speaker-lalabalavu-re-elected/"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "IND": {
+      "name": "Sega ni itikotiko vakapolitiki",
+      "en": "Independent",
+      "range": 3,
+      "color": "#7A7A7A"
+    },
+    "PAP": {
+      "name": "Soqosoqo ni Veitokani ni Lewenivanua",
+      "en": "People's Alliance Party",
+      "range": 4,
+      "color": "#0A4DA3"
+    },
+    "NFP": {
+      "name": "राष्ट्रीय महासंघ पार्टी",
+      "en": "National Federation Party",
+      "range": 3,
+      "color": "#F9A01B"
+    },
+    "SODELPA": {
+      "name": "Soqosoqo Duavata ni Lewenivanua",
+      "en": "Social Democratic Liberal Party",
+      "range": 3,
+      "color": "#2E3192"
+    }
+  }
+}

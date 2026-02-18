@@ -1,0 +1,87 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Luis Abinader",
+      "gender": "M",
+      "role": "President",
+      "party": "PRM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Raquel Peña",
+      "gender": "F",
+      "role": "Vice President",
+      "party": "PRM",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Roberto Álvarez Gil",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "PRM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Jesús Vásquez Martínez",
+      "gender": "M",
+      "role": "Minister of Interior and Police",
+      "party": "PRM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Carlos Luciano Díaz Morfa",
+      "gender": "M",
+      "role": "Minister of Defense",
+      "party": "PRM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "José Manuel Vicente",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "PRM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Pavel Isa Contreras",
+      "gender": "M",
+      "role": "Minister of Economy, Planning and Development",
+      "party": null,
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ángel Hernández Castillo",
+      "gender": "M",
+      "role": "Minister of Education",
+      "party": "PRM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Daniel Rivera Reyes",
+      "gender": "M",
+      "role": "Minister of Public Health",
+      "party": "PRM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Víctor Bisonó Haza",
+      "gender": "M",
+      "role": "Minister of Industry, Commerce and MSMEs",
+      "party": "PRM",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "PRM": {
+      "name": "Partido Revolucionario Moderno",
+      "en": "Modern Revolutionary Party",
+      "range": 3,
+      "color": "#003893"
+    }
+  }
+}

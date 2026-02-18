@@ -1,0 +1,383 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Nana Addo Dankwa Akufo-Addo",
+      "gender": "M",
+      "role": "President of the Republic",
+      "party": "NPP",
+      "salary": {
+        "gross": 65000,
+        "net": 45500
+      },
+      "sources": [
+        {
+          "Budget Statement": "https://www.mofep.gov.gh/budget-statement"
+        }
+      ]
+    },
+    {
+      "name": "Mahamudu Bawumia",
+      "gender": "M",
+      "role": "Vice President",
+      "party": "NPP",
+      "salary": {
+        "gross": 57000,
+        "net": 39900
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ken Ofori-Atta",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "NPP",
+      "salary": {
+        "gross": 50000,
+        "net": 35000
+      },
+      "budget": 17041666667
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Haruna Iddrisu",
+      "gender": "M",
+      "party": "NDC",
+      "district": "Tamale South",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Osei Kyei-Mensah-Bonsu",
+      "gender": "M",
+      "party": "NPP",
+      "district": "Suame",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Cassiel Ato Forson",
+      "gender": "M",
+      "party": "NDC",
+      "district": "Ajumako-Enyan-Esiam",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Samuel Okudzeto Ablakwa",
+      "gender": "M",
+      "party": "NDC",
+      "district": "North Tongu",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Ursula Owusu-Ekuful",
+      "gender": "F",
+      "party": "NPP",
+      "district": "Ablekuma West",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Kojo Oppong Nkrumah",
+      "gender": "M",
+      "party": "NPP",
+      "district": "Ofoase-Ayirebi",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Sarah Adwoa Safo",
+      "gender": "F",
+      "party": "NPP",
+      "district": "Dome-Kwabenya",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Mahama Ayariga",
+      "gender": "M",
+      "party": "NDC",
+      "district": "Bawku Central",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Bryan Acheampong",
+      "gender": "M",
+      "party": "NPP",
+      "district": "Abetifi",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Alexander Afenyo-Markin",
+      "gender": "M",
+      "party": "NPP",
+      "district": "Effutu",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Kwame Governs Agbodza",
+      "gender": "M",
+      "party": "NDC",
+      "district": "Adaklu",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Francis-Xavier Sosu",
+      "gender": "M",
+      "party": "NDC",
+      "district": "Madina",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Samuel Nartey George",
+      "gender": "M",
+      "party": "NDC",
+      "district": "Ningo-Prampram",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Elizabeth Ofosu-Agyare",
+      "gender": "F",
+      "party": "NDC",
+      "district": "Techiman North",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Kwabena Mintah Akandoh",
+      "gender": "M",
+      "party": "NDC",
+      "district": "Juaboso",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Zanetor Agyeman-Rawlings",
+      "gender": "F",
+      "party": "NDC",
+      "district": "Klottey Korle",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Mohammed Mubarak Muntaka",
+      "gender": "M",
+      "party": "NDC",
+      "district": "Asawase",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Matthew Opoku Prempeh",
+      "gender": "M",
+      "party": "NPP",
+      "district": "Manhyia South",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Kennedy Ohene Agyapong",
+      "gender": "M",
+      "party": "NPP",
+      "district": "Assin Central",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Bernard Okoe-Boye",
+      "gender": "M",
+      "party": "NPP",
+      "district": "Ledzokuku",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    },
+    {
+      "name": "Rockson-Nelson Etse Kwami Dafeamekpor",
+      "gender": "M",
+      "party": "NDC",
+      "district": "South Dayi",
+      "salary": {
+        "gross": 30000,
+        "net": 21000
+      }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Nana Otuo Siriboe II",
+      "gender": "M",
+      "party": "Independent",
+      "district": "Ashanti Region",
+      "salary": {
+        "gross": 32000,
+        "net": 22400
+      }
+    },
+    {
+      "name": "Sam Okudzeto",
+      "gender": "M",
+      "party": "Independent",
+      "district": "Presidential Appointee",
+      "salary": {
+        "gross": 32000,
+        "net": 22400
+      }
+    },
+    {
+      "name": "Margaret Amoakohene",
+      "gender": "F",
+      "party": "Independent",
+      "district": "Presidential Appointee",
+      "salary": {
+        "gross": 32000,
+        "net": 22400
+      }
+    },
+    {
+      "name": "Alhaji Sule Yiremiah",
+      "gender": "M",
+      "party": "Independent",
+      "district": "Upper West Region",
+      "salary": {
+        "gross": 32000,
+        "net": 22400
+      }
+    },
+    {
+      "name": "Enoch Teye Mensah",
+      "gender": "M",
+      "party": "NDC",
+      "district": "Greater Accra Region",
+      "salary": {
+        "gross": 32000,
+        "net": 22400
+      }
+    },
+    {
+      "name": "Nana Owusu Nsiah",
+      "gender": "M",
+      "party": "Independent",
+      "district": "Presidential Appointee",
+      "salary": {
+        "gross": 32000,
+        "net": 22400
+      }
+    },
+    {
+      "name": "Georgina Theodora Wood",
+      "gender": "F",
+      "party": "Independent",
+      "district": "Presidential Appointee",
+      "salary": {
+        "gross": 32000,
+        "net": 22400
+      }
+    },
+    {
+      "name": "Lt. Gen. J.B. Danquah (Rtd)",
+      "gender": "M",
+      "party": "Independent",
+      "district": "Presidential Appointee",
+      "salary": {
+        "gross": 32000,
+        "net": 22400
+      }
+    },
+    {
+      "name": "Francis Albert Seth Nyonyo",
+      "gender": "M",
+      "party": "Independent",
+      "district": "Volta Region",
+      "salary": {
+        "gross": 32000,
+        "net": 22400
+      }
+    },
+    {
+      "name": "Eunice Jacqueline Buah",
+      "gender": "F",
+      "party": "Independent",
+      "district": "Western North Region",
+      "salary": {
+        "gross": 32000,
+        "net": 22400
+      }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Akosua Frema Osei-Opare",
+      "gender": "F",
+      "role": "Chief of Staff",
+      "party": "NPP",
+      "salary": {
+        "gross": 35000,
+        "net": 24500
+      }
+    }
+  ],
+  "parties": {
+    "NPP": {
+      "name": "New Patriotic Party",
+      "en": "New Patriotic Party",
+      "range": 4,
+      "color": "#0B4DA1"
+    },
+    "NDC": {
+      "name": "National Democratic Congress",
+      "en": "National Democratic Congress",
+      "range": 3,
+      "color": "#D71920"
+    }
+  }
+}

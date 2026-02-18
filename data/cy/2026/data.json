@@ -1,0 +1,72 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Nikos Christodoulides",
+      "gender": "M",
+      "role": "President of the Republic",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Konstantinos Kombos",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Makis Keravnos",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Vasilis Palmas",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Marios Hartsiotis",
+      "gender": "M",
+      "role": "Minister of Justice and Public Order",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Maria Panayiotou",
+      "gender": "F",
+      "role": "Minister of Agriculture, Rural Development and Environment",
+      "party": "KOP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Popi Kanari",
+      "gender": "F",
+      "role": "Minister of Health",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "IND": {
+      "name": "Ανεξάρτητος",
+      "en": "Independent",
+      "range": 3,
+      "color": "#BFBFBF"
+    },
+    "KOP": {
+      "name": "Κίνημα Οικολόγων – Συνεργασία Πολιτών",
+      "en": "Movement of Ecologists – Citizens' Cooperation",
+      "range": 2,
+      "color": "#2E8B57"
+    }
+  }
+}

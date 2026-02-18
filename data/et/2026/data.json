@@ -1,0 +1,90 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Sahle-Work Zewde",
+      "gender": "F",
+      "role": "President of the Federal Democratic Republic of Ethiopia",
+      "party": "IND",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Office of the President of Ethiopia": "https://www.president.et/biography/"
+        },
+        {
+          "UN News – Ethiopia's president urges inclusive reforms": "https://news.un.org/en/story/2025/03/1147281"
+        }
+      ]
+    },
+    {
+      "name": "Abiy Ahmed Ali",
+      "gender": "M",
+      "role": "Prime Minister of Ethiopia",
+      "party": "PP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Office of the Prime Minister – Biography": "https://www.pmo.gov.et/profile"
+        },
+        {
+          "Reuters – Ethiopia's Abiy outlines 2025 economic priorities": "https://www.reuters.com/world/africa/ethiopias-abiy-outlines-2025-economic-priorities-2025-02-20/"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ahmed Shide",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "PP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministry of Finance – Leadership": "https://www.mofed.gov.et/leadership/minister"
+        }
+      ]
+    },
+    {
+      "name": "Taye Atske Selassie",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "PP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs of Ethiopia": "https://www.mfa.gov.et/minister/"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Demeke Mekonnen Hassen",
+      "gender": "M",
+      "role": "Deputy Prime Minister of Ethiopia",
+      "party": "PP",
+      "salary": { "gross": null, "net": null },
+      "sources": [
+        {
+          "Office of the Prime Minister – Deputy Prime Minister": "https://www.pmo.gov.et/deputy-prime-minister"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "IND": {
+      "name": "ነፃ የተመረጡ",
+      "en": "Independent",
+      "range": 3,
+      "color": "#888888"
+    },
+    "PP": {
+      "name": "ብልፅግና ፓርቲ",
+      "en": "Prosperity Party",
+      "range": 4,
+      "color": "#0099CC"
+    }
+  }
+}

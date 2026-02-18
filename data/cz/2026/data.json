@@ -1,0 +1,990 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Petr Pavel",
+      "gender": "M",
+      "role": "President of the Czech Republic",
+      "party": "IND",
+      "salary": { "gross": 154000, "net": 100000 },
+      "sources": [
+        { "Pražský hrad": "https://www.hrad.cz/cs/president-of-the-czech-republic" }
+      ]
+    },
+    {
+      "name": "Petr Fiala",
+      "gender": "M",
+      "role": "Prime Minister of the Czech Republic",
+      "party": "ODS",
+      "salary": { "gross": 120000, "net": 78000 },
+      "sources": [
+        { "Vláda České republiky": "https://www.vlada.cz/en/clenove-vlady/premier/" }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Zbyněk Stanjura",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "ODS",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Ministerstvo financí": "https://www.mfcr.cz/" }
+      ]
+    },
+    {
+      "name": "Jan Lipavský",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "PIR",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Ministerstvo zahraničních věcí": "https://www.mzv.cz/" }
+      ]
+    },
+    {
+      "name": "Vít Rakušan",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "STAN",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Ministerstvo vnitra": "https://www.mvcr.cz/" }
+      ]
+    },
+    {
+      "name": "Jana Černochová",
+      "gender": "F",
+      "role": "Minister of Defence",
+      "party": "ODS",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Ministerstvo obrany": "https://www.army.cz/" }
+      ]
+    },
+    {
+      "name": "Pavel Blažek",
+      "gender": "M",
+      "role": "Minister of Justice",
+      "party": "ODS",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Ministerstvo spravedlnosti": "https://justice.cz/" }
+      ]
+    },
+    {
+      "name": "Jozef Síkela",
+      "gender": "M",
+      "role": "Minister of Industry and Trade",
+      "party": "STAN",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Ministerstvo průmyslu a obchodu": "https://www.mpo.cz/" }
+      ]
+    },
+    {
+      "name": "Mikuláš Bek",
+      "gender": "M",
+      "role": "Minister of Education, Youth and Sports",
+      "party": "STAN",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Ministerstvo školství, mládeže a tělovýchovy": "https://www.msmt.cz/" }
+      ]
+    },
+    {
+      "name": "Marian Jurečka",
+      "gender": "M",
+      "role": "Minister of Labour and Social Affairs",
+      "party": "KDU",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Ministerstvo práce a sociálních věcí": "https://www.mpsv.cz/" }
+      ]
+    },
+    {
+      "name": "Vlastimil Válek",
+      "gender": "M",
+      "role": "Minister of Health",
+      "party": "TOP09",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Ministerstvo zdravotnictví": "https://www.mzcr.cz/" }
+      ]
+    },
+    {
+      "name": "Martin Kupka",
+      "gender": "M",
+      "role": "Minister of Transport",
+      "party": "ODS",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Ministerstvo dopravy": "https://www.mdcr.cz/" }
+      ]
+    },
+    {
+      "name": "Ivan Bartoš",
+      "gender": "M",
+      "role": "Minister for Regional Development and Digitalisation",
+      "party": "PIR",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Ministerstvo pro místní rozvoj": "https://mmr.cz/" }
+      ]
+    },
+    {
+      "name": "Petr Hladík",
+      "gender": "M",
+      "role": "Minister of the Environment",
+      "party": "KDU",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Ministerstvo životního prostředí": "https://www.mzp.cz/" }
+      ]
+    },
+    {
+      "name": "Marek Výborný",
+      "gender": "M",
+      "role": "Minister of Agriculture",
+      "party": "KDU",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Ministerstvo zemědělství": "https://eagri.cz/" }
+      ]
+    },
+    {
+      "name": "Martin Baxa",
+      "gender": "M",
+      "role": "Minister of Culture",
+      "party": "ODS",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Ministerstvo kultury": "https://www.mkcr.cz/" }
+      ]
+    },
+    {
+      "name": "Helena Langšádlová",
+      "gender": "F",
+      "role": "Minister for Science, Research and Innovation",
+      "party": "TOP09",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Úřad vlády": "https://www.vlada.cz/cz/clenove-vlady/helena-langsadlova-191452/" }
+      ]
+    },
+    {
+      "name": "Martin Dvořák",
+      "gender": "M",
+      "role": "Minister for European Affairs",
+      "party": "STAN",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Úřad vlády": "https://www.vlada.cz/cz/clenove-vlady/martin-dvorak-190707/" }
+      ]
+    },
+    {
+      "name": "Michal Šalomoun",
+      "gender": "M",
+      "role": "Minister for Legislation",
+      "party": "PIR",
+      "salary": { "gross": 90000, "net": 60000 },
+      "sources": [
+        { "Úřad vlády": "https://www.vlada.cz/cz/clenove-vlady/michal-salomoun-193424/" }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Markéta Pekarová Adamová",
+      "gender": "F",
+      "party": "TOP09",
+      "district": "Chamber of Deputies",
+      "role": "Speaker of the Chamber of Deputies",
+      "salary": { "gross": 110000, "net": 73000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1300" }
+      ]
+    },
+    {
+      "name": "Jan Bartošek",
+      "gender": "M",
+      "party": "KDU",
+      "district": "Chamber of Deputies",
+      "role": "Deputy Speaker of the Chamber of Deputies",
+      "salary": { "gross": 85000, "net": 56000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1301" }
+      ]
+    },
+    {
+      "name": "Jan Skopeček",
+      "gender": "M",
+      "party": "ODS",
+      "district": "Chamber of Deputies",
+      "role": "Deputy Speaker of the Chamber of Deputies",
+      "salary": { "gross": 85000, "net": 56000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1301" }
+      ]
+    },
+    {
+      "name": "Věra Kovářová",
+      "gender": "F",
+      "party": "STAN",
+      "district": "Chamber of Deputies",
+      "role": "Deputy Speaker of the Chamber of Deputies",
+      "salary": { "gross": 85000, "net": 56000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1301" }
+      ]
+    },
+    {
+      "name": "Karel Havlíček",
+      "gender": "M",
+      "party": "ANO",
+      "district": "Chamber of Deputies",
+      "role": "Deputy Speaker of the Chamber of Deputies",
+      "salary": { "gross": 85000, "net": 56000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1301" }
+      ]
+    },
+    {
+      "name": "Klára Dostálová",
+      "gender": "F",
+      "party": "ANO",
+      "district": "Chamber of Deputies",
+      "role": "Deputy Speaker of the Chamber of Deputies",
+      "salary": { "gross": 85000, "net": 56000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1301" }
+      ]
+    },
+    {
+      "name": "Tomio Okamura",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Chamber of Deputies",
+      "role": "Deputy Speaker of the Chamber of Deputies",
+      "salary": { "gross": 85000, "net": 56000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1301" }
+      ]
+    },
+    {
+      "name": "Marek Benda",
+      "gender": "M",
+      "party": "ODS",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Jan Bauer",
+      "gender": "M",
+      "party": "ODS",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Eva Decroix",
+      "gender": "F",
+      "party": "ODS",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Vojtěch Munzar",
+      "gender": "M",
+      "party": "ODS",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Petr Beitl",
+      "gender": "M",
+      "party": "ODS",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Bohuslav Svoboda",
+      "gender": "M",
+      "party": "ODS",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Jakub Michálek",
+      "gender": "M",
+      "party": "PIR",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Olga Richterová",
+      "gender": "F",
+      "party": "PIR",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Jana Pastuchová",
+      "gender": "F",
+      "party": "ANO",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Patrik Nacher",
+      "gender": "M",
+      "party": "ANO",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Alena Schillerová",
+      "gender": "F",
+      "party": "ANO",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Andrej Babiš",
+      "gender": "M",
+      "party": "ANO",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Radek Vondráček",
+      "gender": "M",
+      "party": "ANO",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Jaroslav Bžoch",
+      "gender": "M",
+      "party": "ANO",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Aleš Juchelka",
+      "gender": "M",
+      "party": "ANO",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Barbora Kořanová",
+      "gender": "F",
+      "party": "ANO",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Pavel Růžička",
+      "gender": "M",
+      "party": "ANO",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Hayato Okamura",
+      "gender": "M",
+      "party": "KDU",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Šimon Heller",
+      "gender": "M",
+      "party": "KDU",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Ondřej Benešík",
+      "gender": "M",
+      "party": "KDU",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Jan Farský",
+      "gender": "M",
+      "party": "STAN",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Jan Lacina",
+      "gender": "M",
+      "party": "STAN",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Ondřej Lochman",
+      "gender": "M",
+      "party": "STAN",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Lukáš Vlček",
+      "gender": "M",
+      "party": "STAN",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Vít Kaňkovský",
+      "gender": "M",
+      "party": "KDU",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Pavel Bělobrádek",
+      "gender": "M",
+      "party": "KDU",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Jiří Navrátil",
+      "gender": "M",
+      "party": "KDU",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Pavel Žáček",
+      "gender": "M",
+      "party": "ODS",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Bohuslav Svoboda",
+      "gender": "M",
+      "party": "ODS",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Martin Exner",
+      "gender": "M",
+      "party": "STAN",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Jan Jakob",
+      "gender": "M",
+      "party": "TOP09",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Ondřej Kolář",
+      "gender": "M",
+      "party": "TOP09",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Helena Langšádlová",
+      "gender": "F",
+      "party": "TOP09",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Jana Mračková Vildumetzová",
+      "gender": "F",
+      "party": "ANO",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Radim Fiala",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Jaroslav Foldyna",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Jan Hrnčíř",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Radovan Vích",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Jiří Kobza",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Jaroslav Holík",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Radek Rozvoral",
+      "gender": "M",
+      "party": "SPD",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Jiří Mašek",
+      "gender": "M",
+      "party": "ANO",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Lucie Šafránková",
+      "gender": "F",
+      "party": "SPD",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Tomáš Martínek",
+      "gender": "M",
+      "party": "PIR",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    },
+    {
+      "name": "Ondřej Profant",
+      "gender": "M",
+      "party": "PIR",
+      "district": "Chamber of Deputies",
+      "role": "Member of Parliament",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Poslanecká sněmovna": "https://www.psp.cz/sqw/hp.sqw?k=1299" }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "Miloš Vystrčil",
+      "gender": "M",
+      "party": "ODS",
+      "district": "Senate",
+      "role": "President of the Senate",
+      "salary": { "gross": 105000, "net": 70000 },
+      "sources": [
+        {
+          "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=cz&ke_dni=0"
+        }
+      ]
+    },
+    {
+      "name": "Jiří Drahoš",
+      "gender": "M",
+      "party": "STAN",
+      "district": "Senate",
+      "role": "Vice-President of the Senate",
+      "salary": { "gross": 88000, "net": 58000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/" }
+      ]
+    },
+    {
+      "name": "Jan Horník",
+      "gender": "M",
+      "party": "STAN",
+      "district": "Senate",
+      "role": "Vice-President of the Senate",
+      "salary": { "gross": 88000, "net": 58000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/" }
+      ]
+    },
+    {
+      "name": "Jiří Oberfalzer",
+      "gender": "M",
+      "party": "ODS",
+      "district": "Senate",
+      "role": "Vice-President of the Senate",
+      "salary": { "gross": 88000, "net": 58000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/" }
+      ]
+    },
+    {
+      "name": "Jitka Seitlová",
+      "gender": "F",
+      "party": "KDU",
+      "district": "Senate",
+      "role": "Vice-President of the Senate",
+      "salary": { "gross": 88000, "net": 58000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/" }
+      ]
+    },
+    {
+      "name": "Pavel Fischer",
+      "gender": "M",
+      "party": "IND",
+      "district": "Prague 12",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Marek Hilšer",
+      "gender": "M",
+      "party": "IND",
+      "district": "Prague 2",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Miroslava Němcová",
+      "gender": "F",
+      "party": "ODS",
+      "district": "Prague 1",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Hana Kordová Marvanová",
+      "gender": "F",
+      "party": "STAN",
+      "district": "Prague 1",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Jan Sobotka",
+      "gender": "M",
+      "party": "STAN",
+      "district": "Trutnov",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Zdeněk Hraba",
+      "gender": "M",
+      "party": "STAN",
+      "district": "Prague-East",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Alena Dernerová",
+      "gender": "F",
+      "party": "IND",
+      "district": "Most",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Adéla Šípová",
+      "gender": "F",
+      "party": "PIR",
+      "district": "Kladno",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "Lukáš Wagenknecht",
+      "gender": "M",
+      "party": "PIR",
+      "district": "Prague 8",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    },
+    {
+      "name": "David Smoljak",
+      "gender": "M",
+      "party": "STAN",
+      "district": "Prague 9",
+      "role": "Senator",
+      "salary": { "gross": 75000, "net": 50000 },
+      "sources": [
+        { "Senát Parlamentu České republiky": "https://www.senat.cz/senatori/index.php?lng=en" }
+      ]
+    }
+  ],
+  "parties": {
+    "ODS": {
+      "name": "Občanská demokratická strana",
+      "en": "Civic Democratic Party",
+      "range": 4,
+      "color": "#0054a6"
+    },
+    "STAN": {
+      "name": "Starostové a nezávislí",
+      "en": "Mayors and Independents",
+      "range": 3,
+      "color": "#00a2e1"
+    },
+    "PIR": {
+      "name": "Česká pirátská strana",
+      "en": "Czech Pirate Party",
+      "range": 2,
+      "color": "#000000"
+    },
+    "TOP09": {
+      "name": "Tradice Odpovědnost Prosperita 09",
+      "en": "Tradition Responsibility Prosperity 09",
+      "range": 4,
+      "color": "#e4002b"
+    },
+    "KDU": {
+      "name": "Křesťanská a demokratická unie – Československá strana lidová",
+      "en": "Christian and Democratic Union – Czechoslovak People's Party",
+      "range": 3,
+      "color": "#ffd800"
+    },
+    "ANO": {
+      "name": "Akce nespokojených občanů 2011",
+      "en": "YES 2011",
+      "range": 3,
+      "color": "#253270"
+    },
+    "SPD": {
+      "name": "Svoboda a přímá demokracie",
+      "en": "Freedom and Direct Democracy",
+      "range": 2,
+      "color": "#00529b"
+    },
+    "IND": {
+      "name": "Nezávislý",
+      "en": "Independent",
+      "range": 3,
+      "color": "#808080"
+    }
+  }
+}

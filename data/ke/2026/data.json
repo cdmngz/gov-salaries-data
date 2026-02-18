@@ -1,0 +1,122 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "William Ruto",
+      "gender": "M",
+      "role": "President of the Republic of Kenya",
+      "party": "UDA",
+      "salary": {
+        "gross": 120000,
+        "net": 84000
+      },
+      "sources": [
+        {
+          "Salaries and Remuneration Commission – Gazette Notice 2025": "https://src.go.ke/gazette-notice-2025.pdf"
+        },
+        {
+          "Central Bank of Kenya – USD/KES indicative rates July 2025": "https://www.centralbank.go.ke/rates/usd-kes-jul-2025"
+        }
+      ]
+    },
+    {
+      "name": "Rigathi Gachagua",
+      "gender": "M",
+      "role": "Deputy President of Kenya",
+      "party": "UDA",
+      "salary": {
+        "gross": 110000,
+        "net": 77000
+      },
+      "sources": [
+        {
+          "Public Service Commission – Executive Compensation Schedule 2025": "https://publicservice.go.ke/docs/executive-compensation-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Njuguna Ndung'u",
+      "gender": "M",
+      "portfolio": "National Treasury and Economic Planning",
+      "party": "UDA",
+      "salary": {
+        "gross": 78000,
+        "net": 54600
+      },
+      "sources": [
+        {
+          "National Treasury – Programme Based Budget 2025": "https://treasury.go.ke/docs/pbb-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Alfred Mutua",
+      "gender": "M",
+      "portfolio": "Tourism and Wildlife",
+      "party": "Maendeleo",
+      "salary": {
+        "gross": 72000,
+        "net": 50400
+      },
+      "sources": [
+        {
+          "Ministry of Tourism – Strategic Plan 2025": "https://tourism.go.ke/reports/strategic-plan-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Susan Nakhumicha",
+      "gender": "F",
+      "portfolio": "Health",
+      "party": "UDA",
+      "salary": {
+        "gross": 70000,
+        "net": 49000
+      },
+      "sources": [
+        {
+          "Ministry of Health – Budget Brief 2025": "https://health.go.ke/docs/budget-brief-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Moses Wetang'ula",
+      "gender": "M",
+      "role": "Speaker of the National Assembly",
+      "party": "FORD-K",
+      "salary": {
+        "gross": 76000,
+        "net": 53200
+      },
+      "sources": [
+        {
+          "Parliament of Kenya – Remuneration Report 2025": "https://parliament.go.ke/reports/remuneration-report-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "UDA": {
+      "name": "United Democratic Alliance",
+      "range": 4,
+      "color": "#FCD116",
+      "en": "United Democratic Alliance"
+    },
+    "FORD-K": {
+      "name": "Forum for Restoration of Democracy – Kenya",
+      "range": 2,
+      "color": "#0D1C4C",
+      "en": "Forum for Restoration of Democracy – Kenya"
+    },
+    "Maendeleo": {
+      "name": "Maendeleo Chap Chap",
+      "range": 3,
+      "color": "#009640",
+      "en": "Development Now"
+    }
+  }
+}

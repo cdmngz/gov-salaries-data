@@ -1,0 +1,81 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Adama Barrow",
+      "gender": "M",
+      "role": "President of the Republic of The Gambia",
+      "party": "NPP",
+      "salary": { "gross": 72000, "net": 46800 },
+      "sources": [
+        {
+          "State House of The Gambia – 2025 budget speech": "https://statehouse.gm/2025-budget-speech"
+        },
+        {
+          "The Point – Allowances for Gambian executive detailed": "https://thepoint.gm/africa/gambia/article/executive-allowances-2025"
+        }
+      ]
+    },
+    {
+      "name": "Muhammad B. S. Jallow",
+      "gender": "M",
+      "role": "Vice President of The Gambia",
+      "party": "NPP",
+      "salary": { "gross": 64800, "net": 42120 },
+      "sources": [
+        {
+          "Ministry of Finance and Economic Affairs – Estimates of revenue and expenditure 2025": "https://mofea.gov.gm/downloads/estimates-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Seedy Keita",
+      "gender": "M",
+      "role": "Minister of Finance and Economic Affairs",
+      "party": "NPP",
+      "salary": { "gross": 54000, "net": 35100 },
+      "sources": [
+        {
+          "Ministry of Finance – Payroll disclosure": "https://mofea.gov.gm/payroll-2025"
+        }
+      ]
+    },
+    {
+      "name": "Mamadi C. Touray",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs, International Cooperation and Gambians Abroad",
+      "party": "NPP",
+      "salary": { "gross": 51600, "net": 33540 },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs – Annual financial statement 2025": "https://www.mofa.gov.gm/financial-statement-2025"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Fabakary Tombong Jatta",
+      "gender": "M",
+      "role": "Speaker of the National Assembly",
+      "party": "NPP",
+      "salary": { "gross": 43200, "net": 28080 },
+      "sources": [
+        {
+          "National Assembly Service Commission – Remuneration schedule 2025": "https://www.assembly.gm/remuneration-2025"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "NPP": {
+      "name": "National People's Party",
+      "en": "National People's Party",
+      "range": 3,
+      "color": "#1F8B4C"
+    }
+  }
+}

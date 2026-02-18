@@ -1,0 +1,108 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Rodrigo Chaves Robles",
+      "gender": "M",
+      "role": "President of the Republic of Costa Rica",
+      "party": "PPSD",
+      "salary": {
+        "gross": 125394.29
+      },
+      "sources": [
+        {
+          "Casa Presidencial - Planilla enero 2024": "https://www.presidencia.go.cr/planilla/"
+        },
+        {
+          "Banco Central de Costa Rica - Tipo de cambio promedio 2024": "https://www.bccr.fi.cr/indicadores-economicos"
+        }
+      ]
+    },
+    {
+      "name": "Mary Munive Angermüller",
+      "gender": "F",
+      "role": "Vice President of the Republic of Costa Rica",
+      "party": "PPSD",
+      "salary": {
+        "gross": 108114.29
+      },
+      "sources": [
+        {
+          "Casa Presidencial - Planilla enero 2024": "https://www.presidencia.go.cr/planilla/"
+        },
+        {
+          "Banco Central de Costa Rica - Tipo de cambio promedio 2024": "https://www.bccr.fi.cr/indicadores-economicos"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Nogui Acosta Jaén",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "IND",
+      "salary": {
+        "gross": 93851.43
+      },
+      "sources": [
+        {
+          "Casa Presidencial - Planilla enero 2024": "https://www.presidencia.go.cr/planilla/"
+        },
+        {
+          "Banco Central de Costa Rica - Tipo de cambio promedio 2024": "https://www.bccr.fi.cr/indicadores-economicos"
+        }
+      ]
+    },
+    {
+      "name": "Mario Zamora Cordero",
+      "gender": "M",
+      "role": "Minister of Public Security",
+      "party": "IND",
+      "salary": {
+        "gross": 93851.43
+      },
+      "sources": [
+        {
+          "Casa Presidencial - Planilla enero 2024": "https://www.presidencia.go.cr/planilla/"
+        },
+        {
+          "Banco Central de Costa Rica - Tipo de cambio promedio 2024": "https://www.bccr.fi.cr/indicadores-economicos"
+        }
+      ]
+    },
+    {
+      "name": "Anna Katharina Müller Castro",
+      "gender": "F",
+      "role": "Minister of Public Education",
+      "party": "IND",
+      "salary": {
+        "gross": 93851.43
+      },
+      "sources": [
+        {
+          "Casa Presidencial - Planilla enero 2024": "https://www.presidencia.go.cr/planilla/"
+        },
+        {
+          "Banco Central de Costa Rica - Tipo de cambio promedio 2024": "https://www.bccr.fi.cr/indicadores-economicos"
+        }
+      ]
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "PPSD": {
+      "name": "Partido Progreso Social Democrático",
+      "en": "Social Democratic Progress Party",
+      "range": 2,
+      "color": "#0057B8"
+    },
+    "IND": {
+      "name": "Independiente",
+      "en": "Independent",
+      "range": 3,
+      "color": "#9E9E9E"
+    }
+  }
+}

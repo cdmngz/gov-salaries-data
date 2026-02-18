@@ -1,0 +1,379 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Patrick Allen",
+      "gender": "M",
+      "role": "Governor-General",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Andrew Holness",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Horace Chang",
+      "gender": "M",
+      "portfolio": "Deputy Prime Minister and Minister of National Security",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nigel Clarke",
+      "gender": "M",
+      "portfolio": "Minister of Finance and the Public Service",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kamina Johnson Smith",
+      "gender": "F",
+      "portfolio": "Minister of Foreign Affairs and Foreign Trade",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Christopher Tufton",
+      "gender": "M",
+      "portfolio": "Minister of Health and Wellness",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Fayval Williams",
+      "gender": "F",
+      "portfolio": "Minister of Education and Youth",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Desmond McKenzie",
+      "gender": "M",
+      "portfolio": "Minister of Local Government and Rural Development",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Edmund Bartlett",
+      "gender": "M",
+      "portfolio": "Minister of Tourism",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Floyd Green",
+      "gender": "M",
+      "portfolio": "Minister of Agriculture, Fisheries and Mining",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Daryl Vaz",
+      "gender": "M",
+      "portfolio": "Minister of Science, Energy, Telecommunications and Transport",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Olivia Grange",
+      "gender": "F",
+      "portfolio": "Minister of Culture, Gender, Entertainment and Sport",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Pearnel Charles Jr.",
+      "gender": "M",
+      "portfolio": "Minister of Labour and Social Security",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Everald Warmington",
+      "gender": "M",
+      "portfolio": "Minister without Portfolio (Works), Office of the Prime Minister",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Matthew Samuda",
+      "gender": "M",
+      "portfolio": "Minister without Portfolio (Environment and Climate Change), Office of the Prime Minister",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dana Morris Dixon",
+      "gender": "F",
+      "portfolio": "Minister without Portfolio (Skills and Digital Transformation), Office of the Prime Minister",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Robert Morgan",
+      "gender": "M",
+      "portfolio": "Minister without Portfolio (Information), Office of the Prime Minister",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Andrew Holness",
+      "gender": "M",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Juliet Holness",
+      "gender": "F",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Horace Chang",
+      "gender": "M",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Everald Warmington",
+      "gender": "M",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Marisa Dalrymple-Philibert",
+      "gender": "F",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Edmund Bartlett",
+      "gender": "M",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Desmond McKenzie",
+      "gender": "M",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Daryl Vaz",
+      "gender": "M",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Floyd Green",
+      "gender": "M",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Fayval Williams",
+      "gender": "F",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Karl Samuda",
+      "gender": "M",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Audley Shaw",
+      "gender": "M",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mark Golding",
+      "gender": "M",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Julian Robinson",
+      "gender": "M",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Phillip Paulwell",
+      "gender": "M",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Angela Brown Burke",
+      "gender": "F",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Mikael Phillips",
+      "gender": "M",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Denise Daley",
+      "gender": "F",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Peter Bunting",
+      "gender": "M",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lisa Hanna",
+      "gender": "F",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Tom Tavares-Finson",
+      "gender": "M",
+      "role": "President of the Senate",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Charles Sinclair",
+      "gender": "M",
+      "role": "Deputy President of the Senate",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kamina Johnson Smith",
+      "gender": "F",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Matthew Samuda",
+      "gender": "M",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Aubyn Hill",
+      "gender": "M",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dana Morris Dixon",
+      "gender": "F",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kavan Gayle",
+      "gender": "M",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Sherene Golding Campbell",
+      "gender": "F",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Saphire Longmore",
+      "gender": "F",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Abka Fitz-Henley",
+      "gender": "M",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ransford Braham",
+      "gender": "M",
+      "party": "JLP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Donna Scott-Mottley",
+      "gender": "F",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Peter Bunting",
+      "gender": "M",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lambert Brown",
+      "gender": "M",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Floyd Morris",
+      "gender": "M",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Janice Allen",
+      "gender": "F",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gabriela Morris",
+      "gender": "F",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Damion Crawford",
+      "gender": "M",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Sophia Frazer-Binns",
+      "gender": "F",
+      "party": "PNP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "parties": {
+    "JLP": {
+      "name": "Jamaica Labour Party",
+      "en": "Jamaica Labour Party",
+      "range": 4,
+      "color": "#009B3A"
+    },
+    "PNP": {
+      "name": "People's National Party",
+      "en": "People's National Party",
+      "range": 2,
+      "color": "#F26F21"
+    }
+  }
+}
