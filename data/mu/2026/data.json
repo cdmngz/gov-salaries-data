@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Pravind Kumar Jugnauth",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "MSM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Prithvirajsing Roopun",
+      "gender": "M",
+      "role": "President of Mauritius",
+      "party": "MSM",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Alan Ganoo",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs, Regional Integration and International Trade",
+      "party": "MSM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Renganaden Padayachy",
+      "gender": "M",
+      "role": "Minister of Finance, Economic Planning and Development",
+      "party": "MSM",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Leela Devi Dookun-Luchoomun",
+      "gender": "F",
+      "role": "Minister of Education, Tertiary Education, Science and Technology",
+      "party": "MSM",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "MSM": {
+      "name": "Mouvement Socialiste Militant",
+      "en": "Militant Socialist Movement",
+      "range": 4,
+      "color": "#F6A800"
+    }
+  }
+}

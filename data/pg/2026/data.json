@@ -1,0 +1,59 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "James Marape",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "PANGU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Bob Dadae",
+      "gender": "M",
+      "role": "Governor-General",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Justin Tkatchenko",
+      "gender": "M",
+      "role": "Minister for Foreign Affairs",
+      "party": "PANGU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Win Bakri Daki",
+      "gender": "M",
+      "role": "Minister for Defence",
+      "party": "PANGU",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Rainbo Paita",
+      "gender": "M",
+      "role": "Minister for Finance and Implementation",
+      "party": "PANGU",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "PANGU": {
+      "name": "Pangu Pati",
+      "en": "Pangu Party",
+      "range": 3,
+      "color": "#F7A600"
+    },
+    "IND": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 3,
+      "color": "#767676"
+    }
+  }
+}

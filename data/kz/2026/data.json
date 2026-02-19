@@ -1,0 +1,146 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Kassym-Jomart Tokayev",
+      "gender": "M",
+      "role": "President of the Republic of Kazakhstan",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Olzhas Bektenov",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "AMN",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Murat Nurtleu",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Foreign Affairs",
+      "party": "AMN",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ruslan Zhaksylykov",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "AMN",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Madi Takiyev",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "AMN",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nurlan Baibazarov",
+      "gender": "M",
+      "role": "Minister of National Economy",
+      "party": "AMN",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Bagdat Musin",
+      "gender": "M",
+      "role": "Minister of Digital Development, Innovations and Aerospace Industry",
+      "party": "AMN",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Tamara Duissenova",
+      "gender": "F",
+      "role": "Minister of Labour and Social Protection of the Population",
+      "party": "AMN",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Erlan Koshanov",
+      "gender": "M",
+      "party": "AMN",
+      "district": "Karaganda Region",
+      "role": "Chairman of the Mazhilis",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Azat Peruashev",
+      "gender": "M",
+      "party": "AKZ",
+      "district": "Astana",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Aidos Sarym",
+      "gender": "M",
+      "party": "AMN",
+      "district": "Almaty",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Zhambyl Akhmetbekov",
+      "gender": "M",
+      "party": "KNP",
+      "district": "Kostanay Region",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Maulen Ashimbayev",
+      "gender": "M",
+      "party": "IND",
+      "district": "Astana",
+      "role": "Chairman of the Senate",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Olga Perepechina",
+      "gender": "F",
+      "party": "IND",
+      "district": "North Kazakhstan Region",
+      "role": "Deputy Chair of the Senate",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Zhakip Asanov",
+      "gender": "M",
+      "party": "IND",
+      "district": "Atyrau Region",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "officials": [],
+  "parties": {
+    "AMN": {
+      "name": "Amanat",
+      "en": "Amanat",
+      "range": 3,
+      "color": "#00AEEF"
+    },
+    "AKZ": {
+      "name": "Ақ жол",
+      "en": "Ak Zhol Democratic Party",
+      "range": 3,
+      "color": "#4BB4E6"
+    },
+    "KNP": {
+      "name": "Коммунистік халық партиясы",
+      "en": "People's Party of Kazakhstan",
+      "range": 3,
+      "color": "#CC0000"
+    },
+    "IND": {
+      "name": "Тәуелсіз",
+      "en": "Independent",
+      "range": 3,
+      "color": "#808080"
+    }
+  }
+}

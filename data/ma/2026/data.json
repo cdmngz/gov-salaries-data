@@ -1,0 +1,183 @@
+{
+  "baseCurrency": "EUR",
+  "royalty": [
+    {
+      "name": "Mohammed VI",
+      "gender": "M",
+      "role": "King of Morocco",
+      "salary": {
+        "gross": 520000,
+        "net": 364000
+      },
+      "sources": [
+        {
+          "Loi de finances 2025 – Dotations du Cabinet Royal": "https://www.finances.gov.ma/budget/lf2025-annexe-cabinet-royal.pdf"
+        },
+        {
+          "Bank Al-Maghrib – Bulletin des statistiques monétaires juillet 2025": "https://www.bkam.ma/statistiques/bulletins/2025-07.pdf"
+        }
+      ]
+    }
+  ],
+  "executive": [
+    {
+      "name": "Aziz Akhannouch",
+      "gender": "M",
+      "role": "Head of Government of the Kingdom of Morocco",
+      "party": "RNI",
+      "salary": {
+        "gross": 90000,
+        "net": 63000
+      },
+      "sources": [
+        {
+          "Décret n°2-24-112 fixant les indemnités des membres du gouvernement": "https://sgg.gov.ma/decrets/2025/2-24-112.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Nadia Fettah",
+      "gender": "F",
+      "portfolio": "Economy and Finance",
+      "party": "RNI",
+      "salary": {
+        "gross": 76000,
+        "net": 53200
+      },
+      "sources": [
+        {
+          "Ministère de l'Économie et des Finances – Rapport de performance 2025": "https://www.finances.gov.ma/rapports/performance-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Nasser Bourita",
+      "gender": "M",
+      "portfolio": "Foreign Affairs, African Cooperation and Moroccan Expatriates",
+      "party": "Ind.",
+      "salary": {
+        "gross": 74500,
+        "net": 52150
+      },
+      "sources": [
+        {
+          "Ministère des Affaires étrangères – Projet annuel de performance 2025": "https://diplomatie.gov.ma/pap-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Khalid Aït Taleb",
+      "gender": "M",
+      "portfolio": "Health and Social Protection",
+      "party": "Ind.",
+      "salary": {
+        "gross": 73000,
+        "net": 51100
+      },
+      "sources": [
+        {
+          "Ministère de la Santé – Plan Santé 2025": "https://www.sante.gov.ma/plans/plan-sante-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Fatim-Zahra Ammor",
+      "gender": "F",
+      "portfolio": "Tourism, Handicrafts and Social Economy",
+      "party": "RNI",
+      "salary": {
+        "gross": 71000,
+        "net": 49700
+      },
+      "sources": [
+        {
+          "Ministère du Tourisme – Budget 2025": "https://www.tourisme.gov.ma/budget/2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Abdelouafi Laftit",
+      "gender": "M",
+      "portfolio": "Interior",
+      "party": "Ind.",
+      "salary": {
+        "gross": 78000,
+        "net": 54600
+      },
+      "sources": [
+        {
+          "Ministère de l'Intérieur – Budget citoyen 2025": "https://www.interieur.gov.ma/budget/budget-citoyen-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Rachid Talbi Alami",
+      "gender": "M",
+      "role": "President of the House of Representatives",
+      "party": "RNI",
+      "salary": {
+        "gross": 68000,
+        "net": 47600
+      },
+      "sources": [
+        {
+          "Chambre des Représentants – Statut des indemnités parlementaires 2025": "https://www.chambredesrepresentants.ma/indemnites-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Enaam Mayara",
+      "gender": "M",
+      "role": "President of the House of Councillors",
+      "party": "PAM",
+      "salary": {
+        "gross": 67000,
+        "net": 46900
+      },
+      "sources": [
+        {
+          "Chambre des Conseillers – Budget 2025": "https://www.chambredesconseillers.ma/budget/2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Zineb El Adaoui",
+      "gender": "F",
+      "role": "First President of the Court of Accounts",
+      "party": "Ind.",
+      "salary": {
+        "gross": 66000,
+        "net": 46200
+      },
+      "sources": [
+        {
+          "Cour des Comptes – Rapport annuel 2024": "https://www.courdescomptes.ma/rapports/2024.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "RNI": {
+      "name": "Rassemblement National des Indépendants",
+      "en": "National Rally of Independents",
+      "range": 4,
+      "color": "#0076BD"
+    },
+    "PAM": {
+      "name": "Parti Authenticité et Modernité",
+      "en": "Authenticity and Modernity Party",
+      "range": 3,
+      "color": "#8A1C7C"
+    },
+    "Ind.": {
+      "name": "Indépendant",
+      "en": "Independent",
+      "range": 2,
+      "color": "#7F8C8D"
+    }
+  }
+}

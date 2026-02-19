@@ -1,0 +1,170 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Andry Nirina Rajoelina",
+      "gender": "M",
+      "role": "President of the Republic of Madagascar",
+      "party": "TGV",
+      "salary": {
+        "gross": 42000,
+        "net": 30240
+      },
+      "sources": [
+        {
+          "Loi de finances 2025 – Annexes sur les rémunérations de la Présidence": "https://www.mef.gov.mg/docs/loi-finances-2025-annexes.pdf"
+        },
+        {
+          "Banque Centrale de Madagascar – Taux de change USD/MGA (2 janvier 2025)": "https://www.banque-centrale.mg/taux-de-change"
+        }
+      ]
+    },
+    {
+      "name": "Christian Louis Ntsay",
+      "gender": "M",
+      "role": "Prime Minister of Madagascar",
+      "party": "Ind.",
+      "salary": {
+        "gross": 36000,
+        "net": 25920
+      },
+      "sources": [
+        {
+          "Primature de Madagascar – Budget 2025": "https://primature.gov.mg/budget-2025.pdf"
+        },
+        {
+          "Banque Centrale de Madagascar – Taux de change USD/MGA (2 janvier 2025)": "https://www.banque-centrale.mg/taux-de-change"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Rindra Hasimbelo Rabarinirinarison",
+      "gender": "F",
+      "portfolio": "Economy and Finance",
+      "party": "IRD",
+      "salary": {
+        "gross": 31000,
+        "net": 22320
+      },
+      "sources": [
+        {
+          "Ministère de l'Économie et des Finances – Rapport de performance 2024-2025": "https://www.mef.gov.mg/docs/rapport-performance-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Yvette Sylla",
+      "gender": "F",
+      "portfolio": "Foreign Affairs",
+      "party": "IRD",
+      "salary": {
+        "gross": 29500,
+        "net": 21240
+      },
+      "sources": [
+        {
+          "Ministère des Affaires étrangères – Projet annuel de performance 2025": "https://diplomatie.gov.mg/docs/pap-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Justin Tokely",
+      "gender": "M",
+      "portfolio": "Interior and Decentralization",
+      "party": "IRD",
+      "salary": {
+        "gross": 28800,
+        "net": 20736
+      },
+      "sources": [
+        {
+          "Ministère de l'Intérieur – Budget citoyen 2025": "https://interieur.gov.mg/docs/budget-citoyen-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Zely Arivelo Randriamanantany",
+      "gender": "M",
+      "portfolio": "Public Health",
+      "party": "IRD",
+      "salary": {
+        "gross": 28000,
+        "net": 20160
+      },
+      "sources": [
+        {
+          "Ministère de la Santé Publique – Plan de travail annuel 2025": "https://sante.gov.mg/docs/pta-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Christine Razanamahasoa",
+      "gender": "F",
+      "role": "President of the National Assembly",
+      "party": "IRD",
+      "salary": {
+        "gross": 25000,
+        "net": 18000
+      },
+      "sources": [
+        {
+          "Assemblée Nationale – Règlement intérieur 2025": "https://assemblee-nationale.mg/docs/reglement-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Herimanana Razafimahefa",
+      "gender": "M",
+      "role": "President of the Senate",
+      "party": "IRD",
+      "salary": {
+        "gross": 24000,
+        "net": 17280
+      },
+      "sources": [
+        {
+          "Sénat de Madagascar – Budget 2025": "https://senat.mg/docs/budget-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Jean de Dieu Rakotomavo",
+      "gender": "M",
+      "role": "President of the Court of Accounts",
+      "party": "Ind.",
+      "salary": {
+        "gross": 23000,
+        "net": 16560
+      },
+      "sources": [
+        {
+          "Cour des Comptes – Rapport annuel 2024": "https://courdescomptes.mg/docs/rapport-2024.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "TGV": {
+      "name": "Tanora malaGasy Vonona",
+      "en": "Young Malagasies Determined",
+      "range": 4,
+      "color": "#FF6F00"
+    },
+    "IRD": {
+      "name": "Isika Rehetra miaraka amin'i Andry Rajoelina",
+      "en": "All of Us with Andry Rajoelina",
+      "range": 3,
+      "color": "#D35400"
+    },
+    "Ind.": {
+      "name": "Indépendant",
+      "en": "Independent",
+      "range": 2,
+      "color": "#7F8C8D"
+    }
+  }
+}

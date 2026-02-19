@@ -1,0 +1,79 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Jakov Milatović",
+      "gender": "M",
+      "role": "President of Montenegro",
+      "party": "PES",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Milojko Spajić",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "PES",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Aleksa Bečić",
+      "gender": "M",
+      "role": "Deputy Prime Minister for Security and Interior",
+      "party": "DCG",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dragan Krapović",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "DCG",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Novica Vuković",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "PES",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Danilo Šaranović",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "DCG",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Saša Mujović",
+      "gender": "M",
+      "role": "Minister of Energy and Mining",
+      "party": "PES",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Tamara Vujović",
+      "gender": "F",
+      "role": "Minister of Culture and Media",
+      "party": "DCG",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "PES": {
+      "name": "Pokret Evropa sad!",
+      "en": "Europe Now! Movement",
+      "range": 3,
+      "color": "#1F8BFF"
+    },
+    "DCG": {
+      "name": "Demokratska Crna Gora",
+      "en": "Democrats of Montenegro",
+      "range": 4,
+      "color": "#003E7E"
+    }
+  }
+}

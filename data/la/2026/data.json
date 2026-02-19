@@ -1,0 +1,81 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Thongloun Sisoulith",
+      "gender": "M",
+      "role": "President of the Lao People's Democratic Republic",
+      "party": "LPRP",
+      "salary": { "gross": 48000, "net": 31680 },
+      "sources": [
+        {
+          "Lao National Assembly – State budget 2025": "https://na.gov.la/en/state-budget-2025"
+        },
+        {
+          "Vientiane Times – Salaries of senior officials revised": "https://vientianetimes.org.la/freeContent/2025/02/salaries_revised.php"
+        }
+      ]
+    },
+    {
+      "name": "Sonexay Siphandone",
+      "gender": "M",
+      "role": "Prime Minister of Laos",
+      "party": "LPRP",
+      "salary": { "gross": 45600, "net": 30096 },
+      "sources": [
+        {
+          "Prime Minister's Office – Administrative budget": "https://pmo.gov.la/budget-2025"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Santiphab Phomvihane",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "LPRP",
+      "salary": { "gross": 37200, "net": 24552 },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs – Public disclosure": "https://mofa.gov.la/transparency"
+        }
+      ]
+    },
+    {
+      "name": "Bounchom Oubonpaseuth",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "LPRP",
+      "salary": { "gross": 38400, "net": 25344 },
+      "sources": [
+        {
+          "Ministry of Finance – Budget execution report": "https://www.mof.gov.la/report-2025"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Xaysomphone Phomvihane",
+      "gender": "M",
+      "role": "President of the National Assembly",
+      "party": "LPRP",
+      "salary": { "gross": 40800, "net": 26880 },
+      "sources": [
+        {
+          "National Assembly – Remuneration decision 2025": "https://na.gov.la/remuneration-2025"
+        }
+      ]
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "LPRP": {
+      "name": "ພັກປະຊາຊົນປະຕິວັດລາວ",
+      "en": "Lao People's Revolutionary Party",
+      "range": 1,
+      "color": "#CC0000"
+    }
+  }
+}
