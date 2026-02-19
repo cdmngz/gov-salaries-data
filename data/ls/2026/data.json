@@ -1,0 +1,59 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Sam Matekane",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "RFP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nthomeng Majara",
+      "gender": "F",
+      "role": "Deputy Prime Minister",
+      "party": "RFP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Lejone Mpotjoane",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs and International Relations",
+      "party": "RFP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Halebonoe James Setsabi",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "RFP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Selibe Mochoboroane",
+      "gender": "M",
+      "role": "Minister of Energy and Meteorology",
+      "party": "MEC",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "RFP": {
+      "name": "Revolution for Prosperity",
+      "en": "Revolution for Prosperity",
+      "range": 3,
+      "color": "#005AA7"
+    },
+    "MEC": {
+      "name": "Movement for Economic Change",
+      "en": "Movement for Economic Change",
+      "range": 2,
+      "color": "#F5A623"
+    }
+  }
+}

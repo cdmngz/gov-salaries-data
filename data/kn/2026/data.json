@@ -1,0 +1,179 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Marcella Liburd",
+      "gender": "F",
+      "role": "Governor-General of Saint Kitts and Nevis",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Terrance Drew",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "SKNLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Terrance Drew",
+      "gender": "M",
+      "role": "Prime Minister and Minister of Finance, National Security, Citizenship and Immigration, Health and Social Security",
+      "party": "SKNLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Geoffrey Hanley",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister of Education, Youth, Social Development, Gender Affairs, Ageing and Disabilities",
+      "party": "SKNLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Denzil Douglas",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs, Economic Development, International Trade, Investment, Industry and Commerce",
+      "party": "SKNLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Konris Maynard",
+      "gender": "M",
+      "role": "Minister of Public Infrastructure and Utilities, Transport, Information and Communication Technology and Posts",
+      "party": "SKNLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Marsha Henderson",
+      "gender": "F",
+      "role": "Minister of Tourism, Civil Aviation and Urban Development",
+      "party": "SKNLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Garth Wilkin",
+      "gender": "M",
+      "role": "Attorney General and Minister of Justice and Legal Affairs",
+      "party": "SKNLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Samal Duggins",
+      "gender": "M",
+      "role": "Minister of Agriculture, Marine Resources, Fisheries and Cooperatives, Small Business and Entrepreneurship, Sports and the Creative Economy",
+      "party": "SKNLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Joyelle Clarke",
+      "gender": "F",
+      "role": "Minister of Sustainable Development, Environment, Climate Action and Constituency Empowerment",
+      "party": "SKNLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Isalean Phillip",
+      "gender": "F",
+      "role": "Minister of State for Social Development, Gender Affairs, Ageing and Disabilities and Youth Empowerment",
+      "party": "SKNLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [],
+  "senate": [
+    {
+      "name": "Garth Wilkin",
+      "gender": "M",
+      "role": "Attorney General and Senator",
+      "party": "SKNLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Joyelle Clarke",
+      "gender": "F",
+      "role": "Senator and Minister of Sustainable Development",
+      "party": "SKNLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Isalean Phillip",
+      "gender": "F",
+      "role": "Deputy Speaker and Government Senator",
+      "party": "SKNLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Latoya Jones",
+      "gender": "F",
+      "role": "Opposition Senator",
+      "party": "PAM",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "parties": {
+    "SKNLP": {
+      "name": "St Kitts and Nevis Labour Party",
+      "en": "St Kitts and Nevis Labour Party",
+      "range": 2,
+      "color": "#D22730"
+    },
+    "PAM": {
+      "name": "People's Action Movement",
+      "en": "People's Action Movement",
+      "range": 4,
+      "color": "#FFCC00"
+    },
+    "CCM": {
+      "name": "Concerned Citizens' Movement",
+      "en": "Concerned Citizens' Movement",
+      "range": 3,
+      "color": "#2E8B57"
+    }
+  }
+}

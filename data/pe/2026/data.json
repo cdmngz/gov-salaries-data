@@ -1,0 +1,271 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Dina Ercilia Boluarte Zegarra",
+      "gender": "F",
+      "role": "President of the Republic of Peru",
+      "party": "IND",
+      "salary": { "gross": 108000, "net": 75600 }
+    },
+    {
+      "name": "Gustavo Adrianzén Olaya",
+      "gender": "M",
+      "role": "President of the Council of Ministers",
+      "party": "IND",
+      "salary": { "gross": 98000, "net": 68600 }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "José Arista Arbildo",
+      "gender": "M",
+      "role": "Minister of Economy and Finance",
+      "party": "IND",
+      "salary": {
+        "gross": 92000,
+        "net": 64400
+      },
+      "budget": 6450000000
+    },
+    {
+      "name": "Javier González-Olaechea Franco",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "IND",
+      "salary": {
+        "gross": 90000,
+        "net": 63000
+      },
+      "budget": 1150000000
+    },
+    {
+      "name": "Walter Enrique Astudillo Chávez",
+      "gender": "M",
+      "role": "Minister of Defense",
+      "party": "IND",
+      "salary": {
+        "gross": 90000,
+        "net": 63000
+      },
+      "budget": 2700000000
+    },
+    {
+      "name": "Víctor Manuel Torres Falcón",
+      "gender": "M",
+      "role": "Minister of the Interior",
+      "party": "IND",
+      "salary": {
+        "gross": 90000,
+        "net": 63000
+      },
+      "budget": 2100000000
+    },
+    {
+      "name": "Eduardo Melchor Arana Ysa",
+      "gender": "M",
+      "role": "Minister of Justice and Human Rights",
+      "party": "IND",
+      "salary": {
+        "gross": 88000,
+        "net": 61600
+      },
+      "budget": 620000000
+    },
+    {
+      "name": "Miriam Janette Ponce Vértiz",
+      "gender": "F",
+      "role": "Minister of Education",
+      "party": "IND",
+      "salary": {
+        "gross": 88000,
+        "net": 61600
+      },
+      "budget": 3600000000
+    },
+    {
+      "name": "Jennifer Lizetti Contreras Álvarez",
+      "gender": "F",
+      "role": "Minister of Agrarian Development and Irrigation",
+      "party": "IND",
+      "salary": {
+        "gross": 88000,
+        "net": 61600
+      },
+      "budget": 1450000000
+    },
+    {
+      "name": "Rómulo Mucho Mamani",
+      "gender": "M",
+      "role": "Minister of Energy and Mines",
+      "party": "IND",
+      "salary": {
+        "gross": 88000,
+        "net": 61600
+      },
+      "budget": 1850000000
+    },
+    {
+      "name": "Julio Demartini Montes",
+      "gender": "M",
+      "role": "Minister of Development and Social Inclusion",
+      "party": "IND",
+      "salary": {
+        "gross": 87000,
+        "net": 60900
+      },
+      "budget": 1980000000
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Alejandro Soto Reyes",
+      "gender": "M",
+      "district": "Cusco",
+      "party": "APP",
+      "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "Waldemar José Cerrón Rojas",
+      "gender": "M",
+      "district": "Junín",
+      "party": "PL",
+      "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "Patricia Juárez Gallegos",
+      "gender": "F",
+      "district": "Lima",
+      "party": "FP",
+      "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "José Williams Zapata",
+      "gender": "M",
+      "district": "Lima",
+      "party": "RP",
+      "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "Ruth Luque Ibarra",
+      "gender": "F",
+      "district": "Cusco",
+      "party": "CD",
+      "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "Adriana Tudela Gutiérrez",
+      "gender": "F",
+      "district": "Lima",
+      "party": "AvP",
+      "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "Luis Ángel Aragón Carreño",
+      "gender": "M",
+      "district": "Cusco",
+      "party": "AP",
+      "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "Lady Camones Soriano",
+      "gender": "F",
+      "district": "Áncash",
+      "party": "APP",
+      "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "Guido Bellido Ugarte",
+      "gender": "M",
+      "district": "Cusco",
+      "party": "PL",
+      "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "Héctor Valer Pinto",
+      "gender": "M",
+      "district": "Lima",
+      "party": "IND",
+      "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "Flor Pablo Medina",
+      "gender": "F",
+      "district": "Lima",
+      "party": "CD",
+      "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "Norma Yarrow Lumbreras",
+      "gender": "F",
+      "district": "Lima",
+      "party": "AvP",
+      "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "Kelly Portalatino Ávalos",
+      "gender": "F",
+      "district": "Lima",
+      "party": "PL",
+      "salary": { "gross": 64000, "net": 44800 }
+    },
+    {
+      "name": "Edward Málaga Trillo",
+      "gender": "M",
+      "district": "Lima",
+      "party": "IND",
+      "salary": { "gross": 64000, "net": 44800 }
+    }
+  ],
+  "senate": [],
+  "parties": {
+    "APP": {
+      "name": "Alianza para el Progreso",
+      "en": "Alliance for Progress",
+      "range": 3,
+      "color": "#0073CF"
+    },
+    "PL": {
+      "name": "Perú Libre",
+      "en": "Free Peru",
+      "range": 1,
+      "color": "#E53935"
+    },
+    "FP": {
+      "name": "Fuerza Popular",
+      "en": "Popular Force",
+      "range": 4,
+      "color": "#FF7F00"
+    },
+    "RP": {
+      "name": "Renovación Popular",
+      "en": "Popular Renewal",
+      "range": 5,
+      "color": "#003F87"
+    },
+    "AP": {
+      "name": "Acción Popular",
+      "en": "Popular Action",
+      "range": 2,
+      "color": "#FFD700"
+    },
+    "AvP": {
+      "name": "Avanza País",
+      "en": "Forward Country",
+      "range": 3,
+      "color": "#009688"
+    },
+    "CD": {
+      "name": "Cambio Democrático - Juntos por el Perú",
+      "en": "Democratic Change - Together for Peru",
+      "range": 2,
+      "color": "#7B1FA2"
+    },
+    "IND": {
+      "name": "Independiente",
+      "en": "Independent",
+      "range": 3,
+      "color": "#666666"
+    }
+  }
+}

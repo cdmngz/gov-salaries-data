@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Hilda Heine",
+      "gender": "F",
+      "role": "President of the Republic of the Marshall Islands",
+      "party": "KEA",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Wilbur Heine",
+      "gender": "M",
+      "role": "Minister in Assistance to the President",
+      "party": "KEA",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Kalani Kaneko",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs and Trade",
+      "party": "KEA",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Brenson Wase",
+      "gender": "M",
+      "role": "Minister of Finance, Banking and Postal Services",
+      "party": "KEA",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Kitlang Kabua",
+      "gender": "F",
+      "role": "Minister of Education",
+      "party": "KEA",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "KEA": {
+      "name": "Kien Eo Am",
+      "en": "Your Government",
+      "range": 3,
+      "color": "#005BBB"
+    }
+  }
+}

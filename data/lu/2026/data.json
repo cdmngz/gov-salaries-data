@@ -1,0 +1,626 @@
+{
+  "baseCurrency": "EUR",
+  "royalty": [
+    {
+      "name": "Henri",
+      "gender": "M",
+      "role": "Grand-Duc de Luxembourg",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Maria Teresa",
+      "gender": "F",
+      "role": "Grande-Duchesse de Luxembourg",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Guillaume",
+      "gender": "M",
+      "role": "Grand-Duc héritier de Luxembourg",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Stéphanie de Lannoy",
+      "gender": "F",
+      "role": "Grande-Duchesse héritière de Luxembourg",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "executive": [
+    {
+      "name": "Luc Frieden",
+      "gender": "M",
+      "role": "Premier ministre",
+      "party": "CSV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Xavier Bettel",
+      "gender": "M",
+      "role": "Vice-premier ministre; Minister for Foreign Affairs and Foreign Trade; Minister for Development Cooperation and Humanitarian Affairs",
+      "party": "DP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Martine Hansen",
+      "gender": "F",
+      "portfolio": "Minister of Agriculture, Food and Viticulture; Minister for Consumer Protection",
+      "party": "CSV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Claude Meisch",
+      "gender": "M",
+      "portfolio": "Minister of Education, Children and Youth; Minister of Housing and Spatial Planning",
+      "party": "DP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Lex Delles",
+      "gender": "M",
+      "portfolio": "Minister of the Economy, SME, Energy and Tourism",
+      "party": "DP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Yuriko Backes",
+      "gender": "F",
+      "portfolio": "Minister of Defence; Minister for Mobility and Public Works; Minister for Gender Equality and Diversity",
+      "party": "DP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Max Hahn",
+      "gender": "M",
+      "portfolio": "Minister for Family Affairs, Solidarity, Living Together and Reception of Refugees",
+      "party": "DP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gilles Roth",
+      "gender": "M",
+      "portfolio": "Minister of Finance",
+      "party": "CSV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Martine Deprez",
+      "gender": "F",
+      "portfolio": "Minister of Health and Social Security",
+      "party": "CSV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Léon Gloden",
+      "gender": "M",
+      "portfolio": "Minister for Home Affairs",
+      "party": "CSV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Stéphanie Obertin",
+      "gender": "F",
+      "portfolio": "Minister for Digitalisation; Minister for Research and Higher Education",
+      "party": "DP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Georges Mischo",
+      "gender": "M",
+      "portfolio": "Minister of Sport; Minister of Labour",
+      "party": "CSV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Serge Wilmes",
+      "gender": "M",
+      "portfolio": "Minister of the Environment, Climate and Biodiversity; Minister for the Civil Service",
+      "party": "CSV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Elisabeth Margue",
+      "gender": "F",
+      "portfolio": "Minister of Justice; Minister Delegate to the Prime Minister for Media and Connectivity; Minister Delegate to the Prime Minister for Relations with Parliament",
+      "party": "CSV",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Eric Thill",
+      "gender": "M",
+      "portfolio": "Minister for Culture; Minister Delegate for Tourism",
+      "party": "DP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Marc Spautz",
+      "gender": "M",
+      "party": "CSV",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Diane Adehm",
+      "gender": "F",
+      "party": "CSV",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Nancy Arendt",
+      "gender": "F",
+      "party": "CSV",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Maurice Bauer",
+      "gender": "M",
+      "party": "CSV",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Jeff Boonen",
+      "gender": "M",
+      "party": "CSV",
+      "constituency": "Nord",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Alex Donnersbach",
+      "gender": "M",
+      "party": "CSV",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Emile Eicher",
+      "gender": "M",
+      "party": "CSV",
+      "constituency": "Nord",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Félix Eischen",
+      "gender": "M",
+      "party": "CSV",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Paul Galles",
+      "gender": "M",
+      "party": "CSV",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Françoise Kemp",
+      "gender": "F",
+      "party": "CSV",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Marc Lies",
+      "gender": "M",
+      "party": "CSV",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Ricardo Marques",
+      "gender": "M",
+      "party": "CSV",
+      "constituency": "Est",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Octavie Modert",
+      "gender": "F",
+      "party": "CSV",
+      "constituency": "Est",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Nathalie Morgenthaler",
+      "gender": "F",
+      "party": "CSV",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Laurent Mosar",
+      "gender": "M",
+      "party": "CSV",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Jean-Paul Schaaf",
+      "gender": "M",
+      "party": "CSV",
+      "constituency": "Nord",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Charles Weiler",
+      "gender": "M",
+      "party": "CSV",
+      "constituency": "Nord",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Stéphanie Weydert",
+      "gender": "F",
+      "party": "CSV",
+      "constituency": "Est",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Claude Wiseler",
+      "gender": "M",
+      "party": "CSV",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Michel Wolter",
+      "gender": "M",
+      "party": "CSV",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Gilles Baum",
+      "gender": "M",
+      "party": "DP",
+      "constituency": "Est",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "André Bauler",
+      "gender": "M",
+      "party": "DP",
+      "constituency": "Nord",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Simone Beissel",
+      "gender": "F",
+      "party": "DP",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Corinne Cahen",
+      "gender": "F",
+      "party": "DP",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Guy Arendt",
+      "gender": "M",
+      "party": "DP",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Gusty Graas",
+      "gender": "M",
+      "party": "DP",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Carole Hartmann",
+      "gender": "F",
+      "party": "DP",
+      "constituency": "Est",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Joëlle Kapolna",
+      "gender": "F",
+      "party": "DP",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Mandy Minella",
+      "gender": "F",
+      "party": "DP",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Lydie Polfer",
+      "gender": "F",
+      "party": "DP",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "André Bauler",
+      "gender": "M",
+      "party": "DP",
+      "constituency": "Nord",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Myriam Cecchetti",
+      "gender": "F",
+      "party": "déi Lénk",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "David Wagner",
+      "gender": "M",
+      "party": "déi Lénk",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Josée Lorsché",
+      "gender": "F",
+      "party": "déi gréng",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "François Benoy",
+      "gender": "M",
+      "party": "déi gréng",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Chantal Gary",
+      "gender": "F",
+      "party": "déi gréng",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Henri Kox",
+      "gender": "M",
+      "party": "déi gréng",
+      "constituency": "Est",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Sam Tanson",
+      "gender": "F",
+      "party": "déi gréng",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "François Bausch",
+      "gender": "M",
+      "party": "déi gréng",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Charles Margue",
+      "gender": "M",
+      "party": "déi gréng",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Yves Cruchten",
+      "gender": "M",
+      "party": "LSAP",
+      "constituency": "Nord",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Mars Di Bartolomeo",
+      "gender": "M",
+      "party": "LSAP",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Dan Biancalana",
+      "gender": "M",
+      "party": "LSAP",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Franz Fayot",
+      "gender": "M",
+      "party": "LSAP",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Georges Engel",
+      "gender": "M",
+      "party": "LSAP",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Claude Haagen",
+      "gender": "M",
+      "party": "LSAP",
+      "constituency": "Est",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Dan Kersch",
+      "gender": "M",
+      "party": "LSAP",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Cécile Hemmen",
+      "gender": "F",
+      "party": "LSAP",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Simone Asselborn-Bintz",
+      "gender": "F",
+      "party": "LSAP",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Marc Angel",
+      "gender": "M",
+      "party": "LSAP",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+
+    {
+      "name": "Fernand Kartheiser",
+      "gender": "M",
+      "party": "ADR",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Roy Reding",
+      "gender": "M",
+      "party": "ADR",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Fred Keup",
+      "gender": "M",
+      "party": "ADR",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Tom Weidig",
+      "gender": "M",
+      "party": "ADR",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Jean Schoos",
+      "gender": "M",
+      "party": "ADR",
+      "constituency": "Nord",
+      "salary": { "gross": 109500, "net": null }
+    },
+
+    {
+      "name": "Marc Goergen",
+      "gender": "M",
+      "party": "Piratepartei",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Sven Clement",
+      "gender": "M",
+      "party": "Piratepartei",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Ben Polidori",
+      "gender": "M",
+      "party": "Piratepartei",
+      "constituency": "Sud",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Luc Emering",
+      "gender": "M",
+      "party": "Piratepartei",
+      "constituency": "Est",
+      "salary": { "gross": 109500, "net": null }
+    },
+    {
+      "name": "Jerry Weyer",
+      "gender": "M",
+      "party": "Piratepartei",
+      "constituency": "Centre",
+      "salary": { "gross": 109500, "net": null }
+    }
+  ],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "CSV": {
+      "name": "Chrëschtlech-Sozial Vollekspartei",
+      "en": "Christian Social People's Party",
+      "range": 4,
+      "color": "#F39C12"
+    },
+    "DP": {
+      "name": "Demokratesch Partei",
+      "en": "Democratic Party",
+      "range": 3,
+      "color": "#0066CC"
+    },
+    "LSAP": {
+      "name": "Lëtzebuerger Sozialistesch Aarbechterpartei",
+      "en": "Luxembourg Socialist Workers’ Party",
+      "range": 2,
+      "color": "#E4002B"
+    },
+    "DG": {
+      "name": "déi gréng",
+      "en": "The Greens",
+      "range": 2,
+      "color": "#00A859"
+    },
+    "déi gréng": {
+      "name": "déi gréng",
+      "en": "The Greens",
+      "range": 2,
+      "color": "#00A859"
+    },
+    "ADR": {
+      "name": "Alternativ Demokratesch Reformpartei",
+      "en": "Alternative Democratic Reform Party",
+      "range": 4,
+      "color": "#E87722"
+    },
+    "PIRATE": {
+      "name": "Piratepartei Lëtzebuerg",
+      "en": "Pirate Party",
+      "range": 3,
+      "color": "#000000"
+    },
+    "Piratepartei": {
+      "name": "Piratepartei Lëtzebuerg",
+      "en": "Pirate Party",
+      "range": 3,
+      "color": "#000000"
+    },
+    "DL": {
+      "name": "déi Lénk",
+      "en": "The Left",
+      "range": 1,
+      "color": "#C8102E"
+    },
+    "déi Lénk": {
+      "name": "déi Lénk",
+      "en": "The Left",
+      "range": 1,
+      "color": "#C8102E"
+    }
+  }
+}

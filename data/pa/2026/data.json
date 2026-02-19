@@ -1,0 +1,68 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "José Raúl Mulino Quintero",
+      "gender": "M",
+      "role": "President of the Republic of Panama",
+      "party": "RM",
+      "salary": {
+        "gross": 84000
+      },
+      "sources": [
+        {
+          "Presidencia de la República de Panamá - Planilla": "https://www.presidencia.gob.pa/transparencia/remuneraciones"
+        },
+        {
+          "Ley 34 de 2010": "https://www.asamblea.gob.pa/ley/ley-34-de-2010"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Felipe Chapman",
+      "gender": "M",
+      "role": "Minister of Economy and Finance",
+      "party": "IND",
+      "salary": {
+        "gross": 60000
+      },
+      "sources": [
+        {
+          "Presidencia de la República de Panamá - Planilla": "https://www.presidencia.gob.pa/transparencia/remuneraciones"
+        }
+      ]
+    },
+    {
+      "name": "Frank Ábrego",
+      "gender": "M",
+      "role": "Minister of Public Security",
+      "party": "IND",
+      "salary": {
+        "gross": 60000
+      },
+      "sources": [
+        {
+          "Presidencia de la República de Panamá - Planilla": "https://www.presidencia.gob.pa/transparencia/remuneraciones"
+        }
+      ]
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "RM": {
+      "name": "Realizando Metas",
+      "en": "Realizing Goals",
+      "range": 2,
+      "color": "#1F78D1"
+    },
+    "IND": {
+      "name": "Independiente",
+      "en": "Independent",
+      "range": 3,
+      "color": "#9E9E9E"
+    }
+  }
+}

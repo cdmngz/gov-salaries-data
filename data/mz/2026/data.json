@@ -1,0 +1,53 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Filipe Jacinto Nyusi",
+      "gender": "M",
+      "role": "President of Mozambique",
+      "party": "FRELIMO",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Adriano Afonso Maleiane",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "FRELIMO",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Verónica Nataniel Macamo",
+      "gender": "F",
+      "role": "Minister of Foreign Affairs and Cooperation",
+      "party": "FRELIMO",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Cristóvão Chume",
+      "gender": "M",
+      "role": "Minister of National Defence",
+      "party": "FRELIMO",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Max Tonela",
+      "gender": "M",
+      "role": "Minister of Economy and Finance",
+      "party": "FRELIMO",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "FRELIMO": {
+      "name": "Frente de Libertação de Moçambique",
+      "en": "Mozambique Liberation Front",
+      "range": 4,
+      "color": "#D71920"
+    }
+  }
+}

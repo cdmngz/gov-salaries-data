@@ -1,0 +1,85 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Gitanas Nausėda",
+      "gender": "M",
+      "role": "President of the Republic",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ingrida Šimonytė",
+      "gender": "F",
+      "role": "Prime Minister",
+      "party": "TSLKD",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Gintarė Skaistė",
+      "gender": "F",
+      "role": "Minister of Finance",
+      "party": "TSLKD",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Gabrielius Landsbergis",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "TSLKD",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Laurynas Kasčiūnas",
+      "gender": "M",
+      "role": "Minister of National Defence",
+      "party": "TSLKD",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Agnė Bilotaitė",
+      "gender": "F",
+      "role": "Minister of the Interior",
+      "party": "TSLKD",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Aušrinė Armonaitė",
+      "gender": "F",
+      "role": "Minister of the Economy and Innovation",
+      "party": "LP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Arūnas Dulkys",
+      "gender": "M",
+      "role": "Minister of Health",
+      "party": "IND",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "TSLKD": {
+      "name": "Tėvynės sąjunga – Lietuvos krikščionys demokratai",
+      "en": "Homeland Union – Lithuanian Christian Democrats",
+      "range": 4,
+      "color": "#0057A8"
+    },
+    "IND": {
+      "name": "Nepriklausomas",
+      "en": "Independent",
+      "range": 3,
+      "color": "#B5B5B5"
+    },
+    "LP": {
+      "name": "Laisvės partija",
+      "en": "Freedom Party",
+      "range": 3,
+      "color": "#FFDD00"
+    }
+  }
+}

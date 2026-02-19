@@ -1,0 +1,279 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Cyril Errol Charles",
+      "gender": "M",
+      "role": "Governor-General of Saint Lucia",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Philip J. Pierre",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Philip J. Pierre",
+      "gender": "M",
+      "role": "Prime Minister and Minister for Finance, Economic Development, Youth Economy, Justice and National Security",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Ernest Hilaire",
+      "gender": "M",
+      "role": "Deputy Prime Minister and Minister for Tourism, Investment, Creative Industries, Culture and Information",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Alva Baptiste",
+      "gender": "M",
+      "role": "Minister for External Affairs, International Trade, Civil Aviation and Diaspora Affairs",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Shawn Edward",
+      "gender": "M",
+      "role": "Minister for Education, Sustainable Development, Innovation, Science, Technology and Vocational Training",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Alfred Prospere",
+      "gender": "M",
+      "role": "Minister for Agriculture, Fisheries, Food Security and Rural Development",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Joachim Henry",
+      "gender": "M",
+      "role": "Minister for Equity, Social Justice and Empowerment",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Virginia Albert-Poyotte",
+      "gender": "F",
+      "role": "Minister for the Public Service, Home Affairs, Labour and Gender Affairs",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Stephenson King",
+      "gender": "M",
+      "role": "Senior Minister and Minister for Infrastructure, Ports, Transport, Physical Development and Urban Renewal",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Richard Frederick",
+      "gender": "M",
+      "role": "Minister for Housing and Local Government",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Wayne Girard",
+      "gender": "M",
+      "role": "Minister in the Ministry of Finance, Economic Development and the Youth Economy",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Kenson Casimir",
+      "gender": "M",
+      "role": "Minister for Youth Development and Sports",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Moses Jn. Baptiste",
+      "gender": "M",
+      "role": "Minister for Health, Wellness and Elderly Affairs",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [],
+  "senate": [
+    {
+      "name": "Guibion Ferdinand",
+      "gender": "M",
+      "role": "President of the Senate",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Lisa Jawahir",
+      "gender": "F",
+      "role": "Vice President of the Senate",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Pauline Antoine-Prospere",
+      "gender": "F",
+      "role": "Government Senator",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Kaygianna Toussaint",
+      "gender": "F",
+      "role": "Government Senator",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Miguel Fevrier",
+      "gender": "M",
+      "role": "Government Senator",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Maurice Mason",
+      "gender": "M",
+      "role": "Government Senator",
+      "party": "SLP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Dominic Fedee",
+      "gender": "M",
+      "role": "Opposition Senator",
+      "party": "UWP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Herod Stanislas",
+      "gender": "M",
+      "role": "Opposition Senator",
+      "party": "UWP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Phera Polius",
+      "gender": "F",
+      "role": "Opposition Senator",
+      "party": "UWP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Adrian Augier",
+      "gender": "M",
+      "role": "Independent Senator",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Noorani Azeez",
+      "gender": "M",
+      "role": "Independent Senator",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "parties": {
+    "SLP": {
+      "name": "Saint Lucia Labour Party",
+      "en": "Saint Lucia Labour Party",
+      "range": 2,
+      "color": "#D21034"
+    },
+    "UWP": {
+      "name": "United Workers Party",
+      "en": "United Workers Party",
+      "range": 4,
+      "color": "#F5D000"
+    },
+    "IND": {
+      "name": "Independent",
+      "en": "Independent",
+      "range": 3,
+      "color": "#666666"
+    }
+  }
+}

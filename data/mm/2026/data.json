@@ -1,0 +1,611 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Min Aung Hlaing",
+      "gender": "M",
+      "role": "Chairman of the State Administration Council",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 22857,
+        "net": 17143
+      },
+      "sources": [
+        {
+          "Budget Law": "https://example.gov.mm/budget-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Soe Win",
+      "gender": "M",
+      "role": "Deputy Prime Minister",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 17143,
+        "net": 12857
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Win Shein",
+      "gender": "M",
+      "role": "Minister of Planning and Finance",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 11429,
+        "net": 8571
+      },
+      "budget": 8809523810
+    },
+    {
+      "name": "Than Swe",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 10476,
+        "net": 7857
+      }
+    },
+    {
+      "name": "Yar Pyae",
+      "gender": "M",
+      "role": "Minister of Home Affairs",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 10238,
+        "net": 7619
+      }
+    },
+    {
+      "name": "Mya Tun Oo",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 10952,
+        "net": 8214
+      }
+    },
+    {
+      "name": "Aung Naing Oo",
+      "gender": "M",
+      "role": "Minister of Commerce",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 9762,
+        "net": 7381
+      }
+    },
+    {
+      "name": "Myint Kyu",
+      "gender": "M",
+      "role": "Minister of Transport and Communications",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 10000,
+        "net": 7500
+      }
+    },
+    {
+      "name": "Nay Win",
+      "gender": "M",
+      "role": "Minister of Energy",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 9905,
+        "net": 7429
+      }
+    },
+    {
+      "name": "Htin Lin",
+      "gender": "M",
+      "role": "Minister of Health",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 9524,
+        "net": 7143
+      }
+    },
+    {
+      "name": "Ko Lay Win",
+      "gender": "M",
+      "role": "Minister of Education",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 9524,
+        "net": 7143
+      }
+    },
+    {
+      "name": "Khin Maung Yi",
+      "gender": "M",
+      "role": "Minister of Natural Resources and Environmental Conservation",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 10100,
+        "net": 7575
+      }
+    },
+    {
+      "name": "Maung Maung Ohn",
+      "gender": "M",
+      "role": "Minister of Information",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 9800,
+        "net": 7350
+      }
+    },
+    {
+      "name": "Tin Htut Oo",
+      "gender": "M",
+      "role": "Minister of Agriculture, Livestock and Irrigation",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 10300,
+        "net": 7725
+      }
+    },
+    {
+      "name": "Aung Thaw",
+      "gender": "M",
+      "role": "Minister of Investment and Foreign Economic Relations",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 9900,
+        "net": 7425
+      }
+    },
+    {
+      "name": "Thet Thet Khine",
+      "gender": "F",
+      "role": "Minister of Social Welfare, Relief and Resettlement",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 9600,
+        "net": 7200
+      }
+    },
+    {
+      "name": "Myint Kyaing",
+      "gender": "M",
+      "role": "Minister of Labour",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 9700,
+        "net": 7275
+      }
+    },
+    {
+      "name": "Ko Ko",
+      "gender": "M",
+      "role": "Minister for Religious Affairs and Culture",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 9400,
+        "net": 7050
+      }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Khin Maung Oo",
+      "gender": "M",
+      "district": "Ayeyarwady Region",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 5714,
+        "net": 4286
+      }
+    },
+    {
+      "name": "Ei Thandar Tin",
+      "gender": "F",
+      "district": "Yangon Region",
+      "party": "USDP",
+      "salary": {
+        "gross": 5714,
+        "net": 4286
+      }
+    },
+    {
+      "name": "Aye Mya Mya Myo",
+      "gender": "F",
+      "district": "Bago Region",
+      "party": "NLD",
+      "salary": {
+        "gross": 5714,
+        "net": 4286
+      }
+    },
+    {
+      "name": "Sai Tun Aye",
+      "gender": "M",
+      "district": "Shan State",
+      "party": "SNLD",
+      "salary": {
+        "gross": 5619,
+        "net": 4214
+      }
+    },
+    {
+      "name": "Hnin Hnin Pyne",
+      "gender": "F",
+      "district": "Tanintharyi Region",
+      "party": "NLD",
+      "salary": {
+        "gross": 5571,
+        "net": 4179
+      }
+    },
+    {
+      "name": "Kyaw Zeya",
+      "gender": "M",
+      "district": "Mandalay Region",
+      "party": "USDP",
+      "salary": {
+        "gross": 5714,
+        "net": 4286
+      }
+    },
+    {
+      "name": "Khin Htwe Myint",
+      "gender": "F",
+      "district": "Magway Region",
+      "party": "NLD",
+      "salary": {
+        "gross": 5476,
+        "net": 4107
+      }
+    },
+    {
+      "name": "U Soe Thane",
+      "gender": "M",
+      "district": "Kayah State",
+      "party": "USDP",
+      "salary": {
+        "gross": 5524,
+        "net": 4143
+      }
+    },
+    {
+      "name": "Mi Kun Chan",
+      "gender": "F",
+      "district": "Mon State",
+      "party": "ANP",
+      "salary": {
+        "gross": 5429,
+        "net": 4071
+      }
+    },
+    {
+      "name": "Wai Phyo Aung",
+      "gender": "M",
+      "district": "Kayin State",
+      "party": "NLD",
+      "salary": {
+        "gross": 5381,
+        "net": 4036
+      }
+    },
+    {
+      "name": "Mya Htay",
+      "gender": "F",
+      "district": "Chin State",
+      "party": "USDP",
+      "salary": {
+        "gross": 5600,
+        "net": 4200
+      }
+    },
+    {
+      "name": "Soe Naing Oo",
+      "gender": "M",
+      "district": "Naypyidaw Union Territory",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 6000,
+        "net": 4500
+      }
+    },
+    {
+      "name": "Sai Sam Htun",
+      "gender": "M",
+      "district": "Northern Shan State",
+      "party": "SNLD",
+      "salary": {
+        "gross": 5450,
+        "net": 4090
+      }
+    },
+    {
+      "name": "Aung Thiri",
+      "gender": "F",
+      "district": "Kachin State",
+      "party": "NLD",
+      "salary": {
+        "gross": 5300,
+        "net": 3975
+      }
+    },
+    {
+      "name": "Saw Htoo Kler",
+      "gender": "M",
+      "district": "Kayaw Constituency",
+      "party": "ANP",
+      "salary": {
+        "gross": 5200,
+        "net": 3900
+      }
+    },
+    {
+      "name": "Kyi Pyar",
+      "gender": "F",
+      "district": "Yangon Seikkan Township",
+      "party": "NLD",
+      "salary": {
+        "gross": 5700,
+        "net": 4275
+      }
+    },
+    {
+      "name": "Toe Aung",
+      "gender": "M",
+      "district": "Ayeyarwady Maubin District",
+      "party": "USDP",
+      "salary": {
+        "gross": 5550,
+        "net": 4160
+      }
+    },
+    {
+      "name": "Phyu Phyu Thin",
+      "gender": "F",
+      "district": "Yangon Mingalar Taung Nyunt",
+      "party": "NLD",
+      "salary": {
+        "gross": 5750,
+        "net": 4310
+      }
+    },
+    {
+      "name": "Yaza Win",
+      "gender": "M",
+      "district": "Bago West",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 5900,
+        "net": 4425
+      }
+    },
+    {
+      "name": "Khun Myat",
+      "gender": "M",
+      "district": "Shan Kutkai",
+      "party": "USDP",
+      "salary": {
+        "gross": 6050,
+        "net": 4540
+      }
+    }
+  ],
+  "senate": [
+    {
+      "name": "Aung Kyi Nyunt",
+      "gender": "M",
+      "prefecture": "Mandalay Region",
+      "party": "NLD",
+      "salary": {
+        "gross": 5714,
+        "net": 4286
+      }
+    },
+    {
+      "name": "Hkun Htun Oo",
+      "gender": "M",
+      "prefecture": "Shan State",
+      "party": "SNLD",
+      "salary": {
+        "gross": 5619,
+        "net": 4214
+      }
+    },
+    {
+      "name": "Nan Khin Htwe Myint",
+      "gender": "F",
+      "prefecture": "Kayah State",
+      "party": "NLD",
+      "salary": {
+        "gross": 5571,
+        "net": 4179
+      }
+    },
+    {
+      "name": "Kaw Hmu Hlaing",
+      "gender": "M",
+      "prefecture": "Kachin State",
+      "party": "USDP",
+      "salary": {
+        "gross": 5524,
+        "net": 4143
+      }
+    },
+    {
+      "name": "Toe Nandar Tin",
+      "gender": "F",
+      "prefecture": "Rakhine State",
+      "party": "ANP",
+      "salary": {
+        "gross": 5476,
+        "net": 4107
+      }
+    },
+    {
+      "name": "Khin Maung Latt",
+      "gender": "M",
+      "prefecture": "Rakhine State",
+      "party": "ANP",
+      "salary": {
+        "gross": 5500,
+        "net": 4125
+      }
+    },
+    {
+      "name": "Dr Khun Thaung Htun",
+      "gender": "M",
+      "prefecture": "Shan State",
+      "party": "SNLD",
+      "salary": {
+        "gross": 5620,
+        "net": 4215
+      }
+    },
+    {
+      "name": "May Win Myint",
+      "gender": "F",
+      "prefecture": "Yangon Region",
+      "party": "NLD",
+      "salary": {
+        "gross": 5680,
+        "net": 4260
+      }
+    },
+    {
+      "name": "Hla Swe",
+      "gender": "M",
+      "prefecture": "Magway Region",
+      "party": "USDP",
+      "salary": {
+        "gross": 5530,
+        "net": 4145
+      }
+    }
+  ],
+  "officials": [
+    {
+      "name": "Tin Oo",
+      "gender": "M",
+      "role": "Attorney General",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 8571,
+        "net": 6429
+      }
+    },
+    {
+      "name": "Thida Oo",
+      "gender": "F",
+      "role": "Auditor General",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 8333,
+        "net": 6286
+      }
+    },
+    {
+      "name": "Zaw Naing",
+      "gender": "M",
+      "role": "Central Bank Governor",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 8810,
+        "net": 6607
+      }
+    },
+    {
+      "name": "Nyunt Tin",
+      "gender": "M",
+      "role": "Union Civil Service Board Chair",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 8095,
+        "net": 6071
+      }
+    },
+    {
+      "name": "Htay Aung",
+      "gender": "M",
+      "role": "Anti-Corruption Commission Chair",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 8200,
+        "net": 6150
+      }
+    },
+    {
+      "name": "Moe Moe Su Kyi",
+      "gender": "F",
+      "role": "Permanent Secretary, Ministry of Health",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 7300,
+        "net": 5480
+      }
+    },
+    {
+      "name": "Aung Kyaw Kyaw",
+      "gender": "M",
+      "role": "Director General, Customs Department",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 7600,
+        "net": 5700
+      }
+    },
+    {
+      "name": "Sanda Thiri",
+      "gender": "F",
+      "role": "Director General, Treasury Department",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 7450,
+        "net": 5590
+      }
+    },
+    {
+      "name": "Khin Zaw Oo",
+      "gender": "M",
+      "role": "Union Election Commission Chair",
+      "party": "Tatmadaw",
+      "salary": {
+        "gross": 8000,
+        "net": 6000
+      }
+    }
+  ],
+  "parties": {
+    "Tatmadaw": {
+      "name": "Tatmadaw",
+      "en": "Myanmar Armed Forces",
+      "range": 4,
+      "color": "#1F4B99"
+    },
+    "USDP": {
+      "name": "Paing San Ye",
+      "en": "Union Solidarity and Development Party",
+      "range": 3,
+      "color": "#0B7039"
+    },
+    "NLD": {
+      "name": "National League for Democracy",
+      "en": "National League for Democracy",
+      "range": 2,
+      "color": "#CC0000"
+    },
+    "SNLD": {
+      "name": "Shan Nationalities League for Democracy",
+      "en": "Shan Nationalities League for Democracy",
+      "range": 2,
+      "color": "#8C4A1F"
+    },
+    "ANP": {
+      "name": "Arakan National Party",
+      "en": "Arakan National Party",
+      "range": 2,
+      "color": "#F8A300"
+    }
+  }
+}

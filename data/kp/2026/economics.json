@@ -1,0 +1,7 @@
+{
+  "baseCurrency": "CNY",
+  "GDP": 30000000000,
+  "GDPPerCapita": 1200,
+  "minAnnualSalary": 1500,
+  "timestamp": "2025-01-01T00:00:00Z"
+}

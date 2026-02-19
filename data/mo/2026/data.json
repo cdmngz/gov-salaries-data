@@ -1,0 +1,118 @@
+{
+  "baseCurrency": "USD",
+  "royalty": [],
+  "executive": [
+    {
+      "name": "Ho Iat Seng",
+      "gender": "M",
+      "role": "Chief Executive of the Macao Special Administrative Region",
+      "party": "Nonpartisan",
+      "salary": {
+        "gross": 375000,
+        "net": 300000
+      },
+      "sources": [
+        {
+          "Annual Policy Address": "https://www.gov.mo/en/about-macao/administrative-organization/chief-executive/"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Cheong Weng Chon",
+      "gender": "M",
+      "role": "Secretary for Administration and Justice",
+      "party": "Nonpartisan",
+      "salary": {
+        "gross": 260000,
+        "net": 210000
+      }
+    },
+    {
+      "name": "Lei Wai Nong",
+      "gender": "M",
+      "role": "Secretary for Economy and Finance",
+      "party": "Nonpartisan",
+      "salary": {
+        "gross": 245000,
+        "net": 198000
+      }
+    },
+    {
+      "name": "Ao Ieong U",
+      "gender": "F",
+      "role": "Secretary for Social Affairs and Culture",
+      "party": "Nonpartisan",
+      "salary": {
+        "gross": 240000,
+        "net": 194000
+      }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Ho Ion Sang",
+      "gender": "M",
+      "party": "Union for Promoting Progress",
+      "district": "Geographical Constituency 2",
+      "salary": {
+        "gross": 125000,
+        "net": 98000
+      }
+    },
+    {
+      "name": "Song Pek Kei",
+      "gender": "F",
+      "party": "Macau United Citizens Association",
+      "district": "Geographical Constituency 3",
+      "salary": {
+        "gross": 125000,
+        "net": 98000
+      }
+    }
+  ],
+  "senate": [],
+  "officials": [
+    {
+      "name": "Carlos Alvares",
+      "gender": "M",
+      "role": "President of the Court of Final Appeal",
+      "party": "Nonpartisan",
+      "salary": {
+        "gross": 280000,
+        "net": 224000
+      }
+    },
+    {
+      "name": "Chiang Ling Li",
+      "gender": "F",
+      "role": "Chairwoman of the Monetary Authority of Macao",
+      "party": "Nonpartisan",
+      "salary": {
+        "gross": 230000,
+        "net": 186000
+      }
+    }
+  ],
+  "parties": {
+    "Nonpartisan": {
+      "name": "Nonpartisan",
+      "en": "Nonpartisan",
+      "range": 1,
+      "color": "#808080"
+    },
+    "Union for Promoting Progress": {
+      "name": "União Promotora para o Progresso",
+      "en": "Union for Promoting Progress",
+      "range": 2,
+      "color": "#005BAC"
+    },
+    "Macau United Citizens Association": {
+      "name": "Associação dos Cidadãos Unidos de Macau",
+      "en": "Macau United Citizens Association",
+      "range": 3,
+      "color": "#C03028"
+    }
+  }
+}

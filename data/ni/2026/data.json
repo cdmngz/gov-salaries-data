@@ -1,0 +1,136 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Daniel Ortega Saavedra",
+      "gender": "M",
+      "role": "Presidente de la República de Nicaragua",
+      "party": "FSLN",
+      "salary": {
+        "gross": 38231.67
+      },
+      "sources": [
+        {
+          "Ley Anual de Salarios 2025": "https://www.asamblea.gob.ni/wp-content/uploads/2024/12/Ley-Anual-Salarios-2025.pdf"
+        },
+        {
+          "Tipo de cambio oficial (BCN) 2025": "https://www.bcn.gob.ni/estadisticas/mercados-cambiarios/tipo_cambio_oficial"
+        }
+      ]
+    },
+    {
+      "name": "Rosario María Murillo Zambrana",
+      "gender": "F",
+      "role": "Vicepresidenta de la República de Nicaragua",
+      "party": "FSLN",
+      "salary": {
+        "gross": 38231.67
+      },
+      "sources": [
+        {
+          "Ley Anual de Salarios 2025": "https://www.asamblea.gob.ni/wp-content/uploads/2024/12/Ley-Anual-Salarios-2025.pdf"
+        },
+        {
+          "Tipo de cambio oficial (BCN) 2025": "https://www.bcn.gob.ni/estadisticas/mercados-cambiarios/tipo_cambio_oficial"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Iván Adolfo Acosta Montalván",
+      "gender": "M",
+      "role": "Ministro de Hacienda y Crédito Público",
+      "party": "FSLN",
+      "salary": {
+        "gross": 32267.22
+      },
+      "sources": [
+        {
+          "Ley Anual de Salarios 2025": "https://www.asamblea.gob.ni/wp-content/uploads/2024/12/Ley-Anual-Salarios-2025.pdf"
+        },
+        {
+          "Tipo de cambio oficial (BCN) 2025": "https://www.bcn.gob.ni/estadisticas/mercados-cambiarios/tipo_cambio_oficial"
+        }
+      ]
+    },
+    {
+      "name": "Denis Ronaldo Moncada Colindres",
+      "gender": "M",
+      "role": "Ministro de Relaciones Exteriores",
+      "party": "FSLN",
+      "salary": {
+        "gross": 32267.22
+      },
+      "sources": [
+        {
+          "Ley Anual de Salarios 2025": "https://www.asamblea.gob.ni/wp-content/uploads/2024/12/Ley-Anual-Salarios-2025.pdf"
+        },
+        {
+          "Tipo de cambio oficial (BCN) 2025": "https://www.bcn.gob.ni/estadisticas/mercados-cambiarios/tipo_cambio_oficial"
+        }
+      ]
+    },
+    {
+      "name": "María Amelia Coronel Kinloch",
+      "gender": "F",
+      "role": "Ministra de Gobernación",
+      "party": "FSLN",
+      "salary": {
+        "gross": 32267.22
+      },
+      "sources": [
+        {
+          "Ley Anual de Salarios 2025": "https://www.asamblea.gob.ni/wp-content/uploads/2024/12/Ley-Anual-Salarios-2025.pdf"
+        },
+        {
+          "Tipo de cambio oficial (BCN) 2025": "https://www.bcn.gob.ni/estadisticas/mercados-cambiarios/tipo_cambio_oficial"
+        }
+      ]
+    },
+    {
+      "name": "Martha Verónica Reyes Álvarez",
+      "gender": "F",
+      "role": "Ministra de Salud",
+      "party": "FSLN",
+      "salary": {
+        "gross": 32267.22
+      },
+      "sources": [
+        {
+          "Ley Anual de Salarios 2025": "https://www.asamblea.gob.ni/wp-content/uploads/2024/12/Ley-Anual-Salarios-2025.pdf"
+        },
+        {
+          "Tipo de cambio oficial (BCN) 2025": "https://www.bcn.gob.ni/estadisticas/mercados-cambiarios/tipo_cambio_oficial"
+        }
+      ]
+    },
+    {
+      "name": "Lilliam Esperanza Herrera Moreno",
+      "gender": "F",
+      "role": "Ministra de Educación",
+      "party": "FSLN",
+      "salary": {
+        "gross": 32267.22
+      },
+      "sources": [
+        {
+          "Ley Anual de Salarios 2025": "https://www.asamblea.gob.ni/wp-content/uploads/2024/12/Ley-Anual-Salarios-2025.pdf"
+        },
+        {
+          "Tipo de cambio oficial (BCN) 2025": "https://www.bcn.gob.ni/estadisticas/mercados-cambiarios/tipo_cambio_oficial"
+        }
+      ]
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "FSLN": {
+      "name": "Frente Sandinista de Liberación Nacional",
+      "en": "Sandinista National Liberation Front",
+      "range": 1,
+      "color": "#D52B1E"
+    }
+  }
+}

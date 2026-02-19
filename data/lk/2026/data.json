@@ -1,0 +1,59 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Ranil Wickremesinghe",
+      "gender": "M",
+      "role": "President of Sri Lanka",
+      "party": "UNP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Dinesh Gunawardena",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "SLPP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Ali Sabry",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "SLPP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Tiran Alles",
+      "gender": "M",
+      "role": "Minister of Public Security",
+      "party": "SLPP",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Shehan Semasinghe",
+      "gender": "M",
+      "role": "Minister of Finance, Economic Stabilization and National Policies",
+      "party": "SLPP",
+      "salary": { "gross": null, "net": null }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "UNP": {
+      "name": "එක්සත් ජාතික පක්ෂය",
+      "en": "United National Party",
+      "range": 2,
+      "color": "#006847"
+    },
+    "SLPP": {
+      "name": "ශ්‍රී ලංකා පොදුජන පෙරමුණ",
+      "en": "Sri Lanka Podujana Peramuna",
+      "range": 3,
+      "color": "#990000"
+    }
+  }
+}

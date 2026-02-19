@@ -1,0 +1,109 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Gordana Siljanovska-Davkova",
+      "gender": "F",
+      "role": "President of North Macedonia",
+      "party": "VMRO",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Hristijan Mickoski",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "VMRO",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Arben Taravari",
+      "gender": "M",
+      "role": "Deputy Prime Minister for European Affairs",
+      "party": "AA",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Timčo Mucunski",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs",
+      "party": "VMRO",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Gordana Dimitrieska-Kočoska",
+      "gender": "F",
+      "role": "Minister of Finance",
+      "party": "VMRO",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Dragan Kovachki",
+      "gender": "M",
+      "role": "Minister of Defence",
+      "party": "VMRO",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Panche Toshkovski",
+      "gender": "M",
+      "role": "Minister of Internal Affairs",
+      "party": "VMRO",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Fatmir Mexhiti",
+      "gender": "M",
+      "role": "Minister of Health",
+      "party": "VREDI",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [],
+  "senate": [],
+  "parties": {
+    "VMRO": {
+      "name": "ВМРО-ДПМНЕ",
+      "en": "Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity",
+      "range": 4,
+      "color": "#D00000"
+    },
+    "AA": {
+      "name": "Алијанса за Албанците",
+      "en": "Alliance for Albanians",
+      "range": 3,
+      "color": "#0057A4"
+    },
+    "VREDI": {
+      "name": "Вреди",
+      "en": "Worth It Coalition",
+      "range": 3,
+      "color": "#1C8C43"
+    }
+  }
+}
