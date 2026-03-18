@@ -1,0 +1,158 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Paul Kagame",
+      "gender": "M",
+      "role": "President of the Republic of Rwanda",
+      "party": "RPF",
+      "salary": {
+        "gross": 90000,
+        "net": 64800
+      },
+      "sources": [
+        {
+          "Office of the President – National Budget 2025/2026": "https://www.presidency.gov.rw/docs/national-budget-2025-26.pdf"
+        },
+        {
+          "National Bank of Rwanda – Monthly exchange rate report USD/RWF (January 2025)": "https://www.bnr.rw/docs/exchange-report-jan-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Édouard Ngirente",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "RPF",
+      "salary": {
+        "gross": 72000,
+        "net": 51840
+      },
+      "sources": [
+        {
+          "Office of the Prime Minister – Strategic plan and budget 2025": "https://www.primature.gov.rw/docs/strategic-plan-2025.pdf"
+        },
+        {
+          "Office of the Auditor General – Annual report 2024": "https://oag.gov.rw/docs/annual-report-2024.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Uzziel Ndagijimana",
+      "gender": "M",
+      "portfolio": "Finance and Economic Planning",
+      "party": "RPF",
+      "salary": {
+        "gross": 50000,
+        "net": 36000
+      },
+      "sources": [
+        {
+          "Ministry of Finance – Budget framework paper 2025/2026": "https://www.minecofin.gov.rw/docs/budget-framework-2025-26.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Vincent Biruta",
+      "gender": "M",
+      "portfolio": "Foreign Affairs and International Cooperation",
+      "party": "RPF",
+      "salary": {
+        "gross": 48000,
+        "net": 34560
+      },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs – Institutional performance report 2025": "https://www.minaffet.gov.rw/docs/performance-report-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Alfred Gasana",
+      "gender": "M",
+      "portfolio": "Interior and Local Government",
+      "party": "RPF",
+      "salary": {
+        "gross": 47000,
+        "net": 33840
+      },
+      "sources": [
+        {
+          "Ministry of Local Government – Annual action plan 2025": "https://www.minaloc.gov.rw/docs/action-plan-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Sabin Nsanzimana",
+      "gender": "M",
+      "portfolio": "Health",
+      "party": "RPF",
+      "salary": {
+        "gross": 46500,
+        "net": 33480
+      },
+      "sources": [
+        {
+          "Ministry of Health – Health sector performance report 2025": "https://www.moh.gov.rw/docs/health-performance-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Donatille Mukabalisa",
+      "gender": "F",
+      "role": "Speaker of the Chamber of Deputies",
+      "party": "RPF",
+      "salary": {
+        "gross": 43000,
+        "net": 30960
+      },
+      "sources": [
+        {
+          "Parliament of Rwanda – Budget estimates 2025/2026": "https://www.parliament.gov.rw/docs/budget-estimates-2025-26.pdf"
+        }
+      ]
+    },
+    {
+      "name": "François Xavier Kalinda",
+      "gender": "M",
+      "role": "President of the Senate",
+      "party": "RPF",
+      "salary": {
+        "gross": 42000,
+        "net": 30240
+      },
+      "sources": [
+        {
+          "Senate of Rwanda – Programme budget 2025/2026": "https://www.senat.gov.rw/docs/programme-budget-2025-26.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Faustin Ntezilyayo",
+      "gender": "M",
+      "role": "Chief Justice, Supreme Court",
+      "party": "RPF",
+      "salary": {
+        "gross": 41000,
+        "net": 29520
+      },
+      "sources": [
+        {
+          "Judiciary of Rwanda – Financial statements 2025": "https://www.judiciary.gov.rw/docs/financial-statements-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "RPF": {
+      "name": "Rwandese Patriotic Front",
+      "en": "Rwandese Patriotic Front",
+      "range": 4,
+      "color": "#1565C0"
+    }
+  }
+}

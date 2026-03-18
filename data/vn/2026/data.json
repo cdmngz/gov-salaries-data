@@ -1,0 +1,110 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Tô Lâm",
+      "gender": "M",
+      "role": "President of the Socialist Republic of Vietnam",
+      "party": "CPV",
+      "salary": {
+        "gross": 54000,
+        "net": 37800
+      },
+      "sources": [
+        {
+          "Ministry of Home Affairs – Senior Officials Salary Table 2025": "https://moha.gov.vn/docs/salary-table-2025.pdf"
+        },
+        {
+          "State Bank of Vietnam – USD/VND reference July 2025": "https://sbv.gov.vn/statistics/usd-vnd-jul-2025"
+        }
+      ]
+    },
+    {
+      "name": "Phạm Minh Chính",
+      "gender": "M",
+      "role": "Prime Minister of Vietnam",
+      "party": "CPV",
+      "salary": {
+        "gross": 56000,
+        "net": 39200
+      },
+      "sources": [
+        {
+          "Government Office – Resolution on Allowances 2025": "https://chinhphu.vn/docs/resolution-allowances-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Hồ Đức Phớc",
+      "gender": "M",
+      "portfolio": "Finance",
+      "party": "CPV",
+      "salary": {
+        "gross": 48000,
+        "net": 33600
+      },
+      "sources": [
+        {
+          "Ministry of Finance – Budget Estimates 2025": "https://mof.gov.vn/docs/budget-estimates-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Bùi Thanh Sơn",
+      "gender": "M",
+      "portfolio": "Foreign Affairs",
+      "party": "CPV",
+      "salary": {
+        "gross": 47000,
+        "net": 32900
+      },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs – Operational Plan 2025": "https://mofa.gov.vn/docs/operational-plan-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Đào Hồng Lan",
+      "gender": "F",
+      "portfolio": "Health",
+      "party": "CPV",
+      "salary": {
+        "gross": 46000,
+        "net": 32200
+      },
+      "sources": [
+        {
+          "Ministry of Health – Programme Budget 2025": "https://moh.gov.vn/docs/programme-budget-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Vương Đình Huệ",
+      "gender": "M",
+      "role": "Chairman of the National Assembly",
+      "party": "CPV",
+      "salary": {
+        "gross": 50000,
+        "net": 35000
+      },
+      "sources": [
+        {
+          "National Assembly – Financial Statement 2025": "https://quochoi.vn/docs/financial-statement-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "CPV": {
+      "name": "Đảng Cộng sản Việt Nam",
+      "range": 4,
+      "color": "#DA251D",
+      "en": "Communist Party of Vietnam"
+    }
+  }
+}

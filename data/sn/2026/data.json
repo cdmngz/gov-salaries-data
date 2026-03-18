@@ -1,0 +1,200 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Bassirou Diomaye Faye",
+      "gender": "M",
+      "role": "President of the Republic of Senegal",
+      "party": "PASTEF",
+      "salary": {
+        "gross": 29843.32
+      },
+      "sources": [
+        {
+          "Journal officiel de la République du Sénégal – Décret n°2012-1259 du 5 novembre 2012": "http://www.jo.gouv.sn/spip.php?article10165"
+        },
+        {
+          "Banque Centrale des États de l'Afrique de l'Ouest – Taux de change du franc CFA contre le dollar des États-Unis (9 août 2025)": "https://www.bceao.int/fr/taux-de-change"
+        }
+      ]
+    },
+    {
+      "name": "Ousmane Sonko",
+      "gender": "M",
+      "role": "Prime Minister of Senegal",
+      "party": "PASTEF",
+      "salary": {
+        "gross": 25864.21
+      },
+      "sources": [
+        {
+          "Journal officiel de la République du Sénégal – Décret n°2012-1259 du 5 novembre 2012": "http://www.jo.gouv.sn/spip.php?article10165"
+        },
+        {
+          "Banque Centrale des États de l'Afrique de l'Ouest – Taux de change du franc CFA contre le dollar des États-Unis (9 août 2025)": "https://www.bceao.int/fr/taux-de-change"
+        },
+        {
+          "Présidence de la République du Sénégal – Communiqué du 5 avril 2024 portant nomination du Premier ministre": "https://www.presidence.sn/actualites/communique-nomination-premier-ministre"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Cheikh Diba",
+      "gender": "M",
+      "role": "Minister of Finance and Budget",
+      "party": "PASTEF",
+      "salary": {
+        "gross": 23874.66
+      },
+      "sources": [
+        {
+          "Journal officiel de la République du Sénégal – Décret n°2012-1259 du 5 novembre 2012": "http://www.jo.gouv.sn/spip.php?article10165"
+        },
+        {
+          "Banque Centrale des États de l'Afrique de l'Ouest – Taux de change du franc CFA contre le dollar des États-Unis (9 août 2025)": "https://www.bceao.int/fr/taux-de-change"
+        },
+        {
+          "Présidence de la République du Sénégal – Communiqué sur la composition du Gouvernement du 5 avril 2024": "https://www.presidence.sn/actualites/composition-gouvernement-5-avril-2024"
+        }
+      ]
+    },
+    {
+      "name": "Yassine Fall",
+      "gender": "F",
+      "role": "Minister of Foreign Affairs and Senegalese Abroad",
+      "party": "PASTEF",
+      "salary": {
+        "gross": 23874.66
+      },
+      "sources": [
+        {
+          "Journal officiel de la République du Sénégal – Décret n°2012-1259 du 5 novembre 2012": "http://www.jo.gouv.sn/spip.php?article10165"
+        },
+        {
+          "Banque Centrale des États de l'Afrique de l'Ouest – Taux de change du franc CFA contre le dollar des États-Unis (9 août 2025)": "https://www.bceao.int/fr/taux-de-change"
+        },
+        {
+          "Présidence de la République du Sénégal – Communiqué sur la composition du Gouvernement du 5 avril 2024": "https://www.presidence.sn/actualites/composition-gouvernement-5-avril-2024"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Baptiste Tine",
+      "gender": "M",
+      "role": "Minister of the Interior and Public Security",
+      "party": "PASTEF",
+      "salary": {
+        "gross": 23874.66
+      },
+      "sources": [
+        {
+          "Journal officiel de la République du Sénégal – Décret n°2012-1259 du 5 novembre 2012": "http://www.jo.gouv.sn/spip.php?article10165"
+        },
+        {
+          "Banque Centrale des États de l'Afrique de l'Ouest – Taux de change du franc CFA contre le dollar des États-Unis (9 août 2025)": "https://www.bceao.int/fr/taux-de-change"
+        },
+        {
+          "Présidence de la République du Sénégal – Communiqué sur la composition du Gouvernement du 5 avril 2024": "https://www.presidence.sn/actualites/composition-gouvernement-5-avril-2024"
+        }
+      ]
+    },
+    {
+      "name": "Mabouba Diagne",
+      "gender": "M",
+      "role": "Minister of Health and Social Action",
+      "party": "PASTEF",
+      "salary": {
+        "gross": 23874.66
+      },
+      "sources": [
+        {
+          "Journal officiel de la République du Sénégal – Décret n°2012-1259 du 5 novembre 2012": "http://www.jo.gouv.sn/spip.php?article10165"
+        },
+        {
+          "Banque Centrale des États de l'Afrique de l'Ouest – Taux de change du franc CFA contre le dollar des États-Unis (9 août 2025)": "https://www.bceao.int/fr/taux-de-change"
+        },
+        {
+          "Présidence de la République du Sénégal – Communiqué sur la composition du Gouvernement du 5 avril 2024": "https://www.presidence.sn/actualites/composition-gouvernement-5-avril-2024"
+        }
+      ]
+    }
+  ],
+  "assembly": [
+    {
+      "name": "Amadou Mame Diop",
+      "gender": "M",
+      "district": "Dagana",
+      "party": "APR",
+      "salary": {
+        "gross": 21885.1
+      },
+      "sources": [
+        {
+          "Assemblée nationale du Sénégal – Profil du président Amadou Mame Diop": "https://www.assemblee-nationale.sn/fiche-depute/amadou-mame-diop"
+        },
+        {
+          "Banque Centrale des États de l'Afrique de l'Ouest – Taux de change du franc CFA contre le dollar des États-Unis (9 août 2025)": "https://www.bceao.int/fr/taux-de-change"
+        },
+        {
+          "Assemblée nationale du Sénégal – Indemnités parlementaires (circulaire 01/2019)": "https://www.assemblee-nationale.sn/documents/indemnites-parlementaires"
+        }
+      ]
+    },
+    {
+      "name": "Mame Diarra Fam",
+      "gender": "F",
+      "district": "Diaspora Afrique",
+      "party": "PASTEF",
+      "salary": {
+        "gross": 21885.1
+      },
+      "sources": [
+        {
+          "Assemblée nationale du Sénégal – Liste des députés de la XIVe législature": "https://www.assemblee-nationale.sn/liste-deputes-xive-legislature"
+        },
+        {
+          "Banque Centrale des États de l'Afrique de l'Ouest – Taux de change du franc CFA contre le dollar des États-Unis (9 août 2025)": "https://www.bceao.int/fr/taux-de-change"
+        },
+        {
+          "Assemblée nationale du Sénégal – Indemnités parlementaires (circulaire 01/2019)": "https://www.assemblee-nationale.sn/documents/indemnites-parlementaires"
+        }
+      ]
+    },
+    {
+      "name": "Guy Marius Sagna",
+      "gender": "M",
+      "district": "Ziguinchor",
+      "party": "PASTEF",
+      "salary": {
+        "gross": 21885.1
+      },
+      "sources": [
+        {
+          "Assemblée nationale du Sénégal – Liste des députés de la XIVe législature": "https://www.assemblee-nationale.sn/liste-deputes-xive-legislature"
+        },
+        {
+          "Banque Centrale des États de l'Afrique de l'Ouest – Taux de change du franc CFA contre le dollar des États-Unis (9 août 2025)": "https://www.bceao.int/fr/taux-de-change"
+        },
+        {
+          "Assemblée nationale du Sénégal – Indemnités parlementaires (circulaire 01/2019)": "https://www.assemblee-nationale.sn/documents/indemnites-parlementaires"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "PASTEF": {
+      "name": "Patriotes africains du Sénégal pour le travail, l'éthique et la fraternité",
+      "en": "African Patriots of Senegal for Work, Ethics and Fraternity",
+      "range": 2,
+      "color": "#E03C31"
+    },
+    "APR": {
+      "name": "Alliance pour la République",
+      "en": "Alliance for the Republic",
+      "range": 3,
+      "color": "#F6A01A"
+    }
+  }
+}
