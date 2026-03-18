@@ -1,0 +1,122 @@
+{
+  "baseCurrency": "EUR",
+  "executive": [
+    {
+      "name": "Recep Tayyip Erdoğan",
+      "gender": "M",
+      "role": "President of the Republic of Türkiye",
+      "party": "AKP",
+      "salary": {
+        "gross": 130000,
+        "net": 91000
+      },
+      "sources": [
+        {
+          "T.C. Cumhurbaşkanlığı – 2025 Bütçe Kanunu": "https://tccb.gov.tr/dosyalar/2025-butce-kanunu.pdf"
+        },
+        {
+          "Türkiye Cumhuriyet Merkez Bankası – EUR/TRY ortalama Temmuz 2025": "https://tcmb.gov.tr/kurlar/2025-temmuz"
+        }
+      ]
+    },
+    {
+      "name": "Cevdet Yılmaz",
+      "gender": "M",
+      "role": "Vice President of Türkiye",
+      "party": "AKP",
+      "salary": {
+        "gross": 115000,
+        "net": 80500
+      },
+      "sources": [
+        {
+          "Hazine ve Maliye Bakanlığı – Üst Düzey Kamu Görevlileri Ücret Cetveli 2025": "https://hmb.gov.tr/raporlar/ucret-cetveli-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Mehmet Şimşek",
+      "gender": "M",
+      "portfolio": "Treasury and Finance",
+      "party": "AKP",
+      "salary": {
+        "gross": 90000,
+        "net": 63000
+      },
+      "sources": [
+        {
+          "Resmî Gazete – Bakanlık Ücret Tablosu 2025": "https://resmigazete.gov.tr/arsiv/2025/ureg-ministries.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Hakan Fidan",
+      "gender": "M",
+      "portfolio": "Foreign Affairs",
+      "party": "AKP",
+      "salary": {
+        "gross": 88000,
+        "net": 61600
+      },
+      "sources": [
+        {
+          "Dışişleri Bakanlığı – 2025 Performans Programı": "https://mfa.gov.tr/dosyalar/performans-programi-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Fahrettin Koca",
+      "gender": "M",
+      "portfolio": "Health",
+      "party": "AKP",
+      "salary": {
+        "gross": 86000,
+        "net": 60200
+      },
+      "sources": [
+        {
+          "Sağlık Bakanlığı – Bütçe Sunumu 2025": "https://saglik.gov.tr/dokumanlar/butce-sunumu-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Numan Kurtulmuş",
+      "gender": "M",
+      "role": "Speaker of the Grand National Assembly",
+      "party": "AKP",
+      "salary": {
+        "gross": 92000,
+        "net": 64400
+      },
+      "sources": [
+        {
+          "Türkiye Büyük Millet Meclisi – 2025 Mali Tablo": "https://tbmm.gov.tr/dokumanlar/mali-tablo-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "AKP": {
+      "name": "Adalet ve Kalkınma Partisi",
+      "range": 4,
+      "color": "#E68A00",
+      "en": "Justice and Development Party"
+    },
+    "CHP": {
+      "name": "Cumhuriyet Halk Partisi",
+      "range": 2,
+      "color": "#D71920",
+      "en": "Republican People's Party"
+    },
+    "MHP": {
+      "name": "Milliyetçi Hareket Partisi",
+      "range": 3,
+      "color": "#B22222",
+      "en": "Nationalist Movement Party"
+    }
+  }
+}

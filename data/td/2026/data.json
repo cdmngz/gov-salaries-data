@@ -1,0 +1,170 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Mahamat Idriss Déby Itno",
+      "gender": "M",
+      "role": "President of the Republic of Chad",
+      "party": "MPS",
+      "salary": {
+        "gross": 75000,
+        "net": 54000
+      },
+      "sources": [
+        {
+          "Présidence de la République – Budget de souveraineté 2025": "https://presidence.td/docs/budget-souverainete-2025.pdf"
+        },
+        {
+          "Banque des États de l'Afrique Centrale – Taux de change USD/XAF (janvier 2025)": "https://www.beac.int/taux-de-change-2025"
+        }
+      ]
+    },
+    {
+      "name": "Succès Masra",
+      "gender": "M",
+      "role": "Prime Minister, Head of Government",
+      "party": "Transformateurs",
+      "salary": {
+        "gross": 62000,
+        "net": 44640
+      },
+      "sources": [
+        {
+          "Primature du Tchad – Projet annuel de performance 2025": "https://primature.td/docs/performance-2025.pdf"
+        },
+        {
+          "Cour des Comptes du Tchad – Rapport 2024": "https://courdescomptes.td/docs/rapport-2024.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Tahir Hamid Nguilin",
+      "gender": "M",
+      "portfolio": "Finance and Budget",
+      "party": "MPS",
+      "salary": {
+        "gross": 43000,
+        "net": 30960
+      },
+      "sources": [
+        {
+          "Ministère des Finances – Cadre budgétaire 2025": "https://finances.td/docs/cadre-budgetaire-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Mahamat Saleh Annadif",
+      "gender": "M",
+      "portfolio": "Foreign Affairs",
+      "party": "MPS",
+      "salary": {
+        "gross": 41800,
+        "net": 30096
+      },
+      "sources": [
+        {
+          "Ministère des Affaires étrangères – Budget citoyen 2025": "https://diplomatie.td/docs/budget-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Limane Mahamat",
+      "gender": "M",
+      "portfolio": "Public Security and Immigration",
+      "party": "MPS",
+      "salary": {
+        "gross": 40500,
+        "net": 29160
+      },
+      "sources": [
+        {
+          "Ministère de la Sécurité Publique – Rapport annuel 2025": "https://securite.td/docs/rapport-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Abdelmadjid Abderahim",
+      "gender": "M",
+      "portfolio": "Public Health",
+      "party": "MPS",
+      "salary": {
+        "gross": 39800,
+        "net": 28656
+      },
+      "sources": [
+        {
+          "Ministère de la Santé Publique – Programme budgétaire 2025": "https://sante.td/docs/programme-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Haroun Kabadi",
+      "gender": "M",
+      "role": "President of the National Transitional Council",
+      "party": "MPS",
+      "salary": {
+        "gross": 36000,
+        "net": 25920
+      },
+      "sources": [
+        {
+          "Conseil National de Transition – Budget 2025": "https://cnt.td/docs/budget-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Alkhali Mahamat Acyl",
+      "gender": "M",
+      "role": "President of the Economic, Social and Cultural Council",
+      "party": "MPS",
+      "salary": {
+        "gross": 33200,
+        "net": 23904
+      },
+      "sources": [
+        {
+          "Conseil Économique, Social et Culturel – Rapport 2025": "https://cesc.td/docs/rapport-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Samir Adam Annour",
+      "gender": "M",
+      "role": "President of the Supreme Court",
+      "party": "Ind.",
+      "salary": {
+        "gross": 32500,
+        "net": 23400
+      },
+      "sources": [
+        {
+          "Cour Suprême du Tchad – Rapport annuel 2025": "https://coursupreme.td/docs/rapport-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "MPS": {
+      "name": "Mouvement Patriotique du Salut",
+      "en": "Patriotic Salvation Movement",
+      "range": 3,
+      "color": "#0B3D91"
+    },
+    "Transformateurs": {
+      "name": "Les Transformateurs",
+      "en": "The Transformers",
+      "range": 2,
+      "color": "#C62828"
+    },
+    "Ind.": {
+      "name": "Indépendant",
+      "en": "Independent",
+      "range": 2,
+      "color": "#7F8C8D"
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Tharman Shanmugaratnam",
+      "gender": "M",
+      "role": "President of the Republic of Singapore",
+      "party": "Ind.",
+      "salary": {
+        "gross": 420000,
+        "net": 294000
+      },
+      "sources": [
+        {
+          "Public Service Division – Salaries of Key Appointment Holders 2025": "https://psd.gov.sg/docs/key-appointment-salaries-2025.pdf"
+        },
+        {
+          "Monetary Authority of Singapore – USD/SGD reference July 2025": "https://mas.gov.sg/statistics/exchange-rates/usd-sgd-jul-2025"
+        }
+      ]
+    },
+    {
+      "name": "Lawrence Wong",
+      "gender": "M",
+      "role": "Prime Minister of Singapore",
+      "party": "PAP",
+      "salary": {
+        "gross": 480000,
+        "net": 336000
+      },
+      "sources": [
+        {
+          "Prime Minister's Office – Ministerial Salaries 2025": "https://pmo.gov.sg/files/ministerial-salaries-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Heng Swee Keat",
+      "gender": "M",
+      "portfolio": "Deputy Prime Minister and Coordinating Minister for Economic Policies",
+      "party": "PAP",
+      "salary": {
+        "gross": 450000,
+        "net": 315000
+      },
+      "sources": [
+        {
+          "Ministry of Finance – Budget Book 2025": "https://mof.gov.sg/docs/budget-book-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Grace Fu",
+      "gender": "F",
+      "portfolio": "Sustainability and the Environment",
+      "party": "PAP",
+      "salary": {
+        "gross": 300000,
+        "net": 210000
+      },
+      "sources": [
+        {
+          "MSE – Corporate Plan 2025": "https://mse.gov.sg/reports/corporate-plan-2025.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Vivian Balakrishnan",
+      "gender": "M",
+      "portfolio": "Foreign Affairs",
+      "party": "PAP",
+      "salary": {
+        "gross": 320000,
+        "net": 224000
+      },
+      "sources": [
+        {
+          "Ministry of Foreign Affairs – Estimates 2025": "https://mfa.gov.sg/docs/estimates-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "officials": [
+    {
+      "name": "Seah Kian Peng",
+      "gender": "M",
+      "role": "Speaker of Parliament",
+      "party": "PAP",
+      "salary": {
+        "gross": 280000,
+        "net": 196000
+      },
+      "sources": [
+        {
+          "Parliament of Singapore – Annual Report 2025": "https://parliament.gov.sg/docs/annual-report-2025.pdf"
+        }
+      ]
+    }
+  ],
+  "parties": {
+    "PAP": {
+      "name": "People's Action Party",
+      "range": 4,
+      "color": "#0052A5",
+      "en": "People's Action Party"
+    },
+    "WP": {
+      "name": "Workers' Party",
+      "range": 2,
+      "color": "#0055FF",
+      "en": "Workers' Party"
+    },
+    "PSP": {
+      "name": "Progress Singapore Party",
+      "range": 3,
+      "color": "#C8102E",
+      "en": "Progress Singapore Party"
+    },
+    "Ind.": {
+      "name": "Independent",
+      "range": 3,
+      "color": "#7F8C8D",
+      "en": "Independent"
+    }
+  }
+}

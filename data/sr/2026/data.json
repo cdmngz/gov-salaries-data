@@ -1,0 +1,125 @@
+{
+  "baseCurrency": "USD",
+  "executive": [
+    {
+      "name": "Chandrikapersad Santokhi",
+      "gender": "M",
+      "role": "President of the Republic of Suriname",
+      "party": "VHP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Ronnie Brunswijk",
+      "gender": "M",
+      "role": "Vice President of the Republic of Suriname",
+      "party": "ABOP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Albert Ramdin",
+      "gender": "M",
+      "role": "Minister of Foreign Affairs, International Business and International Cooperation",
+      "party": "VHP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Kenneth Amoksi",
+      "gender": "M",
+      "role": "Minister of Justice and Police",
+      "party": "ABOP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Krishna Mathoera",
+      "gender": "F",
+      "role": "Minister of Defence",
+      "party": "VHP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Stanley Raghoebarsing",
+      "gender": "M",
+      "role": "Minister of Finance and Planning",
+      "party": "VHP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "David Abiamofo",
+      "gender": "M",
+      "role": "Minister of Natural Resources",
+      "party": "ABOP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Marinus Bee",
+      "gender": "M",
+      "district": "Wanica",
+      "party": "ABOP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Stephen Tsang",
+      "gender": "M",
+      "district": "Paramaribo",
+      "party": "VHP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "senate": [],
+  "officials": [
+    {
+      "name": "Roy Baidjnath Panday",
+      "gender": "M",
+      "role": "Attorney General of Suriname",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "parties": {
+    "VHP": {
+      "name": "Vooruitstrevende Hervormings Partij",
+      "en": "Progressive Reform Party",
+      "range": 2,
+      "color": "#F36F21"
+    },
+    "ABOP": {
+      "name": "Algemene Bevrijdings- en Ontwikkelingspartij",
+      "en": "General Liberation and Development Party",
+      "range": 3,
+      "color": "#007A3D"
+    }
+  }
+}
