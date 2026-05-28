@@ -13318,5 +13318,7 @@
         "unmappedPartyCount": 0
       }
     }
-  }
+  },
+  "baseCurrency": "USD",
+  "parties": {}
 }
