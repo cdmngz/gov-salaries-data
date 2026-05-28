@@ -1033,12 +1033,12 @@
     }
   },
   "bf": {
-    "GDP": 20500000000,
-    "GDPPerCapita": 920,
-    "GDPGrowthYoY": 0,
-    "GDPPerCapitaGrowthYoY": 0,
-    "minAnnualSalary": 900,
-    "minAnnualSalaryGrowthYoY": 0,
+    "GDP": 22527472527,
+    "GDPPerCapita": 1011,
+    "GDPGrowthYoY": 9.89,
+    "GDPPerCapitaGrowthYoY": 9.89,
+    "minAnnualSalary": 989,
+    "minAnnualSalaryGrowthYoY": 9.89,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
       "quantity": 2,
@@ -1309,12 +1309,12 @@
     }
   },
   "bj": {
-    "GDP": 19000000000,
-    "GDPPerCapita": 1500,
-    "GDPGrowthYoY": 0,
-    "GDPPerCapitaGrowthYoY": 0,
-    "minAnnualSalary": 960,
-    "minAnnualSalaryGrowthYoY": 0,
+    "GDP": 20879120879,
+    "GDPPerCapita": 1648,
+    "GDPGrowthYoY": 9.89,
+    "GDPPerCapitaGrowthYoY": 9.87,
+    "minAnnualSalary": 1055,
+    "minAnnualSalaryGrowthYoY": 9.9,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
       "quantity": 2,
@@ -2762,12 +2762,12 @@
     }
   },
   "cv": {
-    "GDP": 2600000000,
-    "GDPPerCapita": 4600,
-    "GDPGrowthYoY": 0,
-    "GDPPerCapitaGrowthYoY": 0,
-    "minAnnualSalary": 3000,
-    "minAnnualSalaryGrowthYoY": 0,
+    "GDP": 2857142857,
+    "GDPPerCapita": 5055,
+    "GDPGrowthYoY": 9.89,
+    "GDPPerCapitaGrowthYoY": 9.89,
+    "minAnnualSalary": 3297,
+    "minAnnualSalaryGrowthYoY": 9.9,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
       "quantity": 2,
@@ -4344,12 +4344,12 @@
     }
   },
   "ge": {
-    "GDP": 31000000000,
-    "GDPPerCapita": 8300,
-    "GDPGrowthYoY": 0,
-    "GDPPerCapitaGrowthYoY": 0,
-    "minAnnualSalary": 4800,
-    "minAnnualSalaryGrowthYoY": 0,
+    "GDP": 34065934066,
+    "GDPPerCapita": 9121,
+    "GDPGrowthYoY": 9.89,
+    "GDPPerCapitaGrowthYoY": 9.89,
+    "minAnnualSalary": 5275,
+    "minAnnualSalaryGrowthYoY": 9.9,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
       "quantity": 2,
@@ -12014,12 +12014,12 @@
     }
   },
   "tr": {
-    "GDP": 940000000000,
-    "GDPPerCapita": 11000,
-    "GDPGrowthYoY": 0,
-    "GDPPerCapitaGrowthYoY": 0,
-    "minAnnualSalary": 7800,
-    "minAnnualSalaryGrowthYoY": 0,
+    "GDP": 1032967032967,
+    "GDPPerCapita": 12088,
+    "GDPGrowthYoY": 9.89,
+    "GDPPerCapitaGrowthYoY": 9.89,
+    "minAnnualSalary": 8571,
+    "minAnnualSalaryGrowthYoY": 9.88,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
       "quantity": 3,
@@ -13318,7 +13318,5 @@
         "unmappedPartyCount": 0
       }
     }
-  },
-  "baseCurrency": "USD",
-  "parties": {}
+  }
 }
