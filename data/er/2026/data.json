@@ -6,13 +6,16 @@
       "gender": "M",
       "role": "President of the State of Eritrea",
       "party": "PFDJ",
-      "salary": { "gross": null, "net": null },
+      "salary": {
+        "gross": null,
+        "net": null
+      },
       "sources": [
         {
-          "Shabait – President Isaias Afwerki New Year Message": "https://shabait.com/2025/01/01/president-isaias-afwerki-new-year-message/"
+          "Shabait – President Isaias Afwerki 2026 public address": "https://shabait.com/2026/07/18/national-eritrean-festival-2026-commences/"
         },
         {
-          "African Union – Eritrea": "https://au.int/en/memberstates/eritrea"
+          "BTI 2026 Eritrea country report – institutions and cabinet context": "https://bti-project.org/en/reports/country-report/ERI"
         }
       ]
     }
@@ -23,10 +26,16 @@
       "gender": "M",
       "role": "Minister of Finance and National Development",
       "party": "PFDJ",
-      "salary": { "gross": null, "net": null },
+      "salary": {
+        "gross": null,
+        "net": null
+      },
       "sources": [
         {
           "Ministry of Information Eritrea – Cabinet of Ministers": "https://shabait.com/category/cabinet-of-ministers/"
+        },
+        {
+          "BTI 2026 Eritrea country report – limited public cabinet/salary disclosure context": "https://bti-project.org/en/reports/country-report/ERI"
         }
       ]
     },
@@ -35,10 +44,88 @@
       "gender": "M",
       "role": "Minister of Foreign Affairs",
       "party": "PFDJ",
-      "salary": { "gross": null, "net": null },
+      "salary": {
+        "gross": null,
+        "net": null
+      },
       "sources": [
         {
           "Ministry of Foreign Affairs of Eritrea": "https://mfa.gov.er/minister/"
+        },
+        {
+          "BTI 2026 Eritrea country report – limited public cabinet/salary disclosure context": "https://bti-project.org/en/reports/country-report/ERI"
+        }
+      ]
+    },
+    {
+      "name": "Filipos Woldeyohannes",
+      "gender": "M",
+      "role": "Minister of Defense",
+      "party": "PFDJ",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Cabinet of Ministers of Eritrea – available public minister roster": "https://en.wikipedia.org/wiki/Cabinet_of_Ministers_of_Eritrea"
+        },
+        {
+          "BTI 2026 Eritrea country report – cabinet context": "https://bti-project.org/en/reports/country-report/ERI"
+        }
+      ]
+    },
+    {
+      "name": "Amna Nurhusein",
+      "gender": "F",
+      "role": "Minister of Health",
+      "party": "PFDJ",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Cabinet of Ministers of Eritrea – available public minister roster": "https://en.wikipedia.org/wiki/Cabinet_of_Ministers_of_Eritrea"
+        },
+        {
+          "BTI 2026 Eritrea country report – cabinet context": "https://bti-project.org/en/reports/country-report/ERI"
+        }
+      ]
+    },
+    {
+      "name": "Semere Russom",
+      "gender": "M",
+      "role": "Minister of Education",
+      "party": "PFDJ",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Cabinet of Ministers of Eritrea – available public minister roster": "https://en.wikipedia.org/wiki/Cabinet_of_Ministers_of_Eritrea"
+        },
+        {
+          "BTI 2026 Eritrea country report – cabinet context": "https://bti-project.org/en/reports/country-report/ERI"
+        }
+      ]
+    },
+    {
+      "name": "Fozia Hashim",
+      "gender": "F",
+      "role": "Minister of Justice",
+      "party": "PFDJ",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Cabinet of Ministers of Eritrea – available public minister roster": "https://en.wikipedia.org/wiki/Cabinet_of_Ministers_of_Eritrea"
+        },
+        {
+          "BTI 2026 Eritrea country report – cabinet context": "https://bti-project.org/en/reports/country-report/ERI"
         }
       ]
     }
@@ -52,5 +139,25 @@
       "range": 5,
       "color": "#006B3F"
     }
-  }
+  },
+  "officials": [
+    {
+      "name": "Isaias Afwerki",
+      "gender": "M",
+      "role": "Speaker of the National Assembly",
+      "party": "PFDJ",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "IPU Parline – Eritrea National Assembly speaker": "https://data.ipu.org/parliament/ER/ER-LC01/"
+        },
+        {
+          "BTI 2026 Eritrea country report – National Assembly has not convened since 2002": "https://bti-project.org/en/reports/country-report/ERI"
+        }
+      ]
+    }
+  ]
 }

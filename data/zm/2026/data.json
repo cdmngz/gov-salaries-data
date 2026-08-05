@@ -7,9 +7,17 @@
       "role": "President of Zambia",
       "party": "UPND",
       "salary": {
-        "gross": null,
+        "gross": 63100,
         "net": null
-      }
+      },
+      "sources": [
+        {
+          "Presidential Emoluments Act – statutory salary and allowance": "https://www.parliament.gov.zm/sites/default/files/documents/acts/Presidential%20Emoluments%20Act.pdf"
+        },
+        {
+          "List of heads of state and government salaries – Zambia entry": "https://en.wikipedia.org/wiki/List_of_heads_of_state_and_government_salaries"
+        }
+      ]
     },
     {
       "name": "Mutale Nalumango",
@@ -17,9 +25,17 @@
       "role": "Vice President",
       "party": "UPND",
       "salary": {
-        "gross": null,
+        "gross": 43800,
         "net": null
-      }
+      },
+      "sources": [
+        {
+          "List of heads of state and government salaries – Zambia vice president entry": "https://en.wikipedia.org/wiki/List_of_heads_of_state_and_government_salaries"
+        },
+        {
+          "Ministerial and Parliamentary Offices (Emoluments) Act": "https://www.parliament.gov.zm/sites/default/files/documents/acts/Ministerial%20and%20Parliamentary%20Offices%20%28Emoluments%29%20Act.pdf"
+        }
+      ]
     }
   ],
   "ministers": [
@@ -56,7 +72,23 @@
   ],
   "deputies": [],
   "senate": [],
-  "officials": [],
+  "officials": [
+    {
+      "name": "Nelly Mutti",
+      "gender": "F",
+      "role": "Speaker of the National Assembly",
+      "party": "UPND",
+      "salary": {
+        "gross": 15300,
+        "net": null
+      },
+      "sources": [
+        {
+          "IPU Parline – Zambia parliamentary mandate, salaries and allowances": "https://data.ipu.org/parliament/ZM/ZM-LC01/parliamentary-mandate/parliamentary-mandate"
+        }
+      ]
+    }
+  ],
   "parties": {
     "UPND": {
       "name": "United Party for National Development",

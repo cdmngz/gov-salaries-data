@@ -2,14 +2,25 @@
   "baseCurrency": "EUR",
   "executive": [
     {
-      "name": "Vjosa Osmani",
+      "name": "Albulena Haxhiu",
       "gender": "F",
-      "role": "President of Kosovo",
-      "party": "GUXO",
+      "role": "Acting President of Kosovo",
+      "party": "VV",
       "salary": {
-        "gross": null,
+        "gross": 25080,
         "net": null
-      }
+      },
+      "sources": [
+        {
+          "Office of the President of Kosovo – Acting President biography": "https://president-ksgov.net/en/president/"
+        },
+        {
+          "Prishtina Insight – Kosovo wage coefficient increase": "https://prishtinainsight.com/government-reveals-coefficient-for-wages-in-public-sector/"
+        },
+        {
+          "Kossev – Kosovo salary coefficients for top officials": "https://kossev.info/en/kosovska-vlada-odlucila-vrednost-koeficijenta-105-evra/"
+        }
+      ]
     },
     {
       "name": "Albin Kurti",
@@ -17,9 +28,17 @@
       "role": "Prime Minister",
       "party": "VV",
       "salary": {
-        "gross": null,
+        "gross": 23760,
         "net": null
-      }
+      },
+      "sources": [
+        {
+          "Kossev – Kosovo salary coefficients for top officials": "https://kossev.info/en/kosovska-vlada-odlucila-vrednost-koeficijenta-105-evra/"
+        },
+        {
+          "Prishtina Insight – 2025 public sector salary increase": "https://prishtinainsight.com/kosovo-government-announces-public-sector-pay-hike-ahead-of-2025-election/"
+        }
+      ]
     }
   ],
   "ministers": [
@@ -29,9 +48,17 @@
       "role": "First Deputy Prime Minister for European Integration",
       "party": "VV",
       "salary": {
-        "gross": null,
+        "gross": 22968,
         "net": null
-      }
+      },
+      "sources": [
+        {
+          "Kossev – Kosovo salary coefficients for top officials": "https://kossev.info/en/kosovska-vlada-odlucila-vrednost-koeficijenta-105-evra/"
+        },
+        {
+          "Prishtina Insight – 2025 public sector salary increase": "https://prishtinainsight.com/kosovo-government-announces-public-sector-pay-hike-ahead-of-2025-election/"
+        }
+      ]
     },
     {
       "name": "Donika Gërvalla-Schwarz",
@@ -39,9 +66,17 @@
       "role": "Deputy Prime Minister and Minister of Foreign Affairs",
       "party": "GUXO",
       "salary": {
-        "gross": null,
+        "gross": 22968,
         "net": null
-      }
+      },
+      "sources": [
+        {
+          "Kossev – Kosovo salary coefficients for top officials": "https://kossev.info/en/kosovska-vlada-odlucila-vrednost-koeficijenta-105-evra/"
+        },
+        {
+          "Prishtina Insight – 2025 public sector salary increase": "https://prishtinainsight.com/kosovo-government-announces-public-sector-pay-hike-ahead-of-2025-election/"
+        }
+      ]
     },
     {
       "name": "Hekuran Murati",
@@ -49,9 +84,17 @@
       "role": "Minister of Finance, Labour and Transfers",
       "party": "VV",
       "salary": {
-        "gross": null,
+        "gross": 22968,
         "net": null
-      }
+      },
+      "sources": [
+        {
+          "Kossev – Kosovo salary coefficients for top officials": "https://kossev.info/en/kosovska-vlada-odlucila-vrednost-koeficijenta-105-evra/"
+        },
+        {
+          "Prishtina Insight – 2025 public sector salary increase": "https://prishtinainsight.com/kosovo-government-announces-public-sector-pay-hike-ahead-of-2025-election/"
+        }
+      ]
     },
     {
       "name": "Ejup Maqedonci",
@@ -59,9 +102,17 @@
       "role": "Minister of Defence",
       "party": "VV",
       "salary": {
-        "gross": null,
+        "gross": 22968,
         "net": null
-      }
+      },
+      "sources": [
+        {
+          "Kossev – Kosovo salary coefficients for top officials": "https://kossev.info/en/kosovska-vlada-odlucila-vrednost-koeficijenta-105-evra/"
+        },
+        {
+          "Prishtina Insight – 2025 public sector salary increase": "https://prishtinainsight.com/kosovo-government-announces-public-sector-pay-hike-ahead-of-2025-election/"
+        }
+      ]
     },
     {
       "name": "Xhelal Sveçla",
@@ -69,9 +120,17 @@
       "role": "Minister of Internal Affairs",
       "party": "VV",
       "salary": {
-        "gross": null,
+        "gross": 22968,
         "net": null
-      }
+      },
+      "sources": [
+        {
+          "Kossev – Kosovo salary coefficients for top officials": "https://kossev.info/en/kosovska-vlada-odlucila-vrednost-koeficijenta-105-evra/"
+        },
+        {
+          "Prishtina Insight – 2025 public sector salary increase": "https://prishtinainsight.com/kosovo-government-announces-public-sector-pay-hike-ahead-of-2025-election/"
+        }
+      ]
     },
     {
       "name": "Albulena Haxhiu",
@@ -79,9 +138,17 @@
       "role": "Minister of Justice",
       "party": "VV",
       "salary": {
-        "gross": null,
+        "gross": 22968,
         "net": null
-      }
+      },
+      "sources": [
+        {
+          "Kossev – Kosovo salary coefficients for top officials": "https://kossev.info/en/kosovska-vlada-odlucila-vrednost-koeficijenta-105-evra/"
+        },
+        {
+          "Prishtina Insight – 2025 public sector salary increase": "https://prishtinainsight.com/kosovo-government-announces-public-sector-pay-hike-ahead-of-2025-election/"
+        }
+      ]
     }
   ],
   "deputies": [],

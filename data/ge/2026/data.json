@@ -2,17 +2,20 @@
   "baseCurrency": "EUR",
   "executive": [
     {
-      "name": "Salome Zourabichvili",
-      "gender": "F",
+      "name": "Mikheil Kavelashvili",
+      "gender": "M",
       "role": "President of Georgia",
-      "party": "IND",
-      "salary": { "gross": null, "net": null },
+      "party": "GD",
+      "salary": {
+        "gross": 64000,
+        "net": null
+      },
       "sources": [
         {
-          "Administration of the President of Georgia": "https://president.ge/en/"
+          "Civil Georgia – 2024 remuneration amendments (coefficients/base salary)": "https://civil.ge/archives/586102"
         },
         {
-          "Agenda.ge – President outlines 2025 priorities": "https://agenda.ge/en/news/2025/1025"
+          "BM.ge – 2026 official salary amounts": "https://bm.ge/en/news/salaries-for-the-prime-minister-president-and-mps-to-increase-in-2026-who-will-earn-how-much"
         }
       ]
     },
@@ -21,13 +24,16 @@
       "gender": "M",
       "role": "Prime Minister of Georgia",
       "party": "GD",
-      "salary": { "gross": null, "net": null },
+      "salary": {
+        "gross": 64000,
+        "net": null
+      },
       "sources": [
         {
-          "Government of Georgia – Prime Minister": "https://www.gov.ge/en/page/prime-minister"
+          "Civil Georgia – 2024 remuneration amendments (coefficients/base salary)": "https://civil.ge/archives/586102"
         },
         {
-          "Reuters – Georgia's PM sets 2025 reform plan": "https://www.reuters.com/world/europe/georgias-pm-sets-2025-reform-plan-2025-03-18/"
+          "BM.ge – 2026 official salary amounts": "https://bm.ge/en/news/salaries-for-the-prime-minister-president-and-mps-to-increase-in-2026-who-will-earn-how-much"
         }
       ]
     }
@@ -38,22 +44,34 @@
       "gender": "M",
       "role": "Minister of Finance",
       "party": "GD",
-      "salary": { "gross": null, "net": null },
+      "salary": {
+        "gross": 54400,
+        "net": null
+      },
       "sources": [
         {
-          "Ministry of Finance of Georgia": "https://mof.ge/en/minister"
+          "Matsne – Law of Georgia on Remuneration in Public Institutions": "https://matsne.gov.ge/en/document/view/3971683"
+        },
+        {
+          "BM.ge – 2026 official salary amounts": "https://bm.ge/en/news/salaries-for-the-prime-minister-president-and-mps-to-increase-in-2026-who-will-earn-how-much"
         }
       ]
     },
     {
-      "name": "Ilia Darchiashvili",
-      "gender": "M",
+      "name": "Maka Botchorishvili",
+      "gender": "F",
       "role": "Minister of Foreign Affairs",
       "party": "GD",
-      "salary": { "gross": null, "net": null },
+      "salary": {
+        "gross": 54400,
+        "net": null
+      },
       "sources": [
         {
-          "Ministry of Foreign Affairs of Georgia": "https://mfa.gov.ge/en/Ministry/Minister"
+          "Matsne – Law of Georgia on Remuneration in Public Institutions": "https://matsne.gov.ge/en/document/view/3971683"
+        },
+        {
+          "BM.ge – 2026 official salary amounts": "https://bm.ge/en/news/salaries-for-the-prime-minister-president-and-mps-to-increase-in-2026-who-will-earn-how-much"
         }
       ]
     }
@@ -64,10 +82,13 @@
       "gender": "M",
       "role": "Chairperson of the Parliament of Georgia",
       "party": "GD",
-      "salary": { "gross": null, "net": null },
+      "salary": {
+        "gross": 64000,
+        "net": null
+      },
       "sources": [
         {
-          "Parliament of Georgia – Chairperson": "https://parliament.ge/en/parliament-chairperson"
+          "BM.ge – 2026 official salary amounts": "https://bm.ge/en/news/salaries-for-the-prime-minister-president-and-mps-to-increase-in-2026-who-will-earn-how-much"
         }
       ]
     }
