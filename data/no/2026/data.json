@@ -8,7 +8,12 @@
       "salary": {
         "gross": null,
         "net": null
-      }
+      },
+      "sources": [
+        {
+          "Royal House of Norway – annual report and Civil List": "https://www.royalcourt.no/press/press-releases/the-annual-report-of-the-royal-court-2025"
+        }
+      ]
     },
     {
       "name": "Sonja Haraldsen",
@@ -17,7 +22,12 @@
       "salary": {
         "gross": null,
         "net": null
-      }
+      },
+      "sources": [
+        {
+          "Royal House of Norway – annual report and Civil List": "https://www.royalcourt.no/press/press-releases/the-annual-report-of-the-royal-court-2025"
+        }
+      ]
     },
     {
       "name": "Haakon Magnus",
@@ -26,7 +36,12 @@
       "salary": {
         "gross": null,
         "net": null
-      }
+      },
+      "sources": [
+        {
+          "Royal House of Norway – annual report and Civil List": "https://www.royalcourt.no/press/press-releases/the-annual-report-of-the-royal-court-2025"
+        }
+      ]
     },
     {
       "name": "Mette-Marit Tjessem Høiby",
@@ -35,7 +50,12 @@
       "salary": {
         "gross": null,
         "net": null
-      }
+      },
+      "sources": [
+        {
+          "Royal House of Norway – annual report and Civil List": "https://www.royalcourt.no/press/press-releases/the-annual-report-of-the-royal-court-2025"
+        }
+      ]
     }
   ],
   "executive": [
@@ -44,7 +64,18 @@
       "gender": "M",
       "role": "Statsminister",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 189405,
+        "net": null
+      },
+      "sources": [
+        {
+          "Stortinget – MPs pay, allowances and Prime Minister remuneration (1 May 2026)": "https://www.stortinget.no/en/In-English/Members-of-the-Storting/Financial-support/"
+        },
+        {
+          "Norway Government – Prime Minister": "https://www.regjeringen.no/en/dep/smk/id875/"
+        }
+      ]
     }
   ],
   "ministers": [
@@ -53,138 +84,424 @@
       "gender": "F",
       "portfolio": "Minister of Labour and Social Inclusion",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Jan Christian Vestre",
       "gender": "M",
       "portfolio": "Minister of Health and Care Services",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Jens Stoltenberg",
       "gender": "M",
       "portfolio": "Minister of Finance",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Espen Barth Eide",
       "gender": "M",
       "portfolio": "Minister of Foreign Affairs",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Jon-Ivar Nygård",
       "gender": "M",
       "portfolio": "Minister of Transport",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Terje Aasland",
       "gender": "M",
       "portfolio": "Minister of Energy",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Lubna Jaffery",
       "gender": "F",
       "portfolio": "Minister of Culture and Equality",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Karianne Oldernes Tung",
       "gender": "F",
       "portfolio": "Minister of Digitalisation and Public Governance",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Cecilie Myrseth",
       "gender": "F",
       "portfolio": "Minister of Trade and Industry",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Kari Nessa Nordtun",
       "gender": "F",
       "portfolio": "Minister of Education",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Andreas Bjelland Eriksen",
       "gender": "M",
       "portfolio": "Minister of Climate and Environment",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Marianne Sivertsen Næss",
       "gender": "F",
       "portfolio": "Minister of Fisheries and Ocean Policy",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Tore O. Sandvik",
       "gender": "M",
       "portfolio": "Minister of Defence",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Astri Aas-Hansen",
       "gender": "F",
       "portfolio": "Minister of Justice and Public Security",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Kjersti Stenseng",
       "gender": "F",
       "portfolio": "Minister of Local Government and Regional Development",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Sigrun Aasland",
       "gender": "F",
       "portfolio": "Minister of Research and Higher Education",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Åsmund Grøver Aukrust",
       "gender": "M",
       "portfolio": "Minister of International Development",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Lene Vågslid",
       "gender": "F",
       "portfolio": "Minister of Children and Families",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     },
     {
       "name": "Nils Kristen Sandtrøen",
       "gender": "M",
       "portfolio": "Minister of Agriculture and Food",
       "party": "Ap",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": 153873,
+        "net": null
+      },
+      "sources": [
+        {
+          "Norway News in English – 2026 ministerial salary raise": "https://www.newsinenglish.no/2026/06/19/lawmakers-approve-their-own-pay-raises/"
+        },
+        {
+          "Government of Norway – Ministries": "https://www.regjeringen.no/en/dep/id933/"
+        }
+      ]
     }
   ],
-  "deputies": [],
+  "deputies": [
+    {
+      "name": "Masud Gharahkhani",
+      "gender": "M",
+      "district": "Buskerud",
+      "party": "Ap",
+      "salary": {
+        "gross": 189405,
+        "net": null
+      },
+      "sources": [
+        {
+          "Stortinget – President of the Storting remuneration": "https://www.stortinget.no/en/In-English/Members-of-the-Storting/Financial-support/"
+        }
+      ]
+    },
+    {
+      "name": "Erna Solberg",
+      "gender": "F",
+      "district": "Hordaland",
+      "party": "H",
+      "salary": {
+        "gross": 107814,
+        "net": null
+      },
+      "sources": [
+        {
+          "Stortinget – fixed annual remuneration for MPs": "https://www.stortinget.no/en/In-English/Members-of-the-Storting/Financial-support/"
+        }
+      ]
+    },
+    {
+      "name": "Sylvi Listhaug",
+      "gender": "F",
+      "district": "Møre og Romsdal",
+      "party": "FrP",
+      "salary": {
+        "gross": 107814,
+        "net": null
+      },
+      "sources": [
+        {
+          "Stortinget – fixed annual remuneration for MPs": "https://www.stortinget.no/en/In-English/Members-of-the-Storting/Financial-support/"
+        }
+      ]
+    },
+    {
+      "name": "Marit Arnstad",
+      "gender": "F",
+      "district": "Nord-Trøndelag",
+      "party": "Sp",
+      "salary": {
+        "gross": 107814,
+        "net": null
+      },
+      "sources": [
+        {
+          "Stortinget – fixed annual remuneration for MPs": "https://www.stortinget.no/en/In-English/Members-of-the-Storting/Financial-support/"
+        }
+      ]
+    }
+  ],
   "senate": [],
-  "officials": [],
+  "officials": [
+    {
+      "name": "Masud Gharahkhani",
+      "gender": "M",
+      "role": "President of the Storting",
+      "party": "Ap",
+      "salary": {
+        "gross": 189405,
+        "net": null
+      },
+      "sources": [
+        {
+          "Stortinget – President receives same remuneration as Prime Minister": "https://www.stortinget.no/en/In-English/Members-of-the-Storting/Financial-support/"
+        }
+      ]
+    }
+  ],
   "parties": {
     "Ap": {
       "name": "Arbeiderpartiet",
