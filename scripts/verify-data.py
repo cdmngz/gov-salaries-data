@@ -8,9 +8,9 @@ from collections import defaultdict
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 
-required_data_keys = ["baseCurrency", "parties"]
-required_econ_keys = ["baseCurrency", "GDP", "GDPPerCapita", "minAnnualSalary", "timestamp"]
 people_sections = ["royalty", "executive", "ministers", "deputies", "senate", "officials"]
+required_data_keys = ["baseCurrency", *people_sections, "parties"]
+required_econ_keys = ["baseCurrency", "GDP", "GDPPerCapita", "minAnnualSalary", "timestamp"]
 
 
 def parse_args():
@@ -73,6 +73,11 @@ def verify_year(year):
         if data is None:
             continue
 
+        if not isinstance(data, dict):
+            issues.append((country, data_path, "top-level JSON value should be an object"))
+            summary["invalid_data_format"] += 1
+            continue
+
         econ_path = data_path.with_name("economics.json")
         economics = read_json(econ_path, country, issues, summary)
 
@@ -87,7 +92,16 @@ def verify_year(year):
                 issues.append((country, data_path, f"`{section}` should be a list"))
                 summary["invalid_people_sections"] += 1
 
+        if "parties" in data and not isinstance(data["parties"], dict):
+            issues.append((country, data_path, "`parties` should be an object"))
+            summary["invalid_parties"] += 1
+
         if economics is None:
+            continue
+
+        if not isinstance(economics, dict):
+            issues.append((country, econ_path, "top-level JSON value should be an object"))
+            summary["invalid_economics_format"] += 1
             continue
 
         for key in required_econ_keys:
