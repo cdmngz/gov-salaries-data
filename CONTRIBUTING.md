@@ -62,3 +62,19 @@ By contributing, you agree to release your data contributions under [CC0 1.0](ht
 ---
 
 Thank you for helping build transparent public salary data for everyone! 🌍
+
+## Validate data locally
+
+Before committing or pushing data changes, run the repository verifier:
+
+```bash
+python3 scripts/verify-data.py
+```
+
+The command automatically discovers and validates every four-digit year under the
+country data directories. To validate only selected years, pass them explicitly,
+for example `python3 scripts/verify-data.py 2025 2026`.
+
+Pull requests and every branch push run the same validation in GitHub Actions. The
+workflow must be configured as a required status check in the repository's branch
+protection rules to prevent merging invalid data.
