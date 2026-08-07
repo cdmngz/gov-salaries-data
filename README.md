@@ -36,6 +36,12 @@ Each dataset is organized by:
 - `data.json` contains official records, metadata, and the country `baseCurrency` field.
 - `economics.json` stores macroeconomic indicators (GDP, GDP per capita, minimum annual salary, timestamp) in the local `baseCurrency`.
 
+Every `data.json` has a stable top-level shape with the keys `baseCurrency`,
+`royalty`, `executive`, `ministers`, `deputies`, `senate`, `officials`, and
+`parties`. Sections without records remain present as empty arrays, while an
+empty `parties` map is represented by `{}`. Every `economics.json` includes
+`baseCurrency`, `GDP`, `GDPPerCapita`, `minAnnualSalary`, and `timestamp`.
+
 ---
 
 ## 💱 Currency & Rates

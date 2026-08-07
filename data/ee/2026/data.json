@@ -1079,5 +1079,8 @@
       "color": "#7A7A7A"
     }
   },
-  "baseCurrency": "EUR"
+  "baseCurrency": "EUR",
+  "royalty": [],
+  "senate": [],
+  "officials": []
 }

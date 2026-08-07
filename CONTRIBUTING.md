@@ -29,9 +29,19 @@ All data is organized by **country** and **year** in the **data** folder, the on
 Each `data.json` should follow this structure:
 
 - Salaries should represent **annual gross** and **annual net** numeric amounts
+- Every file must contain `baseCurrency`, `royalty`, `executive`, `ministers`,
+  `deputies`, `senate`, `officials`, and `parties`.
+- Keep personnel sections as arrays and `parties` as an object. When a country has
+  no entries for a section, keep its key and use an empty array (`[]`) or empty
+  object (`{}`) instead of omitting it.
+- Every `economics.json` must contain `baseCurrency`, `GDP`, `GDPPerCapita`,
+  `minAnnualSalary`, and `timestamp`.
 
 You can view the expected format here:  
 ➡️ [`templates/data-template.json`](templates/data-template.json)
+
+The corresponding economics format is documented in
+[`templates/economics-template.json`](templates/economics-template.json).
 
 This template serves as the reference for how your `data.json` files should be structured. Please validate your JSON against this format before submitting a pull request.
 
@@ -51,6 +61,7 @@ You **do not** need to edit the index.json files manually, these files are autom
 
 - [ ] Place the file in the correct path
 - [ ] Ensure the JSON is valid (no trailing commas!)
+- [ ] Preserve all required keys, using empty collections for sections without data
 - [ ] Confirm salaries are numeric
 
 ---

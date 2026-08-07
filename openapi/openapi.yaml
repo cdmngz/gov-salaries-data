@@ -348,7 +348,8 @@ components:
     CountryData:
       type: object
       additionalProperties: false
-      required: [baseCurrency]
+      required:
+        [baseCurrency, royalty, executive, ministers, deputies, senate, officials, parties]
       properties:
         baseCurrency:
           type: string
