@@ -1,0 +1,11 @@
+{
+  "baseCurrency": "EUR",
+  "GDP": 1600000000,
+  "GDPPerCapita": 53000,
+  "minAnnualSalary": null,
+  "timestamp": "2026-08-07T00:00:00Z",
+  "sources": [
+    { "Statistics and Research Åland – national accounts": "https://pxweb.asub.ax/PXWeb/pxweb/en/Statistik/Statistik__NR/" },
+    { "European Commission – Finland has no statutory minimum wage": "https://eures.europa.eu/living-and-working/living-and-working-conditions/living-and-working-conditions-finland_en" }
+  ]
+}

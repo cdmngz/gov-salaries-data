@@ -1,0 +1,249 @@
+{
+  "baseCurrency": "EUR",
+  "royalty": [],
+  "executive": [
+    {
+      "name": "Katrin Sjögren",
+      "gender": "F",
+      "role": "Premier of Åland (Lantråd)",
+      "party": "LIB",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Government of Åland – Premier Katrin Sjögren": "https://www.regeringen.ax/regeringen/lantrad-katrin-sjogren"
+        },
+        {
+          "Åland legislation – remuneration of members of the Government": "https://www.regeringen.ax/alandsk-lagstiftning/alex/201014"
+        }
+      ]
+    }
+  ],
+  "ministers": [
+    {
+      "name": "Annika Hambrudd",
+      "gender": "F",
+      "role": "Deputy Premier and Minister of Education and Culture",
+      "party": "C",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Government of Åland – ministers": "https://www.regeringen.ax/regeringen/ministrar"
+        }
+      ]
+    },
+    {
+      "name": "Mats Perämaa",
+      "gender": "M",
+      "role": "Minister of Finance",
+      "party": "LIB",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Government of Åland – ministers": "https://www.regeringen.ax/regeringen/ministrar"
+        }
+      ]
+    },
+    {
+      "name": "Camilla Gunell",
+      "gender": "F",
+      "role": "Minister of Infrastructure and Climate",
+      "party": "S",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Government of Åland – ministers": "https://www.regeringen.ax/regeringen/ministrar"
+        }
+      ]
+    },
+    {
+      "name": "Ingrid Zetterman",
+      "gender": "F",
+      "role": "Minister of Social Affairs and Health",
+      "party": "LIB",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Government of Åland – ministers": "https://www.regeringen.ax/regeringen/ministrar"
+        }
+      ]
+    },
+    {
+      "name": "Jesper Josefsson",
+      "gender": "M",
+      "role": "Minister of Industry and Trade",
+      "party": "C",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Government of Åland – ministers": "https://www.regeringen.ax/regeringen/ministrar"
+        }
+      ]
+    },
+    {
+      "name": "Arsim Zekaj",
+      "gender": "M",
+      "role": "Minister of Civil Affairs",
+      "party": "S",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Government of Åland – ministers": "https://www.regeringen.ax/regeringen/ministrar"
+        }
+      ]
+    }
+  ],
+  "deputies": [
+    {
+      "name": "Jörgen Pettersson",
+      "gender": "M",
+      "role": "Speaker of the Parliament of Åland",
+      "party": "C",
+      "district": "Åland",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Åland – Speaker and deputy speakers": "https://www.lagtinget.ax/organisation/talmanskonferensen"
+        }
+      ]
+    },
+    {
+      "name": "Veronica Thörnroos",
+      "gender": "F",
+      "role": "First Deputy Speaker of the Parliament of Åland",
+      "party": "C",
+      "district": "Åland",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Åland – Speaker and deputy speakers": "https://www.lagtinget.ax/organisation/talmanskonferensen"
+        }
+      ]
+    },
+    {
+      "name": "Marcus Måtar",
+      "gender": "M",
+      "role": "Second Deputy Speaker of the Parliament of Åland",
+      "party": "OB",
+      "district": "Åland",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Åland – Speaker and deputy speakers": "https://www.lagtinget.ax/organisation/talmanskonferensen"
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "name": "John Holmberg",
+      "gender": "M",
+      "role": "Member of the Parliament of Åland",
+      "party": "LIB",
+      "district": "Åland",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Åland – John Holmberg": "https://www.lagtinget.ax/ledamoter/john-holmberg"
+        }
+      ]
+    },
+    {
+      "name": "Harry Jansson",
+      "gender": "M",
+      "role": "Member of the Parliament of Åland",
+      "party": "C",
+      "district": "Åland",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Åland – Harry Jansson": "https://www.lagtinget.ax/ledamoter/harry-jansson"
+        }
+      ]
+    },
+    {
+      "name": "Simon Holmström",
+      "gender": "M",
+      "role": "Member of the Parliament of Åland",
+      "party": "HI",
+      "district": "Åland",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Parliament of Åland – Simon Holmström": "https://www.lagtinget.ax/ledamoter/simon-holmstrom"
+        }
+      ]
+    }
+  ],
+  "officials": [],
+  "parties": {
+    "LIB": {
+      "name": "Liberalerna på Åland",
+      "en": "Liberals for Åland",
+      "range": 3,
+      "color": "#8AC6E8"
+    },
+    "C": {
+      "name": "Åländsk Center",
+      "en": "Åland Centre",
+      "range": 3,
+      "color": "#008F3D"
+    },
+    "S": {
+      "name": "Ålands Socialdemokrater",
+      "en": "Åland Social Democrats",
+      "range": 2,
+      "color": "#E43A3A"
+    },
+    "OB": {
+      "name": "Obunden Samling",
+      "en": "Non-aligned Coalition",
+      "range": 4,
+      "color": "#F4A900"
+    },
+    "HI": {
+      "name": "Hållbart Initiativ",
+      "en": "Sustainable Initiative",
+      "range": 3,
+      "color": "#6BBE45"
+    }
+  }
+}
