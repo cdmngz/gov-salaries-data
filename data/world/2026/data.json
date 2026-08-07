@@ -692,6 +692,75 @@
       }
     }
   },
+  "ax": {
+    "GDP": 1758241758,
+    "GDPPerCapita": 58242,
+    "GDPGrowthYoY": 0,
+    "GDPPerCapitaGrowthYoY": 0,
+    "minAnnualSalary": 0,
+    "minAnnualSalaryGrowthYoY": null,
+    "ministersBudgetPctOfGDP": 0,
+    "ministers": {
+      "quantity": 6,
+      "budget": 0
+    },
+    "deputies": {
+      "quantity": 3
+    },
+    "senate": {
+      "quantity": 3
+    },
+    "partyRangeStats": {
+      "counts": {
+        "1": 0,
+        "2": 2,
+        "3": 10,
+        "4": 1,
+        "5": 0
+      },
+      "mostPopularRanges": [
+        3
+      ],
+      "mostPopularCount": 10,
+      "totalCountedOfficials": 13,
+      "unaffiliatedCount": 0,
+      "unmappedPartyCount": 0
+    },
+    "partyRangeStatsSplit": {
+      "executive": {
+        "counts": {
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          3
+        ],
+        "mostPopularCount": 1,
+        "totalCountedOfficials": 1,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      },
+      "rest": {
+        "counts": {
+          "1": 0,
+          "2": 2,
+          "3": 9,
+          "4": 1,
+          "5": 0
+        },
+        "mostPopularRanges": [
+          3
+        ],
+        "mostPopularCount": 9,
+        "totalCountedOfficials": 12,
+        "unaffiliatedCount": 0,
+        "unmappedPartyCount": 0
+      }
+    }
+  },
   "az": {
     "GDP": 78000000000,
     "GDPPerCapita": 7600,
