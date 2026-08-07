@@ -18,14 +18,14 @@
   ],
   "ministers": [
     {
-      "name": "Murat Nurtleu",
+      "name": "Yermek Kosherbayev",
       "gender": "M",
-      "role": "Deputy Prime Minister and Minister of Foreign Affairs",
+      "role": "Minister of Foreign Affairs",
       "party": "AMN",
       "salary": { "gross": null, "net": null }
     },
     {
-      "name": "Ruslan Zhaksylykov",
+      "name": "Dauren Kosanov",
       "gender": "M",
       "role": "Minister of Defence",
       "party": "AMN",
@@ -39,21 +39,21 @@
       "salary": { "gross": null, "net": null }
     },
     {
-      "name": "Nurlan Baibazarov",
+      "name": "Serik Zhumangarin",
       "gender": "M",
-      "role": "Minister of National Economy",
+      "role": "Deputy Prime Minister and Minister of National Economy",
       "party": "AMN",
       "salary": { "gross": null, "net": null }
     },
     {
-      "name": "Bagdat Musin",
+      "name": "Zhaslan Madiyev",
       "gender": "M",
-      "role": "Minister of Digital Development, Innovations and Aerospace Industry",
+      "role": "Deputy Prime Minister and Minister of Artificial Intelligence and Digital Development",
       "party": "AMN",
       "salary": { "gross": null, "net": null }
     },
     {
-      "name": "Tamara Duissenova",
+      "name": "Svetlana Zhakupova",
       "gender": "F",
       "role": "Minister of Labour and Social Protection of the Population",
       "party": "AMN",
@@ -65,29 +65,41 @@
       "name": "Erlan Koshanov",
       "gender": "M",
       "party": "AMN",
-      "district": "Karaganda Region",
       "role": "Chairman of the Mazhilis",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Albert Rau",
+      "gender": "M",
+      "party": "AMN",
+      "role": "Deputy Chairman of the Mazhilis",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Daniya Espayeva",
+      "gender": "F",
+      "party": "AKZ",
+      "role": "Deputy Chairwoman of the Mazhilis",
       "salary": { "gross": null, "net": null }
     },
     {
       "name": "Azat Peruashev",
       "gender": "M",
       "party": "AKZ",
-      "district": "Astana",
+      "role": "Leader of the Ak Zhol parliamentary faction",
       "salary": { "gross": null, "net": null }
     },
     {
       "name": "Aidos Sarym",
       "gender": "M",
       "party": "AMN",
-      "district": "Almaty",
       "salary": { "gross": null, "net": null }
     },
     {
-      "name": "Zhambyl Akhmetbekov",
+      "name": "Magerram Magerramov",
       "gender": "M",
       "party": "KNP",
-      "district": "Kostanay Region",
+      "role": "Leader of the People's Party parliamentary faction",
       "salary": { "gross": null, "net": null }
     }
   ],
@@ -96,7 +108,6 @@
       "name": "Maulen Ashimbayev",
       "gender": "M",
       "party": "IND",
-      "district": "Astana",
       "role": "Chairman of the Senate",
       "salary": { "gross": null, "net": null }
     },
@@ -112,7 +123,42 @@
       "name": "Zhakip Asanov",
       "gender": "M",
       "party": "IND",
-      "district": "Atyrau Region",
+      "role": "Deputy Chairman of the Senate",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Nurlan Beknazarov",
+      "gender": "M",
+      "party": "IND",
+      "district": "Shymkent",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Galiaskar Sarybayev",
+      "gender": "M",
+      "party": "IND",
+      "district": "Zhetysu Region",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Ruslan Rustemov",
+      "gender": "M",
+      "party": "IND",
+      "district": "Kyzylorda Region",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Shakarym Bukutgutov",
+      "gender": "M",
+      "party": "IND",
+      "district": "Abai Region",
+      "salary": { "gross": null, "net": null }
+    },
+    {
+      "name": "Alisher Satvaldiyev",
+      "gender": "M",
+      "party": "IND",
+      "district": "Turkistan Region",
       "salary": { "gross": null, "net": null }
     }
   ],
@@ -131,7 +177,7 @@
       "color": "#4BB4E6"
     },
     "KNP": {
-      "name": "Коммунистік халық партиясы",
+      "name": "Қазақстан Халық партиясы",
       "en": "People's Party of Kazakhstan",
       "range": 3,
       "color": "#CC0000"
