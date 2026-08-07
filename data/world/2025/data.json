@@ -1033,11 +1033,11 @@
     }
   },
   "bf": {
-    "GDP": 20500000000,
-    "GDPPerCapita": 920,
+    "GDP": 22527472527,
+    "GDPPerCapita": 1011,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
-    "minAnnualSalary": 900,
+    "minAnnualSalary": 989,
     "minAnnualSalaryGrowthYoY": null,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
@@ -1309,11 +1309,11 @@
     }
   },
   "bj": {
-    "GDP": 19000000000,
-    "GDPPerCapita": 1500,
+    "GDP": 20879120879,
+    "GDPPerCapita": 1648,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
-    "minAnnualSalary": 960,
+    "minAnnualSalary": 1055,
     "minAnnualSalaryGrowthYoY": null,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
@@ -2762,11 +2762,11 @@
     }
   },
   "cv": {
-    "GDP": 2600000000,
-    "GDPPerCapita": 4600,
+    "GDP": 2857142857,
+    "GDPPerCapita": 5055,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
-    "minAnnualSalary": 3000,
+    "minAnnualSalary": 3297,
     "minAnnualSalaryGrowthYoY": null,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
@@ -4344,11 +4344,11 @@
     }
   },
   "ge": {
-    "GDP": 31000000000,
-    "GDPPerCapita": 8300,
+    "GDP": 34065934066,
+    "GDPPerCapita": 9121,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
-    "minAnnualSalary": 4800,
+    "minAnnualSalary": 5275,
     "minAnnualSalaryGrowthYoY": null,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
@@ -12014,11 +12014,11 @@
     }
   },
   "tr": {
-    "GDP": 940000000000,
-    "GDPPerCapita": 11000,
+    "GDP": 1032967032967,
+    "GDPPerCapita": 12088,
     "GDPGrowthYoY": null,
     "GDPPerCapitaGrowthYoY": null,
-    "minAnnualSalary": 7800,
+    "minAnnualSalary": 8571,
     "minAnnualSalaryGrowthYoY": null,
     "ministersBudgetPctOfGDP": 0,
     "ministers": {
