@@ -6,167 +6,401 @@
       "gender": "M",
       "role": "President of the Republic of Colombia",
       "party": "PH",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      }
     },
     {
       "name": "Francia Márquez",
       "gender": "F",
       "role": "Vice President of the Republic of Colombia",
       "party": "PH",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      }
     }
   ],
   "ministers": [
     {
-      "name": "Juan Fernando Cristo",
+      "name": "Armando Benedetti",
       "gender": "M",
       "role": "Minister of the Interior",
-      "party": "PL",
-      "salary": { "gross": null, "net": null }
+      "party": "PH",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
     },
     {
-      "name": "Luis Gilberto Murillo",
-      "gender": "M",
+      "name": "Rosa Yolanda Villavicencio",
+      "gender": "F",
       "role": "Minister of Foreign Affairs",
       "party": "PH",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
     },
     {
-      "name": "Ricardo Bonilla",
+      "name": "Germán Ávila Plazas",
       "gender": "M",
       "role": "Minister of Finance and Public Credit",
       "party": "PH",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
     },
     {
-      "name": "Iván Velásquez",
+      "name": "Pedro Arnulfo Sánchez Suárez",
       "gender": "M",
       "role": "Minister of National Defense",
       "party": "Ind",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
     },
     {
-      "name": "Néstor Osuna",
+      "name": "Eduardo Montealegre Lynett",
       "gender": "M",
       "role": "Minister of Justice and Law",
-      "party": "PL",
-      "salary": { "gross": null, "net": null }
+      "party": "Ind",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
     },
     {
       "name": "Guillermo Alfonso Jaramillo",
       "gender": "M",
       "role": "Minister of Health and Social Protection",
       "party": "PH",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
     },
     {
-      "name": "Jhenifer Mojica",
+      "name": "Martha Carvajalino Villegas",
       "gender": "F",
       "role": "Minister of Agriculture and Rural Development",
       "party": "PH",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
     },
     {
-      "name": "Andrés Camacho",
+      "name": "Edwin Palma Egea",
       "gender": "M",
       "role": "Minister of Mines and Energy",
       "party": "PH",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
     },
     {
-      "name": "Susana Muhamad",
+      "name": "Irene Vélez Torres",
       "gender": "F",
       "role": "Minister of Environment and Sustainable Development",
       "party": "PH",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
     },
     {
-      "name": "Catalina Velasco",
+      "name": "Helga María Rivas Ardila",
       "gender": "F",
       "role": "Minister of Housing, City and Territory",
       "party": "PH",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
     },
     {
-      "name": "Gloria Inés Ramírez",
-      "gender": "F",
+      "name": "Antonio Sanguino Páez",
+      "gender": "M",
       "role": "Minister of Labor",
-      "party": "PH",
-      "salary": { "gross": null, "net": null }
+      "party": "AV",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
     },
     {
-      "name": "Yesenia Olaya",
+      "name": "Yesenia Olaya Requene",
       "gender": "F",
       "role": "Minister of Science, Technology and Innovation",
       "party": "PH",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Diana Marcela Morales Rojas",
+      "gender": "F",
+      "role": "Minister of Commerce, Industry and Tourism",
+      "party": "PH",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Rojas Medellín",
+      "gender": "M",
+      "role": "Minister of National Education",
+      "party": "PH",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Carina Murcia Yela",
+      "gender": "F",
+      "role": "Minister of Information and Communications Technologies",
+      "party": "PH",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
+    },
+    {
+      "name": "María Fernanda Rojas Mantilla",
+      "gender": "F",
+      "role": "Minister of Transport",
+      "party": "PH",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Yannai Kadamani Fonrodona",
+      "gender": "F",
+      "role": "Minister of Cultures, Arts and Knowledge",
+      "party": "PH",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Patricia Duque Cruz",
+      "gender": "F",
+      "role": "Minister of Sport",
+      "party": "PH",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
+    },
+    {
+      "name": "Juan Carlos Florián Silva",
+      "gender": "M",
+      "role": "Minister of Equality and Equity",
+      "party": "PH",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+        }
+      ]
     }
   ],
   "deputies": [
     {
-      "name": "Juan Carlos Wills Ospina",
-      "gender": "M",
-      "party": "PC",
-      "district": "Bogotá D.C.",
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Wilmer Carrillo Mendoza",
+      "name": "Julián David López Tenorio",
       "gender": "M",
       "party": "PU",
-      "district": "Norte de Santander",
-      "salary": { "gross": null, "net": null }
+      "district": "Valle del Cauca",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – Board of Directors": "https://www.camara.gov.co/mesa-directiva"
+        }
+      ]
     },
     {
-      "name": "Martha Alfonso Jurado",
-      "gender": "F",
-      "party": "AV",
-      "district": "Tolima",
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Katherine Miranda Peña",
-      "gender": "F",
-      "party": "AV",
-      "district": "Bogotá D.C.",
-      "salary": { "gross": null, "net": null }
-    },
-    {
-      "name": "Hernán Cadavid Márquez",
+      "name": "Juan Sebastián Gómez Gonzales",
       "gender": "M",
-      "party": "CD",
+      "party": "NL",
+      "district": "Caldas",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – Board of Directors": "https://www.camara.gov.co/mesa-directiva"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Carvalho Mejía",
+      "gender": "M",
+      "party": "AV",
       "district": "Antioquia",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – Board of Directors": "https://www.camara.gov.co/mesa-directiva"
+        }
+      ]
     }
   ],
   "senate": [
-    {
-      "name": "María José Pizarro Rodríguez",
-      "gender": "F",
-      "party": "PH",
-      "district": "Bogotá D.C.",
-      "salary": { "gross": null, "net": null }
-    },
     {
       "name": "Lidio Arturo García Turbay",
       "gender": "M",
       "party": "PL",
       "district": "Bolívar",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Senate of Colombia – Board of Directors": "https://www.senado.gov.co/index.php/el-senado/mesa-directiva"
+        }
+      ]
     },
     {
-      "name": "Paloma Susana Valencia Laserna",
+      "name": "Ana Paola Agudelo García",
       "gender": "F",
-      "party": "CD",
-      "district": "Antioquia",
-      "salary": { "gross": null, "net": null }
+      "party": "MIRA",
+      "district": "National constituency",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Senate of Colombia – Board of Directors": "https://www.senado.gov.co/index.php/el-senado/mesa-directiva"
+        }
+      ]
     },
     {
-      "name": "David Alejandro Luna Sánchez",
+      "name": "Didier Lobo Chinchilla",
       "gender": "M",
       "party": "CR",
-      "district": "Bogotá D.C.",
-      "salary": { "gross": null, "net": null }
+      "district": "Cesar",
+      "salary": {
+        "gross": null,
+        "net": null
+      },
+      "sources": [
+        {
+          "Senate of Colombia – Board of Directors": "https://www.senado.gov.co/index.php/el-senado/mesa-directiva"
+        }
+      ]
     }
   ],
   "officials": [
@@ -174,13 +408,19 @@
       "name": "Luz Adriana Camargo",
       "gender": "F",
       "role": "Attorney General of Colombia",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      }
     },
     {
       "name": "Carlos Hernán Rodríguez",
       "gender": "M",
       "role": "Comptroller General of the Republic",
-      "salary": { "gross": null, "net": null }
+      "salary": {
+        "gross": null,
+        "net": null
+      }
     }
   ],
   "parties": {
@@ -231,6 +471,18 @@
       "en": "Green Alliance Party",
       "range": 2,
       "color": "#6CC24A"
+    },
+    "NL": {
+      "name": "Nuevo Liberalismo",
+      "en": "New Liberalism",
+      "range": 3,
+      "color": "#E53E3E"
+    },
+    "MIRA": {
+      "name": "Movimiento Independiente de Renovación Absoluta",
+      "en": "Independent Movement of Absolute Renovation",
+      "range": 3,
+      "color": "#005BAC"
     }
   },
   "royalty": []
