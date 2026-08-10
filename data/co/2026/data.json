@@ -2,76 +2,9 @@
   "baseCurrency": "USD",
   "executive": [
     {
-      "name": "Gustavo Petro",
+      "name": "Abelardo de la Espriella Otero",
       "gender": "M",
       "role": "President of the Republic of Colombia",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      }
-    },
-    {
-      "name": "Francia Márquez",
-      "gender": "F",
-      "role": "Vice President of the Republic of Colombia",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      }
-    }
-  ],
-  "ministers": [
-    {
-      "name": "Armando Benedetti",
-      "gender": "M",
-      "role": "Minister of the Interior",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Rosa Yolanda Villavicencio",
-      "gender": "F",
-      "role": "Minister of Foreign Affairs",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Germán Ávila Plazas",
-      "gender": "M",
-      "role": "Minister of Finance and Public Credit",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Pedro Arnulfo Sánchez Suárez",
-      "gender": "M",
-      "role": "Minister of National Defense",
       "party": "Ind",
       "salary": {
         "gross": null,
@@ -79,236 +12,12 @@
       },
       "sources": [
         {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Eduardo Montealegre Lynett",
-      "gender": "M",
-      "role": "Minister of Justice and Law",
-      "party": "Ind",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Guillermo Alfonso Jaramillo",
-      "gender": "M",
-      "role": "Minister of Health and Social Protection",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Martha Carvajalino Villegas",
-      "gender": "F",
-      "role": "Minister of Agriculture and Rural Development",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Edwin Palma Egea",
-      "gender": "M",
-      "role": "Minister of Mines and Energy",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Irene Vélez Torres",
-      "gender": "F",
-      "role": "Minister of Environment and Sustainable Development",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Helga María Rivas Ardila",
-      "gender": "F",
-      "role": "Minister of Housing, City and Territory",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Antonio Sanguino Páez",
-      "gender": "M",
-      "role": "Minister of Labor",
-      "party": "AV",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Yesenia Olaya Requene",
-      "gender": "F",
-      "role": "Minister of Science, Technology and Innovation",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Diana Marcela Morales Rojas",
-      "gender": "F",
-      "role": "Minister of Commerce, Industry and Tourism",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Daniel Rojas Medellín",
-      "gender": "M",
-      "role": "Minister of National Education",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Carina Murcia Yela",
-      "gender": "F",
-      "role": "Minister of Information and Communications Technologies",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "María Fernanda Rojas Mantilla",
-      "gender": "F",
-      "role": "Minister of Transport",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Yannai Kadamani Fonrodona",
-      "gender": "F",
-      "role": "Minister of Cultures, Arts and Knowledge",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Patricia Duque Cruz",
-      "gender": "F",
-      "role": "Minister of Sport",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
-        }
-      ]
-    },
-    {
-      "name": "Juan Carlos Florián Silva",
-      "gender": "M",
-      "role": "Minister of Equality and Equity",
-      "party": "PH",
-      "salary": {
-        "gross": null,
-        "net": null
-      },
-      "sources": [
-        {
-          "Presidency of Colombia – cabinet ministers": "https://www.presidencia.gov.co/gobierno/Paginas/ministros.aspx"
+          "Presidency of Colombia – President’s profile": "https://www.presidencia.gov.co/presidente/Paginas/presidente.aspx"
         }
       ]
     }
   ],
+  "ministers": [],
   "deputies": [
     {
       "name": "Julián David López Tenorio",
@@ -316,12 +25,18 @@
       "party": "PU",
       "district": "Valle del Cauca",
       "salary": {
-        "gross": null,
+        "gross": 150800,
         "net": null
       },
       "sources": [
         {
           "Chamber of Representatives – Board of Directors": "https://www.camara.gov.co/mesa-directiva"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
         }
       ]
     },
@@ -331,12 +46,18 @@
       "party": "NL",
       "district": "Caldas",
       "salary": {
-        "gross": null,
+        "gross": 150800,
         "net": null
       },
       "sources": [
         {
           "Chamber of Representatives – Board of Directors": "https://www.camara.gov.co/mesa-directiva"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
         }
       ]
     },
@@ -346,12 +67,375 @@
       "party": "AV",
       "district": "Antioquia",
       "salary": {
-        "gross": null,
+        "gross": 150800,
         "net": null
       },
       "sources": [
         {
           "Chamber of Representatives – Board of Directors": "https://www.camara.gov.co/mesa-directiva"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Katherine Miranda Peña",
+      "gender": "F",
+      "party": "AV",
+      "district": "Bogotá D.C.",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Andrés Eduardo Forero Molina",
+      "gender": "M",
+      "party": "CD",
+      "district": "Bogotá D.C.",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "María Fernanda Carrascal Rojas",
+      "gender": "F",
+      "party": "PH",
+      "district": "Bogotá D.C.",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "David Ricardo Racero Mayorca",
+      "gender": "M",
+      "party": "PH",
+      "district": "Bogotá D.C.",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Hernán Darío Cadavid Márquez",
+      "gender": "M",
+      "party": "CD",
+      "district": "Antioquia",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Jennifer Dalley Pedraza Sandoval",
+      "gender": "F",
+      "party": "AV",
+      "district": "Bogotá D.C.",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Alirio Uribe Muñoz",
+      "gender": "M",
+      "party": "PH",
+      "district": "Bogotá D.C.",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Juan Carlos Wills Ospina",
+      "gender": "M",
+      "party": "PC",
+      "district": "Bogotá D.C.",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Wilmer Ramiro Carrillo Mendoza",
+      "gender": "M",
+      "party": "PU",
+      "district": "Norte de Santander",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Martha Lisbeth Alfonso Jurado",
+      "gender": "F",
+      "party": "AV",
+      "district": "Tolima",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Christian Munir Garcés Aljure",
+      "gender": "M",
+      "party": "CD",
+      "district": "Valle del Cauca",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Juan Fernando Espinal Ramírez",
+      "gender": "M",
+      "party": "CD",
+      "district": "Antioquia",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Olga Lucía Velásquez Nieto",
+      "gender": "F",
+      "party": "AV",
+      "district": "Bogotá D.C.",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Carolina Arbeláez Giraldo",
+      "gender": "F",
+      "party": "CR",
+      "district": "Bogotá D.C.",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Gabriel Becerra Yáñez",
+      "gender": "M",
+      "party": "PH",
+      "district": "Bogotá D.C.",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Alejandro Ocampo Giraldo",
+      "gender": "M",
+      "party": "PH",
+      "district": "Valle del Cauca",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Juan Daniel Peñuela Calvache",
+      "gender": "M",
+      "party": "PC",
+      "district": "Nariño",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Chamber of Representatives – members": "https://www.camara.gov.co/representantes"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
         }
       ]
     }
@@ -363,12 +447,18 @@
       "party": "PL",
       "district": "Bolívar",
       "salary": {
-        "gross": null,
+        "gross": 150800,
         "net": null
       },
       "sources": [
         {
           "Senate of Colombia – Board of Directors": "https://www.senado.gov.co/index.php/el-senado/mesa-directiva"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
         }
       ]
     },
@@ -378,12 +468,18 @@
       "party": "MIRA",
       "district": "National constituency",
       "salary": {
-        "gross": null,
+        "gross": 150800,
         "net": null
       },
       "sources": [
         {
           "Senate of Colombia – Board of Directors": "https://www.senado.gov.co/index.php/el-senado/mesa-directiva"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
         }
       ]
     },
@@ -393,12 +489,144 @@
       "party": "CR",
       "district": "Cesar",
       "salary": {
-        "gross": null,
+        "gross": 150800,
         "net": null
       },
       "sources": [
         {
           "Senate of Colombia – Board of Directors": "https://www.senado.gov.co/index.php/el-senado/mesa-directiva"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "María José Pizarro Rodríguez",
+      "gender": "F",
+      "party": "PH",
+      "district": "National constituency",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Senate of Colombia – senators": "https://www.senado.gov.co/index.php/el-senado/senadores"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Paloma Susana Valencia Laserna",
+      "gender": "F",
+      "party": "CD",
+      "district": "National constituency",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Senate of Colombia – senators": "https://www.senado.gov.co/index.php/el-senado/senadores"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Angélica Lisbeth Lozano Correa",
+      "gender": "F",
+      "party": "AV",
+      "district": "National constituency",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Senate of Colombia – senators": "https://www.senado.gov.co/index.php/el-senado/senadores"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Ariel Fernando Ávila Martínez",
+      "gender": "M",
+      "party": "AV",
+      "district": "National constituency",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Senate of Colombia – senators": "https://www.senado.gov.co/index.php/el-senado/senadores"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Efraín José Cepeda Sarabia",
+      "gender": "M",
+      "party": "PC",
+      "district": "National constituency",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Senate of Colombia – senators": "https://www.senado.gov.co/index.php/el-senado/senadores"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
+        }
+      ]
+    },
+    {
+      "name": "Clara Eugenia López Obregón",
+      "gender": "F",
+      "party": "PH",
+      "district": "National constituency",
+      "salary": {
+        "gross": 150800,
+        "net": null
+      },
+      "sources": [
+        {
+          "Senate of Colombia – senators": "https://www.senado.gov.co/index.php/el-senado/senadores"
+        },
+        {
+          "2025 congressional monthly allowance (COP 51,612,446), annualized and converted to USD": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=260101"
+        },
+        {
+          "USD conversion rate used (COP per USD)": 4107
         }
       ]
     }
