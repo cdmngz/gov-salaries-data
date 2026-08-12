@@ -82,9 +82,11 @@ Before committing or pushing data changes, run the repository verifier:
 python3 scripts/verify-data.py
 ```
 
-The command automatically discovers and validates every four-digit year under the
-country data directories. To validate only selected years, pass them explicitly,
-for example `python3 scripts/verify-data.py 2025 2026`.
+The command automatically discovers every four-digit year and verifies that every
+indexed country has that year, both required JSON files, valid JSON, and the
+required data fields. This prevents a missing country/year or an entirely missing
+file from being silently skipped. To validate only selected years, pass them
+explicitly, for example `python3 scripts/verify-data.py 2025 2026`.
 
 Pull requests and every branch push run the same validation in GitHub Actions. The
 workflow must be configured as a required status check in the repository's branch

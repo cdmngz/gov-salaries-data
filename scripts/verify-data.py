@@ -51,66 +51,80 @@ def find_years():
     )
 
 
-def verify_year(year):
-    issues = []
-    summary = defaultdict(int)
-
-    country_dirs = sorted(
+def find_country_dirs():
+    """Return every directory that represents a country dataset."""
+    return sorted(
         path
         for path in (ROOT / "data").iterdir()
         if path.is_dir() and len(path.name) == 2 and path.name.isalpha()
     )
 
-    for country_dir in country_dirs:
+
+def find_country_codes():
+    """Use the global index as a manifest so a deleted country is not skipped."""
+    country_codes = {path.name for path in find_country_dirs()}
+    try:
+        global_index = json.loads((ROOT / "data" / "index.json").read_text())
+    except (json.JSONDecodeError, OSError):
+        return sorted(country_codes)
+    if isinstance(global_index, dict):
+        country_codes.update(global_index)
+    return sorted(country_codes)
+
+
+def verify_year(year):
+    issues = []
+    summary = defaultdict(int)
+
+    country_codes = find_country_codes()
+    summary["countries_expected"] = len(country_codes)
+
+    for country in country_codes:
+        country_dir = ROOT / "data" / country
         year_dir = country_dir / str(year)
         if not year_dir.is_dir():
+            issues.append((country, year_dir, "missing year directory"))
+            summary["missing_year_directories"] += 1
             continue
 
-        country = country_dir.name
         summary["countries"] += 1
         data_path = year_dir / "data.json"
         data = read_json(data_path, country, issues, summary)
-        if data is None:
-            continue
-
-        if not isinstance(data, dict):
-            issues.append((country, data_path, "top-level JSON value should be an object"))
-            summary["invalid_data_format"] += 1
-            continue
-
-        econ_path = data_path.with_name("economics.json")
+        econ_path = year_dir / "economics.json"
         economics = read_json(econ_path, country, issues, summary)
 
-        for key in required_data_keys:
-            if key not in data:
-                issues.append((country, data_path, f"missing key `{key}`"))
-                summary[f"missing_data_{key}"] += 1
+        if data is not None and not isinstance(data, dict):
+            issues.append((country, data_path, "top-level JSON value should be an object"))
+            summary["invalid_data_format"] += 1
+        elif data is not None:
+            for key in required_data_keys:
+                if key not in data:
+                    issues.append((country, data_path, f"missing key `{key}`"))
+                    summary[f"missing_data_{key}"] += 1
 
-        for section in people_sections:
-            values = data.get(section)
-            if values is not None and not isinstance(values, list):
-                issues.append((country, data_path, f"`{section}` should be a list"))
-                summary["invalid_people_sections"] += 1
+            for section in people_sections:
+                values = data.get(section)
+                if values is not None and not isinstance(values, list):
+                    issues.append((country, data_path, f"`{section}` should be a list"))
+                    summary["invalid_people_sections"] += 1
 
-        if "parties" in data and not isinstance(data["parties"], dict):
-            issues.append((country, data_path, "`parties` should be an object"))
-            summary["invalid_parties"] += 1
+            if "parties" in data and not isinstance(data["parties"], dict):
+                issues.append((country, data_path, "`parties` should be an object"))
+                summary["invalid_parties"] += 1
 
-        if economics is None:
-            continue
-
-        if not isinstance(economics, dict):
+        if economics is not None and not isinstance(economics, dict):
             issues.append((country, econ_path, "top-level JSON value should be an object"))
             summary["invalid_economics_format"] += 1
-            continue
-
-        for key in required_econ_keys:
-            if key not in economics:
-                issues.append((country, econ_path, f"missing key `{key}`"))
-                summary[f"missing_econ_{key}"] += 1
+        elif economics is not None:
+            for key in required_econ_keys:
+                if key not in economics:
+                    issues.append((country, econ_path, f"missing key `{key}`"))
+                    summary[f"missing_econ_{key}"] += 1
 
         if (
-            "baseCurrency" in data
+            isinstance(data, dict)
+            and isinstance(economics, dict)
+            and "baseCurrency" in data
             and "baseCurrency" in economics
             and data["baseCurrency"] != economics["baseCurrency"]
         ):
@@ -125,10 +139,11 @@ def verify_year(year):
             summary["base_currency_mismatch"] += 1
 
     print(f"{year} dataset verification")
+    print(f"Countries expected: {summary['countries_expected']}")
     print(f"Countries scanned: {summary['countries']}")
     print(f"Issues found: {len(issues)}")
     for key in sorted(summary):
-        if key != "countries":
+        if key not in {"countries", "countries_expected"}:
             print(f"- {key}: {summary[key]}")
 
     if issues:
