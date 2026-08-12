@@ -1,0 +1,44 @@
+{
+  "baseCurrency": "USD",
+  "royalty": [],
+  "executive": [
+    {
+      "name": "Mahmoud Abbas",
+      "gender": "M",
+      "role": "President",
+      "party": "FATAH",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Mohammad Mustafa",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "FATAH": {
+      "name": "حركة فتح",
+      "en": "Fatah",
+      "range": 3,
+      "color": "#F5D000"
+    },
+    "IND": {
+      "name": "مستقل",
+      "en": "Independent",
+      "range": 3,
+      "color": "#777777"
+    }
+  }
+}
