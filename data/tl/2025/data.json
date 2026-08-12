@@ -1,0 +1,44 @@
+{
+  "baseCurrency": "USD",
+  "royalty": [],
+  "executive": [
+    {
+      "name": "José Ramos-Horta",
+      "gender": "M",
+      "role": "President",
+      "party": "IND",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Xanana Gusmão",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "CNRT",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "CNRT": {
+      "name": "Congresso Nacional da Reconstrução Timorense",
+      "en": "National Congress for Timorese Reconstruction",
+      "range": 3,
+      "color": "#1E4D8F"
+    },
+    "IND": {
+      "name": "Independente",
+      "en": "Independent",
+      "range": 3,
+      "color": "#777777"
+    }
+  }
+}

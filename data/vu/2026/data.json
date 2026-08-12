@@ -1,0 +1,44 @@
+{
+  "baseCurrency": "USD",
+  "royalty": [],
+  "executive": [
+    {
+      "name": "Nikenike Vurobaravu",
+      "gender": "M",
+      "role": "President",
+      "party": "VP",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    },
+    {
+      "name": "Jotham Napat",
+      "gender": "M",
+      "role": "Prime Minister",
+      "party": "LPV",
+      "salary": {
+        "gross": null,
+        "net": null
+      }
+    }
+  ],
+  "ministers": [],
+  "deputies": [],
+  "senate": [],
+  "officials": [],
+  "parties": {
+    "VP": {
+      "name": "Vanua’aku Pati",
+      "en": "Vanua’aku Pati",
+      "range": 3,
+      "color": "#D71920"
+    },
+    "LPV": {
+      "name": "Leaders Party of Vanuatu",
+      "en": "Leaders Party of Vanuatu",
+      "range": 3,
+      "color": "#00843D"
+    }
+  }
+}
